@@ -1,45 +1,45 @@
-pc-on-internet.com
-377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
-ad.jamba.it
-ad.missena.io
-adagiobanner.s3.amazonaws.com
-advx.esprimo.com
-affiliatetxt.nextmediaweb.com
-affiliati.bet2bet.it
-b.trovagnocca.com
-banner-madai-com.s3.amazonaws.com
-cdn.adultsadv.com
-d1yhzddoi8ev99.cloudfront.net
-d2moz0h55szev9.cloudfront.net
-d3f4nuq5dskrej.cloudfront.net
-d3qrbrazsnzdog.cloudfront.net
-digitaladv.despar.it
-free.netsons.com
-iads.iltrovatore.it
-middycdn-a.akamaihd.net
-mmvid.s3.amazonaws.com
-netrefer-a.akamaihd.net
-pop.virgilio.us
-popspace.virgilio.us
-promo.easy-dating.org
-promo.ezstatic.com
-roi.ediscom.it
-sda.quinews.net
-widget.promoqui.it
-widgets.shop.moda.it
-a.trend-online.it
-adserver.ilgazzettinovesuviano.com
-banner.moscarossa.biz
-click.html.it
-devaje.pourfemme.it
-extra.treddi.com
-giornalisti.vivere.srl
-napolimagazine.biz
-oas.repubblica.it
-play.cineblog01.bid
-plx.mrpornogratis.it
-plx.pornototale.com
-shop.sportal.it
-spotmix.libero.it
-ad.citynews.it
-oipzyrzffum.ovh
+127.0.0.1 pc-on-internet.com
+127.0.0.1 377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
+127.0.0.1 ad.jamba.it
+127.0.0.1 ad.missena.io
+127.0.0.1 adagiobanner.s3.amazonaws.com
+127.0.0.1 advx.esprimo.com
+127.0.0.1 affiliatetxt.nextmediaweb.com
+127.0.0.1 affiliati.bet2bet.it
+127.0.0.1 b.trovagnocca.com
+127.0.0.1 banner-madai-com.s3.amazonaws.com
+127.0.0.1 cdn.adultsadv.com
+127.0.0.1 d1yhzddoi8ev99.cloudfront.net
+127.0.0.1 d2moz0h55szev9.cloudfront.net
+127.0.0.1 d3f4nuq5dskrej.cloudfront.net
+127.0.0.1 d3qrbrazsnzdog.cloudfront.net
+127.0.0.1 digitaladv.despar.it
+127.0.0.1 free.netsons.com
+127.0.0.1 iads.iltrovatore.it
+127.0.0.1 middycdn-a.akamaihd.net
+127.0.0.1 mmvid.s3.amazonaws.com
+127.0.0.1 netrefer-a.akamaihd.net
+127.0.0.1 pop.virgilio.us
+127.0.0.1 popspace.virgilio.us
+127.0.0.1 promo.easy-dating.org
+127.0.0.1 promo.ezstatic.com
+127.0.0.1 roi.ediscom.it
+127.0.0.1 sda.quinews.net
+127.0.0.1 widget.promoqui.it
+127.0.0.1 widgets.shop.moda.it
+127.0.0.1 a.trend-online.it
+127.0.0.1 adserver.ilgazzettinovesuviano.com
+127.0.0.1 banner.moscarossa.biz
+127.0.0.1 click.html.it
+127.0.0.1 devaje.pourfemme.it
+127.0.0.1 extra.treddi.com
+127.0.0.1 giornalisti.vivere.srl
+127.0.0.1 napolimagazine.biz
+127.0.0.1 oas.repubblica.it
+127.0.0.1 play.cineblog01.bid
+127.0.0.1 plx.mrpornogratis.it
+127.0.0.1 plx.pornototale.com
+127.0.0.1 shop.sportal.it
+127.0.0.1 spotmix.libero.it
+127.0.0.1 ad.citynews.it
+127.0.0.1 oipzyrzffum.ovh

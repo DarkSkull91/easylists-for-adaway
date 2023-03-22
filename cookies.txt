@@ -1,142 +1,142 @@
-analytics-consent-manager.azureedge.net
-cc.anytrack.de
-ccpa-script.psg.nexstardigital.net
-ccpa.sp-prod.net
-consent.digiapi.com
-consent.prointernet.com
-cookie.consents.app
-cookie.pearshealthcyber.com
-cookieapi.incomit.dk
-cookieapi2.incomit.dk
-cookies.innershed.co.uk
-crta.and.co.uk
-d2eucw4fxv7nil.cloudfront.net
-gdpr-settings.s3.amazonaws.com
-gdpr.studybreakmedia.com
-optanon.blob.core.windows.net
-plugin.management
-privacy-cdn.sixfifty.com
-webcache-eu.datareporter.eu
-webcache.datareporter.eu
-widgets.openli.com
-appconsent.io
-cdn259.talksport.com
-cmp.cdn.thesun.co.uk
-cmp.cdn.thesun.ie
-cmp.graziadaily.co.uk
-cmp.infopro-digital.com
-cmp.osano.com
-cmp.parkers.co.uk
-cmp.playpilot.com
-cmp.uniconsent.com
-consent.23g.io
-consent.amateurphotographer.co.uk
-consent.canalboat.co.uk
-consent.nationalworld.com
-consent.pilotweb.aero
-consent.thecountrysmallholder.com
-consent.thegreatoutdoorsmag.com
-consent.unilad.com
-cookies.lmt.lv
-gdpr.internetbrands.com
-mms.cmpsky.com
-privacy.claytonhomes.com
-privacypolicy.trgr.be
-sm-sp.followfollow.com
-sourcepoint.avclub.com
-sourcepoint.deadspin.com
-sourcepoint.dexerto.com
-sourcepoint.gizmodo.com
-sourcepoint.jalopnik.com
-sourcepoint.lifehacker.com
-sourcepoint.theonion.com
-sourcepoint.theroot.com
-sourcepoint.thetakeout.com
-sp.knowyourmeme.com
-t13.9to5google.com
-cfa.fidelity.com
-clear.wallapop.com
-content22.bmoharris.com
-content22.citibank.com.au
-contents2.00110.citi.com
-drfdisvc.walmart.com
-event.evtm.53.com
-gfp.intuit.com
-idstatus.sky.com
-imgs.signifyd.com
-rba-screen.healthsafe-id.com
-rsx.afterpay.com
-tmetrix.my.chick-fil-a.com
-tmx.td.com
-u44.pnc.com
-u47.pnc.com
-w-profiling.simplii.com
-wup-content23.bmoharris.com
-bup.bankofamerica.com
-cdn1.skrill.com
-d276.ourmidland.com
-d810.mysanantonio.com
-eventbus.intuit.com
-f775.thehour.com
-h353.ncadvertiser.com
-h559.stamfordadvocate.com
-j198.registercitizen.com
-l936.expressnews.com
-o398.trumbulltimes.com
-pf.intuit.com
-q777.sfchronicle.com
-sofa.bankofamerica.com
-t570.wiltonbulletin.com
-u652.myplainview.com
-u927.sfgate.com
-w740.newstimes.com
-y738.nhregister.com
-y820.darientimes.com
-y900.greenwichtime.com
-z211.yourconroenews.com
-z492.ctinsider.com
-z680.beaumontenterprise.com
-zion.qbo.intuit.com
-cc.labu24.de
-cc.mpa-web.de
-ccm1.dlr.de
-cmp.pcwelt.de
-cmp.tvspielfilm.de
-consent-wrapper.jameda.de
-consent.berliner-kurier.de
-consent.faz.net
-consent.gutefrage.net
-consent.perry-rhodan.net
-consent.werner-mertz.de
-consent2.rheinische-anzeigenblaetter.de
-cookies.ptj.de
-fc.vodafone.de
-up-cookiemon.wavecdn.net
-cmp.lavie.fr
-cmp.lepoint.fr
-consent.prismamedia.com
-consentement.ouest-france.fr
-cookies.leadplace.fr
-consent.t-mobile.cz
-cmp.deondernemer.nl
-cookie.vrt.be
-cookie.wieni.be
-cookies.jeugdjournaal.nl
-cookies.nos.nl
-cookies.ster.nl
-cmp.tori.fi
-cmp.soundis.gr
-cookie.aerostatonet.it
-cookies.gardena.net
-privacyportal.fatergroup.com
-gdpr.laxd.com
-cmp.tek.no
-cookie.gazeta.pl
-cookies.fakt.pl
-cookies.forbes.pl
-rodo.agora.pl
-zgody.infor.pl
-cookies.teraz.sk
-cookies.unidadeditorial.es
-privacy.schibsted.com
-consent.themeteocompany.com
+127.0.0.1 analytics-consent-manager.azureedge.net
+127.0.0.1 cc.anytrack.de
+127.0.0.1 ccpa-script.psg.nexstardigital.net
+127.0.0.1 ccpa.sp-prod.net
+127.0.0.1 consent.digiapi.com
+127.0.0.1 consent.prointernet.com
+127.0.0.1 cookie.consents.app
+127.0.0.1 cookie.pearshealthcyber.com
+127.0.0.1 cookieapi.incomit.dk
+127.0.0.1 cookieapi2.incomit.dk
+127.0.0.1 cookies.innershed.co.uk
+127.0.0.1 crta.and.co.uk
+127.0.0.1 d2eucw4fxv7nil.cloudfront.net
+127.0.0.1 gdpr-settings.s3.amazonaws.com
+127.0.0.1 gdpr.studybreakmedia.com
+127.0.0.1 optanon.blob.core.windows.net
+127.0.0.1 plugin.management
+127.0.0.1 privacy-cdn.sixfifty.com
+127.0.0.1 webcache-eu.datareporter.eu
+127.0.0.1 webcache.datareporter.eu
+127.0.0.1 widgets.openli.com
+127.0.0.1 appconsent.io
+127.0.0.1 cdn259.talksport.com
+127.0.0.1 cmp.cdn.thesun.co.uk
+127.0.0.1 cmp.cdn.thesun.ie
+127.0.0.1 cmp.graziadaily.co.uk
+127.0.0.1 cmp.infopro-digital.com
+127.0.0.1 cmp.osano.com
+127.0.0.1 cmp.parkers.co.uk
+127.0.0.1 cmp.playpilot.com
+127.0.0.1 cmp.uniconsent.com
+127.0.0.1 consent.23g.io
+127.0.0.1 consent.amateurphotographer.co.uk
+127.0.0.1 consent.canalboat.co.uk
+127.0.0.1 consent.nationalworld.com
+127.0.0.1 consent.pilotweb.aero
+127.0.0.1 consent.thecountrysmallholder.com
+127.0.0.1 consent.thegreatoutdoorsmag.com
+127.0.0.1 consent.unilad.com
+127.0.0.1 cookies.lmt.lv
+127.0.0.1 gdpr.internetbrands.com
+127.0.0.1 mms.cmpsky.com
+127.0.0.1 privacy.claytonhomes.com
+127.0.0.1 privacypolicy.trgr.be
+127.0.0.1 sm-sp.followfollow.com
+127.0.0.1 sourcepoint.avclub.com
+127.0.0.1 sourcepoint.deadspin.com
+127.0.0.1 sourcepoint.dexerto.com
+127.0.0.1 sourcepoint.gizmodo.com
+127.0.0.1 sourcepoint.jalopnik.com
+127.0.0.1 sourcepoint.lifehacker.com
+127.0.0.1 sourcepoint.theonion.com
+127.0.0.1 sourcepoint.theroot.com
+127.0.0.1 sourcepoint.thetakeout.com
+127.0.0.1 sp.knowyourmeme.com
+127.0.0.1 t13.9to5google.com
+127.0.0.1 cfa.fidelity.com
+127.0.0.1 clear.wallapop.com
+127.0.0.1 content22.bmoharris.com
+127.0.0.1 content22.citibank.com.au
+127.0.0.1 contents2.00110.citi.com
+127.0.0.1 drfdisvc.walmart.com
+127.0.0.1 event.evtm.53.com
+127.0.0.1 gfp.intuit.com
+127.0.0.1 idstatus.sky.com
+127.0.0.1 imgs.signifyd.com
+127.0.0.1 rba-screen.healthsafe-id.com
+127.0.0.1 rsx.afterpay.com
+127.0.0.1 tmetrix.my.chick-fil-a.com
+127.0.0.1 tmx.td.com
+127.0.0.1 u44.pnc.com
+127.0.0.1 u47.pnc.com
+127.0.0.1 w-profiling.simplii.com
+127.0.0.1 wup-content23.bmoharris.com
+127.0.0.1 bup.bankofamerica.com
+127.0.0.1 cdn1.skrill.com
+127.0.0.1 d276.ourmidland.com
+127.0.0.1 d810.mysanantonio.com
+127.0.0.1 eventbus.intuit.com
+127.0.0.1 f775.thehour.com
+127.0.0.1 h353.ncadvertiser.com
+127.0.0.1 h559.stamfordadvocate.com
+127.0.0.1 j198.registercitizen.com
+127.0.0.1 l936.expressnews.com
+127.0.0.1 o398.trumbulltimes.com
+127.0.0.1 pf.intuit.com
+127.0.0.1 q777.sfchronicle.com
+127.0.0.1 sofa.bankofamerica.com
+127.0.0.1 t570.wiltonbulletin.com
+127.0.0.1 u652.myplainview.com
+127.0.0.1 u927.sfgate.com
+127.0.0.1 w740.newstimes.com
+127.0.0.1 y738.nhregister.com
+127.0.0.1 y820.darientimes.com
+127.0.0.1 y900.greenwichtime.com
+127.0.0.1 z211.yourconroenews.com
+127.0.0.1 z492.ctinsider.com
+127.0.0.1 z680.beaumontenterprise.com
+127.0.0.1 zion.qbo.intuit.com
+127.0.0.1 cc.labu24.de
+127.0.0.1 cc.mpa-web.de
+127.0.0.1 ccm1.dlr.de
+127.0.0.1 cmp.pcwelt.de
+127.0.0.1 cmp.tvspielfilm.de
+127.0.0.1 consent-wrapper.jameda.de
+127.0.0.1 consent.berliner-kurier.de
+127.0.0.1 consent.faz.net
+127.0.0.1 consent.gutefrage.net
+127.0.0.1 consent.perry-rhodan.net
+127.0.0.1 consent.werner-mertz.de
+127.0.0.1 consent2.rheinische-anzeigenblaetter.de
+127.0.0.1 cookies.ptj.de
+127.0.0.1 fc.vodafone.de
+127.0.0.1 up-cookiemon.wavecdn.net
+127.0.0.1 cmp.lavie.fr
+127.0.0.1 cmp.lepoint.fr
+127.0.0.1 consent.prismamedia.com
+127.0.0.1 consentement.ouest-france.fr
+127.0.0.1 cookies.leadplace.fr
+127.0.0.1 consent.t-mobile.cz
+127.0.0.1 cmp.deondernemer.nl
+127.0.0.1 cookie.vrt.be
+127.0.0.1 cookie.wieni.be
+127.0.0.1 cookies.jeugdjournaal.nl
+127.0.0.1 cookies.nos.nl
+127.0.0.1 cookies.ster.nl
+127.0.0.1 cmp.tori.fi
+127.0.0.1 cmp.soundis.gr
+127.0.0.1 cookie.aerostatonet.it
+127.0.0.1 cookies.gardena.net
+127.0.0.1 privacyportal.fatergroup.com
+127.0.0.1 gdpr.laxd.com
+127.0.0.1 cmp.tek.no
+127.0.0.1 cookie.gazeta.pl
+127.0.0.1 cookies.fakt.pl
+127.0.0.1 cookies.forbes.pl
+127.0.0.1 rodo.agora.pl
+127.0.0.1 zgody.infor.pl
+127.0.0.1 cookies.teraz.sk
+127.0.0.1 cookies.unidadeditorial.es
+127.0.0.1 privacy.schibsted.com
+127.0.0.1 consent.themeteocompany.com

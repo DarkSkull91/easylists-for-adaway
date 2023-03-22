@@ -1,15 +1,15 @@
-crnsgngrpj.nl
-dntblckmpls.nl
-nojazz.eu
-viadata.store
-advertising-cdn.dpgmedia.cloud
-aa.tweakers.nl
-content1.pcmweb.nl
-content1.pu.nl
-content1.wasmachines.nl
-content1.zoom.nl
-content2.besteproduct.nl
-content2.kieskeurig.nl
-content2.pu.nl
-content2.wasmachines.nl
-content2.zoom.nl
+127.0.0.1 crnsgngrpj.nl
+127.0.0.1 dntblckmpls.nl
+127.0.0.1 nojazz.eu
+127.0.0.1 viadata.store
+127.0.0.1 advertising-cdn.dpgmedia.cloud
+127.0.0.1 aa.tweakers.nl
+127.0.0.1 content1.pcmweb.nl
+127.0.0.1 content1.pu.nl
+127.0.0.1 content1.wasmachines.nl
+127.0.0.1 content1.zoom.nl
+127.0.0.1 content2.besteproduct.nl
+127.0.0.1 content2.kieskeurig.nl
+127.0.0.1 content2.pu.nl
+127.0.0.1 content2.wasmachines.nl
+127.0.0.1 content2.zoom.nl

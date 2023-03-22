@@ -1,46 +1,46 @@
-achmetsdoenerladen.de
-alleswegenmicha.de
-aluhutmafia.de
-dierussensindschuld.de
-wirverkaufennichts.de
-delmovip.com
-netwayer.de
-securecnd.com
-servote.de
-zazufi.com
-ad.71i.de
-ad.bwise.ch
-ad.jaumo.com
-banner.immowelt.de
-bn.gewinn24.de
-fastad.beepworld.de
-ladbrokes.hs-edge.net
-media.alphaload.com
-oddsserve-wqps7yvkz.stackpathdns.com
-ox.comventure.de
-partner.fondsdiscount.de
-partner.maxxim.de
-partner.simplytel.de
-promotionmaterial.betacash.com
-start.amateurcommunity.com
-start.sexpartnercommunity.com
-wm-space.youero.com
-a.zdg.de
-a3.zdg.de
-ad.dl.dewezet.de
-ad.dslr-forum.de
-ad.games.ch
-ad.putenbrust.net
-as.chartsurfer.de
-banner.click-tt.de
-code.bergsteigen.com
-hybrid-prd.ad-prd.s.joyn.de
-network.gofeminin.de
-network2.aufeminin.com
-ox.gassi-tv.de
-partner.schalke04.de
-plus.tourispo.com
-saas.valuetech.de
-wbbanner.mrn-news.de
-werbemanager.w24.at
-x.sumikai.com
+127.0.0.1 achmetsdoenerladen.de
+127.0.0.1 alleswegenmicha.de
+127.0.0.1 aluhutmafia.de
+127.0.0.1 dierussensindschuld.de
+127.0.0.1 wirverkaufennichts.de
+127.0.0.1 delmovip.com
+127.0.0.1 netwayer.de
+127.0.0.1 securecnd.com
+127.0.0.1 servote.de
+127.0.0.1 zazufi.com
+127.0.0.1 ad.71i.de
+127.0.0.1 ad.bwise.ch
+127.0.0.1 ad.jaumo.com
+127.0.0.1 banner.immowelt.de
+127.0.0.1 bn.gewinn24.de
+127.0.0.1 fastad.beepworld.de
+127.0.0.1 ladbrokes.hs-edge.net
+127.0.0.1 media.alphaload.com
+127.0.0.1 oddsserve-wqps7yvkz.stackpathdns.com
+127.0.0.1 ox.comventure.de
+127.0.0.1 partner.fondsdiscount.de
+127.0.0.1 partner.maxxim.de
+127.0.0.1 partner.simplytel.de
+127.0.0.1 promotionmaterial.betacash.com
+127.0.0.1 start.amateurcommunity.com
+127.0.0.1 start.sexpartnercommunity.com
+127.0.0.1 wm-space.youero.com
+127.0.0.1 a.zdg.de
+127.0.0.1 a3.zdg.de
+127.0.0.1 ad.dl.dewezet.de
+127.0.0.1 ad.dslr-forum.de
+127.0.0.1 ad.games.ch
+127.0.0.1 ad.putenbrust.net
+127.0.0.1 as.chartsurfer.de
+127.0.0.1 banner.click-tt.de
+127.0.0.1 code.bergsteigen.com
+127.0.0.1 hybrid-prd.ad-prd.s.joyn.de
+127.0.0.1 network.gofeminin.de
+127.0.0.1 network2.aufeminin.com
+127.0.0.1 ox.gassi-tv.de
+127.0.0.1 partner.schalke04.de
+127.0.0.1 plus.tourispo.com
+127.0.0.1 saas.valuetech.de
+127.0.0.1 wbbanner.mrn-news.de
+127.0.0.1 werbemanager.w24.at
+127.0.0.1 x.sumikai.com

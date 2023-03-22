@@ -1,31 +1,31 @@
-a.walla.co.il
-exposeboxwallashops.blob.core.windows.net
-jor-el.net
-wrtm.walla.co.il
-totalmedia2.ynet.co.il
-adserv.mako.co.il
-sdc.mako.co.il
-houdini.haaretz.co.il
-ads.one.co.il
-banners.news1.co.il
-alipim.net
-fringantlarn8.live
-hasdarot.cc
-hasdarot.club
-hasdarot.co
-hasdarot.com
-hasdarot.info
-hasdarot.life
-hasdarot.live
-hasdarot.me
-hasdarot.net
-hasdarot.pro
-hasdarot.space
-hasdarot.tv
-hasdarot.vip
-hasdarot.xyz
-lauyn.info
-losittooday.info
-mporli.info
-sdarotil.top
-seret.live
+127.0.0.1 a.walla.co.il
+127.0.0.1 exposeboxwallashops.blob.core.windows.net
+127.0.0.1 jor-el.net
+127.0.0.1 wrtm.walla.co.il
+127.0.0.1 totalmedia2.ynet.co.il
+127.0.0.1 adserv.mako.co.il
+127.0.0.1 sdc.mako.co.il
+127.0.0.1 houdini.haaretz.co.il
+127.0.0.1 ads.one.co.il
+127.0.0.1 banners.news1.co.il
+127.0.0.1 alipim.net
+127.0.0.1 fringantlarn8.live
+127.0.0.1 hasdarot.cc
+127.0.0.1 hasdarot.club
+127.0.0.1 hasdarot.co
+127.0.0.1 hasdarot.com
+127.0.0.1 hasdarot.info
+127.0.0.1 hasdarot.life
+127.0.0.1 hasdarot.live
+127.0.0.1 hasdarot.me
+127.0.0.1 hasdarot.net
+127.0.0.1 hasdarot.pro
+127.0.0.1 hasdarot.space
+127.0.0.1 hasdarot.tv
+127.0.0.1 hasdarot.vip
+127.0.0.1 hasdarot.xyz
+127.0.0.1 lauyn.info
+127.0.0.1 losittooday.info
+127.0.0.1 mporli.info
+127.0.0.1 sdarotil.top
+127.0.0.1 seret.live
