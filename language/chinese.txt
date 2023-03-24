@@ -48,6 +48,7 @@
 127.0.0.1 5py1.xyz
 127.0.0.1 5r562.cn
 127.0.0.1 5takaitu.xyz
+127.0.0.1 658bbb.us
 127.0.0.1 65oml.cn
 127.0.0.1 6617398ccc.com
 127.0.0.1 6888i.top
@@ -89,6 +90,7 @@
 127.0.0.1 afitye.xyz
 127.0.0.1 afx001.pw
 127.0.0.1 agkacg.xyz
+127.0.0.1 aguterl.cn
 127.0.0.1 ahclyq.xyz
 127.0.0.1 ahwiaw.xyz
 127.0.0.1 aifwjekfe.xyz
@@ -114,12 +116,14 @@
 127.0.0.1 arks.red
 127.0.0.1 ascloud.tech
 127.0.0.1 asdffe22.com
+127.0.0.1 asdx55.com
 127.0.0.1 asoeasy.cn
 127.0.0.1 aswtai.xyz
 127.0.0.1 atnnf.xyz
 127.0.0.1 atuhi.cyou
 127.0.0.1 avgsco.xyz
 127.0.0.1 avkw.cn
+127.0.0.1 baidufkjnvbdsn.com
 127.0.0.1 baidujsvbj.com
 127.0.0.1 banhui.xyz
 127.0.0.1 bavxxf.xyz
@@ -191,9 +195,11 @@
 127.0.0.1 darzkrx.cn
 127.0.0.1 daspic.top
 127.0.0.1 dbtojr.xyz
+127.0.0.1 dcnjc4.com
 127.0.0.1 dcvbnzss.xyz
 127.0.0.1 ddqhnjb.cn
 127.0.0.1 dedcrfvdj.xyz
+127.0.0.1 delamer.ltd
 127.0.0.1 dengtao.link
 127.0.0.1 deude.ltd
 127.0.0.1 dfadas13.com
@@ -214,10 +220,12 @@
 127.0.0.1 doublechen.online
 127.0.0.1 doubleclicks.biz
 127.0.0.1 dpxynh.xyz
+127.0.0.1 dqsrnfg.cn
 127.0.0.1 dqzirj.xyz
 127.0.0.1 dreanrh.cn
 127.0.0.1 drfvtgbyk.xyz
 127.0.0.1 dsfd67.com
+127.0.0.1 dspczg.pw
 127.0.0.1 dtckvpc.cn
 127.0.0.1 dvbuxcl.cn
 127.0.0.1 dvrnszf.cn
@@ -246,6 +254,7 @@
 127.0.0.1 ewahj.cyou
 127.0.0.1 ewmvim.xyz
 127.0.0.1 ewrwf.com
+127.0.0.1 eyepoi.xyz
 127.0.0.1 ezfxpuo.cn
 127.0.0.1 ezwxia.xyz
 127.0.0.1 f9s6.top
@@ -319,6 +328,7 @@
 127.0.0.1 handuwl.top
 127.0.0.1 hangchen.icu
 127.0.0.1 hanxin.me
+127.0.0.1 haon.ltd
 127.0.0.1 happi.cyou
 127.0.0.1 hcqsuqq.cn
 127.0.0.1 hellobody.online
@@ -403,6 +413,7 @@
 127.0.0.1 ixelcpo.cn
 127.0.0.1 izmssk.xyz
 127.0.0.1 j00x.top
+127.0.0.1 j8jp.com
 127.0.0.1 jbuzacg.cn
 127.0.0.1 jched3.com
 127.0.0.1 jcvty.cyou
@@ -493,6 +504,7 @@
 127.0.0.1 lkdhlp.xyz
 127.0.0.1 lktmgvw.cn
 127.0.0.1 llvphz.xyz
+127.0.0.1 lmx7.com
 127.0.0.1 lmxzlb.xyz
 127.0.0.1 loganfeels.com
 127.0.0.1 loispp.com
@@ -541,6 +553,7 @@
 127.0.0.1 mvfrcio.cn
 127.0.0.1 mxj.cx
 127.0.0.1 mzwzo.cn
+127.0.0.1 mzybirdnest.com
 127.0.0.1 n0544.com
 127.0.0.1 n0644.com
 127.0.0.1 nai7.xyz
@@ -603,6 +616,7 @@
 127.0.0.1 opikervop.xyz
 127.0.0.1 oqeohuc.cn
 127.0.0.1 oqxep.cn
+127.0.0.1 orgaorg.com
 127.0.0.1 oronwg.xyz
 127.0.0.1 oroqikj.cn
 127.0.0.1 osalwqv.cn
@@ -616,6 +630,7 @@
 127.0.0.1 paradisemall.net
 127.0.0.1 payoneok.com
 127.0.0.1 pcmtf.cn
+127.0.0.1 pcxtvr.xyz
 127.0.0.1 pddbtn.xyz
 127.0.0.1 pe5a.top
 127.0.0.1 pehlvl.xyz
@@ -686,11 +701,13 @@
 127.0.0.1 qzhiku.cc
 127.0.0.1 rardi.cyou
 127.0.0.1 rayss.host
+127.0.0.1 rbvi.top
 127.0.0.1 rdjnjz.xyz
 127.0.0.1 rdnucrn.cn
 127.0.0.1 rdoybkd.cn
 127.0.0.1 rebunb.xyz
 127.0.0.1 regrfg33.com
+127.0.0.1 renameking.com
 127.0.0.1 renxlx.xyz
 127.0.0.1 renzhongjiaoyu.xyz
 127.0.0.1 resumes.ren
@@ -699,6 +716,7 @@
 127.0.0.1 rkv9.top
 127.0.0.1 rmccajg.cn
 127.0.0.1 rooby.cyou
+127.0.0.1 rourouwu.uk
 127.0.0.1 rsmdlk.cn
 127.0.0.1 rtcegcp.cn
 127.0.0.1 rthmnj.xyz
@@ -729,6 +747,7 @@
 127.0.0.1 seeingcare.com
 127.0.0.1 sfsxl.xyz
 127.0.0.1 shandiankuaixi.in
+127.0.0.1 shangjinxin.ltd
 127.0.0.1 sheena.ltd
 127.0.0.1 shguy.cyou
 127.0.0.1 shhaiya.com
@@ -751,6 +770,7 @@
 127.0.0.1 sqfg002.xyz
 127.0.0.1 srnov.top
 127.0.0.1 ssjiancai.com
+127.0.0.1 strced.xyz
 127.0.0.1 suyuhao233.xyz
 127.0.0.1 swicgq.xyz
 127.0.0.1 swill.icu
@@ -820,7 +840,9 @@
 127.0.0.1 udifvi.cn
 127.0.0.1 ufynxmf.cn
 127.0.0.1 uibjhqwkl.com
+127.0.0.1 uiiwzyv.cn
 127.0.0.1 ukutuy.xyz
+127.0.0.1 umami.is
 127.0.0.1 unevwe.xyz
 127.0.0.1 uniway.cn.com
 127.0.0.1 unmnkkq.cn
@@ -869,6 +891,7 @@
 127.0.0.1 whrgsmi.cn
 127.0.0.1 whum.top
 127.0.0.1 wjl58.icu
+127.0.0.1 wocoqs.xyz
 127.0.0.1 wooledswards.com
 127.0.0.1 wp8d.xyz
 127.0.0.1 wpiwoo.xyz
@@ -914,6 +937,7 @@
 127.0.0.1 xkjcpl.cn
 127.0.0.1 xkqit.com
 127.0.0.1 xmmnsl.com
+127.0.0.1 xmzurh.xyz
 127.0.0.1 xnrcnz.xyz
 127.0.0.1 xopew.cyou
 127.0.0.1 xrewo.xyz
@@ -937,6 +961,7 @@
 127.0.0.1 yanjiusuo.cc
 127.0.0.1 ybfljs.com
 127.0.0.1 yc444.cn
+127.0.0.1 ychuanyi.ltd
 127.0.0.1 yemueii.cn
 127.0.0.1 yeriri.ltd
 127.0.0.1 yffjqvq.cn
@@ -964,6 +989,7 @@
 127.0.0.1 yuqingby.fun
 127.0.0.1 yurti.cyou
 127.0.0.1 yuske2.xyz
+127.0.0.1 yye2.top
 127.0.0.1 yyepa.cyou
 127.0.0.1 yyrgz.cn
 127.0.0.1 yzgid.cn
@@ -975,6 +1001,7 @@
 127.0.0.1 zcczrvsaqw.world
 127.0.0.1 zchkz.cn
 127.0.0.1 zczcvx.com
+127.0.0.1 zdabnt.live
 127.0.0.1 zdreo.cyou
 127.0.0.1 zdrvtmj.cn
 127.0.0.1 zeipw.xyz
@@ -992,16 +1019,16 @@
 127.0.0.1 zsjyuet.cn
 127.0.0.1 ztwrnpd.cn
 127.0.0.1 ztxstudy.club
+127.0.0.1 zukddms.cn
 127.0.0.1 zunnnh.xyz
 127.0.0.1 zxfas56.com
 127.0.0.1 zxtkfvm.cn
 127.0.0.1 zyrwfd.xyz
 127.0.0.1 zzxmcp.com
-127.0.0.1 dqsrnfg.cn
-127.0.0.1 wocoqs.xyz
-127.0.0.1 pcxtvr.xyz
-127.0.0.1 658bbb.us
-127.0.0.1 aguterl.cn
+127.0.0.1 wukq.cn
+127.0.0.1 xwbspx.xyz
+127.0.0.1 eignky.xyz
+127.0.0.1 kiuee8.com
 127.0.0.1 001adafg.xyz
 127.0.0.1 0024aaaa.com
 127.0.0.1 004fsdljasd.xyz
