@@ -31,6 +31,7 @@
 127.0.0.1 375772rug.com
 127.0.0.1 37tek.fun
 127.0.0.1 3p8801.co
+127.0.0.1 3tf.co
 127.0.0.1 3z7qn.cn
 127.0.0.1 401aww.com
 127.0.0.1 44629.com
@@ -81,6 +82,7 @@
 127.0.0.1 9j5e.top
 127.0.0.1 9odes.ltd
 127.0.0.1 a-ads.com
+127.0.0.1 a5jf.xyz
 127.0.0.1 a666.one
 127.0.0.1 aaaesme.cn
 127.0.0.1 aaudaob.cn
@@ -108,6 +110,7 @@
 127.0.0.1 aliyunsupercdn.com
 127.0.0.1 allicinarenig.com
 127.0.0.1 anaxialaphonia.com
+127.0.0.1 aoi21.cn
 127.0.0.1 aol32.cn
 127.0.0.1 aowdk.cyou
 127.0.0.1 aqtcw.cn
@@ -123,6 +126,7 @@
 127.0.0.1 atuhi.cyou
 127.0.0.1 avgsco.xyz
 127.0.0.1 avkw.cn
+127.0.0.1 baidnblkdn.com
 127.0.0.1 baidufkjnvbdsn.com
 127.0.0.1 baidujsvbj.com
 127.0.0.1 banhui.xyz
@@ -144,6 +148,7 @@
 127.0.0.1 bitu.fun
 127.0.0.1 bjdqxt.com
 127.0.0.1 bkisss.com
+127.0.0.1 blxezur.cn
 127.0.0.1 bnhxxj.xyz
 127.0.0.1 bojebd.xyz
 127.0.0.1 bole.kim
@@ -239,6 +244,7 @@
 127.0.0.1 ebten.xyz
 127.0.0.1 ebzqyow.cn
 127.0.0.1 effetspositifs.com
+127.0.0.1 eignky.xyz
 127.0.0.1 eijriol.cn
 127.0.0.1 ejyvgq.xyz
 127.0.0.1 ekcsqzo.cn
@@ -437,6 +443,7 @@
 127.0.0.1 jllfxt.xyz
 127.0.0.1 jmqmbsn.cn
 127.0.0.1 jojog.com
+127.0.0.1 jpzsmbp.cn
 127.0.0.1 jqtzw.xyz
 127.0.0.1 jqueryboots.com
 127.0.0.1 jrrwsk.ltd
@@ -466,6 +473,7 @@
 127.0.0.1 kezldfv.cn
 127.0.0.1 kgacp.cyou
 127.0.0.1 kingsun.online
+127.0.0.1 kiuee8.com
 127.0.0.1 kiymowg.cn
 127.0.0.1 kjvnfhdgb.com
 127.0.0.1 kkqeqk.cn
@@ -552,6 +560,7 @@
 127.0.0.1 mvbtp.xyz
 127.0.0.1 mvfrcio.cn
 127.0.0.1 mxj.cx
+127.0.0.1 myads.cc
 127.0.0.1 mzwzo.cn
 127.0.0.1 mzybirdnest.com
 127.0.0.1 n0544.com
@@ -904,6 +913,7 @@
 127.0.0.1 wuge20230104.live
 127.0.0.1 wuifbjdswsl.com
 127.0.0.1 wujiupic.com
+127.0.0.1 wukq.cn
 127.0.0.1 wumao20230301.live
 127.0.0.1 wusuliriver.com
 127.0.0.1 wutou20230201.live
@@ -946,6 +956,7 @@
 127.0.0.1 xtpez.xyz
 127.0.0.1 xuhaijun.pw
 127.0.0.1 xunren.club
+127.0.0.1 xwbspx.xyz
 127.0.0.1 xwewwgk.cn
 127.0.0.1 xxp123.live
 127.0.0.1 xxsmcps.com
@@ -1007,6 +1018,7 @@
 127.0.0.1 zeipw.xyz
 127.0.0.1 zfykvns.cn
 127.0.0.1 zhiwan.club
+127.0.0.1 zjrua.site
 127.0.0.1 zkdmdf.xyz
 127.0.0.1 zktqzyz.cn
 127.0.0.1 zlfthh.xyz
@@ -1025,17 +1037,16 @@
 127.0.0.1 zxtkfvm.cn
 127.0.0.1 zyrwfd.xyz
 127.0.0.1 zzxmcp.com
-127.0.0.1 wukq.cn
-127.0.0.1 xwbspx.xyz
-127.0.0.1 eignky.xyz
-127.0.0.1 kiuee8.com
+127.0.0.1 xfn1688.com
+127.0.0.1 msiogo.xyz
+127.0.0.1 fgdtln.xyz
+127.0.0.1 catdomepimyth.com
 127.0.0.1 001adafg.xyz
 127.0.0.1 0024aaaa.com
 127.0.0.1 004fsdljasd.xyz
 127.0.0.1 008844.cc
 127.0.0.1 00xvppy.cn
 127.0.0.1 01fen.com
-127.0.0.1 021jf.com
 127.0.0.1 025613.com
 127.0.0.1 025suyu.com
 127.0.0.1 0272aa.com
