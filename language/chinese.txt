@@ -49,6 +49,7 @@
 127.0.0.1 5py1.xyz
 127.0.0.1 5r562.cn
 127.0.0.1 5takaitu.xyz
+127.0.0.1 6179a.com
 127.0.0.1 658bbb.us
 127.0.0.1 65oml.cn
 127.0.0.1 6617398ccc.com
@@ -169,6 +170,7 @@
 127.0.0.1 byzt8.top
 127.0.0.1 bzdntl.xyz
 127.0.0.1 caomeixz7.xyz
+127.0.0.1 catdomepimyth.com
 127.0.0.1 ccemqe.cn
 127.0.0.1 ccgjmzv.cn
 127.0.0.1 cdn-xinghuatupian-cdn.com
@@ -279,6 +281,7 @@
 127.0.0.1 fernandou.online
 127.0.0.1 fewsvuh.cn
 127.0.0.1 ffdcpvv.cn
+127.0.0.1 fgdtln.xyz
 127.0.0.1 fhvbhx.xyz
 127.0.0.1 fillidutt.tw
 127.0.0.1 fioem.cyou
@@ -304,6 +307,7 @@
 127.0.0.1 gaiqgs.xyz
 127.0.0.1 gaoai.wang
 127.0.0.1 gaohexiang.xyz
+127.0.0.1 gaowei.fit
 127.0.0.1 gauqeo.xyz
 127.0.0.1 geiaxbk.cn
 127.0.0.1 gejulm1314.com
@@ -555,6 +559,7 @@
 127.0.0.1 mq65.top
 127.0.0.1 mqquas.xyz
 127.0.0.1 mryshl.com
+127.0.0.1 msiogo.xyz
 127.0.0.1 mtawcy.xyz
 127.0.0.1 musdga.xyz
 127.0.0.1 mvbtp.xyz
@@ -654,9 +659,11 @@
 127.0.0.1 pkeog.cn
 127.0.0.1 plyuwqq.cn
 127.0.0.1 poeid.cyou
+127.0.0.1 pojihfnkbllg.net
 127.0.0.1 pojjtt.xyz
 127.0.0.1 polkkqm.com
 127.0.0.1 polkmerty.xyz
+127.0.0.1 poqjnkdsou.net
 127.0.0.1 poqoiwn.com
 127.0.0.1 porjjhu.cn
 127.0.0.1 posdhu5.xyz
@@ -927,6 +934,7 @@
 127.0.0.1 xageias.cn
 127.0.0.1 xbptvaq.cn
 127.0.0.1 xeiyt.cyou
+127.0.0.1 xfn1688.com
 127.0.0.1 xfzaimfq.xyz
 127.0.0.1 xfzyun.com
 127.0.0.1 xh33g.net
@@ -952,6 +960,7 @@
 127.0.0.1 xopew.cyou
 127.0.0.1 xrewo.xyz
 127.0.0.1 xryjyfb.cn
+127.0.0.1 xsplus.info
 127.0.0.1 xthrdyi.cn
 127.0.0.1 xtpez.xyz
 127.0.0.1 xuhaijun.pw
@@ -1022,6 +1031,7 @@
 127.0.0.1 zkdmdf.xyz
 127.0.0.1 zktqzyz.cn
 127.0.0.1 zlfthh.xyz
+127.0.0.1 zmadsvd.cn
 127.0.0.1 zmdtcw.cn
 127.0.0.1 znktkt.cn
 127.0.0.1 znllfp.xyz
@@ -1037,10 +1047,11 @@
 127.0.0.1 zxtkfvm.cn
 127.0.0.1 zyrwfd.xyz
 127.0.0.1 zzxmcp.com
-127.0.0.1 xfn1688.com
-127.0.0.1 msiogo.xyz
-127.0.0.1 fgdtln.xyz
-127.0.0.1 catdomepimyth.com
+127.0.0.1 zowralr.cn
+127.0.0.1 nqfrhd.xyz
+127.0.0.1 uckmee.xyz
+127.0.0.1 aptosdevnet.com
+127.0.0.1 zdama.xyz
 127.0.0.1 001adafg.xyz
 127.0.0.1 0024aaaa.com
 127.0.0.1 004fsdljasd.xyz

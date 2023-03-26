@@ -3271,6 +3271,7 @@
 127.0.0.1 gnar.grammarly.com
 127.0.0.1 go.pardot.com
 127.0.0.1 gotie.tunein.com
+127.0.0.1 gtm.wise.com
 127.0.0.1 gtreus.aliexpress.com
 127.0.0.1 gurgle.pcmag.com
 127.0.0.1 hanaana.socialblade.com
