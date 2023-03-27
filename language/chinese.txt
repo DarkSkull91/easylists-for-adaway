@@ -53,6 +53,7 @@
 127.0.0.1 658bbb.us
 127.0.0.1 65oml.cn
 127.0.0.1 6617398ccc.com
+127.0.0.1 6686bb.app
 127.0.0.1 6888i.top
 127.0.0.1 688aaa.us
 127.0.0.1 7162a.com
@@ -99,6 +100,7 @@
 127.0.0.1 aifwjekfe.xyz
 127.0.0.1 aijilu.xyz
 127.0.0.1 aishan.shop
+127.0.0.1 aisnj.cn
 127.0.0.1 aizhubo.co
 127.0.0.1 ajcnz1.com
 127.0.0.1 ajfkwwpo.xyz
@@ -114,6 +116,7 @@
 127.0.0.1 aoi21.cn
 127.0.0.1 aol32.cn
 127.0.0.1 aowdk.cyou
+127.0.0.1 aptosdevnet.com
 127.0.0.1 aqtcw.cn
 127.0.0.1 aqylmil.cn
 127.0.0.1 arejug.xyz
@@ -254,6 +257,7 @@
 127.0.0.1 ekqfkk.xyz
 127.0.0.1 elsmom.xyz
 127.0.0.1 ennde.cyou
+127.0.0.1 eopad.cyou
 127.0.0.1 ermao20230220.live
 127.0.0.1 etdcezc.cn
 127.0.0.1 ethandataserver.love
@@ -267,6 +271,7 @@
 127.0.0.1 ezwxia.xyz
 127.0.0.1 f9s6.top
 127.0.0.1 fangbaba.xyz
+127.0.0.1 fangbai.online
 127.0.0.1 fangfeng009.xyz
 127.0.0.1 fangyaomin.site
 127.0.0.1 faunaships.com
@@ -591,6 +596,7 @@
 127.0.0.1 nonabh.xyz
 127.0.0.1 nouivjv.cn
 127.0.0.1 nqezlls.cn
+127.0.0.1 nqfrhd.xyz
 127.0.0.1 nqhqpq.cn
 127.0.0.1 nqxvevk.cn
 127.0.0.1 ntozr.top
@@ -769,6 +775,7 @@
 127.0.0.1 shhaiya.com
 127.0.0.1 shidaiheima.ltd
 127.0.0.1 shikongbb.com
+127.0.0.1 sicongyyds.com
 127.0.0.1 siejp.cyou
 127.0.0.1 sige20221230.xyz
 127.0.0.1 siuscs.xyz
@@ -853,6 +860,7 @@
 127.0.0.1 u644.fun
 127.0.0.1 u66099.com
 127.0.0.1 uasvyi.xyz
+127.0.0.1 uckmee.xyz
 127.0.0.1 udifvi.cn
 127.0.0.1 ufynxmf.cn
 127.0.0.1 uibjhqwkl.com
@@ -933,6 +941,7 @@
 127.0.0.1 x800.top
 127.0.0.1 xageias.cn
 127.0.0.1 xbptvaq.cn
+127.0.0.1 xeiatmf.cn
 127.0.0.1 xeiyt.cyou
 127.0.0.1 xfn1688.com
 127.0.0.1 xfzaimfq.xyz
@@ -1022,10 +1031,12 @@
 127.0.0.1 zchkz.cn
 127.0.0.1 zczcvx.com
 127.0.0.1 zdabnt.live
+127.0.0.1 zdama.xyz
 127.0.0.1 zdreo.cyou
 127.0.0.1 zdrvtmj.cn
 127.0.0.1 zeipw.xyz
 127.0.0.1 zfykvns.cn
+127.0.0.1 zhangxiaoluo.xyz
 127.0.0.1 zhiwan.club
 127.0.0.1 zjrua.site
 127.0.0.1 zkdmdf.xyz
@@ -1038,6 +1049,7 @@
 127.0.0.1 zodvlr.xyz
 127.0.0.1 zopvjn.xyz
 127.0.0.1 zoute.cyou
+127.0.0.1 zowralr.cn
 127.0.0.1 zsjyuet.cn
 127.0.0.1 ztwrnpd.cn
 127.0.0.1 ztxstudy.club
@@ -1047,11 +1059,6 @@
 127.0.0.1 zxtkfvm.cn
 127.0.0.1 zyrwfd.xyz
 127.0.0.1 zzxmcp.com
-127.0.0.1 zowralr.cn
-127.0.0.1 nqfrhd.xyz
-127.0.0.1 uckmee.xyz
-127.0.0.1 aptosdevnet.com
-127.0.0.1 zdama.xyz
 127.0.0.1 001adafg.xyz
 127.0.0.1 0024aaaa.com
 127.0.0.1 004fsdljasd.xyz
