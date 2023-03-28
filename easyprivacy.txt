@@ -263,6 +263,7 @@
 127.0.0.1 superpointlesshamsters.com
 127.0.0.1 t13.io
 127.0.0.1 takingbackjuly.com
+127.0.0.1 targetemsecure.blob.core.windows.net
 127.0.0.1 tatpek.com
 127.0.0.1 test.vast
 127.0.0.1 testingmetriksbre.ru
@@ -1618,6 +1619,7 @@
 127.0.0.1 analytics.yola.net
 127.0.0.1 analytics.yolacdn.net
 127.0.0.1 analytics.ziftsolutions.com
+127.0.0.1 analyticsehnwe.servicebus.windows.net
 127.0.0.1 analyze.full-marke.com
 127.0.0.1 ao-freegeoip.herokuapp.com
 127.0.0.1 aorta.clickagy.com
@@ -16045,6 +16047,7 @@
 127.0.0.1 forecast.huffingtonpost.fr
 127.0.0.1 fsm.lapresse.ca
 127.0.0.1 hits.porn.fr
+127.0.0.1 l.bfmtv.com
 127.0.0.1 l.franceculture.fr
 127.0.0.1 logstash-3.radio-canada.ca
 127.0.0.1 p.kolplay.com
