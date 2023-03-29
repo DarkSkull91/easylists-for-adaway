@@ -130,6 +130,7 @@
 127.0.0.1 atuhi.cyou
 127.0.0.1 avgsco.xyz
 127.0.0.1 avkw.cn
+127.0.0.1 baidbsjvb.com
 127.0.0.1 baidnblkdn.com
 127.0.0.1 baidufkjnvbdsn.com
 127.0.0.1 baidujsvbj.com
@@ -178,6 +179,8 @@
 127.0.0.1 ccgjmzv.cn
 127.0.0.1 cdn-xinghuatupian-cdn.com
 127.0.0.1 cerfbup.xyz
+127.0.0.1 changyangcd.com
+127.0.0.1 chrislee.ltd
 127.0.0.1 chumeng.link
 127.0.0.1 chyuok.xyz
 127.0.0.1 ciaeue.xyz
@@ -195,6 +198,7 @@
 127.0.0.1 ctoyb.cyou
 127.0.0.1 cuwuqo.xyz
 127.0.0.1 cwobgp.cn
+127.0.0.1 cwolwc.xyz
 127.0.0.1 cwpbohx.cn
 127.0.0.1 cxgwsu.xyz
 127.0.0.1 d3f3.xyz
@@ -207,6 +211,7 @@
 127.0.0.1 dbtojr.xyz
 127.0.0.1 dcnjc4.com
 127.0.0.1 dcvbnzss.xyz
+127.0.0.1 ddhs.site
 127.0.0.1 ddqhnjb.cn
 127.0.0.1 dedcrfvdj.xyz
 127.0.0.1 delamer.ltd
@@ -223,6 +228,7 @@
 127.0.0.1 dfzv25.com
 127.0.0.1 dgozp.com
 127.0.0.1 dhl4.xyz
+127.0.0.1 dioak.cyou
 127.0.0.1 diqizu.xyz
 127.0.0.1 diwok.cyou
 127.0.0.1 dmqi.ltd
@@ -293,6 +299,7 @@
 127.0.0.1 fn9u.fun
 127.0.0.1 fnkio.cyou
 127.0.0.1 forestwo1f.ltd
+127.0.0.1 fq67.top
 127.0.0.1 fqla.top
 127.0.0.1 franchiseworld.hk
 127.0.0.1 frpns.com
@@ -318,6 +325,7 @@
 127.0.0.1 gejulm1314.com
 127.0.0.1 gfqsded.cn
 127.0.0.1 ggrhsx.cn
+127.0.0.1 gkustph.cn
 127.0.0.1 gkwrae.xyz
 127.0.0.1 glzniuy.cn
 127.0.0.1 godie.cyou
@@ -438,6 +446,7 @@
 127.0.0.1 jgqub.cn
 127.0.0.1 jh001.cc
 127.0.0.1 jiangzhou.ltd
+127.0.0.1 jiaojun.icu
 127.0.0.1 jiape.cyou
 127.0.0.1 jike001.top
 127.0.0.1 jinkens.fun
@@ -497,6 +506,8 @@
 127.0.0.1 ksccqu.xyz
 127.0.0.1 kscly.com
 127.0.0.1 ktbelts.cn
+127.0.0.1 kunzhang.name
+127.0.0.1 kuyw.cn
 127.0.0.1 kwivb.cn
 127.0.0.1 kzeqq.com
 127.0.0.1 kzwwamf.cn
@@ -526,6 +537,7 @@
 127.0.0.1 loganfeels.com
 127.0.0.1 loispp.com
 127.0.0.1 looktt.xyz
+127.0.0.1 loopd.cyou
 127.0.0.1 lpaehxw.cn
 127.0.0.1 lpncqju.cn
 127.0.0.1 ltwfd.xyz
@@ -545,6 +557,7 @@
 127.0.0.1 mecop.cyou
 127.0.0.1 meidd.cyou
 127.0.0.1 meueeq.xyz
+127.0.0.1 meximexi.me
 127.0.0.1 mfaec.cn
 127.0.0.1 mffdn.xyz
 127.0.0.1 mfjiaoyu.cn
@@ -575,6 +588,7 @@
 127.0.0.1 mzybirdnest.com
 127.0.0.1 n0544.com
 127.0.0.1 n0644.com
+127.0.0.1 nahsfl.xyz
 127.0.0.1 nai7.xyz
 127.0.0.1 nbzabd.xyz
 127.0.0.1 nccaer.xyz
@@ -655,6 +669,7 @@
 127.0.0.1 pe5a.top
 127.0.0.1 pehlvl.xyz
 127.0.0.1 penglangyyds.com
+127.0.0.1 pengpailm.online
 127.0.0.1 peoir.cyou
 127.0.0.1 pgccaoy.cn
 127.0.0.1 pgrjxpd.cn
@@ -758,6 +773,7 @@
 127.0.0.1 sange20221226.xyz
 127.0.0.1 sanqian.pro
 127.0.0.1 santou20230127.live
+127.0.0.1 sanwen.icu
 127.0.0.1 sc4mh.cn
 127.0.0.1 scbt.asia
 127.0.0.1 scfh9.cn
@@ -801,6 +817,7 @@
 127.0.0.1 sycrgc.xyz
 127.0.0.1 syfl.ltd
 127.0.0.1 sygmtz.com
+127.0.0.1 szcmcs.com
 127.0.0.1 szsxy.vip
 127.0.0.1 t3p58.com
 127.0.0.1 tanghao.club
@@ -818,11 +835,13 @@
 127.0.0.1 thlnbzi.cn
 127.0.0.1 thpte.cn
 127.0.0.1 thraerqol.com
+127.0.0.1 tianlaoyyds.com
 127.0.0.1 tianmel.xyz
 127.0.0.1 timothy.wang
 127.0.0.1 tioew.cyou
 127.0.0.1 tjbxhn.xyz
 127.0.0.1 tjxafmo.cn
+127.0.0.1 touwengyyds.com
 127.0.0.1 tqxthzy.cn
 127.0.0.1 traktalent.com
 127.0.0.1 travescorylus.com
@@ -837,6 +856,7 @@
 127.0.0.1 tuyqiolni.cyou
 127.0.0.1 tvxqdp.xyz
 127.0.0.1 twn2e.cn
+127.0.0.1 twuipte.cn
 127.0.0.1 txtcw.cn
 127.0.0.1 ty-baidu.xyz
 127.0.0.1 tzsvodu.cn
@@ -867,6 +887,7 @@
 127.0.0.1 uiiwzyv.cn
 127.0.0.1 ukutuy.xyz
 127.0.0.1 umami.is
+127.0.0.1 ummnam.xyz
 127.0.0.1 unevwe.xyz
 127.0.0.1 uniway.cn.com
 127.0.0.1 unmnkkq.cn
@@ -886,9 +907,11 @@
 127.0.0.1 vilki.cn
 127.0.0.1 viope.cyou
 127.0.0.1 vj1p.xyz
+127.0.0.1 vkjqbb.xyz
 127.0.0.1 vlbbxt.xyz
 127.0.0.1 vnq3.top
 127.0.0.1 vokmhydy.xyz
+127.0.0.1 vulrxr.xyz
 127.0.0.1 vvtztj.xyz
 127.0.0.1 vw66i.top
 127.0.0.1 vwvjzd.xyz
@@ -1042,6 +1065,7 @@
 127.0.0.1 zkdmdf.xyz
 127.0.0.1 zktqzyz.cn
 127.0.0.1 zlfthh.xyz
+127.0.0.1 zlzizsq.cn
 127.0.0.1 zmadsvd.cn
 127.0.0.1 zmdtcw.cn
 127.0.0.1 znktkt.cn
@@ -1059,19 +1083,6 @@
 127.0.0.1 zxtkfvm.cn
 127.0.0.1 zyrwfd.xyz
 127.0.0.1 zzxmcp.com
-127.0.0.1 twuipte.cn
-127.0.0.1 nahsfl.xyz
-127.0.0.1 ummnam.xyz
-127.0.0.1 szcmcs.com
-127.0.0.1 fq67.top
-127.0.0.1 changyangcd.com
-127.0.0.1 kuyw.cn
-127.0.0.1 chrislee.ltd
-127.0.0.1 ddhs.site
-127.0.0.1 tianlaoyyds.com
-127.0.0.1 loopd.cyou
-127.0.0.1 pengpailm.online
-127.0.0.1 baidbsjvb.com
 127.0.0.1 001adafg.xyz
 127.0.0.1 0024aaaa.com
 127.0.0.1 004fsdljasd.xyz

@@ -2297,6 +2297,7 @@
 127.0.0.1 tr.webantenna.info
 127.0.0.1 tr1.mailperformance.com
 127.0.0.1 traccoon.intellectsoft.net
+127.0.0.1 track.360playvid.info
 127.0.0.1 track.91app.io
 127.0.0.1 track.99acres.com
 127.0.0.1 track.bannedcelebs.com
@@ -3083,6 +3084,7 @@
 127.0.0.1 als-svc.nytimes.com
 127.0.0.1 amethyst.zappos.com
 127.0.0.1 ampltd.top.gg
+127.0.0.1 ampltd2.medal.tv
 127.0.0.1 analyselog.dx.com
 127.0.0.1 analytics-proxy.springboard.com
 127.0.0.1 analytics-tracking.meetup.com
@@ -3281,6 +3283,7 @@
 127.0.0.1 hits.cyberdrop.me
 127.0.0.1 i.pokernews.com
 127.0.0.1 iedc.fitbit.com
+127.0.0.1 ih.newegg.com
 127.0.0.1 indmetric.rediff.com
 127.0.0.1 ingress.linktr.ee
 127.0.0.1 intent.cmo.com.au
@@ -3325,6 +3328,7 @@
 127.0.0.1 metrics.audius.co
 127.0.0.1 metrics.freemake.com
 127.0.0.1 metrics.hackerrank.com
+127.0.0.1 metrics.newegg.com
 127.0.0.1 metrics.roblox.com
 127.0.0.1 metrics.spkt.io
 127.0.0.1 metrics.syf.com
@@ -16274,7 +16278,6 @@
 127.0.0.1 j1.ax.xrea.com
 127.0.0.1 ln.ameba.jp
 127.0.0.1 log-lb.skyperfectv.co.jp
-127.0.0.1 log.suumo.jp
 127.0.0.1 logql.yahoo.co.jp
 127.0.0.1 measure.ameblo.jp
 127.0.0.1 pw.gigazine.net
