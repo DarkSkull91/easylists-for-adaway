@@ -27,6 +27,7 @@
 127.0.0.1 2pwja.cn
 127.0.0.1 2r6.cn
 127.0.0.1 304p.xyz
+127.0.0.1 34it.ren
 127.0.0.1 3633a.com
 127.0.0.1 375772rug.com
 127.0.0.1 37tek.fun
@@ -113,6 +114,7 @@
 127.0.0.1 aliyunsupercdn.com
 127.0.0.1 allicinarenig.com
 127.0.0.1 anaxialaphonia.com
+127.0.0.1 anioz3b.cc
 127.0.0.1 aoi21.cn
 127.0.0.1 aol32.cn
 127.0.0.1 aowdk.cyou
@@ -179,6 +181,7 @@
 127.0.0.1 ccgjmzv.cn
 127.0.0.1 cdn-xinghuatupian-cdn.com
 127.0.0.1 cerfbup.xyz
+127.0.0.1 cgqmss.xyz
 127.0.0.1 changyangcd.com
 127.0.0.1 chrislee.ltd
 127.0.0.1 chumeng.link
@@ -228,6 +231,7 @@
 127.0.0.1 dfzv25.com
 127.0.0.1 dgozp.com
 127.0.0.1 dhl4.xyz
+127.0.0.1 diaocha.site
 127.0.0.1 dioak.cyou
 127.0.0.1 diqizu.xyz
 127.0.0.1 diwok.cyou
@@ -324,6 +328,7 @@
 127.0.0.1 geiaxbk.cn
 127.0.0.1 gejulm1314.com
 127.0.0.1 gfqsded.cn
+127.0.0.1 gfrzzzx.cn
 127.0.0.1 ggrhsx.cn
 127.0.0.1 gkustph.cn
 127.0.0.1 gkwrae.xyz
@@ -903,6 +908,7 @@
 127.0.0.1 vec4o.fun
 127.0.0.1 vewdk.cyou
 127.0.0.1 vfsdgjrr.xyz
+127.0.0.1 vgg5.cn
 127.0.0.1 vgxhvt.xyz
 127.0.0.1 vilki.cn
 127.0.0.1 viope.cyou

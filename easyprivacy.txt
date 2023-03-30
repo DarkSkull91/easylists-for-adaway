@@ -2524,6 +2524,7 @@
 127.0.0.1 d25ezbwokoefx6.cloudfront.net
 127.0.0.1 d28g9g3vb08y70.cloudfront.net
 127.0.0.1 d2cpw6kwpff7n5.cloudfront.net
+127.0.0.1 d2ef20sk9hi1u3.cloudfront.net
 127.0.0.1 d2gbtcuv3w9qyv.cloudfront.net
 127.0.0.1 d2ibu2ug0mt5qp.cloudfront.net
 127.0.0.1 d2j1fszo1axgmp.cloudfront.net
@@ -2585,6 +2586,7 @@
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 dnxlgencstz4.cloudfront.net
 127.0.0.1 dp64mxip2za0c.cloudfront.net
+127.0.0.1 dr3fr5q4g2ul9.cloudfront.net
 127.0.0.1 drlimmode9ddd.cloudfront.net
 127.0.0.1 dsbahmgppc0j4.cloudfront.net
 127.0.0.1 du4rq1xqh3i1k.cloudfront.net

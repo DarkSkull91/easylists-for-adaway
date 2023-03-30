@@ -9,6 +9,7 @@
 127.0.0.1 cookie.pearshealthcyber.com
 127.0.0.1 cookieapi.incomit.dk
 127.0.0.1 cookieapi2.incomit.dk
+127.0.0.1 cookiemanager.onm.de
 127.0.0.1 cookies.innershed.co.uk
 127.0.0.1 crta.and.co.uk
 127.0.0.1 d2eucw4fxv7nil.cloudfront.net
