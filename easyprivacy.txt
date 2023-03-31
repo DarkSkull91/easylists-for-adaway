@@ -51,6 +51,7 @@
 127.0.0.1 clarity.ms
 127.0.0.1 clearbitscripts.com
 127.0.0.1 click360.io
+127.0.0.1 cliquelead.com
 127.0.0.1 cloudwp.io
 127.0.0.1 clrt.ai
 127.0.0.1 cntxtfl.com
@@ -70,6 +71,7 @@
 127.0.0.1 dlxpix.net
 127.0.0.1 dm-event.net
 127.0.0.1 dmpxs.com
+127.0.0.1 doublestat.info
 127.0.0.1 dratingmaject.com
 127.0.0.1 dspx.tv
 127.0.0.1 dttrk.com
@@ -271,6 +273,7 @@
 127.0.0.1 thefontzone.com
 127.0.0.1 tncid.app
 127.0.0.1 trackclicks.info
+127.0.0.1 triplestat.online
 127.0.0.1 trk-maiorum.com
 127.0.0.1 trkbc.com
 127.0.0.1 trkn.us
@@ -444,6 +447,7 @@
 127.0.0.1 automaticairplane.com
 127.0.0.1 automaticflock.com
 127.0.0.1 avalonalbum.com
+127.0.0.1 averageactivity.com
 127.0.0.1 averageamusement.com
 127.0.0.1 awarealley.com
 127.0.0.1 awesomeagreement.com
@@ -3407,6 +3411,7 @@
 127.0.0.1 rps-p2.rockpapershotgun.com
 127.0.0.1 rps-uk.rockpapershotgun.com
 127.0.0.1 rs.mail.ru
+127.0.0.1 rstat.rockmostbet.com
 127.0.0.1 rt.newswire.ca
 127.0.0.1 rt.prnewswire.com
 127.0.0.1 rta.dailymail.co.uk
@@ -15940,6 +15945,7 @@
 127.0.0.1 url8196.mindrise.app
 127.0.0.1 url9609.account.experience-muse.com
 127.0.0.1 agnes.waz.de
+127.0.0.1 analytics.adliners.de
 127.0.0.1 analytics.daasrv.net
 127.0.0.1 analytics.deutscher-apotheker-verlag.de
 127.0.0.1 analytics.moviepilot.de

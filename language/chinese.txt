@@ -85,6 +85,7 @@
 127.0.0.1 9j5e.top
 127.0.0.1 9odes.ltd
 127.0.0.1 a-ads.com
+127.0.0.1 a44u.icu
 127.0.0.1 a5jf.xyz
 127.0.0.1 a666.one
 127.0.0.1 aaaesme.cn
@@ -138,6 +139,7 @@
 127.0.0.1 baidujsvbj.com
 127.0.0.1 banhui.xyz
 127.0.0.1 bavxxf.xyz
+127.0.0.1 bdcd2.com
 127.0.0.1 bddwm.com
 127.0.0.1 bdfwzt.xyz
 127.0.0.1 beatricecathy.com
@@ -219,6 +221,7 @@
 127.0.0.1 dedcrfvdj.xyz
 127.0.0.1 delamer.ltd
 127.0.0.1 dengtao.link
+127.0.0.1 denpvh.xyz
 127.0.0.1 deude.ltd
 127.0.0.1 dfadas13.com
 127.0.0.1 dfdaaa12.com
@@ -325,6 +328,7 @@
 127.0.0.1 gaohexiang.xyz
 127.0.0.1 gaowei.fit
 127.0.0.1 gauqeo.xyz
+127.0.0.1 gcejdac.cn
 127.0.0.1 geiaxbk.cn
 127.0.0.1 gejulm1314.com
 127.0.0.1 gfqsded.cn
@@ -506,6 +510,7 @@
 127.0.0.1 knyjes.xyz
 127.0.0.1 koatkm.xyz
 127.0.0.1 korydwf.cn
+127.0.0.1 kqskqi.xyz
 127.0.0.1 kqwip.cyou
 127.0.0.1 kravma.xyz
 127.0.0.1 ksccqu.xyz
@@ -523,6 +528,7 @@
 127.0.0.1 laxnlqn.cn
 127.0.0.1 lbk7p.cn
 127.0.0.1 leiersuqd.com
+127.0.0.1 leirsw.com
 127.0.0.1 leiwo.xyz
 127.0.0.1 lelouch.tech
 127.0.0.1 leopold37.xyz
@@ -551,6 +557,7 @@
 127.0.0.1 lwpxhr.xyz
 127.0.0.1 lwz.hk
 127.0.0.1 lymtreg.cn
+127.0.0.1 lztmrdv.cn
 127.0.0.1 lzzzjx.xyz
 127.0.0.1 m6ku1.cn
 127.0.0.1 maccms10.cn
@@ -707,6 +714,7 @@
 127.0.0.1 qbd2.site
 127.0.0.1 qbd3.site
 127.0.0.1 qbd4.site
+127.0.0.1 qbtd.xyz
 127.0.0.1 qdiwbhjpo.com
 127.0.0.1 qdutmef.cn
 127.0.0.1 qehaxkl.cn
@@ -717,6 +725,7 @@
 127.0.0.1 qheoy.cn
 127.0.0.1 qiabayyds.com
 127.0.0.1 qianbaobbs.net
+127.0.0.1 qianqian.red
 127.0.0.1 qiantubao.asia
 127.0.0.1 qiapuyyds.com
 127.0.0.1 qiegoa.xyz
@@ -759,6 +768,7 @@
 127.0.0.1 rmccajg.cn
 127.0.0.1 rooby.cyou
 127.0.0.1 rourouwu.uk
+127.0.0.1 rp5o.top
 127.0.0.1 rsmdlk.cn
 127.0.0.1 rtcegcp.cn
 127.0.0.1 rthmnj.xyz
@@ -831,6 +841,7 @@
 127.0.0.1 teowa.cyou
 127.0.0.1 tfallview.live
 127.0.0.1 tfbulkidn.com
+127.0.0.1 tfcoverss.live
 127.0.0.1 tffindmarket.live
 127.0.0.1 tfzozf.xyz
 127.0.0.1 tg0qu.top
@@ -981,6 +992,7 @@
 127.0.0.1 xiaohui668.club
 127.0.0.1 xiaolj.xyz
 127.0.0.1 xiaosaguniang.xyz
+127.0.0.1 xiaozengyyds.com
 127.0.0.1 xibpbov.cn
 127.0.0.1 xiehao.me
 127.0.0.1 xihongshi.love
@@ -992,6 +1004,7 @@
 127.0.0.1 xkhall.xyz
 127.0.0.1 xkjcpl.cn
 127.0.0.1 xkqit.com
+127.0.0.1 xmi1.top
 127.0.0.1 xmmnsl.com
 127.0.0.1 xmzurh.xyz
 127.0.0.1 xnrcnz.xyz
@@ -1016,6 +1029,7 @@
 127.0.0.1 y1990.pw
 127.0.0.1 yalayi.net
 127.0.0.1 yang17.xyz
+127.0.0.1 yangsir.xyz
 127.0.0.1 yanjiusuo.cc
 127.0.0.1 ybfljs.com
 127.0.0.1 yc444.cn
