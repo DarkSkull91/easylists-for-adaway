@@ -54,6 +54,7 @@
 127.0.0.1 658bbb.us
 127.0.0.1 65oml.cn
 127.0.0.1 6617398ccc.com
+127.0.0.1 6651tp.com
 127.0.0.1 6686bb.app
 127.0.0.1 6888i.top
 127.0.0.1 688aaa.us
@@ -116,6 +117,7 @@
 127.0.0.1 allicinarenig.com
 127.0.0.1 anaxialaphonia.com
 127.0.0.1 anioz3b.cc
+127.0.0.1 aniqfwz.cc
 127.0.0.1 aoi21.cn
 127.0.0.1 aol32.cn
 127.0.0.1 aowdk.cyou
@@ -124,6 +126,7 @@
 127.0.0.1 aqylmil.cn
 127.0.0.1 arejug.xyz
 127.0.0.1 arks.red
+127.0.0.1 asa2.cn
 127.0.0.1 ascloud.tech
 127.0.0.1 asdffe22.com
 127.0.0.1 asdx55.com
@@ -131,17 +134,20 @@
 127.0.0.1 aswtai.xyz
 127.0.0.1 atnnf.xyz
 127.0.0.1 atuhi.cyou
+127.0.0.1 autopwn.site
 127.0.0.1 avgsco.xyz
 127.0.0.1 avkw.cn
 127.0.0.1 baidbsjvb.com
 127.0.0.1 baidnblkdn.com
 127.0.0.1 baidufkjnvbdsn.com
 127.0.0.1 baidujsvbj.com
+127.0.0.1 baidunnd.top
 127.0.0.1 banhui.xyz
 127.0.0.1 bavxxf.xyz
 127.0.0.1 bdcd2.com
 127.0.0.1 bddwm.com
 127.0.0.1 bdfwzt.xyz
+127.0.0.1 bdnvklavbklabl.com
 127.0.0.1 beatricecathy.com
 127.0.0.1 believer.ltd
 127.0.0.1 bfdaawe.top
@@ -271,6 +277,7 @@
 127.0.0.1 elsmom.xyz
 127.0.0.1 ennde.cyou
 127.0.0.1 eopad.cyou
+127.0.0.1 eoqtyyp.cn
 127.0.0.1 ermao20230220.live
 127.0.0.1 etdcezc.cn
 127.0.0.1 ethandataserver.love
@@ -312,6 +319,7 @@
 127.0.0.1 frpns.com
 127.0.0.1 frxcdn.xyz
 127.0.0.1 fspjjp.xyz
+127.0.0.1 ftnthzv.cn
 127.0.0.1 ftrtnr.xyz
 127.0.0.1 fujbjb.xyz
 127.0.0.1 fujifood.hk
@@ -539,6 +547,7 @@
 127.0.0.1 lijie.in
 127.0.0.1 liutou20230203.live
 127.0.0.1 liuye.club
+127.0.0.1 liuyun.name
 127.0.0.1 liyiyue.xyz
 127.0.0.1 lkdhlp.xyz
 127.0.0.1 lktmgvw.cn
@@ -549,6 +558,7 @@
 127.0.0.1 loispp.com
 127.0.0.1 looktt.xyz
 127.0.0.1 loopd.cyou
+127.0.0.1 lopqrx.xyz
 127.0.0.1 lpaehxw.cn
 127.0.0.1 lpncqju.cn
 127.0.0.1 ltwfd.xyz
@@ -670,6 +680,7 @@
 127.0.0.1 ouypyu.xyz
 127.0.0.1 owihyg.xyz
 127.0.0.1 oyqjp.cn
+127.0.0.1 oyxp.xyz
 127.0.0.1 p23jac.top
 127.0.0.1 pafcpd.xyz
 127.0.0.1 paongfh.cn
@@ -789,6 +800,7 @@
 127.0.0.1 sanqian.pro
 127.0.0.1 santou20230127.live
 127.0.0.1 sanwen.icu
+127.0.0.1 saulmy.xyz
 127.0.0.1 sc4mh.cn
 127.0.0.1 scbt.asia
 127.0.0.1 scfh9.cn
@@ -999,6 +1011,7 @@
 127.0.0.1 xingyou70.asia
 127.0.0.1 xinllz.xyz
 127.0.0.1 xinnianqinggan.xyz
+127.0.0.1 xiuwaiyyds.com
 127.0.0.1 xjpphoto.com
 127.0.0.1 xjpsrb.xyz
 127.0.0.1 xkhall.xyz
@@ -1055,6 +1068,7 @@
 127.0.0.1 yruvnmn.cn
 127.0.0.1 ysgekq.xyz
 127.0.0.1 ytpae.xyz
+127.0.0.1 yufeng8.tech
 127.0.0.1 yuncaizhijia.ltd
 127.0.0.1 yunwu.red
 127.0.0.1 yupphsl.cn
@@ -6870,7 +6884,6 @@
 127.0.0.1 1.idc100.com
 127.0.0.1 1.isanxia.com
 127.0.0.1 1.jeasyui.net
-127.0.0.1 1.jiaopei.com
 127.0.0.1 1.jiqie.cn
 127.0.0.1 1.jushtong.com
 127.0.0.1 1.kuaidiwo.cn
@@ -7358,6 +7371,7 @@
 127.0.0.1 jiaoben.eastday.com
 127.0.0.1 jiaoben.ganji.cn
 127.0.0.1 jiaoben.jucanw.com
+127.0.0.1 jiaopei.com
 127.0.0.1 jibn12.jintang114.org
 127.0.0.1 jinghuazhijia.com
 127.0.0.1 jinhonghao.cn
@@ -7494,6 +7508,7 @@
 127.0.0.1 s.yaozui.com
 127.0.0.1 s.zixuntop.com
 127.0.0.1 s1.dugoogle.com
+127.0.0.1 s1.hanlinzhijia.com
 127.0.0.1 s1.pipishu.com
 127.0.0.1 s1.qiqutt.cn
 127.0.0.1 s1.qiqutt.com
