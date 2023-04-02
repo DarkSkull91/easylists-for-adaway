@@ -3038,7 +3038,6 @@
 127.0.0.1 datanoticias.prisasd.com
 127.0.0.1 g-stats.openhost.es
 127.0.0.1 hits.eluniversal.com.mx
-127.0.0.1 mat.socy.es
 127.0.0.1 mtm.qdqmedia.com
 127.0.0.1 pub.servidoresge.com
 127.0.0.1 reachandrich.antevenio.com
@@ -3197,7 +3196,6 @@
 127.0.0.1 crumbs.robinhood.com
 127.0.0.1 cryo.socialblade.com
 127.0.0.1 cstats.sankakucomplex.com
-127.0.0.1 d.getpocket.com
 127.0.0.1 d.skk.moe
 127.0.0.1 data.guide.photobucket.com
 127.0.0.1 data.younow.com
@@ -16236,6 +16234,7 @@
 127.0.0.1 analytics.sanoma.fi
 127.0.0.1 data.reactandshare.com
 127.0.0.1 events.il.fi
+127.0.0.1 rac.ruutu.fi
 127.0.0.1 stat.mtv3.fi
 127.0.0.1 stats.fonecta.fi
 127.0.0.1 bravo.israelweather.co.il
