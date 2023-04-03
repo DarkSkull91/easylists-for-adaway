@@ -1,7 +1,15 @@
+127.0.0.1 1136999.com
+127.0.0.1 230579.top
 127.0.0.1 aaaaa599.com
 127.0.0.1 aaaaa663.com
 127.0.0.1 aaaaa855.com
+127.0.0.1 gwvzgjb.cn
 127.0.0.1 jerrytom.xyz
+127.0.0.1 jwronx.xyz
+127.0.0.1 qiwjiy.xyz
+127.0.0.1 wangjiayi.fun
+127.0.0.1 xingyang.in
+127.0.0.1 yulingaa.xyz
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz

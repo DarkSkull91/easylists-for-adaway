@@ -1157,6 +1157,7 @@
 127.0.0.1 shinesavage.com
 127.0.0.1 shinestuart.com
 127.0.0.1 shiveringspot.com
+127.0.0.1 shiverscissors.com
 127.0.0.1 shockingship.com
 127.0.0.1 shopbreakfast.com
 127.0.0.1 showsteel.com
