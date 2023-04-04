@@ -25,6 +25,7 @@
 127.0.0.1 promo.ezstatic.com
 127.0.0.1 roi.ediscom.it
 127.0.0.1 sda.quinews.net
+127.0.0.1 unifiedads.magellanotech.it
 127.0.0.1 widget.promoqui.it
 127.0.0.1 widgets.shop.moda.it
 127.0.0.1 a.trend-online.it

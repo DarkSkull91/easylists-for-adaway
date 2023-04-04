@@ -7192,6 +7192,7 @@
 127.0.0.1 oms.citynews.ca
 127.0.0.1 oms.citytv.com
 127.0.0.1 oms.dowjones.com
+127.0.0.1 oms.dowjoneson.com
 127.0.0.1 oms.egencia.com
 127.0.0.1 oms.expedia.com
 127.0.0.1 oms.factiva.com

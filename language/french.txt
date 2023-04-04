@@ -7977,7 +7977,6 @@
 127.0.0.1 veneeringextremely.com
 127.0.0.1 vennala.pw
 127.0.0.1 ventilatorcorrupt.com
-127.0.0.1 ver-peliculas.io
 127.0.0.1 ver-pelis.me
 127.0.0.1 veritrol.com
 127.0.0.1 verseexposurethanksgiving.com
