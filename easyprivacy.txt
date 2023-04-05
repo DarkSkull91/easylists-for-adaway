@@ -2108,6 +2108,7 @@
 127.0.0.1 refer.wordpress.com
 127.0.0.1 referrer.disqus.com
 127.0.0.1 removeads.workers.dev
+127.0.0.1 reporting-api.gannettinnovation.com
 127.0.0.1 reporting.cdndex.io
 127.0.0.1 reporting.singlefeed.com
 127.0.0.1 reports-api.sqreen.io
