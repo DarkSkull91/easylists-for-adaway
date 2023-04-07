@@ -4,6 +4,7 @@
 127.0.0.1 aaaaa599.com
 127.0.0.1 aaaaa663.com
 127.0.0.1 aaaaa855.com
+127.0.0.1 alejd.xyz
 127.0.0.1 aniem44.cc
 127.0.0.1 balspaulite.com
 127.0.0.1 bekco.xyz
@@ -12,6 +13,7 @@
 127.0.0.1 ccohayo.xyz
 127.0.0.1 cdcc3.com
 127.0.0.1 fijipic.xyz
+127.0.0.1 flyinsky2009.ltd
 127.0.0.1 fnnzr.cn
 127.0.0.1 gpqicw.xyz
 127.0.0.1 gwvzgjb.cn
@@ -21,6 +23,7 @@
 127.0.0.1 hefei64.com
 127.0.0.1 hgpdoa.cn
 127.0.0.1 huaweinnd.top
+127.0.0.1 hxpmbb.xyz
 127.0.0.1 hxtiojs.cn
 127.0.0.1 iepda.xyz
 127.0.0.1 jerrytom.xyz
@@ -30,19 +33,25 @@
 127.0.0.1 kkylx.xyz
 127.0.0.1 kucoa.xyz
 127.0.0.1 lxbbs.fun
+127.0.0.1 ojuhwc.xyz
 127.0.0.1 p4pd.cn
+127.0.0.1 prlioxb.cn
 127.0.0.1 qiwjiy.xyz
 127.0.0.1 readme.red
 127.0.0.1 rtjmln.xyz
 127.0.0.1 sh6ss7.top
+127.0.0.1 smailes.pro
 127.0.0.1 tmochyf.cn
+127.0.0.1 vorluic.cn
 127.0.0.1 wangjiayi.fun
 127.0.0.1 xcaukve.cn
 127.0.0.1 xingyang.in
 127.0.0.1 xunjie.fun
 127.0.0.1 yfohgo.xyz
 127.0.0.1 yulingaa.xyz
+127.0.0.1 zbvchabjbcj.com
 127.0.0.1 zdlnhv.xyz
+127.0.0.1 zjqs.shop
 127.0.0.1 znnodl.xyz
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
@@ -6686,6 +6695,7 @@
 127.0.0.1 gdyjs.com
 127.0.0.1 gg.egouz.com
 127.0.0.1 gg.miinaa.com
+127.0.0.1 gg.taoseyy.cn
 127.0.0.1 gg1.mengchongzu.com
 127.0.0.1 ggdm1.nhaidu.net
 127.0.0.1 ggjs.d17.cc
