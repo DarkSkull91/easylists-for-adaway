@@ -15963,6 +15963,7 @@
 127.0.0.1 cpx.golem.de
 127.0.0.1 cpxl.golem.de
 127.0.0.1 d.rp-online.de
+127.0.0.1 data.sportdeutschland.tv
 127.0.0.1 dv.chemie.de
 127.0.0.1 ens.luzernerzeitung.ch
 127.0.0.1 ens.tagblatt.ch
@@ -15979,6 +15980,7 @@
 127.0.0.1 nct.ui-portal.de
 127.0.0.1 oxifwsabgd.nzz.ch
 127.0.0.1 pi.technik3d.com
+127.0.0.1 pstt.mtb-news.de
 127.0.0.1 px.derstandard.at
 127.0.0.1 pxc.otto.de
 127.0.0.1 rem-track.bild.de
