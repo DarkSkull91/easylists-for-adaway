@@ -15,7 +15,6 @@
 127.0.0.1 d2eucw4fxv7nil.cloudfront.net
 127.0.0.1 gdpr-settings.s3.amazonaws.com
 127.0.0.1 gdpr.studybreakmedia.com
-127.0.0.1 message.maven.io
 127.0.0.1 optanon.blob.core.windows.net
 127.0.0.1 plugin.management
 127.0.0.1 privacy-cdn.sixfifty.com

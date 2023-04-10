@@ -1756,6 +1756,7 @@
 127.0.0.1 counter.jdi5.com
 127.0.0.1 counter.maases.com
 127.0.0.1 counter.packa2.cz
+127.0.0.1 counter.powr.io
 127.0.0.1 counter.powweb.com
 127.0.0.1 counter.rambler.ru
 127.0.0.1 counter.scribblelive.com
@@ -2443,7 +2444,6 @@
 127.0.0.1 uid.mediacorp.sg
 127.0.0.1 units.knotch.it
 127.0.0.1 us-central1-markuphero.cloudfunctions.net
-127.0.0.1 user.userguiding.com
 127.0.0.1 userexperience.thehut.net
 127.0.0.1 usersegment.wpdigital.net
 127.0.0.1 v.shopify.com
@@ -2746,6 +2746,7 @@
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atom-log.3.cn
 127.0.0.1 beacon.sina.com.cn
+127.0.0.1 beaconcdn.qq.com
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 c.holmesmind.com
 127.0.0.1 click.bokecc.com
@@ -3132,6 +3133,7 @@
 127.0.0.1 analytics.synedat.com
 127.0.0.1 analytics.tradedoubler.com
 127.0.0.1 analytics.vedantu.com
+127.0.0.1 analytics.wavebox.io
 127.0.0.1 analytics.yugen.to
 127.0.0.1 anon-stats.eff.org
 127.0.0.1 api-js.mixpanel.com
@@ -3331,7 +3333,6 @@
 127.0.0.1 logx.optimizely.com
 127.0.0.1 ma.redhat.com
 127.0.0.1 marketing.alibaba.com
-127.0.0.1 marketing.dropbox.com
 127.0.0.1 mcc-tags.cisco.com
 127.0.0.1 mcs-va.tiktokv.com
 127.0.0.1 metrics.audius.co
