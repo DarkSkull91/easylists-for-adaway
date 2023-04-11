@@ -688,6 +688,7 @@
 127.0.0.1 endurableshop.com
 127.0.0.1 energeticexample.com
 127.0.0.1 energeticladybug.com
+127.0.0.1 engineertrick.com
 127.0.0.1 enormousearth.com
 127.0.0.1 entertainingeyes.com
 127.0.0.1 enthusiasticdad.com
@@ -1754,6 +1755,7 @@
 127.0.0.1 counter.cam-content.com
 127.0.0.1 counter.hyipexplorer.com
 127.0.0.1 counter.jdi5.com
+127.0.0.1 counter.live4members.com
 127.0.0.1 counter.maases.com
 127.0.0.1 counter.packa2.cz
 127.0.0.1 counter.powr.io
@@ -3151,6 +3153,7 @@
 127.0.0.1 beacon.walmart.com
 127.0.0.1 beacon.wikia-services.com
 127.0.0.1 beam.bankrate.com
+127.0.0.1 beat.socialblade.com
 127.0.0.1 bfp.capitalone.com
 127.0.0.1 binocule21c.merriam-webster.com
 127.0.0.1 blitz-analytics-batch-server.blitz.gg
@@ -3202,7 +3205,6 @@
 127.0.0.1 crayfish.thingelstad.com
 127.0.0.1 crta.metro.co.uk
 127.0.0.1 crumbs.robinhood.com
-127.0.0.1 cryo.socialblade.com
 127.0.0.1 cstats.sankakucomplex.com
 127.0.0.1 d.skk.moe
 127.0.0.1 data.guide.photobucket.com
@@ -3289,7 +3291,6 @@
 127.0.0.1 gtm.wise.com
 127.0.0.1 gtreus.aliexpress.com
 127.0.0.1 gurgle.pcmag.com
-127.0.0.1 hanaana.socialblade.com
 127.0.0.1 heap.drop.com
 127.0.0.1 hits.cyberdrop.me
 127.0.0.1 i.pokernews.com
@@ -3622,6 +3623,7 @@
 127.0.0.1 tr.www.cloudflare.com
 127.0.0.1 track-visit.monday.com
 127.0.0.1 track.dictionary.com
+127.0.0.1 track.eurogirlsescort.com
 127.0.0.1 track.kueez.com
 127.0.0.1 track.lexico.com
 127.0.0.1 track.mrgugu.com
@@ -16215,6 +16217,7 @@
 127.0.0.1 uestat.video.qiyi.com
 127.0.0.1 utrack.hexun.com
 127.0.0.1 vatrack.hinet.net
+127.0.0.1 visit.xchina.pics
 127.0.0.1 web-player-tracker.biliapi.net
 127.0.0.1 webstat.kuwo.cn
 127.0.0.1 wkctj.baidu.com
