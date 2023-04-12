@@ -21,7 +21,6 @@
 127.0.0.1 webcache-eu.datareporter.eu
 127.0.0.1 webcache.datareporter.eu
 127.0.0.1 widgets.openli.com
-127.0.0.1 appconsent.io
 127.0.0.1 cdn259.talksport.com
 127.0.0.1 cmp.cdn.thesun.co.uk
 127.0.0.1 cmp.cdn.thesun.ie
