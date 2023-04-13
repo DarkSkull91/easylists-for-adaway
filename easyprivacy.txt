@@ -1855,7 +1855,6 @@
 127.0.0.1 events.shareably.net
 127.0.0.1 events.splash-screen.net
 127.0.0.1 events.split.io
-127.0.0.1 events.statsigapi.net
 127.0.0.1 events.tubecup.org
 127.0.0.1 events.ubembed.com
 127.0.0.1 events.whisk.com

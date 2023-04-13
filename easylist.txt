@@ -769,6 +769,7 @@
 127.0.0.1 8ue9q7i.com
 127.0.0.1 8wtkfxiss1o2.com
 127.0.0.1 9001476746.com
+127.0.0.1 90935ff0ea.com
 127.0.0.1 92245a1d7e.com
 127.0.0.1 92f77b89a1b2df1b539ff2772282e19b.com
 127.0.0.1 92f83e092d.com
@@ -854,6 +855,7 @@
 127.0.0.1 a2tw6yoodsag.com
 127.0.0.1 a306b8f66f.com
 127.0.0.1 a3141de4a0.com
+127.0.0.1 a39fa0bea6.com
 127.0.0.1 a3b8be1b5b.com
 127.0.0.1 a3ion.com
 127.0.0.1 a3yqjsrczwwp.com
@@ -2427,6 +2429,7 @@
 127.0.0.1 apptechnewz.com
 127.0.0.1 apptjmp.com
 127.0.0.1 appwebview.com
+127.0.0.1 appzery.com
 127.0.0.1 appzeyland.com
 127.0.0.1 apqazdxirqz.com
 127.0.0.1 apricotaimless.com
@@ -5824,6 +5827,7 @@
 127.0.0.1 dalrekso.net
 127.0.0.1 dalyai.com
 127.0.0.1 dalysb.com
+127.0.0.1 dalysh.com
 127.0.0.1 damaged-shop.pro
 127.0.0.1 damedamehoy.xyz
 127.0.0.1 dammarsnektons.com
@@ -8524,6 +8528,7 @@
 127.0.0.1 ghmofgpoyafnref.xyz
 127.0.0.1 ghostedridotto.com
 127.0.0.1 ghosthis.review
+127.0.0.1 ghrain.com
 127.0.0.1 ghttohimhedra.cc
 127.0.0.1 giantaffiliates.com
 127.0.0.1 gianwho.com
@@ -10478,6 +10483,7 @@
 127.0.0.1 joredi.com
 127.0.0.1 jorttiuyng.com
 127.0.0.1 josephinegrey.com
+127.0.0.1 josulu.xyz
 127.0.0.1 jotocyxe.xyz
 127.0.0.1 jounaque.com
 127.0.0.1 journalismdived.com
@@ -10619,6 +10625,7 @@
 127.0.0.1 kamak-mab.com
 127.0.0.1 kamassirangers.tech
 127.0.0.1 kamehameha.click
+127.0.0.1 kaminari.click
 127.0.0.1 kaminari.club
 127.0.0.1 kamnebo.info
 127.0.0.1 kangaroocame.com
@@ -14717,6 +14724,7 @@
 127.0.0.1 possessedbrute.com
 127.0.0.1 possessionaddictedflight.com
 127.0.0.1 possibilityplumbing.com
+127.0.0.1 possiblebasket.pro
 127.0.0.1 possiblyinsufficientchecking.com
 127.0.0.1 post-redirecting.com
 127.0.0.1 postalfranticallyfriendship.com
@@ -14755,6 +14763,7 @@
 127.0.0.1 poxaharap.com
 127.0.0.1 pp2ppsch1hount1hf.com
 127.0.0.1 pp98trk.com
+127.0.0.1 ppbircmylnnm.xyz
 127.0.0.1 ppcashpop.com
 127.0.0.1 ppclinking.com
 127.0.0.1 ppcnt.pro
@@ -15386,6 +15395,7 @@
 127.0.0.1 qdagihwi.xyz
 127.0.0.1 qdatasales.com
 127.0.0.1 qdmil.com
+127.0.0.1 qdobrvkddmlgyi.com
 127.0.0.1 qe0ckm024b.com
 127.0.0.1 qebuvi.xyz
 127.0.0.1 qel-qel-fie.com
@@ -15400,6 +15410,7 @@
 127.0.0.1 qgxbluhsgad.com
 127.0.0.1 qhnwj.com
 127.0.0.1 qibkkioqqw.com
+127.0.0.1 qicjhawwod.com
 127.0.0.1 qifvupoxxo.com
 127.0.0.1 qingjiedi.com
 127.0.0.1 qinvaris.com
@@ -15578,6 +15589,7 @@
 127.0.0.1 raspiernauseas.com
 127.0.0.1 rasqitgikqz.com
 127.0.0.1 rastledundo.com
+127.0.0.1 ratebilaterdea.com
 127.0.0.1 rathergist.com
 127.0.0.1 ratingberglet.com
 127.0.0.1 ratitaebajau.com
@@ -16001,6 +16013,7 @@
 127.0.0.1 revrtb.net
 127.0.0.1 revsci.net
 127.0.0.1 revstripe.com
+127.0.0.1 revulsionwash.com
 127.0.0.1 revupads.com
 127.0.0.1 rewarding-design.pro
 127.0.0.1 rewardsaffiliates.com
@@ -19493,6 +19506,7 @@
 127.0.0.1 vainfulkmole.com
 127.0.0.1 vaipsona.com
 127.0.0.1 vaipsouw.com
+127.0.0.1 vajoru.xyz
 127.0.0.1 vak345.com
 127.0.0.1 vakghopi.xyz
 127.0.0.1 valemedia.net
@@ -19723,6 +19737,7 @@
 127.0.0.1 vidsfun.info
 127.0.0.1 vidsfun.online
 127.0.0.1 vidsfun.space
+127.0.0.1 vidshouse.online
 127.0.0.1 vidsofdream.today
 127.0.0.1 vidsservices.info
 127.0.0.1 vidverto.io
@@ -20018,6 +20033,7 @@
 127.0.0.1 warumbistdusoarm.space
 127.0.0.1 waryboot.pro
 127.0.0.1 wasdczhepg.com
+127.0.0.1 wasgildedall.com
 127.0.0.1 washabeach.com
 127.0.0.1 washdaycalmly.com
 127.0.0.1 washedinmate.com
@@ -21436,6 +21452,7 @@
 127.0.0.1 d10lv7w3g0jvk9.cloudfront.net
 127.0.0.1 d10nkw6w2k1o10.cloudfront.net
 127.0.0.1 d10wfab8zt419p.cloudfront.net
+127.0.0.1 d10zmv6hrj5cx1.cloudfront.net
 127.0.0.1 d11enq2rymy0yl.cloudfront.net
 127.0.0.1 d11hjbdxxtogg5.cloudfront.net
 127.0.0.1 d11p7gi4d9x2s0.cloudfront.net
