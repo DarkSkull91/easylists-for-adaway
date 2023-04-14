@@ -144,6 +144,7 @@
 127.0.0.1 hsleadflows.net
 127.0.0.1 hubty.network
 127.0.0.1 i218435.net
+127.0.0.1 icanhazip.com
 127.0.0.1 id5-sync.com
 127.0.0.1 idx.lat
 127.0.0.1 impactcdn.com
@@ -465,6 +466,7 @@
 127.0.0.1 bawdypets.com
 127.0.0.1 beadbears.com
 127.0.0.1 beamincrease.com
+127.0.0.1 beamvolcano.com
 127.0.0.1 beastbeef.com
 127.0.0.1 beautifulhobbies.com
 127.0.0.1 bedsberry.com
@@ -1054,6 +1056,7 @@
 127.0.0.1 quaintborder.com
 127.0.0.1 quarterbean.com
 127.0.0.1 quicksandear.com
+127.0.0.1 quillkick.com
 127.0.0.1 quizzicalzephyr.com
 127.0.0.1 rabbitbreath.com
 127.0.0.1 rabbitrifle.com
@@ -1379,6 +1382,7 @@
 127.0.0.1 thunderingrose.com
 127.0.0.1 ticketaunt.com
 127.0.0.1 ticklesign.com
+127.0.0.1 tightpowder.com
 127.0.0.1 timeterritory.com
 127.0.0.1 timetwig.com
 127.0.0.1 tinytendency.com
@@ -1818,6 +1822,7 @@
 127.0.0.1 ele26126.jscrambler.com
 127.0.0.1 eq.userneeds.com
 127.0.0.1 errors.snackly.co
+127.0.0.1 et.educationdynamics.com
 127.0.0.1 etl.springbot.com
 127.0.0.1 eu-mobile.events.data.microsoft.com
 127.0.0.1 ev.stellarlabs.ai
@@ -1986,7 +1991,6 @@
 127.0.0.1 lps.qantas.com
 127.0.0.1 lucid.mjhassoc.com
 127.0.0.1 m.addthisedge.com
-127.0.0.1 m.stripe.com
 127.0.0.1 ma.logsss.com
 127.0.0.1 martech.condenastdigital.com
 127.0.0.1 mas.nth.ch
@@ -2666,6 +2670,7 @@
 127.0.0.1 nexxtv-events.servicebus.windows.net
 127.0.0.1 omniture.eaeurope.eu
 127.0.0.1 orbidder.otto.de
+127.0.0.1 pixel.poptok.com
 127.0.0.1 plausible.ams.to
 127.0.0.1 px.staticfiles.at
 127.0.0.1 retrack.q-divisioncdn.de
@@ -10541,7 +10546,6 @@
 127.0.0.1 digitalmarketing.smu.edu.sg
 127.0.0.1 direct.t-mobile.com
 127.0.0.1 discover.dignityhealth.org
-127.0.0.1 discover.interlochen.org
 127.0.0.1 discover.proshipinc.com
 127.0.0.1 dppublishinginc.actonservice.com
 127.0.0.1 durst-group.actonservice.com
