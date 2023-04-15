@@ -1140,6 +1140,7 @@
 127.0.0.1 scratchsofa.com
 127.0.0.1 screechingfurniture.com
 127.0.0.1 screechingstove.com
+127.0.0.1 scribblestring.com
 127.0.0.1 scrollservice.com
 127.0.0.1 seashoresociety.com
 127.0.0.1 seatsmoke.com
@@ -2438,6 +2439,7 @@
 127.0.0.1 traffic.shareaholic.com
 127.0.0.1 trafficfuelpixel.s3-us-west-2.amazonaws.com
 127.0.0.1 trap.skype.com
+127.0.0.1 traxex.gannettdigital.com
 127.0.0.1 trc.pushnami.com
 127.0.0.1 trends.newsmaxwidget.com
 127.0.0.1 triggers.wfxtriggers.com
@@ -3082,6 +3084,7 @@
 127.0.0.1 za.zdn.vn
 127.0.0.1 a-reporting.nytimes.com
 127.0.0.1 a.electerious.com
+127.0.0.1 a.tellonym.me
 127.0.0.1 a10.nationalreview.com
 127.0.0.1 aa.avvo.com
 127.0.0.1 ab-machine.forbes.com
@@ -16268,6 +16271,7 @@
 127.0.0.1 analytics.tio.ch
 127.0.0.1 analytics.traderlink.com
 127.0.0.1 as.payback.it
+127.0.0.1 c.corriere.it
 127.0.0.1 click.tv.repubblica.it
 127.0.0.1 clickserver.libero.it
 127.0.0.1 compare.easyviaggio.com

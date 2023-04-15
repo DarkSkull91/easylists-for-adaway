@@ -3,6 +3,7 @@
 127.0.0.1 ccpa-script.psg.nexstardigital.net
 127.0.0.1 ccpa.sp-prod.net
 127.0.0.1 cmp.setupcmp.com
+127.0.0.1 collector.appconsent.io
 127.0.0.1 consent.digiapi.com
 127.0.0.1 consent.prointernet.com
 127.0.0.1 cookie.consents.app
