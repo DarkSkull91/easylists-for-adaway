@@ -39,6 +39,7 @@
 127.0.0.1 dcdf4.com
 127.0.0.1 doccd.xyz
 127.0.0.1 dqazwsxd.xyz
+127.0.0.1 dtjhtp.xyz
 127.0.0.1 ecav5.com
 127.0.0.1 ej65.xyz
 127.0.0.1 enahmy.xyz
@@ -49,6 +50,7 @@
 127.0.0.1 ffbjhl.xyz
 127.0.0.1 fijipic.xyz
 127.0.0.1 fionamignon.com
+127.0.0.1 flpnnqe.xyz
 127.0.0.1 flyinsky2009.ltd
 127.0.0.1 fnnzr.cn
 127.0.0.1 fvzljv.xyz
@@ -67,6 +69,7 @@
 127.0.0.1 huaweinnd.top
 127.0.0.1 hxpmbb.xyz
 127.0.0.1 hxtiojs.cn
+127.0.0.1 icesfeathers.fun
 127.0.0.1 iepda.xyz
 127.0.0.1 ijnuhb.top
 127.0.0.1 imu2021.site
@@ -82,6 +85,8 @@
 127.0.0.1 jwjdpab.cn
 127.0.0.1 jwronx.xyz
 127.0.0.1 kayzqar.cn
+127.0.0.1 kbabqnd.cn
+127.0.0.1 kfocoq.xyz
 127.0.0.1 kingsunsky.ltd
 127.0.0.1 kkgytur.cn
 127.0.0.1 kkylx.xyz
@@ -90,6 +95,7 @@
 127.0.0.1 lendc.xyz
 127.0.0.1 lianxi.link
 127.0.0.1 linuozhiyao.xyz
+127.0.0.1 lwtqqq.com
 127.0.0.1 lxbbs.fun
 127.0.0.1 mhegew.xyz
 127.0.0.1 mindopu.com
@@ -107,12 +113,14 @@
 127.0.0.1 pansclub.xyz
 127.0.0.1 pbgtpjz.cn
 127.0.0.1 poopd.xyz
+127.0.0.1 ppshop.club
 127.0.0.1 prlioxb.cn
 127.0.0.1 prtlth.xyz
 127.0.0.1 qatuaad.cn
 127.0.0.1 qingdou.ltd
 127.0.0.1 qiwjiy.xyz
 127.0.0.1 qqied.xyz
+127.0.0.1 qwrdj.xyz
 127.0.0.1 rcxysoj.cn
 127.0.0.1 readme.red
 127.0.0.1 reffnik.cn
@@ -132,6 +140,7 @@
 127.0.0.1 uqelxct.cn
 127.0.0.1 uqymady.cn
 127.0.0.1 uwhreur.cn
+127.0.0.1 v0cf.xyz
 127.0.0.1 vel7.xyz
 127.0.0.1 vjhjxh.xyz
 127.0.0.1 vnlqcod.cn
@@ -164,11 +173,13 @@
 127.0.0.1 zbvchabjbcj.com
 127.0.0.1 zdkdwk.buzz
 127.0.0.1 zdlnhv.xyz
+127.0.0.1 zhalinyyds.com
 127.0.0.1 zhouduanyyds.com
 127.0.0.1 zjqs.shop
 127.0.0.1 znnodl.xyz
 127.0.0.1 zouqiuyyds.com
 127.0.0.1 zoushao.xyz
+127.0.0.1 zpfqolj.cn
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
@@ -6695,6 +6706,7 @@
 127.0.0.1 cn.bidushe.com
 127.0.0.1 cn6x.com
 127.0.0.1 cod.southmoney.com
+127.0.0.1 code.bizdirlib.com
 127.0.0.1 code.ditiezu.net
 127.0.0.1 cp.7y7.com
 127.0.0.1 cp.jfcdns.com
