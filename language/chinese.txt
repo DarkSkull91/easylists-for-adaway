@@ -3,6 +3,7 @@
 127.0.0.1 230579.top
 127.0.0.1 39nw.com
 127.0.0.1 52qd.club
+127.0.0.1 7xwx.cn
 127.0.0.1 8b4v.cn
 127.0.0.1 92ph.cn
 127.0.0.1 9itan.cc
@@ -18,6 +19,7 @@
 127.0.0.1 almabelen.com
 127.0.0.1 aniauu2.cc
 127.0.0.1 aniem44.cc
+127.0.0.1 aqpvglv.cn
 127.0.0.1 baitu1llbkotsfthllcjeg.com
 127.0.0.1 balspaulite.com
 127.0.0.1 bcivqxd.cn
@@ -25,6 +27,7 @@
 127.0.0.1 blxfqq.com
 127.0.0.1 bqcxgbm.cn
 127.0.0.1 brkzczn.cn
+127.0.0.1 bwwlw.cn
 127.0.0.1 campu.ltd
 127.0.0.1 ccohayo.xyz
 127.0.0.1 cdcc3.com
@@ -37,6 +40,8 @@
 127.0.0.1 cvmesi.xyz
 127.0.0.1 d86n.top
 127.0.0.1 dcdf4.com
+127.0.0.1 ddkep.xyz
+127.0.0.1 ddlipf.xyz
 127.0.0.1 doccd.xyz
 127.0.0.1 dqazwsxd.xyz
 127.0.0.1 dtjhtp.xyz
@@ -61,12 +66,14 @@
 127.0.0.1 gzsjym.xyz
 127.0.0.1 gzsscr.cn
 127.0.0.1 h731.icu
+127.0.0.1 hangtuo.pub
 127.0.0.1 hefei64.com
 127.0.0.1 helid.xyz
 127.0.0.1 hgpdoa.cn
 127.0.0.1 hhrnxr.xyz
 127.0.0.1 hsrgnac.cn
 127.0.0.1 huaweinnd.top
+127.0.0.1 hxes.cn
 127.0.0.1 hxpmbb.xyz
 127.0.0.1 hxtiojs.cn
 127.0.0.1 icesfeathers.fun
@@ -90,6 +97,7 @@
 127.0.0.1 kingsunsky.ltd
 127.0.0.1 kkgytur.cn
 127.0.0.1 kkylx.xyz
+127.0.0.1 kpqdkg.xyz
 127.0.0.1 kucoa.xyz
 127.0.0.1 kzjqraj.cn
 127.0.0.1 lendc.xyz
@@ -107,13 +115,16 @@
 127.0.0.1 nurahf.xyz
 127.0.0.1 nvchmkw.cn
 127.0.0.1 ojuhwc.xyz
+127.0.0.1 opida.xyz
 127.0.0.1 originate.ltd
 127.0.0.1 otwiss.xyz
 127.0.0.1 p4pd.cn
 127.0.0.1 pansclub.xyz
 127.0.0.1 pbgtpjz.cn
+127.0.0.1 pkkylyx.xyz
 127.0.0.1 poopd.xyz
 127.0.0.1 ppshop.club
+127.0.0.1 pqxyqq.com
 127.0.0.1 prlioxb.cn
 127.0.0.1 prtlth.xyz
 127.0.0.1 qatuaad.cn
@@ -180,6 +191,9 @@
 127.0.0.1 zouqiuyyds.com
 127.0.0.1 zoushao.xyz
 127.0.0.1 zpfqolj.cn
+127.0.0.1 zrbabog.cn
+127.0.0.1 zsblog.vip
+127.0.0.1 zscgoqt.cn
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz

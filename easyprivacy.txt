@@ -1180,6 +1180,7 @@
 127.0.0.1 selfishsea.com
 127.0.0.1 selfishsnake.com
 127.0.0.1 separateshow.com
+127.0.0.1 serioussuit.com
 127.0.0.1 serpentshampoo.com
 127.0.0.1 shaggytank.com
 127.0.0.1 shakegoldfish.com
@@ -2909,6 +2910,7 @@
 127.0.0.1 a.o2u.jp
 127.0.0.1 ac.prism-world.jp.net
 127.0.0.1 ad.daum.net
+127.0.0.1 analytics-beacon.p.uliza.jp
 127.0.0.1 analytics.contents.by-fw.jp
 127.0.0.1 analytics.liveact.cri-mw.jp
 127.0.0.1 analytics.livesense.marketing
@@ -3194,6 +3196,7 @@
 127.0.0.1 beam.bankrate.com
 127.0.0.1 beat.socialblade.com
 127.0.0.1 bfp.capitalone.com
+127.0.0.1 bin.vinted.net
 127.0.0.1 binocule21c.merriam-webster.com
 127.0.0.1 blitz-analytics-batch-server.blitz.gg
 127.0.0.1 boomerang.dell.com
