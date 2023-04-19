@@ -144,7 +144,6 @@
 127.0.0.1 hsleadflows.net
 127.0.0.1 hubty.network
 127.0.0.1 i218435.net
-127.0.0.1 icanhazip.com
 127.0.0.1 id5-sync.com
 127.0.0.1 idx.lat
 127.0.0.1 impactcdn.com
@@ -208,6 +207,7 @@
 127.0.0.1 ostrichesica.com
 127.0.0.1 p-analytics.life
 127.0.0.1 p2r14.com
+127.0.0.1 p7cloud.net
 127.0.0.1 pageid.info
 127.0.0.1 pdflive.org
 127.0.0.1 permutive.app
@@ -16110,6 +16110,7 @@
 127.0.0.1 forecast.huffingtonpost.fr
 127.0.0.1 fsm.lapresse.ca
 127.0.0.1 hits.porn.fr
+127.0.0.1 hlms.ecologie.gouv.fr
 127.0.0.1 l.bfmtv.com
 127.0.0.1 l.franceculture.fr
 127.0.0.1 logstash-3.radio-canada.ca
@@ -16128,6 +16129,7 @@
 127.0.0.1 tc2.hometogo.net
 127.0.0.1 tracker.mspy.com
 127.0.0.1 tracking.bd4travel.com
+127.0.0.1 wrhv.education.gouv.fr
 127.0.0.1 wstats.gameblog.fr
 127.0.0.1 wt.oscaro.com
 127.0.0.1 edmi.nextinpact.com
