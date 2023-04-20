@@ -1,5 +1,6 @@
 127.0.0.1 08u6q.com
 127.0.0.1 1136999.com
+127.0.0.1 18so.vip
 127.0.0.1 230579.top
 127.0.0.1 39nw.com
 127.0.0.1 52qd.club
@@ -14,11 +15,13 @@
 127.0.0.1 aaaaa855.com
 127.0.0.1 aamv.vip
 127.0.0.1 aircraft-fapi.club
+127.0.0.1 ajucem.xyz
 127.0.0.1 akdhiahcjojdkck.com
 127.0.0.1 alejd.xyz
 127.0.0.1 almabelen.com
 127.0.0.1 aniauu2.cc
 127.0.0.1 aniem44.cc
+127.0.0.1 aniqgsz.cc
 127.0.0.1 aqpvglv.cn
 127.0.0.1 baitu1llbkotsfthllcjeg.com
 127.0.0.1 balspaulite.com
@@ -34,6 +37,7 @@
 127.0.0.1 cdcc3.com
 127.0.0.1 cdfda.xyz
 127.0.0.1 chaozhunbb.xyz
+127.0.0.1 chnuuee.xyz
 127.0.0.1 ck33.top
 127.0.0.1 clkdus.xyz
 127.0.0.1 cnmmcjn.cn
@@ -52,6 +56,7 @@
 127.0.0.1 ej65.xyz
 127.0.0.1 enahmy.xyz
 127.0.0.1 endio.xyz
+127.0.0.1 evmnlpv.cn
 127.0.0.1 excfig.xyz
 127.0.0.1 falal.cn
 127.0.0.1 feild.xyz
@@ -62,7 +67,9 @@
 127.0.0.1 flpnnqe.xyz
 127.0.0.1 flyinsky2009.ltd
 127.0.0.1 fnnzr.cn
+127.0.0.1 fssxyiq.cn
 127.0.0.1 fvzljv.xyz
+127.0.0.1 fweia.xyz
 127.0.0.1 fzcsd33.com
 127.0.0.1 gpqicw.xyz
 127.0.0.1 gwvzgjb.cn
@@ -110,6 +117,7 @@
 127.0.0.1 lianxi.link
 127.0.0.1 linuozhiyao.xyz
 127.0.0.1 lnnjnv.xyz
+127.0.0.1 luckydino.ren
 127.0.0.1 lwtqqq.com
 127.0.0.1 lxbbs.fun
 127.0.0.1 mhegew.xyz
@@ -130,6 +138,8 @@
 127.0.0.1 pansclub.xyz
 127.0.0.1 pbgtpjz.cn
 127.0.0.1 peishuning1.cn
+127.0.0.1 piaochong.co
+127.0.0.1 pithjpf.cn
 127.0.0.1 pkkylyx.xyz
 127.0.0.1 poiqwnekb.com
 127.0.0.1 poopd.xyz
@@ -162,6 +172,7 @@
 127.0.0.1 tianma704.ltd
 127.0.0.1 tmochyf.cn
 127.0.0.1 tqdpqq.com
+127.0.0.1 txphjl.xyz
 127.0.0.1 ubifyc.xyz
 127.0.0.1 uqelxct.cn
 127.0.0.1 uqymady.cn
@@ -185,6 +196,8 @@
 127.0.0.1 wvwl.cn
 127.0.0.1 xbvmrx.xyz
 127.0.0.1 xcaukve.cn
+127.0.0.1 xckyqq.com
+127.0.0.1 xiaochen1.cn
 127.0.0.1 xingyang.in
 127.0.0.1 xlxknf.xyz
 127.0.0.1 xni.ink

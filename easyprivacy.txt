@@ -42,6 +42,7 @@
 127.0.0.1 briskpelican.io
 127.0.0.1 brontops.com
 127.0.0.1 btloader.com
+127.0.0.1 bx-cloud.com
 127.0.0.1 bydst.com
 127.0.0.1 cadsuta.net
 127.0.0.1 cbdatatracker.com
@@ -178,6 +179,8 @@
 127.0.0.1 mb-tracking.com
 127.0.0.1 mcangelus.com
 127.0.0.1 mdhv.io
+127.0.0.1 medaipvx.com
+127.0.0.1 medaipxv.com
 127.0.0.1 mediamathrdrt.com
 127.0.0.1 mediapvx.com
 127.0.0.1 mediapxv.com
@@ -3178,6 +3181,7 @@
 127.0.0.1 analytics.vedantu.com
 127.0.0.1 analytics.wavebox.io
 127.0.0.1 analytics.yugen.to
+127.0.0.1 analytics2.dashboard.fingerprint.com
 127.0.0.1 anon-stats.eff.org
 127.0.0.1 api-js.mixpanel.com
 127.0.0.1 appanalysis.banggood.com
@@ -3200,6 +3204,7 @@
 127.0.0.1 binocule21c.merriam-webster.com
 127.0.0.1 blitz-analytics-batch-server.blitz.gg
 127.0.0.1 boomerang.dell.com
+127.0.0.1 c.fingerprint.com
 127.0.0.1 c.wort-suche.com
 127.0.0.1 c.x.oanda.com
 127.0.0.1 c.xbox.com
@@ -3307,6 +3312,7 @@
 127.0.0.1 fpa-cdn.arstechnica.com
 127.0.0.1 fpa-cdn.decrypt.co
 127.0.0.1 fpa-events.decrypt.co
+127.0.0.1 fpa.fingerprint.com
 127.0.0.1 fpt.microsoft.com
 127.0.0.1 fresnel-events.vimeocdn.com
 127.0.0.1 g.ign.com
