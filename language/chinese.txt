@@ -4,6 +4,7 @@
 127.0.0.1 230579.top
 127.0.0.1 39nw.com
 127.0.0.1 52qd.club
+127.0.0.1 7067.top
 127.0.0.1 7xwx.cn
 127.0.0.1 8b4v.cn
 127.0.0.1 92ph.cn
@@ -14,6 +15,8 @@
 127.0.0.1 aaaaa699.com
 127.0.0.1 aaaaa855.com
 127.0.0.1 aamv.vip
+127.0.0.1 adbtwyxl96.fun
+127.0.0.1 agwdac.xyz
 127.0.0.1 aircraft-fapi.club
 127.0.0.1 ajucem.xyz
 127.0.0.1 akdhiahcjojdkck.com
@@ -36,6 +39,7 @@
 127.0.0.1 ccohayo.xyz
 127.0.0.1 cdcc3.com
 127.0.0.1 cdfda.xyz
+127.0.0.1 cennv.cn
 127.0.0.1 chaozhunbb.xyz
 127.0.0.1 chnuuee.xyz
 127.0.0.1 ck33.top
@@ -68,9 +72,11 @@
 127.0.0.1 flyinsky2009.ltd
 127.0.0.1 fnnzr.cn
 127.0.0.1 fssxyiq.cn
+127.0.0.1 fthqzxq.cn
 127.0.0.1 fvzljv.xyz
 127.0.0.1 fweia.xyz
 127.0.0.1 fzcsd33.com
+127.0.0.1 giold.xyz
 127.0.0.1 gpqicw.xyz
 127.0.0.1 gwvzgjb.cn
 127.0.0.1 gzexsc.top
@@ -88,6 +94,7 @@
 127.0.0.1 hxes.cn
 127.0.0.1 hxpmbb.xyz
 127.0.0.1 hxtiojs.cn
+127.0.0.1 hzoijcm.cn
 127.0.0.1 icesfeathers.fun
 127.0.0.1 iepda.xyz
 127.0.0.1 ijnuhb.top
@@ -120,6 +127,7 @@
 127.0.0.1 luckydino.ren
 127.0.0.1 lwtqqq.com
 127.0.0.1 lxbbs.fun
+127.0.0.1 mfifsux.xyz
 127.0.0.1 mhegew.xyz
 127.0.0.1 mindopu.com
 127.0.0.1 moend.xyz
@@ -149,11 +157,13 @@
 127.0.0.1 prlioxb.cn
 127.0.0.1 prtlth.xyz
 127.0.0.1 qatuaad.cn
+127.0.0.1 qfdtqq.com
 127.0.0.1 qingdou.ltd
 127.0.0.1 qiwjiy.xyz
 127.0.0.1 qpoiwnelc.com
 127.0.0.1 qqied.xyz
 127.0.0.1 qwrdj.xyz
+127.0.0.1 ra1.xyz
 127.0.0.1 rcxysoj.cn
 127.0.0.1 readme.red
 127.0.0.1 reffnik.cn
@@ -162,8 +172,10 @@
 127.0.0.1 rtjmln.xyz
 127.0.0.1 scrvw3.com
 127.0.0.1 sh6ss7.top
+127.0.0.1 shangyuan.ltd
 127.0.0.1 sisjwol.xyz
 127.0.0.1 sjalipa.cn
+127.0.0.1 skluff.com
 127.0.0.1 smailes.pro
 127.0.0.1 sozrrkx.xyz
 127.0.0.1 szsbiw.xyz
@@ -172,6 +184,7 @@
 127.0.0.1 tianma704.ltd
 127.0.0.1 tmochyf.cn
 127.0.0.1 tqdpqq.com
+127.0.0.1 turifb.xyz
 127.0.0.1 txphjl.xyz
 127.0.0.1 ubifyc.xyz
 127.0.0.1 uqelxct.cn
@@ -184,6 +197,7 @@
 127.0.0.1 vorluic.cn
 127.0.0.1 vujhaib.cn
 127.0.0.1 vzfizr.xyz
+127.0.0.1 w4jz.top
 127.0.0.1 wangjc.ltd
 127.0.0.1 wangjiayi.fun
 127.0.0.1 wangyq.ltd

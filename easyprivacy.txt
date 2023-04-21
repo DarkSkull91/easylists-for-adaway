@@ -3209,6 +3209,7 @@
 127.0.0.1 c.x.oanda.com
 127.0.0.1 c.xbox.com
 127.0.0.1 cl.canva.com
+127.0.0.1 clanker-events.squarespace.com
 127.0.0.1 clarice.streema.com
 127.0.0.1 click.nudevista.com
 127.0.0.1 click.oneplus.com
@@ -3300,6 +3301,7 @@
 127.0.0.1 events.reddit.com
 127.0.0.1 events.redditmedia.com
 127.0.0.1 events.santander.co.uk
+127.0.0.1 events.squarespace.com
 127.0.0.1 events.turbosquid.com
 127.0.0.1 exr-mms.expertreviews.co.uk
 127.0.0.1 f362.nola.com
@@ -3701,6 +3703,7 @@
 127.0.0.1 ua.indianexpress.com
 127.0.0.1 ubuyanalytics.ubuy.com
 127.0.0.1 uie.data.cbc.ca
+127.0.0.1 um.contentstudio.io
 127.0.0.1 umami.wakarimasen.moe
 127.0.0.1 urs.metacritic.com
 127.0.0.1 user-metrics.onthemarket.com
@@ -16109,6 +16112,7 @@
 127.0.0.1 ymprove.web.de
 127.0.0.1 ia.ekstrabladet.dk
 127.0.0.1 analytics.allovoisins.com
+127.0.0.1 bmly.impots.gouv.fr
 127.0.0.1 cdtm.cdiscount.com
 127.0.0.1 compteur.developpez.com
 127.0.0.1 e.legalstart.fr
