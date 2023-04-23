@@ -1,5 +1,7 @@
+127.0.0.1 0776.red
 127.0.0.1 08u6q.com
 127.0.0.1 1136999.com
+127.0.0.1 1512a.com
 127.0.0.1 18so.vip
 127.0.0.1 230579.top
 127.0.0.1 39nw.com
@@ -10,6 +12,7 @@
 127.0.0.1 8b4v.cn
 127.0.0.1 92ph.cn
 127.0.0.1 9itan.cc
+127.0.0.1 9vs0.cn
 127.0.0.1 aaaaa288.com
 127.0.0.1 aaaaa556.com
 127.0.0.1 aaaaa599.com
@@ -38,6 +41,7 @@
 127.0.0.1 betgdr.xyz
 127.0.0.1 bkae.top
 127.0.0.1 blxfqq.com
+127.0.0.1 bovhzz.xyz
 127.0.0.1 bqcxgbm.cn
 127.0.0.1 brkzczn.cn
 127.0.0.1 bwwlw.cn
@@ -83,6 +87,7 @@
 127.0.0.1 fvzljv.xyz
 127.0.0.1 fweia.xyz
 127.0.0.1 fzcsd33.com
+127.0.0.1 gaokao.asia
 127.0.0.1 giold.xyz
 127.0.0.1 gpqicw.xyz
 127.0.0.1 gwvzgjb.cn
@@ -99,12 +104,15 @@
 127.0.0.1 himeneko.ink
 127.0.0.1 hsrgnac.cn
 127.0.0.1 huaweinnd.top
+127.0.0.1 hunlimd.cn
 127.0.0.1 hxes.cn
 127.0.0.1 hxpmbb.xyz
 127.0.0.1 hxtiojs.cn
 127.0.0.1 hzoijcm.cn
+127.0.0.1 iaacua.xyz
 127.0.0.1 icesfeathers.fun
 127.0.0.1 iepda.xyz
+127.0.0.1 iidjo.xyz
 127.0.0.1 ijnuhb.top
 127.0.0.1 imu2021.site
 127.0.0.1 ioiksw.cn
@@ -126,6 +134,7 @@
 127.0.0.1 kingsunsky.ltd
 127.0.0.1 kkgytur.cn
 127.0.0.1 kkylx.xyz
+127.0.0.1 kmlxlkz.cn
 127.0.0.1 kpqdkg.xyz
 127.0.0.1 kucoa.xyz
 127.0.0.1 kzjqraj.cn
@@ -192,6 +201,7 @@
 127.0.0.1 sjalipa.cn
 127.0.0.1 skluff.com
 127.0.0.1 smailes.pro
+127.0.0.1 smmmqq.com
 127.0.0.1 sozrrkx.xyz
 127.0.0.1 szsbiw.xyz
 127.0.0.1 tc911.vip
@@ -209,6 +219,7 @@
 127.0.0.1 uqelxct.cn
 127.0.0.1 uqymady.cn
 127.0.0.1 uu5731uu.com
+127.0.0.1 uu7819uu.com
 127.0.0.1 uwhreur.cn
 127.0.0.1 v0cf.xyz
 127.0.0.1 vel7.xyz
@@ -227,12 +238,14 @@
 127.0.0.1 web4023.top
 127.0.0.1 weeqmcq.cn
 127.0.0.1 whbn.xyz
+127.0.0.1 wjaqc.xyz
 127.0.0.1 wvwl.cn
 127.0.0.1 wwgqqq.com
 127.0.0.1 xbvmrx.xyz
 127.0.0.1 xcaukve.cn
 127.0.0.1 xckyqq.com
 127.0.0.1 xiaochen1.cn
+127.0.0.1 xiaoliublog.icu
 127.0.0.1 xingyang.in
 127.0.0.1 xiod.xyz
 127.0.0.1 xlxknf.xyz
@@ -249,6 +262,7 @@
 127.0.0.1 zbvchabjbcj.com
 127.0.0.1 zdkdwk.buzz
 127.0.0.1 zdlnhv.xyz
+127.0.0.1 zdyuoae.xyz
 127.0.0.1 zhalinyyds.com
 127.0.0.1 zhemu.xyz
 127.0.0.1 zhouduanyyds.com

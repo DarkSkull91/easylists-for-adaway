@@ -3810,6 +3810,7 @@
 127.0.0.1 sourcepoint-mms.mylifetime.com
 127.0.0.1 twus-mms.theweek.com
 127.0.0.1 usgamer-us.usgamer.net
+127.0.0.1 vg247-p2.vg247.com
 127.0.0.1 cdn1.pebx.pl
 127.0.0.1 piti.bplaced.net
 127.0.0.1 primate.dmarcdigests.com

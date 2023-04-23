@@ -69,6 +69,7 @@
 127.0.0.1 rba-screen.healthsafe-id.com
 127.0.0.1 rsx.afterpay.com
 127.0.0.1 tmetrix.my.chick-fil-a.com
+127.0.0.1 tmx.bestbuy.com
 127.0.0.1 tmx.td.com
 127.0.0.1 u44.pnc.com
 127.0.0.1 u47.pnc.com
