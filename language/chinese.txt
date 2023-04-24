@@ -274,6 +274,18 @@
 127.0.0.1 zrbabog.cn
 127.0.0.1 zsblog.vip
 127.0.0.1 zscgoqt.cn
+127.0.0.1 tpjmqq.com
+127.0.0.1 smlmupi.cn
+127.0.0.1 vlinz.icu
+127.0.0.1 qkcaqq.xyz
+127.0.0.1 jeidd.xyz
+127.0.0.1 jyxfvp.xyz
+127.0.0.1 jbtfmis.xyz
+127.0.0.1 dtnhjzl.xyz
+127.0.0.1 yywh.vip
+127.0.0.1 amryqmm.cn
+127.0.0.1 donku.club
+127.0.0.1 wxxmt.xyz
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
@@ -6460,6 +6472,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 daima.aixiaola.com
 127.0.0.1 003store.com
 127.0.0.1 0941.org
 127.0.0.1 1.01fy.cn

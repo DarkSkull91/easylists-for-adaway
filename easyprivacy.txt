@@ -184,6 +184,7 @@
 127.0.0.1 mediamathrdrt.com
 127.0.0.1 mediapvx.com
 127.0.0.1 mediapxv.com
+127.0.0.1 mediaxpf.com
 127.0.0.1 micpn.com
 127.0.0.1 mitour.de
 127.0.0.1 ml-sys.xyz
@@ -833,6 +834,7 @@
 127.0.0.1 hatefulrequest.com
 127.0.0.1 hauntlist.com
 127.0.0.1 headyhook.com
+127.0.0.1 healflowers.com
 127.0.0.1 hearinglizards.com
 127.0.0.1 heavyplayground.com
 127.0.0.1 helpcollar.com
@@ -938,6 +940,7 @@
 127.0.0.1 materialisticfan.com
 127.0.0.1 materialisticmark.com
 127.0.0.1 materialisticmoon.com
+127.0.0.1 materialplayground.com
 127.0.0.1 measlymiddle.com
 127.0.0.1 measurecaption.com
 127.0.0.1 meatydime.com
@@ -2347,6 +2350,7 @@
 127.0.0.1 tr.marsflag.com
 127.0.0.1 tr.outbrain.com
 127.0.0.1 tr.snapchat.com
+127.0.0.1 tr.vitals.co
 127.0.0.1 tr.webantenna.info
 127.0.0.1 tr1.mailperformance.com
 127.0.0.1 traccoon.intellectsoft.net
@@ -3316,6 +3320,7 @@
 127.0.0.1 fpa-cdn.decrypt.co
 127.0.0.1 fpa-events.decrypt.co
 127.0.0.1 fpa.fingerprint.com
+127.0.0.1 fpb.fingerprint.com
 127.0.0.1 fpt.microsoft.com
 127.0.0.1 fresnel-events.vimeocdn.com
 127.0.0.1 g.ign.com
