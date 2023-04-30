@@ -1621,6 +1621,7 @@
 127.0.0.1 analytics.myfinance.com
 127.0.0.1 analytics.newscred.com
 127.0.0.1 analytics.onlyonlinemarketing.com
+127.0.0.1 analytics.ooyala.com
 127.0.0.1 analytics.optilead.co.uk
 127.0.0.1 analytics.orenshmu.com
 127.0.0.1 analytics.ostr.io
@@ -2315,6 +2316,7 @@
 127.0.0.1 tag.rightmessage.com
 127.0.0.1 tag.rmp.rakuten.com
 127.0.0.1 tag.statshop.fr
+127.0.0.1 tagger.opecloud.com
 127.0.0.1 tags.catapultx.com
 127.0.0.1 tags.cdn.circlesix.co
 127.0.0.1 tags.clickagy.com
@@ -2695,6 +2697,7 @@
 127.0.0.1 d.nativendo.de
 127.0.0.1 d.omsnative.de
 127.0.0.1 data.econa.com
+127.0.0.1 data.kameleoon.io
 127.0.0.1 et.twyn.com
 127.0.0.1 events.onet.pl
 127.0.0.1 geo.mtvnn.com
@@ -18449,6 +18452,7 @@
 127.0.0.1 cellstats.mako.co.il
 127.0.0.1 ds.haaretz.co.il
 127.0.0.1 stats.mako.co.il
+127.0.0.1 beam.telex.hu
 127.0.0.1 events.ingatlan.com
 127.0.0.1 outal.origo.hu
 127.0.0.1 analytic20.detik.com
@@ -18520,6 +18524,7 @@
 127.0.0.1 stat.i3.dmm.com
 127.0.0.1 stat.tiara.daum.net
 127.0.0.1 stat.tiara.kakao.com
+127.0.0.1 stat.tiara.tistory.com
 127.0.0.1 track.tiara.daum.net
 127.0.0.1 track.tiara.kakao.com
 127.0.0.1 tracker.cauly.co.kr
@@ -18533,6 +18538,7 @@
 127.0.0.1 collect.state.centrum24.pl
 127.0.0.1 entryhit.wp.pl
 127.0.0.1 eventstream.dodopizza.com
+127.0.0.1 kropka.onet.pl
 127.0.0.1 mklik.gazeta.pl
 127.0.0.1 p.gazeta.pl
 127.0.0.1 pixel.wp.pl

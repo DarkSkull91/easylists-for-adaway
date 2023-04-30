@@ -6,6 +6,7 @@
 127.0.0.1 230579.top
 127.0.0.1 331qka.cn
 127.0.0.1 39nw.com
+127.0.0.1 480img.com
 127.0.0.1 52qd.club
 127.0.0.1 5xur.top
 127.0.0.1 7067.top
@@ -15,6 +16,7 @@
 127.0.0.1 92ph.cn
 127.0.0.1 9itan.cc
 127.0.0.1 9vs0.cn
+127.0.0.1 a3kd0.top
 127.0.0.1 aaaaa288.com
 127.0.0.1 aaaaa556.com
 127.0.0.1 aaaaa599.com
@@ -23,6 +25,7 @@
 127.0.0.1 aaaaa855.com
 127.0.0.1 aaaaa882.com
 127.0.0.1 aamv.vip
+127.0.0.1 aceik.xyz
 127.0.0.1 adbtwyxl96.fun
 127.0.0.1 agwdac.xyz
 127.0.0.1 aircraft-fapi.club
@@ -35,18 +38,22 @@
 127.0.0.1 aniem44.cc
 127.0.0.1 anifk71.cc
 127.0.0.1 aniqgsz.cc
+127.0.0.1 antheaceliacd.com
 127.0.0.1 aprlitj.cn
 127.0.0.1 aqpvglv.cn
 127.0.0.1 awdc6.com
 127.0.0.1 baitu1llbkotsfthllcjeg.com
 127.0.0.1 balspaulite.com
 127.0.0.1 bcivqxd.cn
+127.0.0.1 beiod.xyz
 127.0.0.1 bekco.xyz
 127.0.0.1 betgdr.xyz
 127.0.0.1 bkae.top
 127.0.0.1 blxfqq.com
 127.0.0.1 bovhzz.xyz
+127.0.0.1 boyi.info
 127.0.0.1 bqcxgbm.cn
+127.0.0.1 bqdyqq.com
 127.0.0.1 brkzczn.cn
 127.0.0.1 bwwlw.cn
 127.0.0.1 campu.ltd
@@ -54,6 +61,7 @@
 127.0.0.1 ccohayo.xyz
 127.0.0.1 cdcc3.com
 127.0.0.1 cdfda.xyz
+127.0.0.1 cdn-99-pic.cc
 127.0.0.1 cennv.cn
 127.0.0.1 cfxkluv.cn
 127.0.0.1 cge.cc
@@ -75,11 +83,13 @@
 127.0.0.1 doccd.xyz
 127.0.0.1 donku.club
 127.0.0.1 dqazwsxd.xyz
+127.0.0.1 dsctnsn.xyz
 127.0.0.1 dtjhtp.xyz
 127.0.0.1 dtnhjzl.xyz
 127.0.0.1 dyhnbgtsl.xyz
 127.0.0.1 ealdi.xyz
 127.0.0.1 ecav5.com
+127.0.0.1 efilgvz.cn
 127.0.0.1 eitb7.top
 127.0.0.1 ej65.xyz
 127.0.0.1 enahmy.xyz
@@ -102,7 +112,9 @@
 127.0.0.1 fzcsd33.com
 127.0.0.1 gaokao.asia
 127.0.0.1 giold.xyz
+127.0.0.1 gjxczx.xyz
 127.0.0.1 goiagm.xyz
+127.0.0.1 golden88.co
 127.0.0.1 gpqicw.xyz
 127.0.0.1 gwvzgjb.cn
 127.0.0.1 gxemtes.xyz
@@ -119,9 +131,11 @@
 127.0.0.1 hgpdoa.cn
 127.0.0.1 hhrnxr.xyz
 127.0.0.1 himeneko.ink
+127.0.0.1 hsili.ltd
 127.0.0.1 hsrgnac.cn
 127.0.0.1 huaweinnd.top
 127.0.0.1 hunlimd.cn
+127.0.0.1 hwhefj.xyz
 127.0.0.1 hxes.cn
 127.0.0.1 hxpmbb.xyz
 127.0.0.1 hxtiojs.cn
@@ -129,6 +143,7 @@
 127.0.0.1 iaacua.xyz
 127.0.0.1 icesfeathers.fun
 127.0.0.1 iepda.xyz
+127.0.0.1 igtchzp.cn
 127.0.0.1 iidjo.xyz
 127.0.0.1 ijnuhb.top
 127.0.0.1 imu2021.site
@@ -142,6 +157,7 @@
 127.0.0.1 jeidd.xyz
 127.0.0.1 jerrytom.xyz
 127.0.0.1 jfanhao.com
+127.0.0.1 jiangzimeng1.cn
 127.0.0.1 jiqadoi.cn
 127.0.0.1 jiuba20230320.live
 127.0.0.1 jlzz.name
@@ -151,6 +167,7 @@
 127.0.0.1 jwjdpab.cn
 127.0.0.1 jwronx.xyz
 127.0.0.1 jyxfvp.xyz
+127.0.0.1 kabuto.pro
 127.0.0.1 kayzqar.cn
 127.0.0.1 kbabqnd.cn
 127.0.0.1 kfocoq.xyz
@@ -192,6 +209,7 @@
 127.0.0.1 nqyz.tw
 127.0.0.1 nurahf.xyz
 127.0.0.1 nvchmkw.cn
+127.0.0.1 oimzak.xyz
 127.0.0.1 ojuhwc.xyz
 127.0.0.1 on-you.cn
 127.0.0.1 opida.xyz
@@ -203,6 +221,7 @@
 127.0.0.1 pbgtpjz.cn
 127.0.0.1 pedjqkl.xyz
 127.0.0.1 peishuning1.cn
+127.0.0.1 pgjcbz.xyz
 127.0.0.1 piaochong.co
 127.0.0.1 pithjpf.cn
 127.0.0.1 pkkylyx.xyz
@@ -215,6 +234,7 @@
 127.0.0.1 prtlth.xyz
 127.0.0.1 qatuaad.cn
 127.0.0.1 qfdtqq.com
+127.0.0.1 qhvszsl.cn
 127.0.0.1 qianjiao45wde15.xyz
 127.0.0.1 qingdou.ltd
 127.0.0.1 qiwjiy.xyz
@@ -247,6 +267,7 @@
 127.0.0.1 smlmupi.cn
 127.0.0.1 smmmqq.com
 127.0.0.1 sozrrkx.xyz
+127.0.0.1 svrojrv.cn
 127.0.0.1 szsbiw.xyz
 127.0.0.1 tc911.vip
 127.0.0.1 tffulllist.shop
@@ -255,10 +276,12 @@
 127.0.0.1 tmochyf.cn
 127.0.0.1 tpjmqq.com
 127.0.0.1 tqdpqq.com
+127.0.0.1 tuhipkz.xyz
 127.0.0.1 turifb.xyz
 127.0.0.1 txphjl.xyz
 127.0.0.1 u1010.com
 127.0.0.1 u1077.com
+127.0.0.1 u55022.com
 127.0.0.1 u833ij.com
 127.0.0.1 ubifyc.xyz
 127.0.0.1 umcpebi.cn
@@ -266,6 +289,8 @@
 127.0.0.1 uqymady.cn
 127.0.0.1 uu5731uu.com
 127.0.0.1 uu7819uu.com
+127.0.0.1 uu9735uu.com
+127.0.0.1 uuuxyjh.cn
 127.0.0.1 uwhreur.cn
 127.0.0.1 uzuarlv.cn
 127.0.0.1 v0cf.xyz
@@ -290,6 +315,7 @@
 127.0.0.1 whbn.xyz
 127.0.0.1 windyang.xyz
 127.0.0.1 wjaqc.xyz
+127.0.0.1 wsoxwa.xyz
 127.0.0.1 wvwl.cn
 127.0.0.1 wwgqqq.com
 127.0.0.1 wwqfqq.com
@@ -299,6 +325,8 @@
 127.0.0.1 xbvmrx.xyz
 127.0.0.1 xcaukve.cn
 127.0.0.1 xckyqq.com
+127.0.0.1 xcysqq.com
+127.0.0.1 xiaobixiaobi.com
 127.0.0.1 xiaochen1.cn
 127.0.0.1 xiaoliublog.icu
 127.0.0.1 xingyang.in
@@ -307,10 +335,12 @@
 127.0.0.1 xlsds888.xyz
 127.0.0.1 xlxknf.xyz
 127.0.0.1 xni.ink
+127.0.0.1 xnjvn1.com
 127.0.0.1 xrkyqq.com
 127.0.0.1 xueyugaoyuan.xyz
 127.0.0.1 xunjie.fun
 127.0.0.1 xyjcpcb.cn
+127.0.0.1 yanghetp.com
 127.0.0.1 yangyuqing.xyz
 127.0.0.1 yankuoyyds.com
 127.0.0.1 yb0a.xyz
@@ -327,6 +357,7 @@
 127.0.0.1 zcdfll.xyz
 127.0.0.1 zdkdwk.buzz
 127.0.0.1 zdlnhv.xyz
+127.0.0.1 zdo-bdg.xyz
 127.0.0.1 zdyuoae.xyz
 127.0.0.1 zhalinyyds.com
 127.0.0.1 zhemu.xyz
@@ -339,20 +370,9 @@
 127.0.0.1 zoushao.xyz
 127.0.0.1 zpfqolj.cn
 127.0.0.1 zrbabog.cn
+127.0.0.1 zrrnqq.com
 127.0.0.1 zsblog.vip
 127.0.0.1 zscgoqt.cn
-127.0.0.1 efilgvz.cn
-127.0.0.1 zrrnqq.com
-127.0.0.1 xcysqq.com
-127.0.0.1 oimzak.xyz
-127.0.0.1 tuhipkz.xyz
-127.0.0.1 aceik.xyz
-127.0.0.1 jiangzimeng1.cn
-127.0.0.1 hwhefj.xyz
-127.0.0.1 svrojrv.cn
-127.0.0.1 gjxczx.xyz
-127.0.0.1 a3kd0.top
-127.0.0.1 hsili.ltd
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
@@ -2713,7 +2733,6 @@
 127.0.0.1 inpnjq.cn
 127.0.0.1 inscan.cn
 127.0.0.1 into4g.mobi
-127.0.0.1 invida.net.cn
 127.0.0.1 ioaiaou.cn
 127.0.0.1 ioeq5cead.icu
 127.0.0.1 iojgo.com
@@ -6873,7 +6892,6 @@
 127.0.0.1 ckg.vipyl.com
 127.0.0.1 classic.39health.com
 127.0.0.1 cm.baidu.com
-127.0.0.1 ydjs.luyouwang.com
 127.0.0.1 cn.bidushe.com
 127.0.0.1 cn6x.com
 127.0.0.1 cod.southmoney.com
@@ -7312,6 +7330,7 @@
 127.0.0.1 y1.spreton.com
 127.0.0.1 y66xvgo5i.chuimg.com
 127.0.0.1 yan.zhouguanchen.com
+127.0.0.1 ydjs.luyouwang.com
 127.0.0.1 yi.ximizi.com
 127.0.0.1 yijiuningyia.gushiwen.org
 127.0.0.1 yin1.zgpingshu.com
