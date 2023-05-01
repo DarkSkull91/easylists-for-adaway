@@ -1547,6 +1547,7 @@
 127.0.0.1 actioniq.mr-in.com
 127.0.0.1 activity.wisepops.com
 127.0.0.1 ad.aloodo.com
+127.0.0.1 adfox.yandex.ru
 127.0.0.1 adlog.com.com
 127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 affiliates.minglematch.com
@@ -1563,6 +1564,7 @@
 127.0.0.1 analyticcdn.globalmailer.com
 127.0.0.1 analytics-1.cavai.com
 127.0.0.1 analytics-cms.whitebeard.me
+127.0.0.1 analytics-consent-manager-v2-prod.azureedge.net
 127.0.0.1 analytics-production.hapyak.com
 127.0.0.1 analytics-scripts.cablelabs.com
 127.0.0.1 analytics-sg.tiktok.com
@@ -2820,6 +2822,7 @@
 127.0.0.1 pos.baidu.com
 127.0.0.1 pv.hd.sohu.com
 127.0.0.1 pv.kuaizhan.com
+127.0.0.1 pv.sohu.com
 127.0.0.1 px.effirst.com
 127.0.0.1 r.sax.sina.com.cn
 127.0.0.1 report.meituan.com
@@ -3089,6 +3092,7 @@
 127.0.0.1 datanoticias.prisasd.com
 127.0.0.1 g-stats.openhost.es
 127.0.0.1 hits.eluniversal.com.mx
+127.0.0.1 mat.socy.es
 127.0.0.1 mtm.qdqmedia.com
 127.0.0.1 pub.servidoresge.com
 127.0.0.1 sp.vtex.com
@@ -3695,7 +3699,6 @@
 127.0.0.1 tredir.go.com
 127.0.0.1 trx3.famousfix.com
 127.0.0.1 ts.delfi.lt
-127.0.0.1 u989.theweek.com
 127.0.0.1 ua.indianexpress.com
 127.0.0.1 ubuyanalytics.ubuy.com
 127.0.0.1 uie.data.cbc.ca
@@ -3784,7 +3787,6 @@
 127.0.0.1 z680.beaumontenterprise.com
 127.0.0.1 zion.qbo.intuit.com
 127.0.0.1 cb-mms.carbuyer.co.uk
-127.0.0.1 cdn-alliancegravity.s3.amazonaws.com
 127.0.0.1 cmp.courrierinternational.com
 127.0.0.1 cmp.finn.no
 127.0.0.1 cmp.huffingtonpost.fr
@@ -3796,17 +3798,12 @@
 127.0.0.1 cmp.tech426.com
 127.0.0.1 cmp.tek.no
 127.0.0.1 d.sourcepoint.capitalfm.com
-127.0.0.1 eurogamer-it.eurogamer.it
-127.0.0.1 eurogamer-pl.eurogamer.pl
-127.0.0.1 eurogamer-pt.eurogamer.pt
 127.0.0.1 fuse.forbes.com
-127.0.0.1 mms.wwe.com
 127.0.0.1 sourcepoint-mms.aetv.com
 127.0.0.1 sourcepoint-mms.history.com
 127.0.0.1 sourcepoint-mms.mylifetime.com
-127.0.0.1 twus-mms.theweek.com
-127.0.0.1 usgamer-us.usgamer.net
 127.0.0.1 vg247-p2.vg247.com
+127.0.0.1 vg247-uk.vg247.com
 127.0.0.1 cdn1.pebx.pl
 127.0.0.1 piti.bplaced.net
 127.0.0.1 primate.dmarcdigests.com
@@ -18529,6 +18526,7 @@
 127.0.0.1 track.tiara.kakao.com
 127.0.0.1 tracker.cauly.co.kr
 127.0.0.1 uts.auction.co.kr
+127.0.0.1 wcs.naver.com
 127.0.0.1 weblog.eseoul.go.kr
 127.0.0.1 weblog2.eseoul.go.kr
 127.0.0.1 stats.tunt.lv
@@ -18579,6 +18577,7 @@
 127.0.0.1 pixels.boxberry.ru
 127.0.0.1 pulsarback.mail.ru
 127.0.0.1 radar.imgsmail.ru
+127.0.0.1 ssp.rambler.ru
 127.0.0.1 stat.5-tv.ru
 127.0.0.1 stat.api.2gis.ru
 127.0.0.1 stat.bankiros.ru

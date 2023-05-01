@@ -6,7 +6,9 @@
 127.0.0.1 230579.top
 127.0.0.1 331qka.cn
 127.0.0.1 39nw.com
+127.0.0.1 4388888.xyz
 127.0.0.1 480img.com
+127.0.0.1 4cjh.xyz
 127.0.0.1 52qd.club
 127.0.0.1 5xur.top
 127.0.0.1 7067.top
@@ -29,6 +31,7 @@
 127.0.0.1 adbtwyxl96.fun
 127.0.0.1 agwdac.xyz
 127.0.0.1 aircraft-fapi.club
+127.0.0.1 ajjgune.cn
 127.0.0.1 ajucem.xyz
 127.0.0.1 akdhiahcjojdkck.com
 127.0.0.1 alejd.xyz
@@ -61,6 +64,7 @@
 127.0.0.1 ccohayo.xyz
 127.0.0.1 cdcc3.com
 127.0.0.1 cdfda.xyz
+127.0.0.1 cdkke.xyz
 127.0.0.1 cdn-99-pic.cc
 127.0.0.1 cennv.cn
 127.0.0.1 cfxkluv.cn
@@ -116,6 +120,7 @@
 127.0.0.1 goiagm.xyz
 127.0.0.1 golden88.co
 127.0.0.1 gpqicw.xyz
+127.0.0.1 grxeyig.xyz
 127.0.0.1 gwvzgjb.cn
 127.0.0.1 gxemtes.xyz
 127.0.0.1 gykyec.xyz
@@ -158,6 +163,7 @@
 127.0.0.1 jerrytom.xyz
 127.0.0.1 jfanhao.com
 127.0.0.1 jiangzimeng1.cn
+127.0.0.1 jinmin.online
 127.0.0.1 jiqadoi.cn
 127.0.0.1 jiuba20230320.live
 127.0.0.1 jlzz.name
@@ -199,6 +205,7 @@
 127.0.0.1 mindopu.com
 127.0.0.1 moend.xyz
 127.0.0.1 mrgecm.xyz
+127.0.0.1 mrruuov.cn
 127.0.0.1 nagmopd.cn
 127.0.0.1 naned.xyz
 127.0.0.1 ncyx.ltd
@@ -229,6 +236,7 @@
 127.0.0.1 poopd.xyz
 127.0.0.1 poqwnllkm.com
 127.0.0.1 ppshop.club
+127.0.0.1 pqldzp.xyz
 127.0.0.1 pqxyqq.com
 127.0.0.1 prlioxb.cn
 127.0.0.1 prtlth.xyz
@@ -251,6 +259,7 @@
 127.0.0.1 reffnik.cn
 127.0.0.1 rencaihome.xyz
 127.0.0.1 rizgtf.xyz
+127.0.0.1 rksnqq.com
 127.0.0.1 rpajqxo.cn
 127.0.0.1 rqytqq.com
 127.0.0.1 rsbepv.xyz
@@ -359,6 +368,7 @@
 127.0.0.1 zdlnhv.xyz
 127.0.0.1 zdo-bdg.xyz
 127.0.0.1 zdyuoae.xyz
+127.0.0.1 zgyvg.top
 127.0.0.1 zhalinyyds.com
 127.0.0.1 zhemu.xyz
 127.0.0.1 zhoubo01.cn
