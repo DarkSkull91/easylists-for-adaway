@@ -1615,6 +1615,7 @@
 127.0.0.1 analytics.live.com
 127.0.0.1 analytics.livestream.com
 127.0.0.1 analytics.m7g.twitch.tv
+127.0.0.1 analytics.maikel.pro
 127.0.0.1 analytics.mailmunch.co
 127.0.0.1 analytics.matchbin.com
 127.0.0.1 analytics.midwesternmac.com
@@ -1725,6 +1726,7 @@
 127.0.0.1 bento.agoda.com
 127.0.0.1 bi.medscape.com
 127.0.0.1 bmrg.reflected.net
+127.0.0.1 bonfire.spklw.com
 127.0.0.1 botdetection.hbrsd.com
 127.0.0.1 browser-intake-datadoghq.com
 127.0.0.1 browser.pipe.aria.microsoft.com
@@ -1783,6 +1785,7 @@
 127.0.0.1 collector.getyourguide.com
 127.0.0.1 collector.mazeberry.com
 127.0.0.1 collector.sspinc.io
+127.0.0.1 collector5.zipy.ai
 127.0.0.1 commerce.bing.com
 127.0.0.1 connect.idocdn.com
 127.0.0.1 connext-cdn.azureedge.net
@@ -1913,6 +1916,7 @@
 127.0.0.1 f-log-test.grammarly.io
 127.0.0.1 fcmatch.google.com
 127.0.0.1 fcmatch.youtube.com
+127.0.0.1 felix.data.tm-awx.com
 127.0.0.1 filament-stats.herokuapp.com
 127.0.0.1 fingerprinter-production.herokuapp.com
 127.0.0.1 firebaselogging-pa.googleapis.com
@@ -2381,7 +2385,6 @@
 127.0.0.1 track.shop2market.com
 127.0.0.1 track.sitetag.us
 127.0.0.1 track.social.com
-127.0.0.1 track.sprinklecontent.com
 127.0.0.1 track.strife.com
 127.0.0.1 track.tcppu.com
 127.0.0.1 track.td3x.com
