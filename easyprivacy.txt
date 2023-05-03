@@ -1916,7 +1916,6 @@
 127.0.0.1 f-log-test.grammarly.io
 127.0.0.1 fcmatch.google.com
 127.0.0.1 fcmatch.youtube.com
-127.0.0.1 felix.data.tm-awx.com
 127.0.0.1 filament-stats.herokuapp.com
 127.0.0.1 fingerprinter-production.herokuapp.com
 127.0.0.1 firebaselogging-pa.googleapis.com
@@ -2157,6 +2156,7 @@
 127.0.0.1 ramp.purch.com
 127.0.0.1 reach-id.orbit.tm-awx.com
 127.0.0.1 realm.hearst3pcc.com
+127.0.0.1 recs.shareaholic.com
 127.0.0.1 refer.ccbill.com
 127.0.0.1 refer.wordpress.com
 127.0.0.1 referrer.disqus.com
@@ -2358,6 +2358,7 @@
 127.0.0.1 tr.vitals.co
 127.0.0.1 tr.webantenna.info
 127.0.0.1 traccoon.intellectsoft.net
+127.0.0.1 track-dark-bz.b-cdn.net
 127.0.0.1 track.360playvid.info
 127.0.0.1 track.91app.io
 127.0.0.1 track.99acres.com
@@ -3258,6 +3259,7 @@
 127.0.0.1 crumbs.robinhood.com
 127.0.0.1 cstats.sankakucomplex.com
 127.0.0.1 d.skk.moe
+127.0.0.1 data.allstate.com
 127.0.0.1 data.guide.photobucket.com
 127.0.0.1 data.younow.com
 127.0.0.1 datadome.patreon.com
@@ -18280,7 +18282,6 @@
 127.0.0.1 s5.charliehebdo.fr
 127.0.0.1 sta.zone-telechargement.day
 127.0.0.1 stat.ouedkniss.com
-127.0.0.1 stats.bouyguestelecom.fr
 127.0.0.1 stats.sexemodel.com
 127.0.0.1 stt.wawacity.onl
 127.0.0.1 t.blablacar.com

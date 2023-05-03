@@ -15,8 +15,10 @@
 127.0.0.1 7xwx.cn
 127.0.0.1 88885aaa.com
 127.0.0.1 8b4v.cn
+127.0.0.1 92f2m.top
 127.0.0.1 92ph.cn
 127.0.0.1 9603gg.cc
+127.0.0.1 9h622.top
 127.0.0.1 9itan.cc
 127.0.0.1 9vs0.cn
 127.0.0.1 a3kd0.top
@@ -54,6 +56,7 @@
 127.0.0.1 bekcd.xyz
 127.0.0.1 bekco.xyz
 127.0.0.1 betgdr.xyz
+127.0.0.1 bjwh8.xyz
 127.0.0.1 bkae.top
 127.0.0.1 blxfqq.com
 127.0.0.1 bovhzz.xyz
@@ -66,10 +69,12 @@
 127.0.0.1 cbhwekr.cn
 127.0.0.1 ccohayo.xyz
 127.0.0.1 cdcc3.com
+127.0.0.1 cderyu.club
 127.0.0.1 cdfda.xyz
 127.0.0.1 cdkke.xyz
 127.0.0.1 cdn-99-pic.cc
 127.0.0.1 cennv.cn
+127.0.0.1 ceodk.xyz
 127.0.0.1 cfxkluv.cn
 127.0.0.1 cge.cc
 127.0.0.1 chaozhunbb.xyz
@@ -104,6 +109,7 @@
 127.0.0.1 endio.xyz
 127.0.0.1 evmnlpv.cn
 127.0.0.1 excfig.xyz
+127.0.0.1 exwxrfz.cn
 127.0.0.1 falal.cn
 127.0.0.1 feiju12138.xyz
 127.0.0.1 feild.xyz
@@ -212,6 +218,7 @@
 127.0.0.1 mhegew.xyz
 127.0.0.1 mindopu.com
 127.0.0.1 moend.xyz
+127.0.0.1 mrbtkyn.xyz
 127.0.0.1 mrgecm.xyz
 127.0.0.1 mrruuov.cn
 127.0.0.1 nagmopd.cn
@@ -236,6 +243,7 @@
 127.0.0.1 pbgtpjz.cn
 127.0.0.1 pedjqkl.xyz
 127.0.0.1 peishuning1.cn
+127.0.0.1 pepnsnq.cn
 127.0.0.1 pgjcbz.xyz
 127.0.0.1 piaochong.co
 127.0.0.1 pithjpf.cn
@@ -256,6 +264,7 @@
 127.0.0.1 qingdou.ltd
 127.0.0.1 qiwjiy.xyz
 127.0.0.1 qkcaqq.xyz
+127.0.0.1 qkwsqq.com
 127.0.0.1 qpoiwnelc.com
 127.0.0.1 qqied.xyz
 127.0.0.1 qwahk.com
@@ -309,6 +318,7 @@
 127.0.0.1 uqelxct.cn
 127.0.0.1 uqymady.cn
 127.0.0.1 uu5731uu.com
+127.0.0.1 uu6921uu.com
 127.0.0.1 uu7819uu.com
 127.0.0.1 uu9735uu.com
 127.0.0.1 uuuxyjh.cn
@@ -316,6 +326,7 @@
 127.0.0.1 uzuarlv.cn
 127.0.0.1 v0cf.xyz
 127.0.0.1 vel7.xyz
+127.0.0.1 vifzrf.xyz
 127.0.0.1 vjhjxh.xyz
 127.0.0.1 vlinz.icu
 127.0.0.1 vnlqcod.cn
@@ -386,6 +397,7 @@
 127.0.0.1 zhemu.xyz
 127.0.0.1 zhoubo01.cn
 127.0.0.1 zhouduanyyds.com
+127.0.0.1 zhuxiao11.cn
 127.0.0.1 zjqs.shop
 127.0.0.1 zmfdjb.xyz
 127.0.0.1 znnodl.xyz
