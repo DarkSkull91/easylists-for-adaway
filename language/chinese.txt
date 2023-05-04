@@ -1,9 +1,11 @@
 127.0.0.1 0776.red
 127.0.0.1 08u6q.com
 127.0.0.1 1136999.com
+127.0.0.1 13niao20230422.live
 127.0.0.1 1512a.com
 127.0.0.1 18so.vip
 127.0.0.1 230579.top
+127.0.0.1 234mx.club
 127.0.0.1 331qka.cn
 127.0.0.1 39nw.com
 127.0.0.1 4388888.xyz
@@ -21,6 +23,7 @@
 127.0.0.1 9h622.top
 127.0.0.1 9itan.cc
 127.0.0.1 9vs0.cn
+127.0.0.1 9wsbf.top
 127.0.0.1 a3kd0.top
 127.0.0.1 aaaaa288.com
 127.0.0.1 aaaaa556.com
@@ -30,6 +33,7 @@
 127.0.0.1 aaaaa855.com
 127.0.0.1 aaaaa882.com
 127.0.0.1 aamv.vip
+127.0.0.1 acbe.club
 127.0.0.1 aceik.xyz
 127.0.0.1 acqc9.com
 127.0.0.1 adbtwyxl96.fun
@@ -78,6 +82,7 @@
 127.0.0.1 cfxkluv.cn
 127.0.0.1 cge.cc
 127.0.0.1 chaozhunbb.xyz
+127.0.0.1 chenyuzhou1.cn
 127.0.0.1 chnuuee.xyz
 127.0.0.1 cjbpqq.com
 127.0.0.1 cjcvd6.com
@@ -92,11 +97,15 @@
 127.0.0.1 dcqs4.com
 127.0.0.1 ddkep.xyz
 127.0.0.1 ddlipf.xyz
+127.0.0.1 denghaishan1.cn
 127.0.0.1 dertyhsf.xyz
+127.0.0.1 dgfqqq.com
+127.0.0.1 diekd.xyz
 127.0.0.1 doccd.xyz
 127.0.0.1 donku.club
 127.0.0.1 dqazwsxd.xyz
 127.0.0.1 dsctnsn.xyz
+127.0.0.1 dshapv.xyz
 127.0.0.1 dtjhtp.xyz
 127.0.0.1 dtnhjzl.xyz
 127.0.0.1 dyhnbgtsl.xyz
@@ -200,6 +209,7 @@
 127.0.0.1 kpqdkg.xyz
 127.0.0.1 kprjva.cn
 127.0.0.1 kucoa.xyz
+127.0.0.1 kzjkexn.cn
 127.0.0.1 kzjqraj.cn
 127.0.0.1 ledni.xyz
 127.0.0.1 lendc.xyz
@@ -348,6 +358,7 @@
 127.0.0.1 whbn.xyz
 127.0.0.1 windyang.xyz
 127.0.0.1 wjaqc.xyz
+127.0.0.1 wqweiog.xyz
 127.0.0.1 wsoxwa.xyz
 127.0.0.1 wvwl.cn
 127.0.0.1 wwgqqq.com
@@ -2190,7 +2201,6 @@
 127.0.0.1 haon.ltd
 127.0.0.1 haop5wopa.icu
 127.0.0.1 haoyongdm.com
-127.0.0.1 haoyundm.com
 127.0.0.1 happi.cyou
 127.0.0.1 harahero.top
 127.0.0.1 haruepy.cn
@@ -2794,8 +2804,6 @@
 127.0.0.1 juyqiolna.cyou
 127.0.0.1 juzwrl.xyz
 127.0.0.1 jvpook.cn
-127.0.0.1 jvyigg.biqugeq.com
-127.0.0.1 jvyigg.zbzw.la
 127.0.0.1 jwadakesa.cyou
 127.0.0.1 jwghphm.cn
 127.0.0.1 jwgihca.cn

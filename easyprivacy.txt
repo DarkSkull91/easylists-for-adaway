@@ -3087,6 +3087,7 @@
 127.0.0.1 hits.tf.rs
 127.0.0.1 stat.ringier.sk
 127.0.0.1 1to1.bbva.com
+127.0.0.1 ab.blogs.es
 127.0.0.1 analitica.webrpp.com
 127.0.0.1 collector-videoplayer.5centscdn.net
 127.0.0.1 contadores.miarroba.com
@@ -18266,6 +18267,7 @@
 127.0.0.1 compteur.developpez.com
 127.0.0.1 e.legalstart.fr
 127.0.0.1 events-logs.doctolib.com
+127.0.0.1 flow.kiloutou.fr
 127.0.0.1 forecast.huffingtonpost.fr
 127.0.0.1 fsm.lapresse.ca
 127.0.0.1 hits.porn.fr
