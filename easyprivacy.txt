@@ -21,6 +21,7 @@
 127.0.0.1 affvantage.com
 127.0.0.1 agkn.com
 127.0.0.1 allvideometrika.com
+127.0.0.1 alpha1trk.com
 127.0.0.1 altopd.com
 127.0.0.1 analys.live
 127.0.0.1 analysis.fi
@@ -2433,6 +2434,7 @@
 127.0.0.1 tracking.aegpresents.com
 127.0.0.1 tracking.americaneagle.com
 127.0.0.1 tracking.audio.thisisdax.com
+127.0.0.1 tracking.bababam.com
 127.0.0.1 tracking.brandmentions.com
 127.0.0.1 tracking.buygoods.com
 127.0.0.1 tracking.cerdmann.com
@@ -18274,6 +18276,7 @@
 127.0.0.1 hlms.ecologie.gouv.fr
 127.0.0.1 l.bfmtv.com
 127.0.0.1 l.franceculture.fr
+127.0.0.1 l.gentside.com
 127.0.0.1 logstash-3.radio-canada.ca
 127.0.0.1 p.kolplay.com
 127.0.0.1 p.pagesjaunes.fr

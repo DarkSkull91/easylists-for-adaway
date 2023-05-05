@@ -3,6 +3,7 @@
 127.0.0.1 1136999.com
 127.0.0.1 13niao20230422.live
 127.0.0.1 1512a.com
+127.0.0.1 16niao20230125.live
 127.0.0.1 18so.vip
 127.0.0.1 230579.top
 127.0.0.1 234mx.club
@@ -111,6 +112,7 @@
 127.0.0.1 dyhnbgtsl.xyz
 127.0.0.1 ealdi.xyz
 127.0.0.1 ecav5.com
+127.0.0.1 eciea.xyz
 127.0.0.1 efilgvz.cn
 127.0.0.1 eitb7.top
 127.0.0.1 ej65.xyz
@@ -120,6 +122,7 @@
 127.0.0.1 excfig.xyz
 127.0.0.1 exwxrfz.cn
 127.0.0.1 falal.cn
+127.0.0.1 fangguanjia.xyz
 127.0.0.1 feiju12138.xyz
 127.0.0.1 feild.xyz
 127.0.0.1 ffbjhl.xyz
@@ -140,8 +143,10 @@
 127.0.0.1 gjxczx.xyz
 127.0.0.1 goiagm.xyz
 127.0.0.1 golden88.co
+127.0.0.1 gorpgeu.xyz
 127.0.0.1 gpqicw.xyz
 127.0.0.1 grxeyig.xyz
+127.0.0.1 grxwqq.com
 127.0.0.1 gwvzgjb.cn
 127.0.0.1 gxemtes.xyz
 127.0.0.1 gykyec.xyz
@@ -170,6 +175,7 @@
 127.0.0.1 iaacua.xyz
 127.0.0.1 icesfeathers.fun
 127.0.0.1 iepda.xyz
+127.0.0.1 ifeurcw.cn
 127.0.0.1 igtchzp.cn
 127.0.0.1 iidjo.xyz
 127.0.0.1 ijnuhb.top
@@ -211,6 +217,7 @@
 127.0.0.1 kucoa.xyz
 127.0.0.1 kzjkexn.cn
 127.0.0.1 kzjqraj.cn
+127.0.0.1 lcjyll.xyz
 127.0.0.1 ledni.xyz
 127.0.0.1 lendc.xyz
 127.0.0.1 lianxi.link
@@ -219,6 +226,7 @@
 127.0.0.1 luckydino.ren
 127.0.0.1 lwtqqq.com
 127.0.0.1 lxbbs.fun
+127.0.0.1 lxyl66.cn
 127.0.0.1 maoqxyl.xyz
 127.0.0.1 mc3369.xyz
 127.0.0.1 mdqhyxe.cn
@@ -239,6 +247,7 @@
 127.0.0.1 networkname.xyz
 127.0.0.1 npdkdb.xyz
 127.0.0.1 nqyz.tw
+127.0.0.1 nsfdsa.xyz
 127.0.0.1 nurahf.xyz
 127.0.0.1 nvchmkw.cn
 127.0.0.1 oimzak.xyz
@@ -261,6 +270,7 @@
 127.0.0.1 pkynqq.com
 127.0.0.1 poiqwnekb.com
 127.0.0.1 poopd.xyz
+127.0.0.1 poppy.fit
 127.0.0.1 poqwnllkm.com
 127.0.0.1 ppshop.club
 127.0.0.1 pqldzp.xyz
@@ -322,6 +332,7 @@
 127.0.0.1 u1010.com
 127.0.0.1 u1077.com
 127.0.0.1 u55022.com
+127.0.0.1 u5nvu.xyz
 127.0.0.1 u833ij.com
 127.0.0.1 ubifyc.xyz
 127.0.0.1 umcpebi.cn
@@ -366,6 +377,7 @@
 127.0.0.1 wxxmt.xyz
 127.0.0.1 wyjbvoz.xyz
 127.0.0.1 wyynike.cn
+127.0.0.1 x4csq.top
 127.0.0.1 xbvmrx.xyz
 127.0.0.1 xcaukve.cn
 127.0.0.1 xckyqq.com
@@ -391,6 +403,7 @@
 127.0.0.1 ychkujj.cn
 127.0.0.1 yegzkw.xyz
 127.0.0.1 yfohgo.xyz
+127.0.0.1 yikucdn.com
 127.0.0.1 yingce.asia
 127.0.0.1 yingnanyyds.com
 127.0.0.1 yisangyyds.com
