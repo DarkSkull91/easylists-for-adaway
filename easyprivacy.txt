@@ -3015,6 +3015,7 @@
 127.0.0.1 lurker.olx.com.br
 127.0.0.1 nctrk.abmail.com.br
 127.0.0.1 neurotrack.neurolake.io
+127.0.0.1 sat.soluall.net
 127.0.0.1 segmentor.snowfox-ai.com
 127.0.0.1 tags.cmp.tail.digital
 127.0.0.1 track.noddus.com
@@ -3087,6 +3088,7 @@
 127.0.0.1 visor.sberbank.ru
 127.0.0.1 wl-analytics.tsp.li
 127.0.0.1 hits.tf.rs
+127.0.0.1 moa.mediaoutcast.com
 127.0.0.1 stat.ringier.sk
 127.0.0.1 1to1.bbva.com
 127.0.0.1 ab.blogs.es
@@ -18285,7 +18287,6 @@
 127.0.0.1 pt.legalstart.fr
 127.0.0.1 res.paruvendu.fr
 127.0.0.1 s5.charliehebdo.fr
-127.0.0.1 sta.zone-telechargement.day
 127.0.0.1 stat.ouedkniss.com
 127.0.0.1 stats.sexemodel.com
 127.0.0.1 stt.wawacity.onl
@@ -18560,6 +18561,7 @@
 127.0.0.1 geoip.ativo.com
 127.0.0.1 globo-ab.globo.com
 127.0.0.1 hits.letras.mus.br
+127.0.0.1 horizon.globo.com
 127.0.0.1 logger.rm.uol.com.br
 127.0.0.1 logger.uol.com.br
 127.0.0.1 matt.mercadolivre.com.br

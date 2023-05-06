@@ -5,9 +5,11 @@
 127.0.0.1 1512a.com
 127.0.0.1 16niao20230125.live
 127.0.0.1 18so.vip
+127.0.0.1 1qlgi.top
 127.0.0.1 230579.top
 127.0.0.1 234mx.club
 127.0.0.1 331qka.cn
+127.0.0.1 36nl.com
 127.0.0.1 39nw.com
 127.0.0.1 4388888.xyz
 127.0.0.1 480img.com
@@ -63,6 +65,7 @@
 127.0.0.1 betgdr.xyz
 127.0.0.1 bjwh8.xyz
 127.0.0.1 bkae.top
+127.0.0.1 blue-rain.com.cn
 127.0.0.1 blxfqq.com
 127.0.0.1 bovhzz.xyz
 127.0.0.1 boyi.info
@@ -89,6 +92,7 @@
 127.0.0.1 cjcvd6.com
 127.0.0.1 ck33.top
 127.0.0.1 clkdus.xyz
+127.0.0.1 cloudsong.xyz
 127.0.0.1 cnmmcjn.cn
 127.0.0.1 cnucpaq.xyz
 127.0.0.1 codeice.xyz
@@ -123,6 +127,7 @@
 127.0.0.1 exwxrfz.cn
 127.0.0.1 falal.cn
 127.0.0.1 fangguanjia.xyz
+127.0.0.1 fcied.xyz
 127.0.0.1 feiju12138.xyz
 127.0.0.1 feild.xyz
 127.0.0.1 ffbjhl.xyz
@@ -196,6 +201,8 @@
 127.0.0.1 jiuba20230320.live
 127.0.0.1 jlzz.name
 127.0.0.1 jndyl.xyz
+127.0.0.1 jnmaeun.xyz
+127.0.0.1 joplopr.cn
 127.0.0.1 jstimiz.xyz
 127.0.0.1 jvkckeg.cn
 127.0.0.1 jvmxrug.xyz
@@ -220,9 +227,12 @@
 127.0.0.1 lcjyll.xyz
 127.0.0.1 ledni.xyz
 127.0.0.1 lendc.xyz
+127.0.0.1 lesenjiaoyu.xyz
 127.0.0.1 lianxi.link
 127.0.0.1 linuozhiyao.xyz
+127.0.0.1 lmlzht.xyz
 127.0.0.1 lnnjnv.xyz
+127.0.0.1 lqglqq.com
 127.0.0.1 luckydino.ren
 127.0.0.1 lwtqqq.com
 127.0.0.1 lxbbs.fun
@@ -236,6 +246,7 @@
 127.0.0.1 mhegew.xyz
 127.0.0.1 mindopu.com
 127.0.0.1 moend.xyz
+127.0.0.1 momoguoji.xyz
 127.0.0.1 mrbtkyn.xyz
 127.0.0.1 mrgecm.xyz
 127.0.0.1 mrruuov.cn
@@ -306,6 +317,7 @@
 127.0.0.1 rtjmln.xyz
 127.0.0.1 sbyueyue.xyz
 127.0.0.1 scrvw3.com
+127.0.0.1 sectn.xyz
 127.0.0.1 semaobf1.com
 127.0.0.1 sh6ss7.top
 127.0.0.1 shangyuan.ltd
@@ -415,10 +427,12 @@
 127.0.0.1 zdkdwk.buzz
 127.0.0.1 zdlnhv.xyz
 127.0.0.1 zdo-bdg.xyz
+127.0.0.1 zdobdg.fyi
 127.0.0.1 zdyuoae.xyz
 127.0.0.1 zgyvg.top
 127.0.0.1 zhalinyyds.com
 127.0.0.1 zhemu.xyz
+127.0.0.1 zhixin.host
 127.0.0.1 zhoubo01.cn
 127.0.0.1 zhouduanyyds.com
 127.0.0.1 zhuxiao11.cn
@@ -5896,7 +5910,6 @@
 127.0.0.1 cacafly.net
 127.0.0.1 cbjs.ciwei.in
 127.0.0.1 cdgfa.ifeng.com
-127.0.0.1 cdn.imvkan.com
 127.0.0.1 cdn.wuyou.ca
 127.0.0.1 chidir.com
 127.0.0.1 cmm.xmfish.com
@@ -6155,7 +6168,6 @@
 127.0.0.1 5.gzfenda.com
 127.0.0.1 50m.gkcyc.com
 127.0.0.1 51dengshan.cn
-127.0.0.1 51ertong.com
 127.0.0.1 51gxqm.com
 127.0.0.1 5mm.zxfw5.cn
 127.0.0.1 5pub.com
@@ -6244,7 +6256,6 @@
 127.0.0.1 a1.twtym.com
 127.0.0.1 a1.yaozui.com
 127.0.0.1 a1.zhanzhang.net
-127.0.0.1 a15d55423.5tps.xyz
 127.0.0.1 a3.jandan.net
 127.0.0.1 aa.gushiwen.org
 127.0.0.1 aa.xiangxiangmf.com
@@ -6458,7 +6469,6 @@
 127.0.0.1 dm.pw0.cn
 127.0.0.1 dm.riji.cn
 127.0.0.1 dm.sanwen.net
-127.0.0.1 dm.sg92.com
 127.0.0.1 dm.taobaojuhuasuan.cn
 127.0.0.1 dm.wenshenxiu.com
 127.0.0.1 dm.zjut.cc
@@ -6506,7 +6516,6 @@
 127.0.0.1 fpb1.kedabai.com
 127.0.0.1 fpb1.tabuzhe.com
 127.0.0.1 fpbone.ihowguide.com
-127.0.0.1 fwccw.com
 127.0.0.1 fxjs.2541.com
 127.0.0.1 g.3lian.com
 127.0.0.1 g.gegeyingshi.com
@@ -6591,10 +6600,8 @@
 127.0.0.1 jiyan.net
 127.0.0.1 jke1.jianke.com
 127.0.0.1 jquery.envi-met.com.cn
-127.0.0.1 js.23yy.com
 127.0.0.1 js.263y.com
 127.0.0.1 js.92aliyun.com
-127.0.0.1 js.chetan.com
 127.0.0.1 js.jianbihuadq.com
 127.0.0.1 js.kt250.com
 127.0.0.1 js.mscto.com
@@ -6623,7 +6630,6 @@
 127.0.0.1 khrtac.xiangha.com
 127.0.0.1 km1.muhoujiemi.com
 127.0.0.1 kpshx.douguo.com
-127.0.0.1 laobaigushi.com
 127.0.0.1 leabd.douguo.com
 127.0.0.1 lianmen1.joyyang.com
 127.0.0.1 libs.tvmao.cn
@@ -6634,7 +6640,6 @@
 127.0.0.1 lm1.tuliu.com
 127.0.0.1 lm1.wkpcw.cn
 127.0.0.1 love.furenkeji.com
-127.0.0.1 lraa.xiaoniutui.com
 127.0.0.1 lv.myapks.com
 127.0.0.1 lynr.com
 127.0.0.1 lyz.radio366.com
@@ -6706,7 +6711,6 @@
 127.0.0.1 qiyegongqiu1.qiyegongqiu.com
 127.0.0.1 ql.uzuzuz.com
 127.0.0.1 qqhuhu.com
-127.0.0.1 qqwwmm.com
 127.0.0.1 qujishu.com
 127.0.0.1 r.99waiyu.com
 127.0.0.1 rabc1.iteye.com
@@ -6796,7 +6800,6 @@
 127.0.0.1 w11.zhongkaohelp.com
 127.0.0.1 w18.9939.com
 127.0.0.1 w3.ting55.com
-127.0.0.1 w3c.5txs.com
 127.0.0.1 wap001.bytravel.cn
 127.0.0.1 wap1.laogu.wang
 127.0.0.1 wenhua.jiaoshou.com
@@ -6808,8 +6811,6 @@
 127.0.0.1 wmbd.gamersky.com
 127.0.0.1 wmeng.feihuadns.com
 127.0.0.1 wneia.iaskhot.com
-127.0.0.1 wodenongtian.com
-127.0.0.1 wodeshougong.com
 127.0.0.1 wr.yiyouliao.com
 127.0.0.1 ws.wenshenxiu.com
 127.0.0.1 wuliao.chzsport.cn
@@ -6833,7 +6834,6 @@
 127.0.0.1 y.ruosi6.cn
 127.0.0.1 y1.spreton.com
 127.0.0.1 y66xvgo5i.chuimg.com
-127.0.0.1 yan.zhouguanchen.com
 127.0.0.1 ydjs.luyouwang.com
 127.0.0.1 yi.ximizi.com
 127.0.0.1 yijiuningyia.gushiwen.org
@@ -6843,7 +6843,6 @@
 127.0.0.1 yong.chazidian.com
 127.0.0.1 yptqys.tianqistatic.com
 127.0.0.1 ys.muhoujiemi.com
-127.0.0.1 ysxywj.com
 127.0.0.1 yueka.com
 127.0.0.1 ywg.jobui.com
 127.0.0.1 yx1.managershare.com
