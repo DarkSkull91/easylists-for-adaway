@@ -12,6 +12,7 @@
 127.0.0.1 36nl.com
 127.0.0.1 39nw.com
 127.0.0.1 4388888.xyz
+127.0.0.1 47zoz.xyz
 127.0.0.1 480img.com
 127.0.0.1 4cjh.xyz
 127.0.0.1 52qd.club
@@ -39,7 +40,9 @@
 127.0.0.1 acbe.club
 127.0.0.1 aceik.xyz
 127.0.0.1 acqc9.com
+127.0.0.1 acsc10.com
 127.0.0.1 adbtwyxl96.fun
+127.0.0.1 adcd7.com
 127.0.0.1 agwdac.xyz
 127.0.0.1 aircraft-fapi.club
 127.0.0.1 ajjgune.cn
@@ -63,6 +66,7 @@
 127.0.0.1 bekcd.xyz
 127.0.0.1 bekco.xyz
 127.0.0.1 betgdr.xyz
+127.0.0.1 bjcpjab.cn
 127.0.0.1 bjwh8.xyz
 127.0.0.1 bkae.top
 127.0.0.1 blue-rain.com.cn
@@ -152,6 +156,7 @@
 127.0.0.1 gpqicw.xyz
 127.0.0.1 grxeyig.xyz
 127.0.0.1 grxwqq.com
+127.0.0.1 gwide.xyz
 127.0.0.1 gwvzgjb.cn
 127.0.0.1 gxemtes.xyz
 127.0.0.1 gykyec.xyz
@@ -208,6 +213,7 @@
 127.0.0.1 jvmxrug.xyz
 127.0.0.1 jwjdpab.cn
 127.0.0.1 jwronx.xyz
+127.0.0.1 jxncs1.com
 127.0.0.1 jyxfvp.xyz
 127.0.0.1 kabuto.pro
 127.0.0.1 kayzqar.cn
@@ -234,6 +240,7 @@
 127.0.0.1 lnnjnv.xyz
 127.0.0.1 lqglqq.com
 127.0.0.1 luckydino.ren
+127.0.0.1 lwh147.xyz
 127.0.0.1 lwtqqq.com
 127.0.0.1 lxbbs.fun
 127.0.0.1 lxyl66.cn
@@ -289,6 +296,7 @@
 127.0.0.1 prlioxb.cn
 127.0.0.1 prtlth.xyz
 127.0.0.1 qatuaad.cn
+127.0.0.1 qfblqq.com
 127.0.0.1 qfdtqq.com
 127.0.0.1 qhvszsl.cn
 127.0.0.1 qianjiao45wde15.xyz
@@ -315,6 +323,7 @@
 127.0.0.1 rszqtry.cn
 127.0.0.1 rtdxqq.com
 127.0.0.1 rtjmln.xyz
+127.0.0.1 sanguine.ren
 127.0.0.1 sbyueyue.xyz
 127.0.0.1 scrvw3.com
 127.0.0.1 sectn.xyz
@@ -328,17 +337,20 @@
 127.0.0.1 smlmupi.cn
 127.0.0.1 smmmqq.com
 127.0.0.1 sozrrkx.xyz
+127.0.0.1 srkl.pw
 127.0.0.1 svrojrv.cn
 127.0.0.1 szsbiw.xyz
 127.0.0.1 tc911.vip
 127.0.0.1 tffulllist.shop
 127.0.0.1 tfonlyuse.shop
 127.0.0.1 tianma704.ltd
+127.0.0.1 tlhlpcb.xyz
 127.0.0.1 tmochyf.cn
 127.0.0.1 tpjmqq.com
 127.0.0.1 tqdpqq.com
 127.0.0.1 tuhipkz.xyz
 127.0.0.1 turifb.xyz
+127.0.0.1 twnafj.xyz
 127.0.0.1 txphjl.xyz
 127.0.0.1 tzmhqll.cn
 127.0.0.1 u1010.com
