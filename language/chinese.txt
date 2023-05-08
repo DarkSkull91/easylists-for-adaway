@@ -15,6 +15,7 @@
 127.0.0.1 47zoz.xyz
 127.0.0.1 480img.com
 127.0.0.1 4cjh.xyz
+127.0.0.1 5251m.xyz
 127.0.0.1 52qd.club
 127.0.0.1 5xur.top
 127.0.0.1 7067.top
@@ -91,6 +92,7 @@
 127.0.0.1 cge.cc
 127.0.0.1 chaozhunbb.xyz
 127.0.0.1 chenyuzhou1.cn
+127.0.0.1 chenze1.cn
 127.0.0.1 chnuuee.xyz
 127.0.0.1 cjbpqq.com
 127.0.0.1 cjcvd6.com
@@ -110,11 +112,13 @@
 127.0.0.1 dertyhsf.xyz
 127.0.0.1 dgfqqq.com
 127.0.0.1 diekd.xyz
+127.0.0.1 dkcwnsu.xyz
 127.0.0.1 doccd.xyz
 127.0.0.1 donku.club
 127.0.0.1 dqazwsxd.xyz
 127.0.0.1 dsctnsn.xyz
 127.0.0.1 dshapv.xyz
+127.0.0.1 dszhqww.cn
 127.0.0.1 dtjhtp.xyz
 127.0.0.1 dtnhjzl.xyz
 127.0.0.1 dyhnbgtsl.xyz
@@ -156,6 +160,7 @@
 127.0.0.1 gpqicw.xyz
 127.0.0.1 grxeyig.xyz
 127.0.0.1 grxwqq.com
+127.0.0.1 guzhimian.fun
 127.0.0.1 gwide.xyz
 127.0.0.1 gwvzgjb.cn
 127.0.0.1 gxemtes.xyz
@@ -172,6 +177,7 @@
 127.0.0.1 hgpdoa.cn
 127.0.0.1 hhrnxr.xyz
 127.0.0.1 himeneko.ink
+127.0.0.1 hoiea.xyz
 127.0.0.1 hsili.ltd
 127.0.0.1 hsrgnac.cn
 127.0.0.1 huangji1.cn
@@ -295,6 +301,7 @@
 127.0.0.1 pqxyqq.com
 127.0.0.1 prlioxb.cn
 127.0.0.1 prtlth.xyz
+127.0.0.1 pvjlfjz.cn
 127.0.0.1 qatuaad.cn
 127.0.0.1 qfblqq.com
 127.0.0.1 qfdtqq.com
@@ -348,6 +355,7 @@
 127.0.0.1 tmochyf.cn
 127.0.0.1 tpjmqq.com
 127.0.0.1 tqdpqq.com
+127.0.0.1 ttpybz.xyz
 127.0.0.1 tuhipkz.xyz
 127.0.0.1 turifb.xyz
 127.0.0.1 twnafj.xyz
@@ -398,6 +406,7 @@
 127.0.0.1 wvwl.cn
 127.0.0.1 wwgqqq.com
 127.0.0.1 wwqfqq.com
+127.0.0.1 wx001.online
 127.0.0.1 wxxmt.xyz
 127.0.0.1 wyjbvoz.xyz
 127.0.0.1 wyynike.cn
@@ -420,6 +429,7 @@
 127.0.0.1 xueyugaoyuan.xyz
 127.0.0.1 xunjie.fun
 127.0.0.1 xyjcpcb.cn
+127.0.0.1 xyzyqq.com
 127.0.0.1 yanghetp.com
 127.0.0.1 yangyuqing.xyz
 127.0.0.1 yankuoyyds.com

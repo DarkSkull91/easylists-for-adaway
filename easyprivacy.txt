@@ -425,6 +425,7 @@
 127.0.0.1 alpineactor.com
 127.0.0.1 ambiguousalarm.com
 127.0.0.1 ambiguousanger.com
+127.0.0.1 ambiguousdinosaurs.com
 127.0.0.1 ambiguousincome.com
 127.0.0.1 ambiguousquilt.com
 127.0.0.1 ambitiousagreement.com
@@ -3766,6 +3767,7 @@
 127.0.0.1 idstatus.sky.com
 127.0.0.1 imgs.signifyd.com
 127.0.0.1 rsx.afterpay.com
+127.0.0.1 svc2.sc.com
 127.0.0.1 tmetrix.my.chick-fil-a.com
 127.0.0.1 tmx.td.com
 127.0.0.1 u44.pnc.com
@@ -18271,6 +18273,7 @@
 127.0.0.1 cdtm.cdiscount.com
 127.0.0.1 compteur.developpez.com
 127.0.0.1 e.legalstart.fr
+127.0.0.1 eum2.caisse-epargne.fr
 127.0.0.1 events-logs.doctolib.com
 127.0.0.1 flow.kiloutou.fr
 127.0.0.1 forecast.huffingtonpost.fr
