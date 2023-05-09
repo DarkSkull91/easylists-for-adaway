@@ -301,6 +301,7 @@
 127.0.0.1 vpdcp.com
 127.0.0.1 vstats.me
 127.0.0.1 wct-2.com
+127.0.0.1 whale3.io
 127.0.0.1 widgetbe.com
 127.0.0.1 wknd.ai
 127.0.0.1 wmgroup.us
@@ -1761,6 +1762,7 @@
 127.0.0.1 click.appinthestore.com
 127.0.0.1 click360v2-ingest.azurewebsites.net
 127.0.0.1 clicks.dealer.com
+127.0.0.1 clicks.tyuwq.com
 127.0.0.1 clicktale.pantherssl.com
 127.0.0.1 clicktracker.iscan.nl
 127.0.0.1 client-analytics.braintreegateway.com

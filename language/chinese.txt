@@ -63,10 +63,12 @@
 127.0.0.1 baitu1llbkotsfthllcjeg.com
 127.0.0.1 balspaulite.com
 127.0.0.1 bcivqxd.cn
+127.0.0.1 bdrzxp.xyz
 127.0.0.1 beiod.xyz
 127.0.0.1 bekcd.xyz
 127.0.0.1 bekco.xyz
 127.0.0.1 betgdr.xyz
+127.0.0.1 bili96.co
 127.0.0.1 bjcpjab.cn
 127.0.0.1 bjwh8.xyz
 127.0.0.1 bkae.top
@@ -135,6 +137,7 @@
 127.0.0.1 exwxrfz.cn
 127.0.0.1 falal.cn
 127.0.0.1 fangguanjia.xyz
+127.0.0.1 fangqingkai.icu
 127.0.0.1 fcied.xyz
 127.0.0.1 feiju12138.xyz
 127.0.0.1 feild.xyz
@@ -153,6 +156,7 @@
 127.0.0.1 gaokao.asia
 127.0.0.1 gggppp666.com
 127.0.0.1 giold.xyz
+127.0.0.1 gixhlii.xyz
 127.0.0.1 gjxczx.xyz
 127.0.0.1 goiagm.xyz
 127.0.0.1 golden88.co
@@ -197,6 +201,7 @@
 127.0.0.1 ijnuhb.top
 127.0.0.1 imu2021.site
 127.0.0.1 ioiksw.cn
+127.0.0.1 ipeef.xyz
 127.0.0.1 iqybys.xyz
 127.0.0.1 itoken.pro
 127.0.0.1 iughyy7919.com
@@ -258,6 +263,7 @@
 127.0.0.1 mfifsux.xyz
 127.0.0.1 mhegew.xyz
 127.0.0.1 mindopu.com
+127.0.0.1 mk795.cn
 127.0.0.1 moend.xyz
 127.0.0.1 momoguoji.xyz
 127.0.0.1 mrbtkyn.xyz
@@ -322,14 +328,17 @@
 127.0.0.1 readme.red
 127.0.0.1 reffnik.cn
 127.0.0.1 rencaihome.xyz
+127.0.0.1 risrauj.cn
 127.0.0.1 rizgtf.xyz
 127.0.0.1 rksnqq.com
+127.0.0.1 robberyinscription.com
 127.0.0.1 rpajqxo.cn
 127.0.0.1 rqytqq.com
 127.0.0.1 rsbepv.xyz
 127.0.0.1 rszqtry.cn
 127.0.0.1 rtdxqq.com
 127.0.0.1 rtjmln.xyz
+127.0.0.1 sa3a.cn
 127.0.0.1 sanguine.ren
 127.0.0.1 sbyueyue.xyz
 127.0.0.1 scrvw3.com
@@ -371,6 +380,8 @@
 127.0.0.1 uqelxct.cn
 127.0.0.1 uqymady.cn
 127.0.0.1 uu5731uu.com
+127.0.0.1 uu6522uu.com
+127.0.0.1 uu6873uu.com
 127.0.0.1 uu6921uu.com
 127.0.0.1 uu7819uu.com
 127.0.0.1 uu9735uu.com
@@ -407,6 +418,7 @@
 127.0.0.1 wwgqqq.com
 127.0.0.1 wwqfqq.com
 127.0.0.1 wx001.online
+127.0.0.1 wxfkanv.cn
 127.0.0.1 wxxmt.xyz
 127.0.0.1 wyjbvoz.xyz
 127.0.0.1 wyynike.cn
@@ -415,6 +427,7 @@
 127.0.0.1 xcaukve.cn
 127.0.0.1 xckyqq.com
 127.0.0.1 xcysqq.com
+127.0.0.1 xghnqq.com
 127.0.0.1 xiaobixiaobi.com
 127.0.0.1 xiaochen1.cn
 127.0.0.1 xiaoliublog.icu
@@ -453,6 +466,7 @@
 127.0.0.1 zdyuoae.xyz
 127.0.0.1 zgyvg.top
 127.0.0.1 zhalinyyds.com
+127.0.0.1 zhanghao164.xyz
 127.0.0.1 zhemu.xyz
 127.0.0.1 zhixin.host
 127.0.0.1 zhoubo01.cn
