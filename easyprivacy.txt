@@ -2053,6 +2053,7 @@
 127.0.0.1 metrics.beyondwords.io
 127.0.0.1 metrics.brightcove.com
 127.0.0.1 metrics.ctvdigital.net
+127.0.0.1 metrics.doppiocdn.org
 127.0.0.1 metrics.gs-chat.com
 127.0.0.1 metrics.kmsmep.com
 127.0.0.1 metrics.mdstrm.com
@@ -2421,6 +2422,7 @@
 127.0.0.1 tracker.myyschool.xyz
 127.0.0.1 tracker.nitropay.com
 127.0.0.1 tracker.novage.com.ua
+127.0.0.1 tracker.openwebtorrent.com
 127.0.0.1 tracker.roitesting.com
 127.0.0.1 tracker.services.vaix.ai
 127.0.0.1 tracker.softcube.com
@@ -2856,7 +2858,6 @@
 127.0.0.1 bisko.mall.tv
 127.0.0.1 bnr.alza.cz
 127.0.0.1 counter.cnw.cz
-127.0.0.1 h.imedia.cz
 127.0.0.1 hit.skrz.cz
 127.0.0.1 i.imedia.cz
 127.0.0.1 log.cpex.cz
@@ -3188,6 +3189,7 @@
 127.0.0.1 analytics.productreview.com.au
 127.0.0.1 analytics.realestate.com.au
 127.0.0.1 analytics.send.cm
+127.0.0.1 analytics.similarweb.com
 127.0.0.1 analytics.slashdotmedia.com
 127.0.0.1 analytics.synchrony.com
 127.0.0.1 analytics.synedat.com
@@ -3281,7 +3283,6 @@
 127.0.0.1 desb.fkapi.net
 127.0.0.1 desr.fkapi.net
 127.0.0.1 discover-metrics.cloud.seek.com.au
-127.0.0.1 dp.coinbase.com
 127.0.0.1 dp.shoprunner.com
 127.0.0.1 dtag.breadfinancial.com
 127.0.0.1 dumpster.cam4.com
@@ -3306,7 +3307,6 @@
 127.0.0.1 event-collector.moviesanywhere.com
 127.0.0.1 eventlog.jackpot.de
 127.0.0.1 events-prod.autolist.com
-127.0.0.1 events-service.coinbase.com
 127.0.0.1 events-tracker.deliveroo.net
 127.0.0.1 events.api.godaddy.com
 127.0.0.1 events.framer.com
@@ -3722,6 +3722,7 @@
 127.0.0.1 user-metrics.onthemarket.com
 127.0.0.1 userfly.com
 127.0.0.1 usmetric.rediff.com
+127.0.0.1 v.adblockultimate.net
 127.0.0.1 views.arabnews.com
 127.0.0.1 visit.theglobeandmail.com
 127.0.0.1 visitors.sourcingmap.com
@@ -3770,6 +3771,7 @@
 127.0.0.1 imgs.signifyd.com
 127.0.0.1 rsx.afterpay.com
 127.0.0.1 svc2.sc.com
+127.0.0.1 tm-eps.neutrino.nu
 127.0.0.1 tmetrix.my.chick-fil-a.com
 127.0.0.1 tmx.td.com
 127.0.0.1 u44.pnc.com
