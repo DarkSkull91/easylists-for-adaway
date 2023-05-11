@@ -492,6 +492,15 @@
 127.0.0.1 zrrnqq.com
 127.0.0.1 zsblog.vip
 127.0.0.1 zscgoqt.cn
+127.0.0.1 adadu.cn
+127.0.0.1 aicpa.club
+127.0.0.1 rgyfqq.com
+127.0.0.1 jxvyrv.xyz
+127.0.0.1 afndhou.xyz
+127.0.0.1 kcieo.xyz
+127.0.0.1 chenyt.club
+127.0.0.1 hbbxwan.cn
+127.0.0.1 nogff.top
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz

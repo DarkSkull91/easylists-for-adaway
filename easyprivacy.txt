@@ -2714,6 +2714,7 @@
 127.0.0.1 data.kameleoon.io
 127.0.0.1 et.twyn.com
 127.0.0.1 events.onet.pl
+127.0.0.1 fd.bawag.at
 127.0.0.1 geo.mtvnn.com
 127.0.0.1 geo.xcel.io
 127.0.0.1 hbx.df-srv.de
