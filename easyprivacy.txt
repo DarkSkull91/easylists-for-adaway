@@ -18320,6 +18320,7 @@
 127.0.0.1 4399stat.5054399.com
 127.0.0.1 adstats.tencentmusic.com
 127.0.0.1 al.autohome.com.cn
+127.0.0.1 ams.lelong.com.my
 127.0.0.1 analytics-gw.games.wanmei.com
 127.0.0.1 analytics.126.net
 127.0.0.1 analytics.163.com

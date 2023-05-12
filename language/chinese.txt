@@ -8,6 +8,7 @@
 127.0.0.1 1qlgi.top
 127.0.0.1 230579.top
 127.0.0.1 234mx.club
+127.0.0.1 32fi.com
 127.0.0.1 331qka.cn
 127.0.0.1 36nl.com
 127.0.0.1 39nw.com
@@ -42,9 +43,12 @@
 127.0.0.1 aceik.xyz
 127.0.0.1 acqc9.com
 127.0.0.1 acsc10.com
+127.0.0.1 adadu.cn
 127.0.0.1 adbtwyxl96.fun
 127.0.0.1 adcd7.com
+127.0.0.1 afndhou.xyz
 127.0.0.1 agwdac.xyz
+127.0.0.1 aicpa.club
 127.0.0.1 aircraft-fapi.club
 127.0.0.1 ajjgune.cn
 127.0.0.1 ajucem.xyz
@@ -93,6 +97,8 @@
 127.0.0.1 cfxkluv.cn
 127.0.0.1 cge.cc
 127.0.0.1 chaozhunbb.xyz
+127.0.0.1 chenyt.club
+127.0.0.1 chenyuhuan.icu
 127.0.0.1 chenyuzhou1.cn
 127.0.0.1 chenze1.cn
 127.0.0.1 chnuuee.xyz
@@ -113,9 +119,11 @@
 127.0.0.1 ddlipf.xyz
 127.0.0.1 denghaishan1.cn
 127.0.0.1 dertyhsf.xyz
+127.0.0.1 devofei.xyz
 127.0.0.1 dgfqqq.com
 127.0.0.1 dhaxhsa325.com
 127.0.0.1 diekd.xyz
+127.0.0.1 djahkee.xyz
 127.0.0.1 dkcwnsu.xyz
 127.0.0.1 doccd.xyz
 127.0.0.1 donku.club
@@ -169,6 +177,7 @@
 127.0.0.1 guzhimian.fun
 127.0.0.1 gwide.xyz
 127.0.0.1 gwvzgjb.cn
+127.0.0.1 gx521.xyz
 127.0.0.1 gxemtes.xyz
 127.0.0.1 gykyec.xyz
 127.0.0.1 gzexsc.top
@@ -176,6 +185,7 @@
 127.0.0.1 gzsscr.cn
 127.0.0.1 h731.icu
 127.0.0.1 hangtuo.pub
+127.0.0.1 hbbxwan.cn
 127.0.0.1 hefei64.com
 127.0.0.1 heild.xyz
 127.0.0.1 helid.xyz
@@ -230,10 +240,12 @@
 127.0.0.1 jwjdpab.cn
 127.0.0.1 jwronx.xyz
 127.0.0.1 jxncs1.com
+127.0.0.1 jxvyrv.xyz
 127.0.0.1 jyxfvp.xyz
 127.0.0.1 kabuto.pro
 127.0.0.1 kayzqar.cn
 127.0.0.1 kbabqnd.cn
+127.0.0.1 kcieo.xyz
 127.0.0.1 kfocoq.xyz
 127.0.0.1 kianakaslana.club
 127.0.0.1 kingsunsky.ltd
@@ -257,6 +269,7 @@
 127.0.0.1 lnnjnv.xyz
 127.0.0.1 lqglqq.com
 127.0.0.1 luckydino.ren
+127.0.0.1 ludie.xyz
 127.0.0.1 lwh147.xyz
 127.0.0.1 lwtqqq.com
 127.0.0.1 lxbbs.fun
@@ -281,6 +294,7 @@
 127.0.0.1 nedes.xyz
 127.0.0.1 nekomasu.ltd
 127.0.0.1 networkname.xyz
+127.0.0.1 nogff.top
 127.0.0.1 npdkdb.xyz
 127.0.0.1 nqyz.tw
 127.0.0.1 nsfdsa.xyz
@@ -337,6 +351,8 @@
 127.0.0.1 readme.red
 127.0.0.1 reffnik.cn
 127.0.0.1 rencaihome.xyz
+127.0.0.1 rgyfqq.com
+127.0.0.1 rhxwnd.xyz
 127.0.0.1 risrauj.cn
 127.0.0.1 rizgtf.xyz
 127.0.0.1 rksnqq.com
@@ -417,6 +433,7 @@
 127.0.0.1 wdygoi.xyz
 127.0.0.1 web4023.top
 127.0.0.1 weeqmcq.cn
+127.0.0.1 weixinnft.com
 127.0.0.1 wenxiaowu.xyz
 127.0.0.1 whbn.xyz
 127.0.0.1 windyang.xyz
@@ -448,6 +465,7 @@
 127.0.0.1 xlxknf.xyz
 127.0.0.1 xni.ink
 127.0.0.1 xnjvn1.com
+127.0.0.1 xnmqqq.com
 127.0.0.1 xrkyqq.com
 127.0.0.1 xueyugaoyuan.xyz
 127.0.0.1 xunjie.fun
@@ -492,15 +510,6 @@
 127.0.0.1 zrrnqq.com
 127.0.0.1 zsblog.vip
 127.0.0.1 zscgoqt.cn
-127.0.0.1 adadu.cn
-127.0.0.1 aicpa.club
-127.0.0.1 rgyfqq.com
-127.0.0.1 jxvyrv.xyz
-127.0.0.1 afndhou.xyz
-127.0.0.1 kcieo.xyz
-127.0.0.1 chenyt.club
-127.0.0.1 hbbxwan.cn
-127.0.0.1 nogff.top
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
