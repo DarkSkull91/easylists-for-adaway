@@ -10,6 +10,7 @@
 127.0.0.1 234mx.club
 127.0.0.1 32fi.com
 127.0.0.1 331qka.cn
+127.0.0.1 36060.xyz
 127.0.0.1 36nl.com
 127.0.0.1 39nw.com
 127.0.0.1 4388888.xyz
@@ -66,6 +67,7 @@
 127.0.0.1 awdc6.com
 127.0.0.1 baitu1llbkotsfthllcjeg.com
 127.0.0.1 balspaulite.com
+127.0.0.1 baytfede.xyz
 127.0.0.1 bcivqxd.cn
 127.0.0.1 bdrzxp.xyz
 127.0.0.1 beiod.xyz
@@ -94,6 +96,7 @@
 127.0.0.1 cdn-99-pic.cc
 127.0.0.1 cennv.cn
 127.0.0.1 ceodk.xyz
+127.0.0.1 cex8jw.cn
 127.0.0.1 cfxkluv.cn
 127.0.0.1 cge.cc
 127.0.0.1 chaozhunbb.xyz
@@ -188,6 +191,7 @@
 127.0.0.1 hbbxwan.cn
 127.0.0.1 hefei64.com
 127.0.0.1 heild.xyz
+127.0.0.1 heliangjun2.cn
 127.0.0.1 helid.xyz
 127.0.0.1 hffxc.com
 127.0.0.1 hgpdoa.cn
@@ -288,9 +292,12 @@
 127.0.0.1 mrbtkyn.xyz
 127.0.0.1 mrgecm.xyz
 127.0.0.1 mrruuov.cn
+127.0.0.1 mueid.xyz
+127.0.0.1 mxknqq.com
 127.0.0.1 nagmopd.cn
 127.0.0.1 naned.xyz
 127.0.0.1 ncyx.ltd
+127.0.0.1 ndqzqmb.xyz
 127.0.0.1 nedes.xyz
 127.0.0.1 nekomasu.ltd
 127.0.0.1 networkname.xyz
@@ -359,6 +366,7 @@
 127.0.0.1 robberyinscription.com
 127.0.0.1 rpajqxo.cn
 127.0.0.1 rqytqq.com
+127.0.0.1 rrzxlt.xyz
 127.0.0.1 rsbepv.xyz
 127.0.0.1 rszqtry.cn
 127.0.0.1 rtdxqq.com
@@ -369,6 +377,7 @@
 127.0.0.1 scrvw3.com
 127.0.0.1 sectn.xyz
 127.0.0.1 semaobf1.com
+127.0.0.1 seumouxuezha.xyz
 127.0.0.1 sh6ss7.top
 127.0.0.1 shangyuan.ltd
 127.0.0.1 sisjwol.xyz
@@ -384,6 +393,7 @@
 127.0.0.1 tc911.vip
 127.0.0.1 tffulllist.shop
 127.0.0.1 tfonlyuse.shop
+127.0.0.1 tian0.ltd
 127.0.0.1 tianma704.ltd
 127.0.0.1 tlhlpcb.xyz
 127.0.0.1 tmochyf.cn
@@ -401,6 +411,8 @@
 127.0.0.1 u5nvu.xyz
 127.0.0.1 u833ij.com
 127.0.0.1 ubifyc.xyz
+127.0.0.1 ucqihfh.cn
+127.0.0.1 ufgg55.xyz
 127.0.0.1 umcpebi.cn
 127.0.0.1 uqelxct.cn
 127.0.0.1 uqymady.cn
@@ -435,6 +447,7 @@
 127.0.0.1 weeqmcq.cn
 127.0.0.1 weixinnft.com
 127.0.0.1 wenxiaowu.xyz
+127.0.0.1 wgzgzmu.cn
 127.0.0.1 whbn.xyz
 127.0.0.1 windyang.xyz
 127.0.0.1 wjaqc.xyz
@@ -510,6 +523,7 @@
 127.0.0.1 zrrnqq.com
 127.0.0.1 zsblog.vip
 127.0.0.1 zscgoqt.cn
+127.0.0.1 zxgko.cn
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
@@ -6159,7 +6173,6 @@
 127.0.0.1 1.ajiyuming.com
 127.0.0.1 1.arpun.com
 127.0.0.1 1.bh5.com.cn
-127.0.0.1 1.cjcp.cn
 127.0.0.1 1.codesdq.com
 127.0.0.1 1.codezh.com
 127.0.0.1 1.doudouditu.com
@@ -6221,6 +6234,7 @@
 127.0.0.1 21.zhaozongjie.com
 127.0.0.1 283.laobanfa.com
 127.0.0.1 3.5646.cn
+127.0.0.1 3.cjcp.cn
 127.0.0.1 3.guidaye.com
 127.0.0.1 3.ssqzj.com
 127.0.0.1 301848.com

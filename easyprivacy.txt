@@ -2994,6 +2994,7 @@
 127.0.0.1 tracker.adbinead.com
 127.0.0.1 tracker.digitalcamp.co.kr
 127.0.0.1 counter.hackers.lv
+127.0.0.1 cis.schibsted.com
 127.0.0.1 collect.adplogger.no
 127.0.0.1 ish.tumedia.no
 127.0.0.1 log.medietall.no
@@ -13203,7 +13204,6 @@
 127.0.0.1 cars.autopia.com.au
 127.0.0.1 cars.smartleasing.com.au
 127.0.0.1 connect.telstrawholesale.com.au
-127.0.0.1 connect.telstrawholesale.com
 127.0.0.1 gc.titans.com.au
 127.0.0.1 save.salary.com.au
 127.0.0.1 save.smartsalary.com.au
