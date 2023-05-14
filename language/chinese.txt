@@ -65,6 +65,7 @@
 127.0.0.1 aprlitj.cn
 127.0.0.1 aqpvglv.cn
 127.0.0.1 awdc6.com
+127.0.0.1 baidudbvjksbvs.com
 127.0.0.1 baitu1llbkotsfthllcjeg.com
 127.0.0.1 balspaulite.com
 127.0.0.1 baytfede.xyz
@@ -166,6 +167,7 @@
 127.0.0.1 fvzljv.xyz
 127.0.0.1 fweia.xyz
 127.0.0.1 fzcsd33.com
+127.0.0.1 g77ds2.xyz
 127.0.0.1 gaokao.asia
 127.0.0.1 gggppp666.com
 127.0.0.1 giold.xyz
@@ -228,6 +230,7 @@
 127.0.0.1 jeidd.xyz
 127.0.0.1 jerrytom.xyz
 127.0.0.1 jfanhao.com
+127.0.0.1 jhxcld.xyz
 127.0.0.1 jiangzimeng1.cn
 127.0.0.1 jinmin.online
 127.0.0.1 jiqadoi.cn
@@ -257,6 +260,7 @@
 127.0.0.1 kkgytur.cn
 127.0.0.1 kkylx.xyz
 127.0.0.1 kmlxlkz.cn
+127.0.0.1 knxvwxe.cn
 127.0.0.1 koekd.xyz
 127.0.0.1 kpqdkg.xyz
 127.0.0.1 kprjva.cn
@@ -307,6 +311,7 @@
 127.0.0.1 nsfdsa.xyz
 127.0.0.1 nurahf.xyz
 127.0.0.1 nvchmkw.cn
+127.0.0.1 nwecd.xyz
 127.0.0.1 oimzak.xyz
 127.0.0.1 ojuhwc.xyz
 127.0.0.1 on-you.cn
@@ -347,6 +352,7 @@
 127.0.0.1 qiwjiy.xyz
 127.0.0.1 qkcaqq.xyz
 127.0.0.1 qkwsqq.com
+127.0.0.1 qnmtqq.com
 127.0.0.1 qpoiwnelc.com
 127.0.0.1 qqied.xyz
 127.0.0.1 qwahk.com
@@ -355,6 +361,7 @@
 127.0.0.1 rbrv9.cn
 127.0.0.1 rbxunao.cn
 127.0.0.1 rcxysoj.cn
+127.0.0.1 rdtjkwy.cn
 127.0.0.1 readme.red
 127.0.0.1 reffnik.cn
 127.0.0.1 rencaihome.xyz
@@ -436,6 +443,7 @@
 127.0.0.1 vydbvp.xyz
 127.0.0.1 vzfizr.xyz
 127.0.0.1 w4jz.top
+127.0.0.1 w9f1r.top
 127.0.0.1 wangjc.ltd
 127.0.0.1 wangjiayi.fun
 127.0.0.1 wangyq.ltd
@@ -463,6 +471,7 @@
 127.0.0.1 wyjbvoz.xyz
 127.0.0.1 wyynike.cn
 127.0.0.1 x4csq.top
+127.0.0.1 xbldocp.xyz
 127.0.0.1 xbvmrx.xyz
 127.0.0.1 xcaukve.cn
 127.0.0.1 xckyqq.com
@@ -480,6 +489,7 @@
 127.0.0.1 xnjvn1.com
 127.0.0.1 xnmqqq.com
 127.0.0.1 xrkyqq.com
+127.0.0.1 xuanqi.ltd
 127.0.0.1 xueyugaoyuan.xyz
 127.0.0.1 xunjie.fun
 127.0.0.1 xyjcpcb.cn
@@ -495,9 +505,11 @@
 127.0.0.1 yingce.asia
 127.0.0.1 yingnanyyds.com
 127.0.0.1 yisangyyds.com
+127.0.0.1 yttc.ren
 127.0.0.1 yuebog.xyz
 127.0.0.1 yulingaa.xyz
 127.0.0.1 yywh.vip
+127.0.0.1 zbbvhj.xyz
 127.0.0.1 zbvchabjbcj.com
 127.0.0.1 zcdfll.xyz
 127.0.0.1 zdkdwk.buzz
@@ -505,6 +517,7 @@
 127.0.0.1 zdo-bdg.xyz
 127.0.0.1 zdobdg.fyi
 127.0.0.1 zdyuoae.xyz
+127.0.0.1 zebjlt.buzz
 127.0.0.1 zgyvg.top
 127.0.0.1 zhalinyyds.com
 127.0.0.1 zhanghao164.xyz
@@ -6703,6 +6716,7 @@
 127.0.0.1 jy.zhongxues.com
 127.0.0.1 k1.dancihu.com
 127.0.0.1 k1.wanwenwan.cn
+127.0.0.1 k1.wendahu.com
 127.0.0.1 ka5188.com
 127.0.0.1 kc.gouchezj.com
 127.0.0.1 khrtac.xiangha.com

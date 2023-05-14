@@ -38,7 +38,6 @@
 127.0.0.1 cmp.lepoint.fr
 127.0.0.1 cmp.netzwelt.de
 127.0.0.1 cmp.nouvelobs.com
-127.0.0.1 cmp.osano.com
 127.0.0.1 cmp.parkers.co.uk
 127.0.0.1 cmp.playpilot.com
 127.0.0.1 cmp.tech426.com

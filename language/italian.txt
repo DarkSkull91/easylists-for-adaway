@@ -28,7 +28,6 @@
 127.0.0.1 unifiedads.magellanotech.it
 127.0.0.1 widget.promoqui.it
 127.0.0.1 widgets.shop.moda.it
-127.0.0.1 a.trend-online.it
 127.0.0.1 adserver.ilgazzettinovesuviano.com
 127.0.0.1 banner.moscarossa.biz
 127.0.0.1 click.html.it
@@ -37,7 +36,6 @@
 127.0.0.1 giornalisti.vivere.srl
 127.0.0.1 napolimagazine.biz
 127.0.0.1 oas.repubblica.it
-127.0.0.1 play.cineblog01.bid
 127.0.0.1 plx.mrpornogratis.it
 127.0.0.1 plx.pornototale.com
 127.0.0.1 shop.sportal.it
