@@ -1784,6 +1784,7 @@
 127.0.0.1 collect.usefathom.com
 127.0.0.1 collector-api.99designs.com
 127.0.0.1 collector.api.video
+127.0.0.1 collector.appconsent.io
 127.0.0.1 collector.automote.co.nz
 127.0.0.1 collector.clareity.net
 127.0.0.1 collector.getyourguide.com
@@ -2053,6 +2054,7 @@
 127.0.0.1 metrics.beyondwords.io
 127.0.0.1 metrics.brightcove.com
 127.0.0.1 metrics.ctvdigital.net
+127.0.0.1 metrics.doppiocdn.com
 127.0.0.1 metrics.doppiocdn.org
 127.0.0.1 metrics.gs-chat.com
 127.0.0.1 metrics.kmsmep.com
@@ -3024,6 +3026,7 @@
 127.0.0.1 neurotrack.neurolake.io
 127.0.0.1 sat.soluall.net
 127.0.0.1 segmentor.snowfox-ai.com
+127.0.0.1 stats.gridmidia.com.br
 127.0.0.1 tags.cmp.tail.digital
 127.0.0.1 track.noddus.com
 127.0.0.1 tracker.tolvnow.com
@@ -18445,6 +18448,7 @@
 127.0.0.1 statistics.csob.cz
 127.0.0.1 analytics.rambla.be
 127.0.0.1 bc34.wijnvoordeel.nl
+127.0.0.1 c.vrt.be
 127.0.0.1 ds2.independer.nl
 127.0.0.1 events.reclamefolder.nl
 127.0.0.1 log.rabobank.nl
@@ -18453,6 +18457,7 @@
 127.0.0.1 r.kleertjes.com
 127.0.0.1 sat.sanoma.fi
 127.0.0.1 stats.fd.nl
+127.0.0.1 t.vrt.be
 127.0.0.1 tdep.kvk.nl
 127.0.0.1 topspin.npo.nl
 127.0.0.1 track.pexi.nl

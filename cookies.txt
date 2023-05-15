@@ -1,9 +1,9 @@
 127.0.0.1 analytics-consent-manager.azureedge.net
+127.0.0.1 appconsent.io
 127.0.0.1 cc.anytrack.de
 127.0.0.1 ccpa-script.psg.nexstardigital.net
 127.0.0.1 ccpa.sp-prod.net
 127.0.0.1 cmp.setupcmp.com
-127.0.0.1 collector.appconsent.io
 127.0.0.1 consent.dadoslegais.com
 127.0.0.1 consent.digiapi.com
 127.0.0.1 consent.prointernet.com

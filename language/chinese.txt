@@ -537,6 +537,18 @@
 127.0.0.1 zsblog.vip
 127.0.0.1 zscgoqt.cn
 127.0.0.1 zxgko.cn
+127.0.0.1 waixinren.ren
+127.0.0.1 ifbqves.cn
+127.0.0.1 akyei.xyz
+127.0.0.1 xpynqq.com
+127.0.0.1 aagomsi.xyz
+127.0.0.1 hldwdz.xyz
+127.0.0.1 jrzaht.xyz
+127.0.0.1 adelaideceliacd.com
+127.0.0.1 tiancaiwei.wang
+127.0.0.1 ooexkqj.cn
+127.0.0.1 d7dzf.xyz
+127.0.0.1 stbdepjb.xyz
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
@@ -4848,7 +4860,6 @@
 127.0.0.1 ukutuy.xyz
 127.0.0.1 ulsynmlt.fun
 127.0.0.1 um5xcgngmart.xyz
-127.0.0.1 umami.is
 127.0.0.1 umhfrtu.cn
 127.0.0.1 umkezbh.cn
 127.0.0.1 ummnam.xyz
@@ -6166,6 +6177,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 news.qcyz.cn
 127.0.0.1 003store.com
 127.0.0.1 0941.org
 127.0.0.1 1.01fy.cn
