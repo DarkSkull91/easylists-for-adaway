@@ -8,6 +8,7 @@
 127.0.0.1 1qlgi.top
 127.0.0.1 230579.top
 127.0.0.1 234mx.club
+127.0.0.1 26niao20230505.live
 127.0.0.1 32fi.com
 127.0.0.1 331qka.cn
 127.0.0.1 36060.xyz
@@ -39,6 +40,7 @@
 127.0.0.1 aaaaa699.com
 127.0.0.1 aaaaa855.com
 127.0.0.1 aaaaa882.com
+127.0.0.1 aagomsi.xyz
 127.0.0.1 aamv.vip
 127.0.0.1 acbe.club
 127.0.0.1 aceik.xyz
@@ -47,6 +49,7 @@
 127.0.0.1 adadu.cn
 127.0.0.1 adbtwyxl96.fun
 127.0.0.1 adcd7.com
+127.0.0.1 adelaideceliacd.com
 127.0.0.1 afndhou.xyz
 127.0.0.1 agwdac.xyz
 127.0.0.1 aicpa.club
@@ -54,6 +57,7 @@
 127.0.0.1 ajjgune.cn
 127.0.0.1 ajucem.xyz
 127.0.0.1 akdhiahcjojdkck.com
+127.0.0.1 akyei.xyz
 127.0.0.1 alejd.xyz
 127.0.0.1 almabelen.com
 127.0.0.1 amryqmm.cn
@@ -83,6 +87,7 @@
 127.0.0.1 blxfqq.com
 127.0.0.1 bovhzz.xyz
 127.0.0.1 boyi.info
+127.0.0.1 bozumi.xyz
 127.0.0.1 bqcxgbm.cn
 127.0.0.1 bqdyqq.com
 127.0.0.1 brkzczn.cn
@@ -116,6 +121,7 @@
 127.0.0.1 codeice.xyz
 127.0.0.1 csh253.cn
 127.0.0.1 cvmesi.xyz
+127.0.0.1 d7dzf.xyz
 127.0.0.1 d86n.top
 127.0.0.1 dcdf4.com
 127.0.0.1 dcqs4.com
@@ -149,6 +155,8 @@
 127.0.0.1 evmnlpv.cn
 127.0.0.1 excfig.xyz
 127.0.0.1 exwxrfz.cn
+127.0.0.1 exz1t.top
+127.0.0.1 ezf48.xyz
 127.0.0.1 falal.cn
 127.0.0.1 fangguanjia.xyz
 127.0.0.1 fangqingkai.icu
@@ -199,12 +207,14 @@
 127.0.0.1 hgpdoa.cn
 127.0.0.1 hhrnxr.xyz
 127.0.0.1 himeneko.ink
+127.0.0.1 hldwdz.xyz
 127.0.0.1 hoiea.xyz
 127.0.0.1 hsili.ltd
 127.0.0.1 hsrgnac.cn
 127.0.0.1 huangji1.cn
 127.0.0.1 huaweinnd.top
 127.0.0.1 hunlimd.cn
+127.0.0.1 hvfubp.xyz
 127.0.0.1 hwhefj.xyz
 127.0.0.1 hxes.cn
 127.0.0.1 hxpmbb.xyz
@@ -213,6 +223,7 @@
 127.0.0.1 iaacua.xyz
 127.0.0.1 icesfeathers.fun
 127.0.0.1 iepda.xyz
+127.0.0.1 ifbqves.cn
 127.0.0.1 ifeurcw.cn
 127.0.0.1 igtchzp.cn
 127.0.0.1 iidjo.xyz
@@ -224,6 +235,7 @@
 127.0.0.1 iqybys.xyz
 127.0.0.1 itoken.pro
 127.0.0.1 iughyy7919.com
+127.0.0.1 iwandlo.top
 127.0.0.1 jbtfmis.xyz
 127.0.0.1 jbzjegn.cn
 127.0.0.1 jeedi.xyz
@@ -240,7 +252,9 @@
 127.0.0.1 jnmaeun.xyz
 127.0.0.1 jntxvf.xyz
 127.0.0.1 joplopr.cn
+127.0.0.1 jqueryboots.net
 127.0.0.1 jrtwi.xyz
+127.0.0.1 jrzaht.xyz
 127.0.0.1 jstimiz.xyz
 127.0.0.1 jvkckeg.cn
 127.0.0.1 jvmxrug.xyz
@@ -265,6 +279,7 @@
 127.0.0.1 kpqdkg.xyz
 127.0.0.1 kprjva.cn
 127.0.0.1 kucoa.xyz
+127.0.0.1 kybzkiw.xyz
 127.0.0.1 kzjkexn.cn
 127.0.0.1 kzjqraj.cn
 127.0.0.1 lcjyll.xyz
@@ -296,6 +311,7 @@
 127.0.0.1 mrbtkyn.xyz
 127.0.0.1 mrgecm.xyz
 127.0.0.1 mrruuov.cn
+127.0.0.1 msqdqq.com
 127.0.0.1 mueid.xyz
 127.0.0.1 mxknqq.com
 127.0.0.1 nagmopd.cn
@@ -312,10 +328,12 @@
 127.0.0.1 nurahf.xyz
 127.0.0.1 nvchmkw.cn
 127.0.0.1 nwecd.xyz
+127.0.0.1 ocoda.xyz
 127.0.0.1 oimzak.xyz
 127.0.0.1 ojuhwc.xyz
 127.0.0.1 on-you.cn
 127.0.0.1 onlystar.club
+127.0.0.1 ooexkqj.cn
 127.0.0.1 opida.xyz
 127.0.0.1 originate.ltd
 127.0.0.1 otwiss.xyz
@@ -348,6 +366,7 @@
 127.0.0.1 qhssjyb.xyz
 127.0.0.1 qhvszsl.cn
 127.0.0.1 qianjiao45wde15.xyz
+127.0.0.1 qifwbpoo.com
 127.0.0.1 qingdou.ltd
 127.0.0.1 qiwjiy.xyz
 127.0.0.1 qkcaqq.xyz
@@ -358,6 +377,7 @@
 127.0.0.1 qwahk.com
 127.0.0.1 qwrdj.xyz
 127.0.0.1 ra1.xyz
+127.0.0.1 rbbbdj.xyz
 127.0.0.1 rbrv9.cn
 127.0.0.1 rbxunao.cn
 127.0.0.1 rcxysoj.cn
@@ -382,6 +402,7 @@
 127.0.0.1 sanguine.ren
 127.0.0.1 sbyueyue.xyz
 127.0.0.1 scrvw3.com
+127.0.0.1 sdfqs2.com
 127.0.0.1 sectn.xyz
 127.0.0.1 semaobf1.com
 127.0.0.1 seumouxuezha.xyz
@@ -395,12 +416,15 @@
 127.0.0.1 smmmqq.com
 127.0.0.1 sozrrkx.xyz
 127.0.0.1 srkl.pw
+127.0.0.1 stbdepjb.xyz
 127.0.0.1 svrojrv.cn
 127.0.0.1 szsbiw.xyz
 127.0.0.1 tc911.vip
+127.0.0.1 tejiachong.co
 127.0.0.1 tffulllist.shop
 127.0.0.1 tfonlyuse.shop
 127.0.0.1 tian0.ltd
+127.0.0.1 tiancaiwei.wang
 127.0.0.1 tianma704.ltd
 127.0.0.1 tlhlpcb.xyz
 127.0.0.1 tmochyf.cn
@@ -444,6 +468,7 @@
 127.0.0.1 vzfizr.xyz
 127.0.0.1 w4jz.top
 127.0.0.1 w9f1r.top
+127.0.0.1 waixinren.ren
 127.0.0.1 wangjc.ltd
 127.0.0.1 wangjiayi.fun
 127.0.0.1 wangyq.ltd
@@ -482,12 +507,14 @@
 127.0.0.1 xiaoliublog.icu
 127.0.0.1 xingyang.in
 127.0.0.1 xiod.xyz
+127.0.0.1 xiongxiaoze12.cn
 127.0.0.1 xkdlqq.com
 127.0.0.1 xlsds888.xyz
 127.0.0.1 xlxknf.xyz
 127.0.0.1 xni.ink
 127.0.0.1 xnjvn1.com
 127.0.0.1 xnmqqq.com
+127.0.0.1 xpynqq.com
 127.0.0.1 xrkyqq.com
 127.0.0.1 xuanqi.ltd
 127.0.0.1 xueyugaoyuan.xyz
@@ -508,6 +535,7 @@
 127.0.0.1 yttc.ren
 127.0.0.1 yuebog.xyz
 127.0.0.1 yulingaa.xyz
+127.0.0.1 ywsiqlg.cn
 127.0.0.1 yywh.vip
 127.0.0.1 zbbvhj.xyz
 127.0.0.1 zbvchabjbcj.com
@@ -537,18 +565,6 @@
 127.0.0.1 zsblog.vip
 127.0.0.1 zscgoqt.cn
 127.0.0.1 zxgko.cn
-127.0.0.1 waixinren.ren
-127.0.0.1 ifbqves.cn
-127.0.0.1 akyei.xyz
-127.0.0.1 xpynqq.com
-127.0.0.1 aagomsi.xyz
-127.0.0.1 hldwdz.xyz
-127.0.0.1 jrzaht.xyz
-127.0.0.1 adelaideceliacd.com
-127.0.0.1 tiancaiwei.wang
-127.0.0.1 ooexkqj.cn
-127.0.0.1 d7dzf.xyz
-127.0.0.1 stbdepjb.xyz
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
@@ -6177,7 +6193,6 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
-127.0.0.1 news.qcyz.cn
 127.0.0.1 003store.com
 127.0.0.1 0941.org
 127.0.0.1 1.01fy.cn
@@ -6787,6 +6802,7 @@
 127.0.0.1 news.fangdaijisuanqi.com
 127.0.0.1 news.imgsina.com
 127.0.0.1 news.jiukang.org
+127.0.0.1 news.qcyz.cn
 127.0.0.1 norse.mingxiaow.com
 127.0.0.1 ns1.chinayms.com
 127.0.0.1 o.027eat.com
