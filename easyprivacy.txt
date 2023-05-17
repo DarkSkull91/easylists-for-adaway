@@ -85,6 +85,7 @@
 127.0.0.1 efreecode.com
 127.0.0.1 egoi.site
 127.0.0.1 emycewiw.xyz
+127.0.0.1 envato.market
 127.0.0.1 eqy.link
 127.0.0.1 etop.ro
 127.0.0.1 everesttech.net
@@ -145,6 +146,7 @@
 127.0.0.1 hsleadflows.net
 127.0.0.1 hubty.network
 127.0.0.1 i218435.net
+127.0.0.1 iconnode.com
 127.0.0.1 id5-sync.com
 127.0.0.1 idx.lat
 127.0.0.1 impactcdn.com
@@ -190,6 +192,7 @@
 127.0.0.1 mitour.de
 127.0.0.1 ml-sys.xyz
 127.0.0.1 mm-api.agency
+127.0.0.1 monicaatron.com
 127.0.0.1 monu.delivery
 127.0.0.1 mors22.com
 127.0.0.1 mrpdata.net
@@ -1937,6 +1940,7 @@
 127.0.0.1 fp-cdn.azureedge.net
 127.0.0.1 frog.editorx.com
 127.0.0.1 fs-client-logger.herokuapp.com
+127.0.0.1 ftm.fluencyinc.co
 127.0.0.1 future-fie-assets.co.uk
 127.0.0.1 future-price.co.uk
 127.0.0.1 g.msn.com
@@ -2185,6 +2189,7 @@
 127.0.0.1 retargeting.newsmanapp.com
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 rt.flix360.com
+127.0.0.1 rtc.multiscreensite.com
 127.0.0.1 rtxpx-a.akamaihd.net
 127.0.0.1 rum.azion.com
 127.0.0.1 rum.azioncdn.net
@@ -2299,6 +2304,7 @@
 127.0.0.1 sync.adap.tv
 127.0.0.1 t.91syun.com
 127.0.0.1 t.a3cloud.net
+127.0.0.1 t.adx.opera.com
 127.0.0.1 t.auditedmedia.org.au
 127.0.0.1 t.beop.io
 127.0.0.1 t.bimvid.com
@@ -2326,6 +2332,7 @@
 127.0.0.1 tag.atom.gamedistribution.com
 127.0.0.1 tag.aumago.com
 127.0.0.1 tag.brandcdn.com
+127.0.0.1 tag.digops.sincro.io
 127.0.0.1 tag.elevaate.io
 127.0.0.1 tag.flagship.io
 127.0.0.1 tag.imagino.com
@@ -2500,7 +2507,6 @@
 127.0.0.1 trafficfuelpixel.s3-us-west-2.amazonaws.com
 127.0.0.1 trap.skype.com
 127.0.0.1 traxex.gannettdigital.com
-127.0.0.1 trc.pushnami.com
 127.0.0.1 trends.newsmaxwidget.com
 127.0.0.1 triggers.wfxtriggers.com
 127.0.0.1 trk.clinch.co
@@ -2636,6 +2642,8 @@
 127.0.0.1 d3m6sept6cnil5.cloudfront.net
 127.0.0.1 d3mskfhorhi2fb.cloudfront.net
 127.0.0.1 d3n6i6eorggdxk.cloudfront.net
+127.0.0.1 d3oodlxb1rw3kg.cloudfront.net
+127.0.0.1 d3pi0tys5sdysl.cloudfront.net
 127.0.0.1 d3plfjw9uod7ab.cloudfront.net
 127.0.0.1 d3q7vxy7usqoub.cloudfront.net
 127.0.0.1 d3qxwzhswv93jk.cloudfront.net
@@ -18208,6 +18216,7 @@
 127.0.0.1 tags.aljazeera.net
 127.0.0.1 insight.olx.ba
 127.0.0.1 4399stat.5054399.com
+127.0.0.1 a.itsmore.cn
 127.0.0.1 adstats.tencentmusic.com
 127.0.0.1 al.autohome.com.cn
 127.0.0.1 ams.lelong.com.my
@@ -18394,6 +18403,7 @@
 127.0.0.1 analyzer.fc2.com
 127.0.0.1 analyzer2.fc2.com
 127.0.0.1 astat.nikkei.com
+127.0.0.1 astral.nicovideo.jp
 127.0.0.1 beacon.watch.impress.co.jp
 127.0.0.1 beat.yourtv.jp
 127.0.0.1 count.upc.rakuten.co.jp
