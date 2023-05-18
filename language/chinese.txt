@@ -21,6 +21,7 @@
 127.0.0.1 4cjh.xyz
 127.0.0.1 5251m.xyz
 127.0.0.1 52qd.club
+127.0.0.1 54ha.cn
 127.0.0.1 5xur.top
 127.0.0.1 7067.top
 127.0.0.1 7xwx.cn
@@ -44,6 +45,7 @@
 127.0.0.1 aagomsi.xyz
 127.0.0.1 aamv.vip
 127.0.0.1 acbe.club
+127.0.0.1 accid.xyz
 127.0.0.1 aceik.xyz
 127.0.0.1 acqc9.com
 127.0.0.1 acsc10.com
@@ -94,6 +96,7 @@
 127.0.0.1 brkzczn.cn
 127.0.0.1 bwwlw.cn
 127.0.0.1 campu.ltd
+127.0.0.1 caozhixiong.cn
 127.0.0.1 cbhwekr.cn
 127.0.0.1 ccohayo.xyz
 127.0.0.1 cdcc3.com
@@ -126,6 +129,7 @@
 127.0.0.1 d7dzf.xyz
 127.0.0.1 d86n.top
 127.0.0.1 dcdf4.com
+127.0.0.1 dcnytdpke.xyz
 127.0.0.1 dcqs4.com
 127.0.0.1 ddkep.xyz
 127.0.0.1 ddlipf.xyz
@@ -211,10 +215,12 @@
 127.0.0.1 himeneko.ink
 127.0.0.1 hldwdz.xyz
 127.0.0.1 hoiea.xyz
+127.0.0.1 hontont.com
 127.0.0.1 hsili.ltd
 127.0.0.1 hsrgnac.cn
 127.0.0.1 huangji1.cn
 127.0.0.1 huaweinnd.top
+127.0.0.1 huishengqihang.xyz
 127.0.0.1 hunlimd.cn
 127.0.0.1 hvfubp.xyz
 127.0.0.1 hwhefj.xyz
@@ -256,11 +262,13 @@
 127.0.0.1 jntxvf.xyz
 127.0.0.1 joplopr.cn
 127.0.0.1 jqueryboots.net
+127.0.0.1 jquerydns.com
 127.0.0.1 jrtwi.xyz
 127.0.0.1 jrzaht.xyz
 127.0.0.1 jstimiz.xyz
 127.0.0.1 jvkckeg.cn
 127.0.0.1 jvmxrug.xyz
+127.0.0.1 jwandla.top
 127.0.0.1 jwjdpab.cn
 127.0.0.1 jwronx.xyz
 127.0.0.1 jxncs1.com
@@ -293,6 +301,7 @@
 127.0.0.1 linuozhiyao.xyz
 127.0.0.1 lmlzht.xyz
 127.0.0.1 lnnjnv.xyz
+127.0.0.1 lorenop.icu
 127.0.0.1 lqglqq.com
 127.0.0.1 luckydino.ren
 127.0.0.1 ludie.xyz
@@ -301,6 +310,7 @@
 127.0.0.1 lxbbs.fun
 127.0.0.1 lxyl66.cn
 127.0.0.1 mahao1.cn
+127.0.0.1 majunguo.cn
 127.0.0.1 maoqxyl.xyz
 127.0.0.1 mc3369.xyz
 127.0.0.1 mdqhyxe.cn
@@ -320,6 +330,7 @@
 127.0.0.1 mxknqq.com
 127.0.0.1 nagmopd.cn
 127.0.0.1 naned.xyz
+127.0.0.1 ncyksuw.xyz
 127.0.0.1 ncyx.ltd
 127.0.0.1 ndqzqmb.xyz
 127.0.0.1 nedes.xyz
@@ -331,6 +342,7 @@
 127.0.0.1 nsfdsa.xyz
 127.0.0.1 nurahf.xyz
 127.0.0.1 nvchmkw.cn
+127.0.0.1 nwandlc.top
 127.0.0.1 nwecd.xyz
 127.0.0.1 ocoda.xyz
 127.0.0.1 oimzak.xyz
@@ -359,6 +371,7 @@
 127.0.0.1 poopd.xyz
 127.0.0.1 poppy.fit
 127.0.0.1 poqwnllkm.com
+127.0.0.1 ppjttn.xyz
 127.0.0.1 ppshop.club
 127.0.0.1 pqldzp.xyz
 127.0.0.1 pqxyqq.com
@@ -439,6 +452,7 @@
 127.0.0.1 ttpybz.xyz
 127.0.0.1 tuhipkz.xyz
 127.0.0.1 turifb.xyz
+127.0.0.1 twbqqq.com
 127.0.0.1 twnafj.xyz
 127.0.0.1 txphjl.xyz
 127.0.0.1 tzmhqll.cn
@@ -491,6 +505,7 @@
 127.0.0.1 whbn.xyz
 127.0.0.1 windyang.xyz
 127.0.0.1 wjaqc.xyz
+127.0.0.1 wjtij.top
 127.0.0.1 wkzrqq.com
 127.0.0.1 wqweiog.xyz
 127.0.0.1 wsoxwa.xyz
@@ -509,6 +524,7 @@
 127.0.0.1 xckyqq.com
 127.0.0.1 xcysqq.com
 127.0.0.1 xghnqq.com
+127.0.0.1 xiangfenyabu.xyz
 127.0.0.1 xiaobixiaobi.com
 127.0.0.1 xiaochen1.cn
 127.0.0.1 xiaoliublog.icu
@@ -523,9 +539,11 @@
 127.0.0.1 xnmqqq.com
 127.0.0.1 xpynqq.com
 127.0.0.1 xrkyqq.com
+127.0.0.1 xsbdj6.com
 127.0.0.1 xuanqi.ltd
 127.0.0.1 xueyugaoyuan.xyz
 127.0.0.1 xunjie.fun
+127.0.0.1 xvrvgod.xyz
 127.0.0.1 xyjcpcb.cn
 127.0.0.1 xyzyqq.com
 127.0.0.1 yanghetp.com
@@ -573,17 +591,16 @@
 127.0.0.1 zrrnqq.com
 127.0.0.1 zsblog.vip
 127.0.0.1 zscgoqt.cn
-127.0.0.1 zxgko.cn
-127.0.0.1 majunguo.cn
-127.0.0.1 lorenop.icu
-127.0.0.1 twbqqq.com
-127.0.0.1 xvrvgod.xyz
 127.0.0.1 zvfaxh.xyz
-127.0.0.1 jwandla.top
-127.0.0.1 ppjttn.xyz
-127.0.0.1 caozhixiong.cn
-127.0.0.1 ncyksuw.xyz
-127.0.0.1 jquerydns.com
+127.0.0.1 zxgko.cn
+127.0.0.1 bjtel.cn
+127.0.0.1 kryjqq.com
+127.0.0.1 bockd.xyz
+127.0.0.1 fdytdc.xyz
+127.0.0.1 qange.com
+127.0.0.1 xzlurd.xyz
+127.0.0.1 humgrww.xyz
+127.0.0.1 hfhytx.xyz
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
@@ -5947,7 +5964,6 @@
 127.0.0.1 hiad.myweb.hinet.net
 127.0.0.1 lu.sogou.com
 127.0.0.1 lu.sogoucdn.com
-127.0.0.1 mgtv-bbqn.oss-cn-beijing.aliyuncs.com
 127.0.0.1 mobantong.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 penxiangge.com
 127.0.0.1 qwe0231141.bj.bcebos.com
@@ -6533,6 +6549,7 @@
 127.0.0.1 cc.xwscg.com
 127.0.0.1 cdgtw3.guapaijia.com
 127.0.0.1 cdn.haocaa.com
+127.0.0.1 cdn.sinam.top
 127.0.0.1 cdn.wenzhangba.cn
 127.0.0.1 cdn1.tvzhe.com
 127.0.0.1 cdnjs.hro-cosmetics.com
@@ -6791,6 +6808,7 @@
 127.0.0.1 m1.nn670.com
 127.0.0.1 m1.vodjk.com
 127.0.0.1 m1.we556.com
+127.0.0.1 m5.66077.cn
 127.0.0.1 ma1.meishij.net
 127.0.0.1 main.jiukang.org
 127.0.0.1 materiel.baizhan.net
