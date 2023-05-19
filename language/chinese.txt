@@ -23,6 +23,7 @@
 127.0.0.1 52qd.club
 127.0.0.1 54ha.cn
 127.0.0.1 5xur.top
+127.0.0.1 6h1cz.xyz
 127.0.0.1 7067.top
 127.0.0.1 7xwx.cn
 127.0.0.1 88885aaa.com
@@ -84,10 +85,12 @@
 127.0.0.1 betgdr.xyz
 127.0.0.1 bili96.co
 127.0.0.1 bjcpjab.cn
+127.0.0.1 bjtel.cn
 127.0.0.1 bjwh8.xyz
 127.0.0.1 bkae.top
 127.0.0.1 blue-rain.com.cn
 127.0.0.1 blxfqq.com
+127.0.0.1 bockd.xyz
 127.0.0.1 bovhzz.xyz
 127.0.0.1 boyi.info
 127.0.0.1 bozumi.xyz
@@ -167,6 +170,7 @@
 127.0.0.1 fangguanjia.xyz
 127.0.0.1 fangqingkai.icu
 127.0.0.1 fcied.xyz
+127.0.0.1 fdytdc.xyz
 127.0.0.1 feiju12138.xyz
 127.0.0.1 feild.xyz
 127.0.0.1 ffbjhl.xyz
@@ -210,6 +214,7 @@
 127.0.0.1 heliangjun2.cn
 127.0.0.1 helid.xyz
 127.0.0.1 hffxc.com
+127.0.0.1 hfhytx.xyz
 127.0.0.1 hgpdoa.cn
 127.0.0.1 hhrnxr.xyz
 127.0.0.1 himeneko.ink
@@ -221,6 +226,7 @@
 127.0.0.1 huangji1.cn
 127.0.0.1 huaweinnd.top
 127.0.0.1 huishengqihang.xyz
+127.0.0.1 humgrww.xyz
 127.0.0.1 hunlimd.cn
 127.0.0.1 hvfubp.xyz
 127.0.0.1 hwhefj.xyz
@@ -289,6 +295,7 @@
 127.0.0.1 koekd.xyz
 127.0.0.1 kpqdkg.xyz
 127.0.0.1 kprjva.cn
+127.0.0.1 kryjqq.com
 127.0.0.1 kucoa.xyz
 127.0.0.1 kybzkiw.xyz
 127.0.0.1 kzjkexn.cn
@@ -305,6 +312,7 @@
 127.0.0.1 lqglqq.com
 127.0.0.1 luckydino.ren
 127.0.0.1 ludie.xyz
+127.0.0.1 luuss.cn
 127.0.0.1 lwh147.xyz
 127.0.0.1 lwtqqq.com
 127.0.0.1 lxbbs.fun
@@ -378,6 +386,7 @@
 127.0.0.1 prlioxb.cn
 127.0.0.1 prtlth.xyz
 127.0.0.1 pvjlfjz.cn
+127.0.0.1 qange.com
 127.0.0.1 qatuaad.cn
 127.0.0.1 qfblqq.com
 127.0.0.1 qfdtqq.com
@@ -427,6 +436,7 @@
 127.0.0.1 seumouxuezha.xyz
 127.0.0.1 sh6ss7.top
 127.0.0.1 shangyuan.ltd
+127.0.0.1 singmwn51g.com
 127.0.0.1 sisjwol.xyz
 127.0.0.1 sjalipa.cn
 127.0.0.1 skluff.com
@@ -546,6 +556,7 @@
 127.0.0.1 xvrvgod.xyz
 127.0.0.1 xyjcpcb.cn
 127.0.0.1 xyzyqq.com
+127.0.0.1 xzlurd.xyz
 127.0.0.1 yanghetp.com
 127.0.0.1 yangyuqing.xyz
 127.0.0.1 yankuoyyds.com
@@ -593,14 +604,6 @@
 127.0.0.1 zscgoqt.cn
 127.0.0.1 zvfaxh.xyz
 127.0.0.1 zxgko.cn
-127.0.0.1 bjtel.cn
-127.0.0.1 kryjqq.com
-127.0.0.1 bockd.xyz
-127.0.0.1 fdytdc.xyz
-127.0.0.1 qange.com
-127.0.0.1 xzlurd.xyz
-127.0.0.1 humgrww.xyz
-127.0.0.1 hfhytx.xyz
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
