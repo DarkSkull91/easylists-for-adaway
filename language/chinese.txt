@@ -1,5 +1,7 @@
+127.0.0.1 002777.xyz
 127.0.0.1 0776.red
 127.0.0.1 08u6q.com
+127.0.0.1 10090dfs.com
 127.0.0.1 1136999.com
 127.0.0.1 1385a.xyz
 127.0.0.1 13niao20230422.live
@@ -17,6 +19,7 @@
 127.0.0.1 39nw.com
 127.0.0.1 4388888.xyz
 127.0.0.1 47zoz.xyz
+127.0.0.1 480image.com
 127.0.0.1 480img.com
 127.0.0.1 4cjh.xyz
 127.0.0.1 5251m.xyz
@@ -72,6 +75,7 @@
 127.0.0.1 antheaceliacd.com
 127.0.0.1 aprlitj.cn
 127.0.0.1 aqpvglv.cn
+127.0.0.1 aquvg.com
 127.0.0.1 awdc6.com
 127.0.0.1 baidudbvjksbvs.com
 127.0.0.1 baitu1llbkotsfthllcjeg.com
@@ -91,6 +95,7 @@
 127.0.0.1 blue-rain.com.cn
 127.0.0.1 blxfqq.com
 127.0.0.1 bockd.xyz
+127.0.0.1 boshao666.com
 127.0.0.1 bovhzz.xyz
 127.0.0.1 boyi.info
 127.0.0.1 bozumi.xyz
@@ -98,6 +103,7 @@
 127.0.0.1 bqdyqq.com
 127.0.0.1 brkzczn.cn
 127.0.0.1 bwwlw.cn
+127.0.0.1 cadke.xyz
 127.0.0.1 campu.ltd
 127.0.0.1 caozhixiong.cn
 127.0.0.1 cbhwekr.cn
@@ -117,6 +123,7 @@
 127.0.0.1 chenyuhuan.icu
 127.0.0.1 chenyuzhou1.cn
 127.0.0.1 chenze1.cn
+127.0.0.1 chesonfetor.com
 127.0.0.1 chnuuee.xyz
 127.0.0.1 cjbpqq.com
 127.0.0.1 cjcvd6.com
@@ -131,6 +138,8 @@
 127.0.0.1 cvmesi.xyz
 127.0.0.1 d7dzf.xyz
 127.0.0.1 d86n.top
+127.0.0.1 dagft.cn
+127.0.0.1 daizitu.ren
 127.0.0.1 dcdf4.com
 127.0.0.1 dcnytdpke.xyz
 127.0.0.1 dcqs4.com
@@ -177,6 +186,7 @@
 127.0.0.1 fijipic.xyz
 127.0.0.1 findnam.xyz
 127.0.0.1 fionamignon.com
+127.0.0.1 fjnsnt.xyz
 127.0.0.1 flpnnqe.xyz
 127.0.0.1 flyinsky2009.ltd
 127.0.0.1 fnnzr.cn
@@ -221,6 +231,7 @@
 127.0.0.1 hldwdz.xyz
 127.0.0.1 hoiea.xyz
 127.0.0.1 hontont.com
+127.0.0.1 hpjzpn.xyz
 127.0.0.1 hsili.ltd
 127.0.0.1 hsrgnac.cn
 127.0.0.1 huangji1.cn
@@ -259,10 +270,12 @@
 127.0.0.1 jfanhao.com
 127.0.0.1 jhxcld.xyz
 127.0.0.1 jiangzimeng1.cn
+127.0.0.1 jinheart.xyz
 127.0.0.1 jinmin.online
 127.0.0.1 jiqadoi.cn
 127.0.0.1 jiuba20230320.live
 127.0.0.1 jlzz.name
+127.0.0.1 jn060.xyz
 127.0.0.1 jndyl.xyz
 127.0.0.1 jnmaeun.xyz
 127.0.0.1 jntxvf.xyz
@@ -306,6 +319,8 @@
 127.0.0.1 lesenjiaoyu.xyz
 127.0.0.1 lianxi.link
 127.0.0.1 linuozhiyao.xyz
+127.0.0.1 ljte0.com
+127.0.0.1 lkmxqq.com
 127.0.0.1 lmlzht.xyz
 127.0.0.1 lnnjnv.xyz
 127.0.0.1 lorenop.icu
@@ -330,8 +345,12 @@
 127.0.0.1 mk795.cn
 127.0.0.1 moend.xyz
 127.0.0.1 momoguoji.xyz
+127.0.0.1 mr956.xyz
 127.0.0.1 mrbtkyn.xyz
 127.0.0.1 mrgecm.xyz
+127.0.0.1 mross011.com
+127.0.0.1 mross022.com
+127.0.0.1 mross033.com
 127.0.0.1 mrruuov.cn
 127.0.0.1 msqdqq.com
 127.0.0.1 mueid.xyz
@@ -344,6 +363,7 @@
 127.0.0.1 nedes.xyz
 127.0.0.1 nekomasu.ltd
 127.0.0.1 networkname.xyz
+127.0.0.1 ningdebus.club
 127.0.0.1 nogff.top
 127.0.0.1 npdkdb.xyz
 127.0.0.1 nqyz.tw
@@ -423,6 +443,7 @@
 127.0.0.1 rqytqq.com
 127.0.0.1 rrzxlt.xyz
 127.0.0.1 rsbepv.xyz
+127.0.0.1 rshrpmk.xyz
 127.0.0.1 rszqtry.cn
 127.0.0.1 rtdxqq.com
 127.0.0.1 rtjmln.xyz
@@ -443,11 +464,13 @@
 127.0.0.1 smailes.pro
 127.0.0.1 smlmupi.cn
 127.0.0.1 smmmqq.com
+127.0.0.1 sou58.com
 127.0.0.1 sozrrkx.xyz
 127.0.0.1 srkl.pw
 127.0.0.1 stbdepjb.xyz
 127.0.0.1 svrojrv.cn
 127.0.0.1 szsbiw.xyz
+127.0.0.1 tangxu.xyz
 127.0.0.1 tc911.vip
 127.0.0.1 tejiachong.co
 127.0.0.1 tffulllist.shop
@@ -464,6 +487,7 @@
 127.0.0.1 turifb.xyz
 127.0.0.1 twbqqq.com
 127.0.0.1 twnafj.xyz
+127.0.0.1 twww.sbs
 127.0.0.1 txphjl.xyz
 127.0.0.1 tzmhqll.cn
 127.0.0.1 u1010.com
@@ -486,9 +510,11 @@
 127.0.0.1 uuuxyjh.cn
 127.0.0.1 uwhreur.cn
 127.0.0.1 uxwkiyp.xyz
+127.0.0.1 uz44x.xyz
 127.0.0.1 uzuarlv.cn
 127.0.0.1 v0cf.xyz
 127.0.0.1 vel7.xyz
+127.0.0.1 vfsvv1.com
 127.0.0.1 vifzrf.xyz
 127.0.0.1 vjhjxh.xyz
 127.0.0.1 vlinz.icu
