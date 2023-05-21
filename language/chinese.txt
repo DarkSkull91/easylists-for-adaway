@@ -12,6 +12,7 @@
 127.0.0.1 230579.top
 127.0.0.1 234mx.club
 127.0.0.1 26niao20230505.live
+127.0.0.1 2fa20230511.live
 127.0.0.1 32fi.com
 127.0.0.1 331qka.cn
 127.0.0.1 36060.xyz
@@ -26,6 +27,7 @@
 127.0.0.1 52qd.club
 127.0.0.1 54ha.cn
 127.0.0.1 5xur.top
+127.0.0.1 69wx1.top
 127.0.0.1 6h1cz.xyz
 127.0.0.1 7067.top
 127.0.0.1 7xwx.cn
@@ -53,6 +55,7 @@
 127.0.0.1 aceik.xyz
 127.0.0.1 acqc9.com
 127.0.0.1 acsc10.com
+127.0.0.1 acsydez.cn
 127.0.0.1 adadu.cn
 127.0.0.1 adbtwyxl96.fun
 127.0.0.1 adcd7.com
@@ -77,6 +80,7 @@
 127.0.0.1 aqpvglv.cn
 127.0.0.1 aquvg.com
 127.0.0.1 awdc6.com
+127.0.0.1 baiduajbcjkabcav.com
 127.0.0.1 baidudbvjksbvs.com
 127.0.0.1 baitu1llbkotsfthllcjeg.com
 127.0.0.1 balspaulite.com
@@ -134,6 +138,7 @@
 127.0.0.1 cnmmcjn.cn
 127.0.0.1 cnucpaq.xyz
 127.0.0.1 codeice.xyz
+127.0.0.1 crhyqq.com
 127.0.0.1 csh253.cn
 127.0.0.1 cvmesi.xyz
 127.0.0.1 d7dzf.xyz
@@ -155,6 +160,7 @@
 127.0.0.1 dkcwnsu.xyz
 127.0.0.1 doccd.xyz
 127.0.0.1 donku.club
+127.0.0.1 dpaic.xyz
 127.0.0.1 dqazwsxd.xyz
 127.0.0.1 dsctnsn.xyz
 127.0.0.1 dshapv.xyz
@@ -187,11 +193,13 @@
 127.0.0.1 findnam.xyz
 127.0.0.1 fionamignon.com
 127.0.0.1 fjnsnt.xyz
+127.0.0.1 fkading38.xyz
 127.0.0.1 flpnnqe.xyz
 127.0.0.1 flyinsky2009.ltd
 127.0.0.1 fnnzr.cn
 127.0.0.1 fssxyiq.cn
 127.0.0.1 fthqzxq.cn
+127.0.0.1 ftptjj.xyz
 127.0.0.1 fvzljv.xyz
 127.0.0.1 fweia.xyz
 127.0.0.1 fzcsd33.com
@@ -221,6 +229,7 @@
 127.0.0.1 hbbxwan.cn
 127.0.0.1 hefei64.com
 127.0.0.1 heild.xyz
+127.0.0.1 hejbd.cn
 127.0.0.1 heliangjun2.cn
 127.0.0.1 helid.xyz
 127.0.0.1 hffxc.com
@@ -285,6 +294,7 @@
 127.0.0.1 jrtwi.xyz
 127.0.0.1 jrzaht.xyz
 127.0.0.1 jstimiz.xyz
+127.0.0.1 justasimple.top
 127.0.0.1 jvkckeg.cn
 127.0.0.1 jvmxrug.xyz
 127.0.0.1 jwandla.top
@@ -332,6 +342,7 @@
 127.0.0.1 lwtqqq.com
 127.0.0.1 lxbbs.fun
 127.0.0.1 lxyl66.cn
+127.0.0.1 m9d6p03.com
 127.0.0.1 mahao1.cn
 127.0.0.1 majunguo.cn
 127.0.0.1 maoqxyl.xyz
@@ -406,6 +417,7 @@
 127.0.0.1 prlioxb.cn
 127.0.0.1 prtlth.xyz
 127.0.0.1 pvjlfjz.cn
+127.0.0.1 pzlxnd.xyz
 127.0.0.1 qange.com
 127.0.0.1 qatuaad.cn
 127.0.0.1 qfblqq.com
@@ -478,6 +490,7 @@
 127.0.0.1 tian0.ltd
 127.0.0.1 tiancaiwei.wang
 127.0.0.1 tianma704.ltd
+127.0.0.1 tingchen.xyz
 127.0.0.1 tlhlpcb.xyz
 127.0.0.1 tmochyf.cn
 127.0.0.1 tpjmqq.com
@@ -501,6 +514,7 @@
 127.0.0.1 umcpebi.cn
 127.0.0.1 uqelxct.cn
 127.0.0.1 uqymady.cn
+127.0.0.1 urccncd.xyz
 127.0.0.1 uu5731uu.com
 127.0.0.1 uu6522uu.com
 127.0.0.1 uu6873uu.com
@@ -510,6 +524,7 @@
 127.0.0.1 uuuxyjh.cn
 127.0.0.1 uwhreur.cn
 127.0.0.1 uxwkiyp.xyz
+127.0.0.1 uysdxmo.com
 127.0.0.1 uz44x.xyz
 127.0.0.1 uzuarlv.cn
 127.0.0.1 v0cf.xyz
@@ -608,6 +623,7 @@
 127.0.0.1 zdo-bdg.xyz
 127.0.0.1 zdobdg.fyi
 127.0.0.1 zdyuoae.xyz
+127.0.0.1 zeatse.buzz
 127.0.0.1 zebjlt.buzz
 127.0.0.1 zgyvg.top
 127.0.0.1 zhalinyyds.com
