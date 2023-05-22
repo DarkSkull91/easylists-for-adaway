@@ -18,6 +18,7 @@
 127.0.0.1 36060.xyz
 127.0.0.1 36nl.com
 127.0.0.1 39nw.com
+127.0.0.1 3fa20230512.live
 127.0.0.1 4388888.xyz
 127.0.0.1 47zoz.xyz
 127.0.0.1 480image.com
@@ -79,6 +80,7 @@
 127.0.0.1 aprlitj.cn
 127.0.0.1 aqpvglv.cn
 127.0.0.1 aquvg.com
+127.0.0.1 aup34.xyz
 127.0.0.1 awdc6.com
 127.0.0.1 baiduajbcjkabcav.com
 127.0.0.1 baidudbvjksbvs.com
@@ -105,6 +107,7 @@
 127.0.0.1 bozumi.xyz
 127.0.0.1 bqcxgbm.cn
 127.0.0.1 bqdyqq.com
+127.0.0.1 bqsxqq.com
 127.0.0.1 brkzczn.cn
 127.0.0.1 bwwlw.cn
 127.0.0.1 cadke.xyz
@@ -138,9 +141,11 @@
 127.0.0.1 cnmmcjn.cn
 127.0.0.1 cnucpaq.xyz
 127.0.0.1 codeice.xyz
+127.0.0.1 cofz9.top
 127.0.0.1 crhyqq.com
 127.0.0.1 csh253.cn
 127.0.0.1 cvmesi.xyz
+127.0.0.1 cwsgbekun.xyz
 127.0.0.1 d7dzf.xyz
 127.0.0.1 d86n.top
 127.0.0.1 dagft.cn
@@ -168,6 +173,7 @@
 127.0.0.1 dtjhtp.xyz
 127.0.0.1 dtnhjzl.xyz
 127.0.0.1 dyhnbgtsl.xyz
+127.0.0.1 eaica.xyz
 127.0.0.1 ealdi.xyz
 127.0.0.1 ecav5.com
 127.0.0.1 eciea.xyz
@@ -176,6 +182,7 @@
 127.0.0.1 ej65.xyz
 127.0.0.1 enahmy.xyz
 127.0.0.1 endio.xyz
+127.0.0.1 eqknlsw.xyz
 127.0.0.1 evmnlpv.cn
 127.0.0.1 excfig.xyz
 127.0.0.1 exwxrfz.cn
@@ -338,6 +345,7 @@
 127.0.0.1 luckydino.ren
 127.0.0.1 ludie.xyz
 127.0.0.1 luuss.cn
+127.0.0.1 lvy0.cn
 127.0.0.1 lwh147.xyz
 127.0.0.1 lwtqqq.com
 127.0.0.1 lxbbs.fun
@@ -371,6 +379,7 @@
 127.0.0.1 ncyksuw.xyz
 127.0.0.1 ncyx.ltd
 127.0.0.1 ndqzqmb.xyz
+127.0.0.1 ndruhz.xyz
 127.0.0.1 nedes.xyz
 127.0.0.1 nekomasu.ltd
 127.0.0.1 networkname.xyz
@@ -403,6 +412,7 @@
 127.0.0.1 pepnsnq.cn
 127.0.0.1 pgjcbz.xyz
 127.0.0.1 piaochong.co
+127.0.0.1 pingfang.icu
 127.0.0.1 pithjpf.cn
 127.0.0.1 pkkylyx.xyz
 127.0.0.1 pkynqq.com
@@ -481,6 +491,7 @@
 127.0.0.1 srkl.pw
 127.0.0.1 stbdepjb.xyz
 127.0.0.1 svrojrv.cn
+127.0.0.1 swandlb.top
 127.0.0.1 szsbiw.xyz
 127.0.0.1 tangxu.xyz
 127.0.0.1 tc911.vip
@@ -508,6 +519,7 @@
 127.0.0.1 u55022.com
 127.0.0.1 u5nvu.xyz
 127.0.0.1 u833ij.com
+127.0.0.1 u97jr.xyz
 127.0.0.1 ubifyc.xyz
 127.0.0.1 ucqihfh.cn
 127.0.0.1 ufgg55.xyz
@@ -537,6 +549,7 @@
 127.0.0.1 vorluic.cn
 127.0.0.1 vujhaib.cn
 127.0.0.1 vydbvp.xyz
+127.0.0.1 vydqknuy.xyz
 127.0.0.1 vzfizr.xyz
 127.0.0.1 w4jz.top
 127.0.0.1 w9f1r.top
@@ -582,6 +595,7 @@
 127.0.0.1 xingyang.in
 127.0.0.1 xiod.xyz
 127.0.0.1 xiongxiaoze12.cn
+127.0.0.1 xjnyjt.xyz
 127.0.0.1 xkdlqq.com
 127.0.0.1 xlsds888.xyz
 127.0.0.1 xlxknf.xyz
@@ -646,6 +660,13 @@
 127.0.0.1 zscgoqt.cn
 127.0.0.1 zvfaxh.xyz
 127.0.0.1 zxgko.cn
+127.0.0.1 ddqkqq.com
+127.0.0.1 nuanqipian.pw
+127.0.0.1 junkao.club
+127.0.0.1 oofyjik.xyz
+127.0.0.1 xtpwfb.xyz
+127.0.0.1 fmild.xyz
+127.0.0.1 ewandlw.top
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
