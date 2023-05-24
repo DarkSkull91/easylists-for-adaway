@@ -12,6 +12,7 @@
 127.0.0.1 230579.top
 127.0.0.1 234mx.club
 127.0.0.1 26niao20230505.live
+127.0.0.1 27niao20230506.live
 127.0.0.1 2fa20230511.live
 127.0.0.1 32fi.com
 127.0.0.1 331qka.cn
@@ -123,6 +124,7 @@
 127.0.0.1 cennv.cn
 127.0.0.1 ceodk.xyz
 127.0.0.1 cex8jw.cn
+127.0.0.1 cfx3d.xyz
 127.0.0.1 cfxkluv.cn
 127.0.0.1 cge.cc
 127.0.0.1 chaozhunbb.xyz
@@ -142,6 +144,7 @@
 127.0.0.1 cnucpaq.xyz
 127.0.0.1 codeice.xyz
 127.0.0.1 cofz9.top
+127.0.0.1 cped7.xyz
 127.0.0.1 crhyqq.com
 127.0.0.1 csh253.cn
 127.0.0.1 cvmesi.xyz
@@ -174,6 +177,7 @@
 127.0.0.1 dtjhtp.xyz
 127.0.0.1 dtnhjzl.xyz
 127.0.0.1 dyhnbgtsl.xyz
+127.0.0.1 e51d1.icu
 127.0.0.1 eaica.xyz
 127.0.0.1 ealdi.xyz
 127.0.0.1 ecav5.com
@@ -193,7 +197,9 @@
 127.0.0.1 falal.cn
 127.0.0.1 fangguanjia.xyz
 127.0.0.1 fangqingkai.icu
+127.0.0.1 fast416.info
 127.0.0.1 fcied.xyz
+127.0.0.1 fdrxdr.xyz
 127.0.0.1 fdytdc.xyz
 127.0.0.1 feiju12138.xyz
 127.0.0.1 feild.xyz
@@ -216,13 +222,16 @@
 127.0.0.1 g77ds2.xyz
 127.0.0.1 gaokao.asia
 127.0.0.1 gggppp666.com
+127.0.0.1 ggx0001.com
 127.0.0.1 giold.xyz
 127.0.0.1 gixhlii.xyz
+127.0.0.1 gjmqqq.com
 127.0.0.1 gjxczx.xyz
 127.0.0.1 goiagm.xyz
 127.0.0.1 golden88.co
 127.0.0.1 gorpgeu.xyz
 127.0.0.1 gpqicw.xyz
+127.0.0.1 gpqid.xyz
 127.0.0.1 grxeyig.xyz
 127.0.0.1 grxwqq.com
 127.0.0.1 guzhimian.fun
@@ -376,6 +385,7 @@
 127.0.0.1 mross033.com
 127.0.0.1 mrruuov.cn
 127.0.0.1 msqdqq.com
+127.0.0.1 mssdkrt.xyz
 127.0.0.1 mueid.xyz
 127.0.0.1 mxknqq.com
 127.0.0.1 nagmopd.cn
@@ -469,6 +479,7 @@
 127.0.0.1 risrauj.cn
 127.0.0.1 rizgtf.xyz
 127.0.0.1 rksnqq.com
+127.0.0.1 rnajhyd.xyz
 127.0.0.1 robberyinscription.com
 127.0.0.1 rpajqxo.cn
 127.0.0.1 rqytqq.com
@@ -536,6 +547,7 @@
 127.0.0.1 uqelxct.cn
 127.0.0.1 uqymady.cn
 127.0.0.1 urccncd.xyz
+127.0.0.1 utqzauw.cn
 127.0.0.1 uu5731uu.com
 127.0.0.1 uu6522uu.com
 127.0.0.1 uu6873uu.com
@@ -557,6 +569,7 @@
 127.0.0.1 vnlqcod.cn
 127.0.0.1 vorluic.cn
 127.0.0.1 vujhaib.cn
+127.0.0.1 vxvtzx.xyz
 127.0.0.1 vydbvp.xyz
 127.0.0.1 vydqknuy.xyz
 127.0.0.1 vzfizr.xyz

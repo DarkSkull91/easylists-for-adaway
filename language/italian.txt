@@ -31,7 +31,6 @@
 127.0.0.1 widget.promoqui.it
 127.0.0.1 widgets.shop.moda.it
 127.0.0.1 adserver.ilgazzettinovesuviano.com
-127.0.0.1 banner.moscarossa.biz
 127.0.0.1 click.html.it
 127.0.0.1 devaje.pourfemme.it
 127.0.0.1 extra.treddi.com
