@@ -100,6 +100,7 @@
 127.0.0.1 bjwh8.xyz
 127.0.0.1 bkae.top
 127.0.0.1 blue-rain.com.cn
+127.0.0.1 blvnsgr.xyz
 127.0.0.1 blxfqq.com
 127.0.0.1 bockd.xyz
 127.0.0.1 boshao666.com
@@ -149,6 +150,7 @@
 127.0.0.1 csh253.cn
 127.0.0.1 cvmesi.xyz
 127.0.0.1 cwsgbekun.xyz
+127.0.0.1 czexrhl.cn
 127.0.0.1 d7dzf.xyz
 127.0.0.1 d86n.top
 127.0.0.1 dagft.cn
@@ -164,6 +166,7 @@
 127.0.0.1 devofei.xyz
 127.0.0.1 dgfqqq.com
 127.0.0.1 dhaxhsa325.com
+127.0.0.1 dhxrxn.xyz
 127.0.0.1 diekd.xyz
 127.0.0.1 djahkee.xyz
 127.0.0.1 dkcwnsu.xyz
@@ -188,6 +191,7 @@
 127.0.0.1 enahmy.xyz
 127.0.0.1 endio.xyz
 127.0.0.1 eqknlsw.xyz
+127.0.0.1 euyvpgn.cn
 127.0.0.1 evmnlpv.cn
 127.0.0.1 ewandlw.top
 127.0.0.1 excfig.xyz
@@ -198,6 +202,7 @@
 127.0.0.1 fangguanjia.xyz
 127.0.0.1 fangqingkai.icu
 127.0.0.1 fast416.info
+127.0.0.1 fatvzh.xyz
 127.0.0.1 fcied.xyz
 127.0.0.1 fdrxdr.xyz
 127.0.0.1 fdytdc.xyz
@@ -246,8 +251,10 @@
 127.0.0.1 h731.icu
 127.0.0.1 hangtuo.pub
 127.0.0.1 hbbxwan.cn
+127.0.0.1 hbkunye.com
 127.0.0.1 hefei64.com
 127.0.0.1 heild.xyz
+127.0.0.1 heiow.xyz
 127.0.0.1 hejbd.cn
 127.0.0.1 heliangjun2.cn
 127.0.0.1 helid.xyz
@@ -290,6 +297,7 @@
 127.0.0.1 iughyy7919.com
 127.0.0.1 iwandlo.top
 127.0.0.1 iwdvvoc.cn
+127.0.0.1 j1p6w.xyz
 127.0.0.1 jbtfmis.xyz
 127.0.0.1 jbzjegn.cn
 127.0.0.1 jeedi.xyz
@@ -347,12 +355,15 @@
 127.0.0.1 ledni.xyz
 127.0.0.1 lendc.xyz
 127.0.0.1 lesenjiaoyu.xyz
+127.0.0.1 lgecqrb.com
 127.0.0.1 lianxi.link
 127.0.0.1 linuozhiyao.xyz
 127.0.0.1 ljte0.com
+127.0.0.1 lkidke.com
 127.0.0.1 lkmxqq.com
 127.0.0.1 lmlzht.xyz
 127.0.0.1 lnnjnv.xyz
+127.0.0.1 lnpqqq.com
 127.0.0.1 lorenop.icu
 127.0.0.1 lqglqq.com
 127.0.0.1 luckydino.ren
@@ -397,6 +408,7 @@
 127.0.0.1 nedes.xyz
 127.0.0.1 nekomasu.ltd
 127.0.0.1 networkname.xyz
+127.0.0.1 nezqmud.com
 127.0.0.1 ningdebus.club
 127.0.0.1 nntsdp.xyz
 127.0.0.1 nogff.top
@@ -458,6 +470,7 @@
 127.0.0.1 qiwjiy.xyz
 127.0.0.1 qkcaqq.xyz
 127.0.0.1 qkwsqq.com
+127.0.0.1 qm6ef.xyz
 127.0.0.1 qnmtqq.com
 127.0.0.1 qpoiwnelc.com
 127.0.0.1 qqied.xyz
@@ -596,6 +609,7 @@
 127.0.0.1 wqweiog.xyz
 127.0.0.1 wsoxwa.xyz
 127.0.0.1 wvwl.cn
+127.0.0.1 wwandle.top
 127.0.0.1 wwgqqq.com
 127.0.0.1 wwqfqq.com
 127.0.0.1 wx001.online
@@ -651,6 +665,7 @@
 127.0.0.1 yttc.ren
 127.0.0.1 yuebog.xyz
 127.0.0.1 yulingaa.xyz
+127.0.0.1 yuwenbin.host
 127.0.0.1 ywsiqlg.cn
 127.0.0.1 yywh.vip
 127.0.0.1 z11011.com
@@ -661,6 +676,7 @@
 127.0.0.1 zdlnhv.xyz
 127.0.0.1 zdo-bdg.xyz
 127.0.0.1 zdobdg.fyi
+127.0.0.1 zdpphgd.cn
 127.0.0.1 zdyuoae.xyz
 127.0.0.1 zeatse.buzz
 127.0.0.1 zebjlt.buzz
