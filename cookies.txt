@@ -30,6 +30,7 @@
 127.0.0.1 cmp.cdn.thesun.ie
 127.0.0.1 cmp.courrierinternational.com
 127.0.0.1 cmp.finn.no
+127.0.0.1 cmp.focus.de
 127.0.0.1 cmp.graziadaily.co.uk
 127.0.0.1 cmp.huffingtonpost.fr
 127.0.0.1 cmp.infopro-digital.com
