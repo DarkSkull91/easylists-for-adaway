@@ -25,6 +25,7 @@
 127.0.0.1 480image.com
 127.0.0.1 480img.com
 127.0.0.1 4cjh.xyz
+127.0.0.1 4iuyw.xyz
 127.0.0.1 5251m.xyz
 127.0.0.1 52qd.club
 127.0.0.1 54ha.cn
@@ -32,6 +33,7 @@
 127.0.0.1 69wx1.top
 127.0.0.1 6h1cz.xyz
 127.0.0.1 7067.top
+127.0.0.1 77tum.top
 127.0.0.1 7xwx.cn
 127.0.0.1 88885aaa.com
 127.0.0.1 8b4v.cn
@@ -114,6 +116,7 @@
 127.0.0.1 bqsxqq.com
 127.0.0.1 brkzczn.cn
 127.0.0.1 bwwlw.cn
+127.0.0.1 c9cc.icu
 127.0.0.1 cadke.xyz
 127.0.0.1 campu.ltd
 127.0.0.1 caozhixiong.cn
@@ -237,6 +240,7 @@
 127.0.0.1 gixhlii.xyz
 127.0.0.1 gjmqqq.com
 127.0.0.1 gjxczx.xyz
+127.0.0.1 gmasrjx.cn
 127.0.0.1 goiagm.xyz
 127.0.0.1 golden88.co
 127.0.0.1 gorpgeu.xyz
@@ -272,6 +276,7 @@
 127.0.0.1 hoiea.xyz
 127.0.0.1 hontont.com
 127.0.0.1 hpjzpn.xyz
+127.0.0.1 hrngmf.com
 127.0.0.1 hsili.ltd
 127.0.0.1 hsrgnac.cn
 127.0.0.1 huangji1.cn
@@ -333,6 +338,7 @@
 127.0.0.1 jvkckeg.cn
 127.0.0.1 jvmxrug.xyz
 127.0.0.1 jwandla.top
+127.0.0.1 jweod.xyz
 127.0.0.1 jwjdpab.cn
 127.0.0.1 jwronx.xyz
 127.0.0.1 jxncs1.com
@@ -351,6 +357,7 @@
 127.0.0.1 kmlxlkz.cn
 127.0.0.1 knxvwxe.cn
 127.0.0.1 koekd.xyz
+127.0.0.1 kpiwgio.cn
 127.0.0.1 kpqdkg.xyz
 127.0.0.1 kprjva.cn
 127.0.0.1 kryjqq.com
@@ -372,6 +379,7 @@
 127.0.0.1 lmlzht.xyz
 127.0.0.1 lnnjnv.xyz
 127.0.0.1 lnpqqq.com
+127.0.0.1 lobqpt.xyz
 127.0.0.1 lorenop.icu
 127.0.0.1 lqglqq.com
 127.0.0.1 luckydino.ren
@@ -431,6 +439,7 @@
 127.0.0.1 nwecd.xyz
 127.0.0.1 ocoda.xyz
 127.0.0.1 ogtphoj.cn
+127.0.0.1 oiljomy.xyz
 127.0.0.1 oimzak.xyz
 127.0.0.1 ojuhwc.xyz
 127.0.0.1 on-you.cn
@@ -489,6 +498,7 @@
 127.0.0.1 quancuncq.xyz
 127.0.0.1 qvcyeknp.xyz
 127.0.0.1 qwahk.com
+127.0.0.1 qwandly.top
 127.0.0.1 qwrdj.xyz
 127.0.0.1 ra1.xyz
 127.0.0.1 radish-cake.xyz
@@ -533,6 +543,7 @@
 127.0.0.1 smailes.pro
 127.0.0.1 smlmupi.cn
 127.0.0.1 smmmqq.com
+127.0.0.1 somddgo.com
 127.0.0.1 sou58.com
 127.0.0.1 sozrrkx.xyz
 127.0.0.1 srkl.pw
@@ -596,6 +607,7 @@
 127.0.0.1 vnlqcod.cn
 127.0.0.1 vorluic.cn
 127.0.0.1 vujhaib.cn
+127.0.0.1 vuxxtn.xyz
 127.0.0.1 vxvtzx.xyz
 127.0.0.1 vydbvp.xyz
 127.0.0.1 vydqknuy.xyz
@@ -642,6 +654,7 @@
 127.0.0.1 xiaobixiaobi.com
 127.0.0.1 xiaochen1.cn
 127.0.0.1 xiaoliublog.icu
+127.0.0.1 xiiljoy.cn
 127.0.0.1 xingyang.in
 127.0.0.1 xiod.xyz
 127.0.0.1 xiongxiaoze12.cn
@@ -659,6 +672,7 @@
 127.0.0.1 xuanqi.ltd
 127.0.0.1 xueyugaoyuan.xyz
 127.0.0.1 xunjie.fun
+127.0.0.1 xuxiaoran.xyz
 127.0.0.1 xvrvgod.xyz
 127.0.0.1 xyjcpcb.cn
 127.0.0.1 xyqmy.xyz
@@ -667,6 +681,7 @@
 127.0.0.1 y3cdp.top
 127.0.0.1 yanghetp.com
 127.0.0.1 yangyuqing.xyz
+127.0.0.1 yankuojjqq.com
 127.0.0.1 yankuoyyds.com
 127.0.0.1 yb0a.xyz
 127.0.0.1 ychkujj.cn
@@ -694,6 +709,7 @@
 127.0.0.1 zdyuoae.xyz
 127.0.0.1 zeatse.buzz
 127.0.0.1 zebjlt.buzz
+127.0.0.1 zetcul.xyz
 127.0.0.1 zgyvg.top
 127.0.0.1 zhalinyyds.com
 127.0.0.1 zhanghao164.xyz
