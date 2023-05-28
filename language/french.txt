@@ -7820,7 +7820,6 @@
 127.0.0.1 ad.graciamediaweb.com
 127.0.0.1 ad.munion.in
 127.0.0.1 ad.net-c.com
-127.0.0.1 ad.prismamediadigital.com
 127.0.0.1 ad.publicidees.com
 127.0.0.1 ad.vacanceo.com
 127.0.0.1 ad.zanox.com
@@ -7835,7 +7834,6 @@
 127.0.0.1 affiliation.porn.fr
 127.0.0.1 affiliationv4.porn.fr
 127.0.0.1 altadefinizione.blue
-127.0.0.1 altarisoluzione.online
 127.0.0.1 asumi.shinobi.jp
 127.0.0.1 b.photobucket.com
 127.0.0.1 ba.commentcamarche.net
