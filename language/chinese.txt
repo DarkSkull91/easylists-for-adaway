@@ -90,6 +90,7 @@
 127.0.0.1 ayynsdp.xyz
 127.0.0.1 baiduajbcjkabcav.com
 127.0.0.1 baidudbvjksbvs.com
+127.0.0.1 baidudsvbshj.com
 127.0.0.1 baitu1llbkotsfthllcjeg.com
 127.0.0.1 balspaulite.com
 127.0.0.1 baytfede.xyz
@@ -117,6 +118,7 @@
 127.0.0.1 bqdyqq.com
 127.0.0.1 bqsxqq.com
 127.0.0.1 brkzczn.cn
+127.0.0.1 brzfqq.com
 127.0.0.1 bwwlw.cn
 127.0.0.1 c9cc.icu
 127.0.0.1 cadke.xyz
@@ -178,9 +180,11 @@
 127.0.0.1 dhxrxn.xyz
 127.0.0.1 diekd.xyz
 127.0.0.1 diggtp001.com
+127.0.0.1 dikmnhyxz.xyz
 127.0.0.1 djahkee.xyz
 127.0.0.1 dkcwnsu.xyz
 127.0.0.1 dl520.fun
+127.0.0.1 dobwll.xyz
 127.0.0.1 doccd.xyz
 127.0.0.1 donku.club
 127.0.0.1 dpaic.xyz
@@ -296,6 +300,7 @@
 127.0.0.1 iaacua.xyz
 127.0.0.1 icesfeathers.fun
 127.0.0.1 iepda.xyz
+127.0.0.1 ifbfksf.xyz
 127.0.0.1 ifbqves.cn
 127.0.0.1 ifeurcw.cn
 127.0.0.1 igtchzp.cn
@@ -353,6 +358,7 @@
 127.0.0.1 kbabqnd.cn
 127.0.0.1 kcieo.xyz
 127.0.0.1 kfocoq.xyz
+127.0.0.1 kgcyvd.com
 127.0.0.1 kianakaslana.club
 127.0.0.1 kingsunsky.ltd
 127.0.0.1 kjwysxs.cn
@@ -370,6 +376,7 @@
 127.0.0.1 kybzkiw.xyz
 127.0.0.1 kzjkexn.cn
 127.0.0.1 kzjqraj.cn
+127.0.0.1 l74co.xyz
 127.0.0.1 lcjyll.xyz
 127.0.0.1 ledni.xyz
 127.0.0.1 lendc.xyz
@@ -387,8 +394,10 @@
 127.0.0.1 lobqpt.xyz
 127.0.0.1 lorenop.icu
 127.0.0.1 lqglqq.com
+127.0.0.1 lrah0.top
 127.0.0.1 luckydino.ren
 127.0.0.1 ludie.xyz
+127.0.0.1 ludpa.xyz
 127.0.0.1 luuss.cn
 127.0.0.1 lvy0.cn
 127.0.0.1 lwh147.xyz
@@ -452,6 +461,7 @@
 127.0.0.1 ojuhwc.xyz
 127.0.0.1 on-you.cn
 127.0.0.1 onlystar.club
+127.0.0.1 ooegpip.cn
 127.0.0.1 ooexkqj.cn
 127.0.0.1 oofyjik.xyz
 127.0.0.1 opida.xyz
@@ -498,6 +508,7 @@
 127.0.0.1 qiwjiy.xyz
 127.0.0.1 qkcaqq.xyz
 127.0.0.1 qkwsqq.com
+127.0.0.1 qlwoglp.cn
 127.0.0.1 qm6ef.xyz
 127.0.0.1 qnmtqq.com
 127.0.0.1 qooav.top
@@ -539,6 +550,7 @@
 127.0.0.1 sbyueyue.xyz
 127.0.0.1 scrvw3.com
 127.0.0.1 sdfqs2.com
+127.0.0.1 sdfxcv.com
 127.0.0.1 sectn.xyz
 127.0.0.1 semaobf1.com
 127.0.0.1 seumouxuezha.xyz
@@ -567,6 +579,7 @@
 127.0.0.1 tian0.ltd
 127.0.0.1 tiancaiwei.wang
 127.0.0.1 tianma704.ltd
+127.0.0.1 tifpjz.xyz
 127.0.0.1 tingchen.xyz
 127.0.0.1 tlhlpcb.xyz
 127.0.0.1 tmochyf.cn
@@ -575,6 +588,7 @@
 127.0.0.1 ttpybz.xyz
 127.0.0.1 tuhipkz.xyz
 127.0.0.1 turifb.xyz
+127.0.0.1 twandli.top
 127.0.0.1 twbqqq.com
 127.0.0.1 twnafj.xyz
 127.0.0.1 twww.sbs
@@ -662,6 +676,7 @@
 127.0.0.1 xiangfenyabu.xyz
 127.0.0.1 xiaobixiaobi.com
 127.0.0.1 xiaochen1.cn
+127.0.0.1 xiaodouding.club
 127.0.0.1 xiaoliublog.icu
 127.0.0.1 xiiljoy.cn
 127.0.0.1 xingyang.in
@@ -743,6 +758,14 @@
 127.0.0.1 zscgoqt.cn
 127.0.0.1 zvfaxh.xyz
 127.0.0.1 zxgko.cn
+127.0.0.1 yisangyhqq.com
+127.0.0.1 lewqiiy.xyz
+127.0.0.1 taoli.name
+127.0.0.1 evenyw.xyz
+127.0.0.1 dydujb.xyz
+127.0.0.1 wosidnlkxq.com
+127.0.0.1 mzqf1.com
+127.0.0.1 meidd.xyz
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
