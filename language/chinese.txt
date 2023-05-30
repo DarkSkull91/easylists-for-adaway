@@ -14,6 +14,7 @@
 127.0.0.1 26niao20230505.live
 127.0.0.1 27niao20230506.live
 127.0.0.1 2fa20230511.live
+127.0.0.1 2medo.top
 127.0.0.1 32fi.com
 127.0.0.1 331qka.cn
 127.0.0.1 36060.xyz
@@ -65,6 +66,7 @@
 127.0.0.1 adbtwyxl96.fun
 127.0.0.1 adcd7.com
 127.0.0.1 adelaideceliacd.com
+127.0.0.1 adfec3.com
 127.0.0.1 aeletheacd.com
 127.0.0.1 afndhou.xyz
 127.0.0.1 agwdac.xyz
@@ -108,6 +110,7 @@
 127.0.0.1 blue-rain.com.cn
 127.0.0.1 blvnsgr.xyz
 127.0.0.1 blxfqq.com
+127.0.0.1 bny3.cn
 127.0.0.1 bnz9.cn
 127.0.0.1 bockd.xyz
 127.0.0.1 boshao666.com
@@ -194,6 +197,7 @@
 127.0.0.1 dszhqww.cn
 127.0.0.1 dtjhtp.xyz
 127.0.0.1 dtnhjzl.xyz
+127.0.0.1 dydujb.xyz
 127.0.0.1 dyhnbgtsl.xyz
 127.0.0.1 e51d1.icu
 127.0.0.1 eaica.xyz
@@ -207,6 +211,7 @@
 127.0.0.1 endio.xyz
 127.0.0.1 eqknlsw.xyz
 127.0.0.1 euyvpgn.cn
+127.0.0.1 evenyw.xyz
 127.0.0.1 evmnlpv.cn
 127.0.0.1 ewandlw.top
 127.0.0.1 excfig.xyz
@@ -249,6 +254,7 @@
 127.0.0.1 gjxczx.xyz
 127.0.0.1 gmasrjx.cn
 127.0.0.1 goiagm.xyz
+127.0.0.1 goikbnjksdf.com
 127.0.0.1 golden88.co
 127.0.0.1 gorpgeu.xyz
 127.0.0.1 gpqicw.xyz
@@ -381,6 +387,7 @@
 127.0.0.1 ledni.xyz
 127.0.0.1 lendc.xyz
 127.0.0.1 lesenjiaoyu.xyz
+127.0.0.1 lewqiiy.xyz
 127.0.0.1 lgecqrb.com
 127.0.0.1 lianxi.link
 127.0.0.1 linuozhiyao.xyz
@@ -413,6 +420,7 @@
 127.0.0.1 mc3369.xyz
 127.0.0.1 mdqhyxe.cn
 127.0.0.1 meexx.xyz
+127.0.0.1 meidd.xyz
 127.0.0.1 mem3.cn
 127.0.0.1 mfifsux.xyz
 127.0.0.1 mfoevvy.com
@@ -432,6 +440,7 @@
 127.0.0.1 mssdkrt.xyz
 127.0.0.1 mueid.xyz
 127.0.0.1 mxknqq.com
+127.0.0.1 mzqf1.com
 127.0.0.1 nagmopd.cn
 127.0.0.1 naned.xyz
 127.0.0.1 ncyksuw.xyz
@@ -442,6 +451,7 @@
 127.0.0.1 nekomasu.ltd
 127.0.0.1 networkname.xyz
 127.0.0.1 nezqmud.com
+127.0.0.1 nilzq.xyz
 127.0.0.1 ningdebus.club
 127.0.0.1 nkvwvx.xyz
 127.0.0.1 nntsdp.xyz
@@ -456,6 +466,7 @@
 127.0.0.1 nwecd.xyz
 127.0.0.1 ocoda.xyz
 127.0.0.1 ogtphoj.cn
+127.0.0.1 oiewpw.com
 127.0.0.1 oiljomy.xyz
 127.0.0.1 oimzak.xyz
 127.0.0.1 ojuhwc.xyz
@@ -572,6 +583,7 @@
 127.0.0.1 swandlb.top
 127.0.0.1 szsbiw.xyz
 127.0.0.1 tangxu.xyz
+127.0.0.1 taoli.name
 127.0.0.1 tc911.vip
 127.0.0.1 tejiachong.co
 127.0.0.1 tffulllist.shop
@@ -649,12 +661,14 @@
 127.0.0.1 weeqmcq.cn
 127.0.0.1 weixinnft.com
 127.0.0.1 wenxiaowu.xyz
+127.0.0.1 westover.cn
 127.0.0.1 wgzgzmu.cn
 127.0.0.1 whbn.xyz
 127.0.0.1 windyang.xyz
 127.0.0.1 wjaqc.xyz
 127.0.0.1 wjtij.top
 127.0.0.1 wkzrqq.com
+127.0.0.1 wosidnlkxq.com
 127.0.0.1 wqweiog.xyz
 127.0.0.1 wsoxwa.xyz
 127.0.0.1 wvwl.cn
@@ -715,6 +729,7 @@
 127.0.0.1 yikucdn.com
 127.0.0.1 yingce.asia
 127.0.0.1 yingnanyyds.com
+127.0.0.1 yisangyhqq.com
 127.0.0.1 yisangyyds.com
 127.0.0.1 yjgqpfj.cn
 127.0.0.1 yttc.ren
@@ -724,6 +739,7 @@
 127.0.0.1 ywsiqlg.cn
 127.0.0.1 yywh.vip
 127.0.0.1 z11011.com
+127.0.0.1 z74lb.com
 127.0.0.1 zbbvhj.xyz
 127.0.0.1 zbvchabjbcj.com
 127.0.0.1 zcdfll.xyz
@@ -758,14 +774,16 @@
 127.0.0.1 zscgoqt.cn
 127.0.0.1 zvfaxh.xyz
 127.0.0.1 zxgko.cn
-127.0.0.1 yisangyhqq.com
-127.0.0.1 lewqiiy.xyz
-127.0.0.1 taoli.name
-127.0.0.1 evenyw.xyz
-127.0.0.1 dydujb.xyz
-127.0.0.1 wosidnlkxq.com
-127.0.0.1 mzqf1.com
-127.0.0.1 meidd.xyz
+127.0.0.1 zaiyuanyqq.com
+127.0.0.1 bapdkgmvn.xyz
+127.0.0.1 uejnmjdpd.xyz
+127.0.0.1 godlu.com
+127.0.0.1 jt56.co
+127.0.0.1 uwandlt.top
+127.0.0.1 nakop.xyz
+127.0.0.1 lifvfr.xyz
+127.0.0.1 nwuidsbjak.com
+127.0.0.1 vdebtqm.xyz
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz

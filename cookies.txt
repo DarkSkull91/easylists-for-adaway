@@ -140,6 +140,7 @@
 127.0.0.1 consent.prismamedia.com
 127.0.0.1 consentement.ouest-france.fr
 127.0.0.1 cookies.leadplace.fr
+127.0.0.1 privacy.footmercato.net
 127.0.0.1 consent.t-mobile.cz
 127.0.0.1 cmp.deondernemer.nl
 127.0.0.1 cookie.vrt.be
