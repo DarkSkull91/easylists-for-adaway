@@ -27,6 +27,7 @@
 127.0.0.1 480img.com
 127.0.0.1 4cjh.xyz
 127.0.0.1 4iuyw.xyz
+127.0.0.1 50i2n.top
 127.0.0.1 5251m.xyz
 127.0.0.1 52qd.club
 127.0.0.1 54ha.cn
@@ -70,6 +71,7 @@
 127.0.0.1 adelaideceliacd.com
 127.0.0.1 adfec3.com
 127.0.0.1 aeletheacd.com
+127.0.0.1 afgathacd.com
 127.0.0.1 afndhou.xyz
 127.0.0.1 agwdac.xyz
 127.0.0.1 aicpa.club
@@ -98,12 +100,14 @@
 127.0.0.1 baitu1llbkotsfthllcjeg.com
 127.0.0.1 balspaulite.com
 127.0.0.1 bapdkgmvn.xyz
+127.0.0.1 baucdngb.xyz
 127.0.0.1 baytfede.xyz
 127.0.0.1 bcivqxd.cn
 127.0.0.1 bdrzxp.xyz
 127.0.0.1 beiod.xyz
 127.0.0.1 bekcd.xyz
 127.0.0.1 bekco.xyz
+127.0.0.1 bestialvehemence.com
 127.0.0.1 betgdr.xyz
 127.0.0.1 bili96.co
 127.0.0.1 bjcpjab.cn
@@ -177,10 +181,12 @@
 127.0.0.1 ddkep.xyz
 127.0.0.1 ddlipf.xyz
 127.0.0.1 ddqkqq.com
+127.0.0.1 deansent.top
 127.0.0.1 denghaishan1.cn
 127.0.0.1 dertyhsf.xyz
 127.0.0.1 devofei.xyz
 127.0.0.1 dezstd.xyz
+127.0.0.1 dfec2.com
 127.0.0.1 dgfqqq.com
 127.0.0.1 dhaxhsa325.com
 127.0.0.1 dhxrxn.xyz
@@ -224,8 +230,10 @@
 127.0.0.1 falal.cn
 127.0.0.1 fangguanjia.xyz
 127.0.0.1 fangqingkai.icu
+127.0.0.1 fanyuelin208.club
 127.0.0.1 fast416.info
 127.0.0.1 fatvzh.xyz
+127.0.0.1 fbzmrgf.xyz
 127.0.0.1 fcied.xyz
 127.0.0.1 fdrxdr.xyz
 127.0.0.1 fdytdc.xyz
@@ -335,6 +343,7 @@
 127.0.0.1 jerrytom.xyz
 127.0.0.1 jfanhao.com
 127.0.0.1 jhxcld.xyz
+127.0.0.1 jiangxing.pub
 127.0.0.1 jiangzimeng1.cn
 127.0.0.1 jinheart.xyz
 127.0.0.1 jinmin.online
@@ -397,6 +406,7 @@
 127.0.0.1 lianxi.link
 127.0.0.1 lifvfr.xyz
 127.0.0.1 linuozhiyao.xyz
+127.0.0.1 liweiling.xyz
 127.0.0.1 ljte0.com
 127.0.0.1 lkidke.com
 127.0.0.1 lkmxqq.com
@@ -467,6 +477,7 @@
 127.0.0.1 nqyz.tw
 127.0.0.1 nsfdsa.xyz
 127.0.0.1 nuanqipian.pw
+127.0.0.1 nucld.xyz
 127.0.0.1 nurahf.xyz
 127.0.0.1 nvchmkw.cn
 127.0.0.1 nwandlc.top
@@ -499,6 +510,7 @@
 127.0.0.1 pgjcbz.xyz
 127.0.0.1 piaochong.co
 127.0.0.1 pingfang.icu
+127.0.0.1 pitawastarkani.com
 127.0.0.1 pithjpf.cn
 127.0.0.1 pkkylyx.xyz
 127.0.0.1 pkynqq.com
@@ -575,6 +587,7 @@
 127.0.0.1 seumouxuezha.xyz
 127.0.0.1 sh6ss7.top
 127.0.0.1 shangyuan.ltd
+127.0.0.1 shentongjiakao.ren
 127.0.0.1 singmwn51g.com
 127.0.0.1 sisjwol.xyz
 127.0.0.1 sjalipa.cn
@@ -607,6 +620,7 @@
 127.0.0.1 tmochyf.cn
 127.0.0.1 tpjmqq.com
 127.0.0.1 tqdpqq.com
+127.0.0.1 tshtbh.xyz
 127.0.0.1 ttpybz.xyz
 127.0.0.1 tuhipkz.xyz
 127.0.0.1 turifb.xyz
@@ -741,6 +755,7 @@
 127.0.0.1 yhgumcr.xyz
 127.0.0.1 yikucdn.com
 127.0.0.1 yingce.asia
+127.0.0.1 yingnanyqq.com
 127.0.0.1 yingnanyyds.com
 127.0.0.1 yisangyhqq.com
 127.0.0.1 yisangyyds.com
@@ -788,11 +803,6 @@
 127.0.0.1 zscgoqt.cn
 127.0.0.1 zvfaxh.xyz
 127.0.0.1 zxgko.cn
-127.0.0.1 liweiling.xyz
-127.0.0.1 yingnanyqq.com
-127.0.0.1 shentongjiakao.ren
-127.0.0.1 nucld.xyz
-127.0.0.1 fbzmrgf.xyz
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz

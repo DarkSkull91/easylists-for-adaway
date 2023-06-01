@@ -27,6 +27,7 @@
 127.0.0.1 promotionmaterial.betacash.com
 127.0.0.1 start.amateurcommunity.com
 127.0.0.1 start.sexpartnercommunity.com
+127.0.0.1 tdn.da-services.ch
 127.0.0.1 webinstaller.gartenplanze.de
 127.0.0.1 wm-space.youero.com
 127.0.0.1 a.zdg.de
@@ -39,6 +40,7 @@
 127.0.0.1 banner.click-tt.de
 127.0.0.1 code.bergsteigen.com
 127.0.0.1 hybrid-prd.ad-prd.s.joyn.de
+127.0.0.1 lad.sumikai.com
 127.0.0.1 network.gofeminin.de
 127.0.0.1 network2.aufeminin.com
 127.0.0.1 ox.gassi-tv.de
