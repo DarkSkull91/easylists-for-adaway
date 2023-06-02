@@ -5,6 +5,7 @@
 127.0.0.1 1136999.com
 127.0.0.1 1385a.xyz
 127.0.0.1 13niao20230422.live
+127.0.0.1 14fa20230523.live
 127.0.0.1 1512a.com
 127.0.0.1 16niao20230125.live
 127.0.0.1 18so.vip
@@ -34,6 +35,7 @@
 127.0.0.1 5xur.top
 127.0.0.1 6696q.com
 127.0.0.1 69wx1.top
+127.0.0.1 6cdwf.xyz
 127.0.0.1 6h1cz.xyz
 127.0.0.1 7067.top
 127.0.0.1 77tum.top
@@ -70,6 +72,7 @@
 127.0.0.1 adcd7.com
 127.0.0.1 adelaideceliacd.com
 127.0.0.1 adfec3.com
+127.0.0.1 advgjm.com
 127.0.0.1 aeletheacd.com
 127.0.0.1 afgathacd.com
 127.0.0.1 afndhou.xyz
@@ -109,6 +112,7 @@
 127.0.0.1 bekco.xyz
 127.0.0.1 bestialvehemence.com
 127.0.0.1 betgdr.xyz
+127.0.0.1 bicid.xyz
 127.0.0.1 bili96.co
 127.0.0.1 bjcpjab.cn
 127.0.0.1 bjtel.cn
@@ -321,6 +325,7 @@
 127.0.0.1 ifbfksf.xyz
 127.0.0.1 ifbqves.cn
 127.0.0.1 ifeurcw.cn
+127.0.0.1 igegeda.club
 127.0.0.1 igtchzp.cn
 127.0.0.1 iidjo.xyz
 127.0.0.1 ijnuhb.top
@@ -383,6 +388,7 @@
 127.0.0.1 kingsunsky.ltd
 127.0.0.1 kjwysxs.cn
 127.0.0.1 kkgytur.cn
+127.0.0.1 kkkqi.cn
 127.0.0.1 kkylx.xyz
 127.0.0.1 kmlxlkz.cn
 127.0.0.1 knxvwxe.cn
@@ -499,6 +505,7 @@
 127.0.0.1 orsrmrx.cn
 127.0.0.1 otwiss.xyz
 127.0.0.1 oubqzcg.cn
+127.0.0.1 owandlk.top
 127.0.0.1 p2oh1.xyz
 127.0.0.1 p4pd.cn
 127.0.0.1 pacix.xyz
@@ -528,6 +535,7 @@
 127.0.0.1 pzlxnd.xyz
 127.0.0.1 q1zcp.com
 127.0.0.1 qange.com
+127.0.0.1 qat7i.top
 127.0.0.1 qatuaad.cn
 127.0.0.1 qfblqq.com
 127.0.0.1 qfdtqq.com
@@ -558,6 +566,7 @@
 127.0.0.1 rcxysoj.cn
 127.0.0.1 rdtjkwy.cn
 127.0.0.1 readme.red
+127.0.0.1 reamhqf.xyz
 127.0.0.1 reffnik.cn
 127.0.0.1 rencaihome.xyz
 127.0.0.1 rgyfqq.com
@@ -568,9 +577,11 @@
 127.0.0.1 rnajhyd.xyz
 127.0.0.1 robberyinscription.com
 127.0.0.1 rpajqxo.cn
+127.0.0.1 rqxtbr.xyz
 127.0.0.1 rqytqq.com
 127.0.0.1 rrzxlt.xyz
 127.0.0.1 rsbepv.xyz
+127.0.0.1 rsdop.icu
 127.0.0.1 rshrpmk.xyz
 127.0.0.1 rszqtry.cn
 127.0.0.1 rtdxqq.com
@@ -603,6 +614,7 @@
 127.0.0.1 svrojrv.cn
 127.0.0.1 swandlb.top
 127.0.0.1 szsbiw.xyz
+127.0.0.1 tacool.com
 127.0.0.1 tangxu.xyz
 127.0.0.1 taoli.name
 127.0.0.1 tc911.vip
@@ -631,6 +643,7 @@
 127.0.0.1 txphjl.xyz
 127.0.0.1 tzmhqll.cn
 127.0.0.1 u1010.com
+127.0.0.1 u1055.com
 127.0.0.1 u1077.com
 127.0.0.1 u55022.com
 127.0.0.1 u5nvu.xyz
@@ -703,6 +716,7 @@
 127.0.0.1 wwgqqq.com
 127.0.0.1 wwqfqq.com
 127.0.0.1 wx001.online
+127.0.0.1 wxbanking.com
 127.0.0.1 wxfkanv.cn
 127.0.0.1 wxxmt.xyz
 127.0.0.1 wyjbvoz.xyz
@@ -768,6 +782,7 @@
 127.0.0.1 yywh.vip
 127.0.0.1 z11011.com
 127.0.0.1 z74lb.com
+127.0.0.1 zaiceyjjqq.com
 127.0.0.1 zaiyuanyqq.com
 127.0.0.1 zbbvhj.xyz
 127.0.0.1 zbvchabjbcj.com
@@ -777,6 +792,7 @@
 127.0.0.1 zdo-bdg.xyz
 127.0.0.1 zdobdg.fyi
 127.0.0.1 zdpphgd.cn
+127.0.0.1 zdvzw.com
 127.0.0.1 zdyuoae.xyz
 127.0.0.1 zeatse.buzz
 127.0.0.1 zebjlt.buzz
