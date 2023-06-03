@@ -51,6 +51,7 @@
 127.0.0.1 consent.canalboat.co.uk
 127.0.0.1 consent.nationalworld.com
 127.0.0.1 consent.pilotweb.aero
+127.0.0.1 consent.stuff.tv
 127.0.0.1 consent.thecountrysmallholder.com
 127.0.0.1 consent.thegreatoutdoorsmag.com
 127.0.0.1 consent.unilad.com

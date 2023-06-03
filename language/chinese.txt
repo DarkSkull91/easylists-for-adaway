@@ -16,6 +16,7 @@
 127.0.0.1 27niao20230506.live
 127.0.0.1 2fa20230511.live
 127.0.0.1 2medo.top
+127.0.0.1 2tyne.icu
 127.0.0.1 32fi.com
 127.0.0.1 331qka.cn
 127.0.0.1 36060.xyz
@@ -44,6 +45,7 @@
 127.0.0.1 8b4v.cn
 127.0.0.1 92f2m.top
 127.0.0.1 92ph.cn
+127.0.0.1 94evd.xyz
 127.0.0.1 9603gg.cc
 127.0.0.1 9fa20230518.live
 127.0.0.1 9h622.top
@@ -106,6 +108,7 @@
 127.0.0.1 baucdngb.xyz
 127.0.0.1 baytfede.xyz
 127.0.0.1 bcivqxd.cn
+127.0.0.1 bcvxfgy.xyz
 127.0.0.1 bdrzxp.xyz
 127.0.0.1 beiod.xyz
 127.0.0.1 bekcd.xyz
@@ -153,6 +156,7 @@
 127.0.0.1 cfxkluv.cn
 127.0.0.1 cge.cc
 127.0.0.1 chaozhunbb.xyz
+127.0.0.1 chenhaishan.info
 127.0.0.1 chenyt.club
 127.0.0.1 chenyuhuan.icu
 127.0.0.1 chenyuzhou1.cn
@@ -231,6 +235,7 @@
 127.0.0.1 exwxrfz.cn
 127.0.0.1 exz1t.top
 127.0.0.1 ezf48.xyz
+127.0.0.1 f1lws.top
 127.0.0.1 falal.cn
 127.0.0.1 fangguanjia.xyz
 127.0.0.1 fangqingkai.icu
@@ -248,6 +253,7 @@
 127.0.0.1 findnam.xyz
 127.0.0.1 fionamignon.com
 127.0.0.1 fjnsnt.xyz
+127.0.0.1 fka06.site
 127.0.0.1 fkading38.xyz
 127.0.0.1 flpnnqe.xyz
 127.0.0.1 flyinsky2009.ltd
@@ -259,6 +265,7 @@
 127.0.0.1 fvzljv.xyz
 127.0.0.1 fweia.xyz
 127.0.0.1 fzcsd33.com
+127.0.0.1 g0cu3.top
 127.0.0.1 g77ds2.xyz
 127.0.0.1 gaokao.asia
 127.0.0.1 gggppp666.com
@@ -272,6 +279,7 @@
 127.0.0.1 goiagm.xyz
 127.0.0.1 goikbnjksdf.com
 127.0.0.1 golden88.co
+127.0.0.1 gongyuxinxi.xyz
 127.0.0.1 gorpgeu.xyz
 127.0.0.1 gpqicw.xyz
 127.0.0.1 gpqid.xyz
@@ -348,6 +356,7 @@
 127.0.0.1 jerrytom.xyz
 127.0.0.1 jfanhao.com
 127.0.0.1 jhxcld.xyz
+127.0.0.1 jiangxing.live
 127.0.0.1 jiangxing.pub
 127.0.0.1 jiangzimeng1.cn
 127.0.0.1 jinheart.xyz
@@ -386,6 +395,7 @@
 127.0.0.1 kgcyvd.com
 127.0.0.1 kianakaslana.club
 127.0.0.1 kingsunsky.ltd
+127.0.0.1 kjugr.xyz
 127.0.0.1 kjwysxs.cn
 127.0.0.1 kkgytur.cn
 127.0.0.1 kkkqi.cn
@@ -510,6 +520,7 @@
 127.0.0.1 p4pd.cn
 127.0.0.1 pacix.xyz
 127.0.0.1 pansclub.xyz
+127.0.0.1 pazz.xyz
 127.0.0.1 pbgtpjz.cn
 127.0.0.1 pedjqkl.xyz
 127.0.0.1 peishuning1.cn
@@ -560,6 +571,7 @@
 127.0.0.1 qwrdj.xyz
 127.0.0.1 ra1.xyz
 127.0.0.1 radish-cake.xyz
+127.0.0.1 razrzh.xyz
 127.0.0.1 rbbbdj.xyz
 127.0.0.1 rbrv9.cn
 127.0.0.1 rbxunao.cn
@@ -602,6 +614,7 @@
 127.0.0.1 singmwn51g.com
 127.0.0.1 sisjwol.xyz
 127.0.0.1 sjalipa.cn
+127.0.0.1 sjzls.top
 127.0.0.1 skluff.com
 127.0.0.1 smailes.pro
 127.0.0.1 smlmupi.cn
@@ -774,6 +787,7 @@
 127.0.0.1 yisangyhqq.com
 127.0.0.1 yisangyyds.com
 127.0.0.1 yjgqpfj.cn
+127.0.0.1 yrszy.com.cn
 127.0.0.1 yttc.ren
 127.0.0.1 yuebog.xyz
 127.0.0.1 yulingaa.xyz
@@ -805,6 +819,7 @@
 127.0.0.1 zhixin.host
 127.0.0.1 zhoubo01.cn
 127.0.0.1 zhouduanyyds.com
+127.0.0.1 zhouduayqq.com
 127.0.0.1 zhuxiao11.cn
 127.0.0.1 zjqs.shop
 127.0.0.1 zldzbr.xyz
@@ -6683,6 +6698,7 @@
 127.0.0.1 baj.fanwenzhan.com
 127.0.0.1 bas.boshi.tv
 127.0.0.1 bchina-1.xsfaya.com
+127.0.0.1 bd-china-1.appmobile.cn
 127.0.0.1 bd-js1.2345.com
 127.0.0.1 bd-s.baixing.net
 127.0.0.1 bd.ahsrst.cn
