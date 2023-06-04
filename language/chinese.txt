@@ -3,12 +3,14 @@
 127.0.0.1 08u6q.com
 127.0.0.1 10090dfs.com
 127.0.0.1 1136999.com
+127.0.0.1 1383a.xyz
 127.0.0.1 1385a.xyz
 127.0.0.1 13niao20230422.live
 127.0.0.1 14fa20230523.live
 127.0.0.1 1512a.com
 127.0.0.1 16niao20230125.live
 127.0.0.1 18so.vip
+127.0.0.1 1cdhf.top
 127.0.0.1 1qlgi.top
 127.0.0.1 230579.top
 127.0.0.1 234mx.club
@@ -219,6 +221,7 @@
 127.0.0.1 e51d1.icu
 127.0.0.1 eaica.xyz
 127.0.0.1 ealdi.xyz
+127.0.0.1 ebqidwm.xyz
 127.0.0.1 ecav5.com
 127.0.0.1 eciea.xyz
 127.0.0.1 efilgvz.cn
@@ -399,6 +402,7 @@
 127.0.0.1 kjwysxs.cn
 127.0.0.1 kkgytur.cn
 127.0.0.1 kkkqi.cn
+127.0.0.1 kkkqo.cn
 127.0.0.1 kkylx.xyz
 127.0.0.1 kmlxlkz.cn
 127.0.0.1 knxvwxe.cn
@@ -439,6 +443,7 @@
 127.0.0.1 ludpa.xyz
 127.0.0.1 luuss.cn
 127.0.0.1 lvy0.cn
+127.0.0.1 lwandll.top
 127.0.0.1 lwh147.xyz
 127.0.0.1 lwtqqq.com
 127.0.0.1 lxbbs.fun
@@ -622,6 +627,7 @@
 127.0.0.1 somddgo.com
 127.0.0.1 sou58.com
 127.0.0.1 sozrrkx.xyz
+127.0.0.1 srbzw.cn
 127.0.0.1 srkl.pw
 127.0.0.1 stbdepjb.xyz
 127.0.0.1 svrojrv.cn
@@ -631,6 +637,7 @@
 127.0.0.1 tangxu.xyz
 127.0.0.1 taoli.name
 127.0.0.1 tc911.vip
+127.0.0.1 tctltb.com
 127.0.0.1 tejiachong.co
 127.0.0.1 tfations.live
 127.0.0.1 tffulllist.shop
@@ -746,6 +753,7 @@
 127.0.0.1 xiaochen1.cn
 127.0.0.1 xiaodouding.club
 127.0.0.1 xiaoliublog.icu
+127.0.0.1 xiaoyunong13.top
 127.0.0.1 xiiljoy.cn
 127.0.0.1 xingyang.in
 127.0.0.1 xiod.xyz
@@ -815,6 +823,7 @@
 127.0.0.1 zhalinylqq.com
 127.0.0.1 zhalinyyds.com
 127.0.0.1 zhanghao164.xyz
+127.0.0.1 zhaozongqq.com
 127.0.0.1 zhemu.xyz
 127.0.0.1 zhixin.host
 127.0.0.1 zhoubo01.cn
@@ -822,6 +831,7 @@
 127.0.0.1 zhouduayqq.com
 127.0.0.1 zhuxiao11.cn
 127.0.0.1 zjqs.shop
+127.0.0.1 zkbsvx.xyz
 127.0.0.1 zldzbr.xyz
 127.0.0.1 zmfdjb.xyz
 127.0.0.1 znnodl.xyz
@@ -832,6 +842,7 @@
 127.0.0.1 zrrnqq.com
 127.0.0.1 zsblog.vip
 127.0.0.1 zscgoqt.cn
+127.0.0.1 ztaan.top
 127.0.0.1 zvfaxh.xyz
 127.0.0.1 zxgko.cn
 127.0.0.1 001adafg.xyz

@@ -1,4 +1,5 @@
 127.0.0.1 rtbuzz.net
+127.0.0.1 shoppydoo.com
 127.0.0.1 pc-on-internet.com
 127.0.0.1 advx.esprimo.com
 127.0.0.1 affiliatetxt.nextmediaweb.com
