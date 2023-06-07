@@ -3251,6 +3251,7 @@
 127.0.0.1 blitz-analytics-batch-server.blitz.gg
 127.0.0.1 boomerang.dell.com
 127.0.0.1 c.fingerprint.com
+127.0.0.1 c.thredup.com
 127.0.0.1 c.wort-suche.com
 127.0.0.1 c.xbox.com
 127.0.0.1 cl.canva.com
@@ -3309,6 +3310,7 @@
 127.0.0.1 dtag.breadfinancial.com
 127.0.0.1 dumpster.cam4.com
 127.0.0.1 ea.epochbase.com
+127.0.0.1 ec.thredup.com
 127.0.0.1 edge.staging.fullstory.com
 127.0.0.1 eec.crunchyroll.com
 127.0.0.1 engagefront.meteomedia.com
@@ -9008,7 +9010,6 @@
 127.0.0.1 halo.actonservice.com
 127.0.0.1 harriscomputer.actonservice.com
 127.0.0.1 hcacentralwesttexas.hrm.healthgrades.com
-127.0.0.1 hfd.bridgetowermedia.com
 127.0.0.1 hotel-marketing.hrs.com
 127.0.0.1 hub.hubinternational.com
 127.0.0.1 ibamolecular.actonservice.com
