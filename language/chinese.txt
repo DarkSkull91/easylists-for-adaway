@@ -87,6 +87,7 @@
 127.0.0.1 aeletheacd.com
 127.0.0.1 afgathacd.com
 127.0.0.1 afndhou.xyz
+127.0.0.1 agathacd.com
 127.0.0.1 agwdac.xyz
 127.0.0.1 aicpa.club
 127.0.0.1 aircraft-fapi.club
@@ -128,6 +129,7 @@
 127.0.0.1 bhfdgdounv.xyz
 127.0.0.1 bicid.xyz
 127.0.0.1 bili96.co
+127.0.0.1 bis8j.com
 127.0.0.1 bjcpjab.cn
 127.0.0.1 bjiohva.cn
 127.0.0.1 bjtel.cn
@@ -245,7 +247,9 @@
 127.0.0.1 ej65.xyz
 127.0.0.1 enahmy.xyz
 127.0.0.1 endio.xyz
+127.0.0.1 epoun.top
 127.0.0.1 eqknlsw.xyz
+127.0.0.1 esanciw.top
 127.0.0.1 euyvpgn.cn
 127.0.0.1 evenyw.xyz
 127.0.0.1 evmnlpv.cn
@@ -318,6 +322,7 @@
 127.0.0.1 gzsjym.xyz
 127.0.0.1 gzsscr.cn
 127.0.0.1 h731.icu
+127.0.0.1 haili-spitzer.com
 127.0.0.1 hangtuo.pub
 127.0.0.1 haxd7.top
 127.0.0.1 hbbxwan.cn
@@ -453,6 +458,7 @@
 127.0.0.1 lewqiiy.xyz
 127.0.0.1 lgecqrb.com
 127.0.0.1 lianxi.link
+127.0.0.1 liates.top
 127.0.0.1 lifvfr.xyz
 127.0.0.1 linuozhiyao.xyz
 127.0.0.1 liweiling.xyz
@@ -743,6 +749,7 @@
 127.0.0.1 vnlqcod.cn
 127.0.0.1 vorluic.cn
 127.0.0.1 vrffwbf.cn
+127.0.0.1 vueegqt.xyz
 127.0.0.1 vujhaib.cn
 127.0.0.1 vuxxtn.xyz
 127.0.0.1 vxvtzx.xyz
@@ -799,6 +806,7 @@
 127.0.0.1 xiaosss.ren
 127.0.0.1 xiaoyunong13.top
 127.0.0.1 xiiljoy.cn
+127.0.0.1 xilofr.xyz
 127.0.0.1 xingyang.in
 127.0.0.1 xiod.xyz
 127.0.0.1 xiongxiaoze12.cn
@@ -889,9 +897,11 @@
 127.0.0.1 zrrnqq.com
 127.0.0.1 zsblog.vip
 127.0.0.1 zscgoqt.cn
+127.0.0.1 zsnfdphz.com
 127.0.0.1 ztaan.top
 127.0.0.1 zvfaxh.xyz
 127.0.0.1 zxgko.cn
+127.0.0.1 zzqrr.com
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz

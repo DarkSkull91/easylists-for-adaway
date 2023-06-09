@@ -7540,6 +7540,7 @@
 127.0.0.1 partners.pmu.fr
 127.0.0.1 partners.tremorhub.com
 127.0.0.1 pixel-secure.solvemedia.com
+127.0.0.1 pm.gamedistribution.com
 127.0.0.1 prebid-dev.reworldmediafactory.com
 127.0.0.1 prodownload.newbetakey.com
 127.0.0.1 promo.asiatique.org
