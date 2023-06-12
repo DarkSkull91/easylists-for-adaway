@@ -38,6 +38,7 @@
 127.0.0.1 5251m.xyz
 127.0.0.1 52qd.club
 127.0.0.1 54ha.cn
+127.0.0.1 5kmp7.top
 127.0.0.1 5vuk.xyz
 127.0.0.1 5xur.top
 127.0.0.1 6696q.com
@@ -62,6 +63,7 @@
 127.0.0.1 9wsbf.top
 127.0.0.1 a3kd0.top
 127.0.0.1 aa665588aa.com
+127.0.0.1 aa889977aa.com
 127.0.0.1 aa993388aa.com
 127.0.0.1 aaaaa288.com
 127.0.0.1 aaaaa556.com
@@ -204,6 +206,7 @@
 127.0.0.1 d7dzf.xyz
 127.0.0.1 d86n.top
 127.0.0.1 dadcc.cn
+127.0.0.1 dadzz.cn
 127.0.0.1 dagft.cn
 127.0.0.1 daizitu.ren
 127.0.0.1 dcdf4.com
@@ -221,7 +224,9 @@
 127.0.0.1 dfec2.com
 127.0.0.1 dfjd.xyz
 127.0.0.1 dgfqqq.com
+127.0.0.1 dgvkrt.xyz
 127.0.0.1 dhaxhsa325.com
+127.0.0.1 dhxrop.com
 127.0.0.1 dhxrxn.xyz
 127.0.0.1 diekd.xyz
 127.0.0.1 diggtp001.com
@@ -248,6 +253,7 @@
 127.0.0.1 eaica.xyz
 127.0.0.1 ealdi.xyz
 127.0.0.1 ebqidwm.xyz
+127.0.0.1 ebuqxsjq.com
 127.0.0.1 ecav5.com
 127.0.0.1 eciea.xyz
 127.0.0.1 efilgvz.cn
@@ -282,6 +288,7 @@
 127.0.0.1 feiju12138.xyz
 127.0.0.1 feild.xyz
 127.0.0.1 ffbjhl.xyz
+127.0.0.1 fgre9.top
 127.0.0.1 fijipic.xyz
 127.0.0.1 fillhr.xyz
 127.0.0.1 findnam.xyz
@@ -450,6 +457,7 @@
 127.0.0.1 kkgytur.cn
 127.0.0.1 kkkqi.cn
 127.0.0.1 kkkqo.cn
+127.0.0.1 kkmbbvz.xyz
 127.0.0.1 kkylx.xyz
 127.0.0.1 kmlxlkz.cn
 127.0.0.1 knxvwxe.cn
@@ -485,6 +493,7 @@
 127.0.0.1 lnpqqq.com
 127.0.0.1 lobqpt.xyz
 127.0.0.1 lorenop.icu
+127.0.0.1 lpocne.top
 127.0.0.1 lqglqq.com
 127.0.0.1 lrah0.top
 127.0.0.1 luckydino.ren
@@ -558,6 +567,7 @@
 127.0.0.1 nwecd.xyz
 127.0.0.1 nwmol.top
 127.0.0.1 nwuidsbjak.com
+127.0.0.1 nzrovf.xyz
 127.0.0.1 oalmbmf.xyz
 127.0.0.1 ocoda.xyz
 127.0.0.1 ogtphoj.cn
@@ -576,6 +586,7 @@
 127.0.0.1 otwiss.xyz
 127.0.0.1 oubqzcg.cn
 127.0.0.1 owandlk.top
+127.0.0.1 oyysbc.xyz
 127.0.0.1 p2oh1.xyz
 127.0.0.1 p4pd.cn
 127.0.0.1 pacix.xyz
@@ -692,6 +703,7 @@
 127.0.0.1 somddgo.com
 127.0.0.1 sou58.com
 127.0.0.1 sozrrkx.xyz
+127.0.0.1 spplamt.xyz
 127.0.0.1 srbzw.cn
 127.0.0.1 srkl.pw
 127.0.0.1 ssancib.top
@@ -709,6 +721,7 @@
 127.0.0.1 tffulllist.shop
 127.0.0.1 tfonlyuse.shop
 127.0.0.1 tfprivacy.live
+127.0.0.1 tgdopodk.com
 127.0.0.1 tian0.ltd
 127.0.0.1 tiancaiwei.wang
 127.0.0.1 tianma704.ltd
@@ -718,6 +731,7 @@
 127.0.0.1 tmochyf.cn
 127.0.0.1 tpjmqq.com
 127.0.0.1 tqdpqq.com
+127.0.0.1 tsancii.top
 127.0.0.1 tshtbh.xyz
 127.0.0.1 ttpybz.xyz
 127.0.0.1 tuhipkz.xyz
@@ -791,6 +805,7 @@
 127.0.0.1 wcdc5.com
 127.0.0.1 wdygoi.xyz
 127.0.0.1 web4023.top
+127.0.0.1 wedvmr.xyz
 127.0.0.1 weeqmcq.cn
 127.0.0.1 weixinnft.com
 127.0.0.1 wenxiaowu.xyz
@@ -5827,6 +5842,7 @@
 127.0.0.1 cdn.sinam.top
 127.0.0.1 cdn.wenzhangba.cn
 127.0.0.1 cdn1.tvzhe.com
+127.0.0.1 cdn93d99x0e.23bei.com
 127.0.0.1 cdnjs.hro-cosmetics.com
 127.0.0.1 cdnjs.mopair-erm.net
 127.0.0.1 cdnjs.z-face.cn
