@@ -976,6 +976,7 @@
 127.0.0.1 bdxqmabexdtan.xyz
 127.0.0.1 bdyjjsabsevc.xyz
 127.0.0.1 beatcuqa.xyz
+127.0.0.1 beatsnumen.tech
 127.0.0.1 bebloomswagged.com
 127.0.0.1 beclogsbryce.com
 127.0.0.1 beclosecods.com
@@ -1432,6 +1433,7 @@
 127.0.0.1 checkmymedia.biz
 127.0.0.1 checkszebroid.com
 127.0.0.1 cheegoog.net
+127.0.0.1 cheepayer.life
 127.0.0.1 cheerfuldisingenuous.com
 127.0.0.1 cheesydebatablepantomime.com
 127.0.0.1 chegramt.com
@@ -2827,6 +2829,7 @@
 127.0.0.1 frgkexqgr.xyz
 127.0.0.1 friedtrophy.com
 127.0.0.1 friendlybulb.com
+127.0.0.1 friezesrumps.digital
 127.0.0.1 frimpranava.com
 127.0.0.1 frizzermagani.com
 127.0.0.1 frkobgke.com
@@ -3300,6 +3303,7 @@
 127.0.0.1 heartbidnetxmlx.monster
 127.0.0.1 heartbidxmlfeed.monster
 127.0.0.1 heartilylassitude.com
+127.0.0.1 hechcandled.casa
 127.0.0.1 hedgehogseparated.com
 127.0.0.1 hedidno.buzz
 127.0.0.1 heezingwardian.com
@@ -6165,6 +6169,7 @@
 127.0.0.1 roughyshahs.com
 127.0.0.1 rougloowhair.com
 127.0.0.1 roumachopa.com
+127.0.0.1 roundynews.com
 127.0.0.1 rounsh.com
 127.0.0.1 rouswamperton.com
 127.0.0.1 rpjtbjkc.com
@@ -6215,6 +6220,7 @@
 127.0.0.1 rubesacephal.com
 127.0.0.1 rubrifygoloka.com
 127.0.0.1 ruelliaforgift.com
+127.0.0.1 ruffstemmer.casa
 127.0.0.1 ruinedharshlyhere.com
 127.0.0.1 ruknkahl.com
 127.0.0.1 rulestiming.com
@@ -6280,6 +6286,7 @@
 127.0.0.1 satsativa.com
 127.0.0.1 saturim.com
 127.0.0.1 satyrkendir.com
+127.0.0.1 saucilytalwood.cam
 127.0.0.1 saurcommon.com
 127.0.0.1 saurelunbitt.com
 127.0.0.1 sauvecybele.com
@@ -7110,7 +7117,9 @@
 127.0.0.1 ukapuuvvhtijuv.com
 127.0.0.1 ukbeingajo.com
 127.0.0.1 ukzemydrea.pics
+127.0.0.1 ulceredwidths.life
 127.0.0.1 umkjohgjhhffm.xyz
+127.0.0.1 umpirenuphar.digital
 127.0.0.1 unampharostor.com
 127.0.0.1 uncartdemon.website
 127.0.0.1 uncleffaan.com
@@ -7250,6 +7259,8 @@
 127.0.0.1 voqfowggj.xyz
 127.0.0.1 vorsgisigti.tk
 127.0.0.1 voryebecho.xyz
+127.0.0.1 votersenweave.digital
+127.0.0.1 votingbemixt.website
 127.0.0.1 vouchafagle.com
 127.0.0.1 vouninked.com
 127.0.0.1 vourogeeque.com
@@ -7327,6 +7338,7 @@
 127.0.0.1 wgixxmkv.com
 127.0.0.1 wgoto.xyz
 127.0.0.1 wgrents.com
+127.0.0.1 whartfidalgo.life
 127.0.0.1 whatabouthotbabies.com
 127.0.0.1 whataboutnews.com
 127.0.0.1 whatsoeverdaring.com
@@ -7359,6 +7371,7 @@
 127.0.0.1 wlpcjltvaqxm.com
 127.0.0.1 wnvqixbifi.com
 127.0.0.1 woohoobiolith.com
+127.0.0.1 wotssawlog.digital
 127.0.0.1 wouvista.com
 127.0.0.1 wowbbuweurkjqg.xyz
 127.0.0.1 wowcalmnessdumb.com

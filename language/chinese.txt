@@ -341,6 +341,7 @@
 127.0.0.1 gzsscr.cn
 127.0.0.1 h731.icu
 127.0.0.1 haili-spitzer.com
+127.0.0.1 handerfix.com
 127.0.0.1 hangtuo.pub
 127.0.0.1 haxd7.top
 127.0.0.1 hbbxwan.cn
@@ -444,6 +445,7 @@
 127.0.0.1 jxvyrv.xyz
 127.0.0.1 jyxfvp.xyz
 127.0.0.1 kabuto.pro
+127.0.0.1 kart2ks.icu
 127.0.0.1 kayzqar.cn
 127.0.0.1 kbabqnd.cn
 127.0.0.1 kcieo.xyz
@@ -474,10 +476,12 @@
 127.0.0.1 l74co.xyz
 127.0.0.1 lazyii.icu
 127.0.0.1 lcjyll.xyz
+127.0.0.1 ldxinb.xyz
 127.0.0.1 ledni.xyz
 127.0.0.1 lendc.xyz
 127.0.0.1 lesenjiaoyu.xyz
 127.0.0.1 lewqiiy.xyz
+127.0.0.1 lfzk2cp.icu
 127.0.0.1 lgecqrb.com
 127.0.0.1 lianxi.link
 127.0.0.1 liates.top
@@ -553,6 +557,7 @@
 127.0.0.1 ngishc.top
 127.0.0.1 nilzq.xyz
 127.0.0.1 ningdebus.club
+127.0.0.1 njtprv.xyz
 127.0.0.1 nkvwvx.xyz
 127.0.0.1 nntsdp.xyz
 127.0.0.1 nogff.top
@@ -665,6 +670,7 @@
 127.0.0.1 rizgtf.xyz
 127.0.0.1 rksnqq.com
 127.0.0.1 rnajhyd.xyz
+127.0.0.1 rnhqxh.com
 127.0.0.1 robberyinscription.com
 127.0.0.1 rp9p0.xyz
 127.0.0.1 rpajqxo.cn
@@ -679,6 +685,7 @@
 127.0.0.1 rszqtry.cn
 127.0.0.1 rtdxqq.com
 127.0.0.1 rtjmln.xyz
+127.0.0.1 rxyggrq.cn
 127.0.0.1 s3nycv.xyz
 127.0.0.1 sa3a.cn
 127.0.0.1 sanguine.ren
@@ -697,6 +704,7 @@
 127.0.0.1 sjalipa.cn
 127.0.0.1 sjzls.top
 127.0.0.1 skluff.com
+127.0.0.1 smabye.com
 127.0.0.1 smailes.pro
 127.0.0.1 smlmupi.cn
 127.0.0.1 smmmqq.com
@@ -729,6 +737,7 @@
 127.0.0.1 tingchen.xyz
 127.0.0.1 tlhlpcb.xyz
 127.0.0.1 tmochyf.cn
+127.0.0.1 tnebxv.top
 127.0.0.1 tpjmqq.com
 127.0.0.1 tqdpqq.com
 127.0.0.1 tsancii.top
@@ -783,6 +792,7 @@
 127.0.0.1 vjhjxh.xyz
 127.0.0.1 vlinz.icu
 127.0.0.1 vnlqcod.cn
+127.0.0.1 vokwlch.xyz
 127.0.0.1 vorluic.cn
 127.0.0.1 vrffwbf.cn
 127.0.0.1 vueegqt.xyz
@@ -851,6 +861,7 @@
 127.0.0.1 xiongxiaoze12.cn
 127.0.0.1 xjnyjt.xyz
 127.0.0.1 xkdlqq.com
+127.0.0.1 xlardaxq.com
 127.0.0.1 xlsds888.xyz
 127.0.0.1 xlxknf.xyz
 127.0.0.1 xni.ink
@@ -913,6 +924,7 @@
 127.0.0.1 zeatse.buzz
 127.0.0.1 zebjlt.buzz
 127.0.0.1 zetcul.xyz
+127.0.0.1 zffymmdg.com
 127.0.0.1 zgyvg.top
 127.0.0.1 zhalinylqq.com
 127.0.0.1 zhalinyyds.com
@@ -941,6 +953,7 @@
 127.0.0.1 zsnfdphz.com
 127.0.0.1 ztaan.top
 127.0.0.1 zvfaxh.xyz
+127.0.0.1 zxcrr.com
 127.0.0.1 zxgko.cn
 127.0.0.1 zzqrr.com
 127.0.0.1 001adafg.xyz
