@@ -168,6 +168,7 @@
 127.0.0.1 c9cc.icu
 127.0.0.1 cadke.xyz
 127.0.0.1 campu.ltd
+127.0.0.1 canser8.top
 127.0.0.1 caozhixiong.cn
 127.0.0.1 cbhwekr.cn
 127.0.0.1 ccohayo.xyz
@@ -190,6 +191,7 @@
 127.0.0.1 chenyuzhou1.cn
 127.0.0.1 chenze1.cn
 127.0.0.1 chesonfetor.com
+127.0.0.1 chicmifi.com
 127.0.0.1 chnuuee.xyz
 127.0.0.1 cjbpqq.com
 127.0.0.1 cjcvd6.com
@@ -241,6 +243,7 @@
 127.0.0.1 djahkee.xyz
 127.0.0.1 dkcwnsu.xyz
 127.0.0.1 dl520.fun
+127.0.0.1 dnzmhr.xyz
 127.0.0.1 dobwll.xyz
 127.0.0.1 doccd.xyz
 127.0.0.1 donku.club
@@ -354,6 +357,7 @@
 127.0.0.1 haxd7.top
 127.0.0.1 hbbxwan.cn
 127.0.0.1 hbkunye.com
+127.0.0.1 hbrmickt.com
 127.0.0.1 hefei64.com
 127.0.0.1 hefrpv.xyz
 127.0.0.1 heild.xyz
@@ -372,6 +376,7 @@
 127.0.0.1 hontont.com
 127.0.0.1 hpcwwd.com
 127.0.0.1 hpjzpn.xyz
+127.0.0.1 hpvl2kb.icu
 127.0.0.1 hq390.xyz
 127.0.0.1 hrngmf.com
 127.0.0.1 hsili.ltd
@@ -455,6 +460,7 @@
 127.0.0.1 jwronx.xyz
 127.0.0.1 jxncs1.com
 127.0.0.1 jxvyrv.xyz
+127.0.0.1 jyt58.top
 127.0.0.1 jyxfvp.xyz
 127.0.0.1 kabuto.pro
 127.0.0.1 kart2ks.icu
@@ -592,6 +598,7 @@
 127.0.0.1 oalmbmf.xyz
 127.0.0.1 ocoda.xyz
 127.0.0.1 ogtphoj.cn
+127.0.0.1 ohoyao.com
 127.0.0.1 oiewpw.com
 127.0.0.1 oiljomy.xyz
 127.0.0.1 oimzak.xyz
@@ -605,6 +612,7 @@
 127.0.0.1 opida.xyz
 127.0.0.1 originate.ltd
 127.0.0.1 orsrmrx.cn
+127.0.0.1 osancik.top
 127.0.0.1 otwiss.xyz
 127.0.0.1 oubqzcg.cn
 127.0.0.1 owandlk.top
@@ -724,6 +732,7 @@
 127.0.0.1 sisjwol.xyz
 127.0.0.1 sjalipa.cn
 127.0.0.1 sjzls.top
+127.0.0.1 skidfqh.xyz
 127.0.0.1 skluff.com
 127.0.0.1 smabye.com
 127.0.0.1 smailes.pro
@@ -737,6 +746,7 @@
 127.0.0.1 srkl.pw
 127.0.0.1 ssancib.top
 127.0.0.1 stbdepjb.xyz
+127.0.0.1 surperverse.com
 127.0.0.1 svrojrv.cn
 127.0.0.1 swandlb.top
 127.0.0.1 szsbiw.xyz
@@ -753,6 +763,7 @@
 127.0.0.1 tfonlyuse.shop
 127.0.0.1 tfprivacy.live
 127.0.0.1 tgdopodk.com
+127.0.0.1 thdidx.xyz
 127.0.0.1 tian0.ltd
 127.0.0.1 tiancaiwei.wang
 127.0.0.1 tianma704.ltd
@@ -779,6 +790,7 @@
 127.0.0.1 u1010.com
 127.0.0.1 u1055.com
 127.0.0.1 u1077.com
+127.0.0.1 u22aeey.xyz
 127.0.0.1 u55022.com
 127.0.0.1 u5nvu.xyz
 127.0.0.1 u833ij.com
