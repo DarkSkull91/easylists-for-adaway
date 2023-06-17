@@ -27,5 +27,6 @@
 127.0.0.1 lauyn.info
 127.0.0.1 losittooday.info
 127.0.0.1 mporli.info
+127.0.0.1 pinukim.net
 127.0.0.1 sdarotil.top
 127.0.0.1 seret.live
