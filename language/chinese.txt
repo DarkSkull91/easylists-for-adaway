@@ -4,6 +4,7 @@
 127.0.0.1 0hlc8.top
 127.0.0.1 10090dfs.com
 127.0.0.1 1136999.com
+127.0.0.1 1381a.xyz
 127.0.0.1 1383a.xyz
 127.0.0.1 1385a.xyz
 127.0.0.1 13niao20230422.live
@@ -49,6 +50,7 @@
 127.0.0.1 77aiav.me
 127.0.0.1 77tum.top
 127.0.0.1 7xwx.cn
+127.0.0.1 84zm8.xyz
 127.0.0.1 88885aaa.com
 127.0.0.1 8b4v.cn
 127.0.0.1 8jxxai.com
@@ -63,6 +65,7 @@
 127.0.0.1 9vs0.cn
 127.0.0.1 9wsbf.top
 127.0.0.1 a3kd0.top
+127.0.0.1 a962m.xyz
 127.0.0.1 aa665588aa.com
 127.0.0.1 aa889977aa.com
 127.0.0.1 aa993388aa.com
@@ -133,6 +136,7 @@
 127.0.0.1 bekco.xyz
 127.0.0.1 bestialvehemence.com
 127.0.0.1 betgdr.xyz
+127.0.0.1 bg04y.xyz
 127.0.0.1 bhfdgdounv.xyz
 127.0.0.1 bicid.xyz
 127.0.0.1 bili96.co
@@ -157,6 +161,7 @@
 127.0.0.1 bqcxgbm.cn
 127.0.0.1 bqdyqq.com
 127.0.0.1 bqsxqq.com
+127.0.0.1 brfgbn.xyz
 127.0.0.1 brkzczn.cn
 127.0.0.1 brzfqq.com
 127.0.0.1 bvvb9.com
@@ -165,6 +170,8 @@
 127.0.0.1 bxoiksm.xyz
 127.0.0.1 byjykj.xyz
 127.0.0.1 c9cc.icu
+127.0.0.1 caaie.xyz
+127.0.0.1 caardinal.com
 127.0.0.1 cadke.xyz
 127.0.0.1 campu.ltd
 127.0.0.1 canser8.top
@@ -192,6 +199,7 @@
 127.0.0.1 chesonfetor.com
 127.0.0.1 chicmifi.com
 127.0.0.1 chnuuee.xyz
+127.0.0.1 cidhdgv.xyz
 127.0.0.1 cjbpqq.com
 127.0.0.1 cjcvd6.com
 127.0.0.1 ck33.top
@@ -211,12 +219,15 @@
 127.0.0.1 czexrhl.cn
 127.0.0.1 d7dzf.xyz
 127.0.0.1 d86n.top
+127.0.0.1 daccp.cn
 127.0.0.1 dadcc.cn
+127.0.0.1 dadwu.cn
 127.0.0.1 dadzz.cn
 127.0.0.1 dagft.cn
 127.0.0.1 dagwi.cn
 127.0.0.1 daizitu.ren
 127.0.0.1 dcdf4.com
+127.0.0.1 dciep.xyz
 127.0.0.1 dcnytdpke.xyz
 127.0.0.1 dcqs4.com
 127.0.0.1 ddkep.xyz
@@ -282,6 +293,7 @@
 127.0.0.1 exwxrfz.cn
 127.0.0.1 exz1t.top
 127.0.0.1 ezf48.xyz
+127.0.0.1 ezlgszdb.icu
 127.0.0.1 f1lws.top
 127.0.0.1 falal.cn
 127.0.0.1 fangguanjia.xyz
@@ -310,6 +322,7 @@
 127.0.0.1 fmild.xyz
 127.0.0.1 fnfhjka.xyz
 127.0.0.1 fnnzr.cn
+127.0.0.1 frcykpk.cn
 127.0.0.1 fsnpbh.xyz
 127.0.0.1 fssxyiq.cn
 127.0.0.1 fthqzxq.cn
@@ -320,6 +333,7 @@
 127.0.0.1 g0cu3.top
 127.0.0.1 g77ds2.xyz
 127.0.0.1 gaokao.asia
+127.0.0.1 gcqciiqk.com
 127.0.0.1 gggppp666.com
 127.0.0.1 ggx0001.com
 127.0.0.1 giold.xyz
@@ -336,6 +350,7 @@
 127.0.0.1 gpqicw.xyz
 127.0.0.1 gpqid.xyz
 127.0.0.1 gr0z6.xyz
+127.0.0.1 grduswfx.com
 127.0.0.1 grxeyig.xyz
 127.0.0.1 grxwqq.com
 127.0.0.1 guangdongtaiji.com
@@ -350,9 +365,11 @@
 127.0.0.1 gzsjym.xyz
 127.0.0.1 gzsscr.cn
 127.0.0.1 h731.icu
+127.0.0.1 hacde6.icu
 127.0.0.1 haili-spitzer.com
 127.0.0.1 handerfix.com
 127.0.0.1 hangtuo.pub
+127.0.0.1 haoy1.top
 127.0.0.1 haxd7.top
 127.0.0.1 hbbxwan.cn
 127.0.0.1 hbkunye.com
@@ -368,6 +385,7 @@
 127.0.0.1 hffxc.com
 127.0.0.1 hfhytx.xyz
 127.0.0.1 hgpdoa.cn
+127.0.0.1 hhff111222.com
 127.0.0.1 hhrnxr.xyz
 127.0.0.1 himeneko.ink
 127.0.0.1 hldwdz.xyz
@@ -413,11 +431,13 @@
 127.0.0.1 iqybys.xyz
 127.0.0.1 iruacwa.xyz
 127.0.0.1 isancio.top
+127.0.0.1 iszbxqps.com
 127.0.0.1 itoken.pro
 127.0.0.1 iughyy7919.com
 127.0.0.1 iwandlo.top
 127.0.0.1 iwdvvoc.cn
 127.0.0.1 j1p6w.xyz
+127.0.0.1 jbhhxd.xyz
 127.0.0.1 jbtfmis.xyz
 127.0.0.1 jbzjegn.cn
 127.0.0.1 jciske.top
@@ -500,6 +520,7 @@
 127.0.0.1 lewqiiy.xyz
 127.0.0.1 lfzk2cp.icu
 127.0.0.1 lgecqrb.com
+127.0.0.1 lhdlbp.xyz
 127.0.0.1 lianxi.link
 127.0.0.1 liates.top
 127.0.0.1 lifvfr.xyz
@@ -518,6 +539,7 @@
 127.0.0.1 lpocne.top
 127.0.0.1 lqglqq.com
 127.0.0.1 lrah0.top
+127.0.0.1 lsancil.top
 127.0.0.1 luckydino.ren
 127.0.0.1 ludie.xyz
 127.0.0.1 ludpa.xyz
@@ -528,6 +550,7 @@
 127.0.0.1 lwh147.xyz
 127.0.0.1 lwtqqq.com
 127.0.0.1 lxbbs.fun
+127.0.0.1 lxbndh.xyz
 127.0.0.1 lxyl66.cn
 127.0.0.1 lydrnj.xyz
 127.0.0.1 m9d6p03.com
@@ -544,6 +567,7 @@
 127.0.0.1 mfifsux.xyz
 127.0.0.1 mfoevvy.com
 127.0.0.1 mhegew.xyz
+127.0.0.1 mhysbwo.xyz
 127.0.0.1 mindopu.com
 127.0.0.1 mk795.cn
 127.0.0.1 moend.xyz
@@ -576,6 +600,7 @@
 127.0.0.1 networkname.xyz
 127.0.0.1 nezqmud.com
 127.0.0.1 ngishc.top
+127.0.0.1 nhyvhmvw.com
 127.0.0.1 nilzq.xyz
 127.0.0.1 ningdebus.club
 127.0.0.1 njtprv.xyz
@@ -887,6 +912,7 @@
 127.0.0.1 xcaukve.cn
 127.0.0.1 xckyqq.com
 127.0.0.1 xcysqq.com
+127.0.0.1 xecner.top
 127.0.0.1 xghnqq.com
 127.0.0.1 xiangfenyabu.xyz
 127.0.0.1 xiaobixiaobi.com
@@ -917,6 +943,7 @@
 127.0.0.1 xunjie.fun
 127.0.0.1 xuxiaoran.xyz
 127.0.0.1 xvrvgod.xyz
+127.0.0.1 xxhp2iz.icu
 127.0.0.1 xyjcpcb.cn
 127.0.0.1 xyqmy.xyz
 127.0.0.1 xyzyqq.com
@@ -939,6 +966,7 @@
 127.0.0.1 yingnanyyds.com
 127.0.0.1 yisangyhqq.com
 127.0.0.1 yisangyyds.com
+127.0.0.1 yiw2iei.icu
 127.0.0.1 yjgqpfj.cn
 127.0.0.1 yrszy.com.cn
 127.0.0.1 yszpegh.xyz
@@ -1000,20 +1028,6 @@
 127.0.0.1 zxcrr.com
 127.0.0.1 zxgko.cn
 127.0.0.1 zzqrr.com
-127.0.0.1 cidhdgv.xyz
-127.0.0.1 xecner.top
-127.0.0.1 frcykpk.cn
-127.0.0.1 iszbxqps.com
-127.0.0.1 brfgbn.xyz
-127.0.0.1 bg04y.xyz
-127.0.0.1 lxbndh.xyz
-127.0.0.1 yiw2iei.icu
-127.0.0.1 a962m.xyz
-127.0.0.1 nhyvhmvw.com
-127.0.0.1 haoy1.top
-127.0.0.1 caaie.xyz
-127.0.0.1 dadwu.cn
-127.0.0.1 xxhp2iz.icu
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
