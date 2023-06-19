@@ -277,6 +277,7 @@
 127.0.0.1 ecav5.com
 127.0.0.1 eciea.xyz
 127.0.0.1 efilgvz.cn
+127.0.0.1 eiadf.xyz
 127.0.0.1 eitb7.top
 127.0.0.1 ej65.xyz
 127.0.0.1 enahmy.xyz
@@ -457,6 +458,7 @@
 127.0.0.1 jiqadoi.cn
 127.0.0.1 jiuba20230320.live
 127.0.0.1 jjnrqq.com
+127.0.0.1 jljftl.xyz
 127.0.0.1 jlzz.name
 127.0.0.1 jn060.xyz
 127.0.0.1 jndyl.xyz
@@ -514,6 +516,7 @@
 127.0.0.1 lazyii.icu
 127.0.0.1 lcjyll.xyz
 127.0.0.1 ldxinb.xyz
+127.0.0.1 leadc7.icu
 127.0.0.1 ledni.xyz
 127.0.0.1 lendc.xyz
 127.0.0.1 lesenjiaoyu.xyz
@@ -634,6 +637,7 @@
 127.0.0.1 ooexkqj.cn
 127.0.0.1 oofyjik.xyz
 127.0.0.1 opida.xyz
+127.0.0.1 opzksyy.cn
 127.0.0.1 originate.ltd
 127.0.0.1 orsrmrx.cn
 127.0.0.1 osancik.top
@@ -651,6 +655,7 @@
 127.0.0.1 pedjqkl.xyz
 127.0.0.1 peishuning1.cn
 127.0.0.1 pepnsnq.cn
+127.0.0.1 pftdmmc.xyz
 127.0.0.1 pgjcbz.xyz
 127.0.0.1 piaochong.co
 127.0.0.1 pingfang.icu
@@ -668,6 +673,7 @@
 127.0.0.1 pplnjoow.com
 127.0.0.1 ppshop.club
 127.0.0.1 pqldzp.xyz
+127.0.0.1 pqomnfbg.com
 127.0.0.1 pqxyqq.com
 127.0.0.1 prlioxb.cn
 127.0.0.1 prtlth.xyz
@@ -699,6 +705,7 @@
 127.0.0.1 qsanciy.top
 127.0.0.1 quancuncq.xyz
 127.0.0.1 qvcyeknp.xyz
+127.0.0.1 qvxvvjom.com
 127.0.0.1 qwahk.com
 127.0.0.1 qwandly.top
 127.0.0.1 qwrdj.xyz
@@ -798,6 +805,7 @@
 127.0.0.1 tnebxv.top
 127.0.0.1 tpjmqq.com
 127.0.0.1 tqdpqq.com
+127.0.0.1 trfmxf.xyz
 127.0.0.1 trp69.top
 127.0.0.1 tsancii.top
 127.0.0.1 tshtbh.xyz
@@ -859,6 +867,7 @@
 127.0.0.1 vnlqcod.cn
 127.0.0.1 vokwlch.xyz
 127.0.0.1 vorluic.cn
+127.0.0.1 vreephay.com
 127.0.0.1 vrffwbf.cn
 127.0.0.1 vtvnnl.xyz
 127.0.0.1 vueegqt.xyz
@@ -893,6 +902,7 @@
 127.0.0.1 wjtij.top
 127.0.0.1 wkzrqq.com
 127.0.0.1 wodw0.xyz
+127.0.0.1 worjeklmq.com
 127.0.0.1 wosidnlkxq.com
 127.0.0.1 wqweiog.xyz
 127.0.0.1 wsoxwa.xyz
@@ -934,6 +944,7 @@
 127.0.0.1 xni.ink
 127.0.0.1 xnjvn1.com
 127.0.0.1 xnmqqq.com
+127.0.0.1 xokcaxw.cn
 127.0.0.1 xpynqq.com
 127.0.0.1 xrkyqq.com
 127.0.0.1 xsbdj6.com
@@ -977,6 +988,7 @@
 127.0.0.1 ywsiqlg.cn
 127.0.0.1 yytxzct.xyz
 127.0.0.1 yywh.vip
+127.0.0.1 yziwoidi.icu
 127.0.0.1 z11011.com
 127.0.0.1 z74lb.com
 127.0.0.1 zaiceyjjqq.com
@@ -1028,6 +1040,10 @@
 127.0.0.1 zxcrr.com
 127.0.0.1 zxgko.cn
 127.0.0.1 zzqrr.com
+127.0.0.1 brfvyrrp.com
+127.0.0.1 ykotyeo.cn
+127.0.0.1 thesac8.top
+127.0.0.1 bsanciv.top
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
