@@ -127,10 +127,12 @@
 127.0.0.1 bapdkgmvn.xyz
 127.0.0.1 baucdngb.xyz
 127.0.0.1 baytfede.xyz
+127.0.0.1 bbhktv.xyz
 127.0.0.1 bcb9.cn
 127.0.0.1 bcivqxd.cn
 127.0.0.1 bcvxfgy.xyz
 127.0.0.1 bdrzxp.xyz
+127.0.0.1 beatricenba.com
 127.0.0.1 beiod.xyz
 127.0.0.1 bekcd.xyz
 127.0.0.1 bekco.xyz
@@ -162,8 +164,10 @@
 127.0.0.1 bqdyqq.com
 127.0.0.1 bqsxqq.com
 127.0.0.1 brfgbn.xyz
+127.0.0.1 brfvyrrp.com
 127.0.0.1 brkzczn.cn
 127.0.0.1 brzfqq.com
+127.0.0.1 bsanciv.top
 127.0.0.1 bvvb9.com
 127.0.0.1 bwandlv.top
 127.0.0.1 bwwlw.cn
@@ -323,6 +327,7 @@
 127.0.0.1 fmild.xyz
 127.0.0.1 fnfhjka.xyz
 127.0.0.1 fnnzr.cn
+127.0.0.1 fooid.xyz
 127.0.0.1 frcykpk.cn
 127.0.0.1 fsnpbh.xyz
 127.0.0.1 fssxyiq.cn
@@ -337,6 +342,7 @@
 127.0.0.1 gcqciiqk.com
 127.0.0.1 gggppp666.com
 127.0.0.1 ggx0001.com
+127.0.0.1 ghsnhjk.cn
 127.0.0.1 giold.xyz
 127.0.0.1 gixhlii.xyz
 127.0.0.1 gjmqqq.com
@@ -556,6 +562,7 @@
 127.0.0.1 lxbndh.xyz
 127.0.0.1 lxyl66.cn
 127.0.0.1 lydrnj.xyz
+127.0.0.1 m03dv.xyz
 127.0.0.1 m9d6p03.com
 127.0.0.1 mahao1.cn
 127.0.0.1 majunguo.cn
@@ -586,6 +593,7 @@
 127.0.0.1 mssdkrt.xyz
 127.0.0.1 mu6m1.com
 127.0.0.1 mueid.xyz
+127.0.0.1 mujkdna.xyz
 127.0.0.1 mwandlx.top
 127.0.0.1 mxknqq.com
 127.0.0.1 mzqf1.com
@@ -744,6 +752,7 @@
 127.0.0.1 rtdxqq.com
 127.0.0.1 rtjmln.xyz
 127.0.0.1 rusticaula.com
+127.0.0.1 rvlgrb.xyz
 127.0.0.1 rxyggrq.cn
 127.0.0.1 s3nycv.xyz
 127.0.0.1 s6in.cc
@@ -780,6 +789,7 @@
 127.0.0.1 surperverse.com
 127.0.0.1 svrojrv.cn
 127.0.0.1 swandlb.top
+127.0.0.1 szafvjdd.icu
 127.0.0.1 szsbiw.xyz
 127.0.0.1 t0pan.top
 127.0.0.1 t33ng.com
@@ -795,6 +805,7 @@
 127.0.0.1 tfprivacy.live
 127.0.0.1 tgdopodk.com
 127.0.0.1 thdidx.xyz
+127.0.0.1 thesac8.top
 127.0.0.1 tian0.ltd
 127.0.0.1 tiancaiwei.wang
 127.0.0.1 tianma704.ltd
@@ -831,6 +842,7 @@
 127.0.0.1 ucqihfh.cn
 127.0.0.1 uejnmjdpd.xyz
 127.0.0.1 ufgg55.xyz
+127.0.0.1 uifyeldt.top
 127.0.0.1 umcpebi.cn
 127.0.0.1 uqelxct.cn
 127.0.0.1 uqymady.cn
@@ -877,6 +889,7 @@
 127.0.0.1 vxvtzx.xyz
 127.0.0.1 vydbvp.xyz
 127.0.0.1 vydqknuy.xyz
+127.0.0.1 vzeuvcdi.icu
 127.0.0.1 vzfizr.xyz
 127.0.0.1 w4jz.top
 127.0.0.1 w9f1r.top
@@ -979,6 +992,7 @@
 127.0.0.1 yisangyyds.com
 127.0.0.1 yiw2iei.icu
 127.0.0.1 yjgqpfj.cn
+127.0.0.1 ykotyeo.cn
 127.0.0.1 yrszy.com.cn
 127.0.0.1 yszpegh.xyz
 127.0.0.1 yttc.ren
@@ -1006,6 +1020,7 @@
 127.0.0.1 zdyuoae.xyz
 127.0.0.1 zeatse.buzz
 127.0.0.1 zebjlt.buzz
+127.0.0.1 zeookuv.xyz
 127.0.0.1 zetcul.xyz
 127.0.0.1 zffymmdg.com
 127.0.0.1 zgyvg.top
@@ -1040,10 +1055,6 @@
 127.0.0.1 zxcrr.com
 127.0.0.1 zxgko.cn
 127.0.0.1 zzqrr.com
-127.0.0.1 brfvyrrp.com
-127.0.0.1 ykotyeo.cn
-127.0.0.1 thesac8.top
-127.0.0.1 bsanciv.top
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
