@@ -115,6 +115,7 @@
 127.0.0.1 aprlitj.cn
 127.0.0.1 aqpvglv.cn
 127.0.0.1 aquvg.com
+127.0.0.1 asvysvxr.com
 127.0.0.1 aup34.xyz
 127.0.0.1 awdc6.com
 127.0.0.1 ayynsdp.xyz
@@ -176,6 +177,7 @@
 127.0.0.1 bwandlv.top
 127.0.0.1 bwwlw.cn
 127.0.0.1 bxoiksm.xyz
+127.0.0.1 by8428.com
 127.0.0.1 byjykj.xyz
 127.0.0.1 c9cc.icu
 127.0.0.1 caaie.xyz
@@ -228,6 +230,7 @@
 127.0.0.1 czexrhl.cn
 127.0.0.1 d7dzf.xyz
 127.0.0.1 d86n.top
+127.0.0.1 daawx.cn
 127.0.0.1 daccp.cn
 127.0.0.1 dadcc.cn
 127.0.0.1 daddq.cn
@@ -256,6 +259,7 @@
 127.0.0.1 dgfqqq.com
 127.0.0.1 dgvkrt.xyz
 127.0.0.1 dhaxhsa325.com
+127.0.0.1 dherea.site
 127.0.0.1 dhxrop.com
 127.0.0.1 dhxrxn.xyz
 127.0.0.1 diekd.xyz
@@ -427,6 +431,7 @@
 127.0.0.1 hxpmbb.xyz
 127.0.0.1 hxtiojs.cn
 127.0.0.1 hzoijcm.cn
+127.0.0.1 hzrghx.xyz
 127.0.0.1 iaacua.xyz
 127.0.0.1 icesfeathers.fun
 127.0.0.1 iciclle.com
@@ -434,6 +439,7 @@
 127.0.0.1 ifbfksf.xyz
 127.0.0.1 ifbqves.cn
 127.0.0.1 ifeurcw.cn
+127.0.0.1 ifewo.xyz
 127.0.0.1 igegeda.club
 127.0.0.1 igscn.com
 127.0.0.1 igtchzp.cn
@@ -467,6 +473,7 @@
 127.0.0.1 jeidd.xyz
 127.0.0.1 jerrytom.xyz
 127.0.0.1 jfanhao.com
+127.0.0.1 jfnkjr.xyz
 127.0.0.1 jhxcld.xyz
 127.0.0.1 jiangxing.live
 127.0.0.1 jiangxing.pub
@@ -510,6 +517,7 @@
 127.0.0.1 kehbcv.top
 127.0.0.1 kfocoq.xyz
 127.0.0.1 kgcyvd.com
+127.0.0.1 kgelugaz.com
 127.0.0.1 kianakaslana.club
 127.0.0.1 kingsunsky.ltd
 127.0.0.1 kjugr.xyz
@@ -532,6 +540,7 @@
 127.0.0.1 kzjkexn.cn
 127.0.0.1 kzjqraj.cn
 127.0.0.1 kzuxlydg.icu
+127.0.0.1 l3r6p0d5.com
 127.0.0.1 l74co.xyz
 127.0.0.1 lazyii.icu
 127.0.0.1 lcjyll.xyz
@@ -548,6 +557,7 @@
 127.0.0.1 liates.top
 127.0.0.1 lifvfr.xyz
 127.0.0.1 linuozhiyao.xyz
+127.0.0.1 liuyimin5.cn
 127.0.0.1 liweiling.xyz
 127.0.0.1 ljte0.com
 127.0.0.1 lkidke.com
@@ -579,6 +589,7 @@
 127.0.0.1 lydrnj.xyz
 127.0.0.1 lzfzkedp.icu
 127.0.0.1 m03dv.xyz
+127.0.0.1 m7g2v1b9.com
 127.0.0.1 m9d6p03.com
 127.0.0.1 mahao1.cn
 127.0.0.1 majunguo.cn
@@ -647,6 +658,7 @@
 127.0.0.1 nwmol.top
 127.0.0.1 nwuidsbjak.com
 127.0.0.1 nzrovf.xyz
+127.0.0.1 nzymeedg.icu
 127.0.0.1 oalmbmf.xyz
 127.0.0.1 ocoda.xyz
 127.0.0.1 ogtphoj.cn
@@ -670,6 +682,7 @@
 127.0.0.1 oubqzcg.cn
 127.0.0.1 owandlk.top
 127.0.0.1 oyysbc.xyz
+127.0.0.1 ozkbdxdu.icu
 127.0.0.1 p2oh1.xyz
 127.0.0.1 p4pd.cn
 127.0.0.1 pacix.xyz
@@ -921,6 +934,7 @@
 127.0.0.1 wangjiayi.fun
 127.0.0.1 wangyq.ltd
 127.0.0.1 wangyun01.cn
+127.0.0.1 wazveqv.xyz
 127.0.0.1 wbnhqq.com
 127.0.0.1 wbupbv.com
 127.0.0.1 wcdc5.com
@@ -1082,20 +1096,18 @@
 127.0.0.1 zxcrr.com
 127.0.0.1 zxgko.cn
 127.0.0.1 zzqrr.com
-127.0.0.1 asvysvxr.com
-127.0.0.1 liuyimin5.cn
-127.0.0.1 wazveqv.xyz
-127.0.0.1 dherea.site
-127.0.0.1 ozkbdxdu.icu
-127.0.0.1 jfnkjr.xyz
-127.0.0.1 hzrghx.xyz
-127.0.0.1 ifewo.xyz
-127.0.0.1 by8428.com
-127.0.0.1 l3r6p0d5.com
-127.0.0.1 m7g2v1b9.com
-127.0.0.1 nzymeedg.icu
-127.0.0.1 kgelugaz.com
-127.0.0.1 daawx.cn
+127.0.0.1 ildopxge.com
+127.0.0.1 ezraahdn.icu
+127.0.0.1 daenf.cn
+127.0.0.1 sgegie.fun
+127.0.0.1 gyhgcgj.xyz
+127.0.0.1 jaowd.xyz
+127.0.0.1 rppihz.xyz
+127.0.0.1 hjtedf.xyz
+127.0.0.1 hciea.xyz
+127.0.0.1 zyauopr.icu
+127.0.0.1 baiduklglndklb.com
+127.0.0.1 xzxhpcdz.icu
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
