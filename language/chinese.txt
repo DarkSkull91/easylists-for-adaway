@@ -1,4 +1,5 @@
 127.0.0.1 002777.xyz
+127.0.0.1 01v62.xyz
 127.0.0.1 0776.red
 127.0.0.1 08u6q.com
 127.0.0.1 0hlc8.top
@@ -116,12 +117,14 @@
 127.0.0.1 aqpvglv.cn
 127.0.0.1 aquvg.com
 127.0.0.1 asvysvxr.com
+127.0.0.1 atbdkmt.xyz
 127.0.0.1 aup34.xyz
 127.0.0.1 awdc6.com
 127.0.0.1 ayynsdp.xyz
 127.0.0.1 azdxypf.cn
 127.0.0.1 bacder.fun
 127.0.0.1 baiduajbcjkabcav.com
+127.0.0.1 baidubdvjssv.com
 127.0.0.1 baidubvjsbvv.com
 127.0.0.1 baidudbvjksbvs.com
 127.0.0.1 baidudsvbshj.com
@@ -143,6 +146,7 @@
 127.0.0.1 bestialvehemence.com
 127.0.0.1 betgdr.xyz
 127.0.0.1 bg04y.xyz
+127.0.0.1 bhcnmrn.icu
 127.0.0.1 bhfdgdounv.xyz
 127.0.0.1 bicid.xyz
 127.0.0.1 bili96.co
@@ -299,6 +303,7 @@
 127.0.0.1 ebuqxsjq.com
 127.0.0.1 ecav5.com
 127.0.0.1 eciea.xyz
+127.0.0.1 eduizioq.com
 127.0.0.1 efilgvz.cn
 127.0.0.1 efvsyhbf.xyz
 127.0.0.1 eiadf.xyz
@@ -357,6 +362,7 @@
 127.0.0.1 ftptjj.xyz
 127.0.0.1 fvzljv.xyz
 127.0.0.1 fweia.xyz
+127.0.0.1 fy14.cn
 127.0.0.1 fzcsd33.com
 127.0.0.1 g0cu3.top
 127.0.0.1 g77ds2.xyz
@@ -378,6 +384,7 @@
 127.0.0.1 golden88.co
 127.0.0.1 gongyuxinxi.xyz
 127.0.0.1 gorpgeu.xyz
+127.0.0.1 goxob6wo.icu
 127.0.0.1 gpqicw.xyz
 127.0.0.1 gpqid.xyz
 127.0.0.1 gr0z6.xyz
@@ -434,6 +441,7 @@
 127.0.0.1 hrngmf.com
 127.0.0.1 hsili.ltd
 127.0.0.1 hsrgnac.cn
+127.0.0.1 htvixv.xyz
 127.0.0.1 huangji1.cn
 127.0.0.1 huaweinnd.top
 127.0.0.1 hudqrn.xyz
@@ -539,6 +547,7 @@
 127.0.0.1 kfocoq.xyz
 127.0.0.1 kgcyvd.com
 127.0.0.1 kgelugaz.com
+127.0.0.1 kgeshe.site
 127.0.0.1 kianakaslana.club
 127.0.0.1 kingsunsky.ltd
 127.0.0.1 kjugr.xyz
@@ -631,6 +640,7 @@
 127.0.0.1 mhysbwo.xyz
 127.0.0.1 mindopu.com
 127.0.0.1 mk795.cn
+127.0.0.1 moead.xyz
 127.0.0.1 moend.xyz
 127.0.0.1 momoguoji.xyz
 127.0.0.1 mr956.xyz
@@ -989,6 +999,7 @@
 127.0.0.1 wodw0.xyz
 127.0.0.1 worjeklmq.com
 127.0.0.1 wosidnlkxq.com
+127.0.0.1 wqdro6us.icu
 127.0.0.1 wqweiog.xyz
 127.0.0.1 wsoxwa.xyz
 127.0.0.1 wvwl.cn
@@ -1029,6 +1040,7 @@
 127.0.0.1 xni.ink
 127.0.0.1 xnjvn1.com
 127.0.0.1 xnmqqq.com
+127.0.0.1 xnzetb.xyz
 127.0.0.1 xokcaxw.cn
 127.0.0.1 xpynqq.com
 127.0.0.1 xrkyqq.com
@@ -1073,6 +1085,7 @@
 127.0.0.1 yttc.ren
 127.0.0.1 yuebog.xyz
 127.0.0.1 yulingaa.xyz
+127.0.0.1 yupov6ks.icu
 127.0.0.1 yuwenbin.host
 127.0.0.1 ywsiqlg.cn
 127.0.0.1 yytxzct.xyz
@@ -1125,6 +1138,7 @@
 127.0.0.1 zppfjh.xyz
 127.0.0.1 zrakpxsf.com
 127.0.0.1 zrbabog.cn
+127.0.0.1 zrgbh6bm.icu
 127.0.0.1 zrrnqq.com
 127.0.0.1 zsblog.vip
 127.0.0.1 zscgoqt.cn
@@ -1136,6 +1150,13 @@
 127.0.0.1 zyauopr.icu
 127.0.0.1 zzqrr.com
 127.0.0.1 zzrjdp.xyz
+127.0.0.1 hacde5.icu
+127.0.0.1 klbvqqqj.com
+127.0.0.1 t28goe.cn
+127.0.0.1 50aqzb.com
+127.0.0.1 neiod.xyz
+127.0.0.1 hdxjtl.xyz
+127.0.0.1 ltkbyfd.icu
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
