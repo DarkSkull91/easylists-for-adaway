@@ -36,6 +36,7 @@
 127.0.0.1 480img.com
 127.0.0.1 4cjh.xyz
 127.0.0.1 4iuyw.xyz
+127.0.0.1 50aqzb.com
 127.0.0.1 50i2n.top
 127.0.0.1 5251m.xyz
 127.0.0.1 52qd.club
@@ -47,6 +48,7 @@
 127.0.0.1 69wx1.top
 127.0.0.1 6cdwf.xyz
 127.0.0.1 6h1cz.xyz
+127.0.0.1 6iwoif.com
 127.0.0.1 7067.top
 127.0.0.1 77aiav.me
 127.0.0.1 77tum.top
@@ -195,6 +197,7 @@
 127.0.0.1 cbhwekr.cn
 127.0.0.1 ccohayo.xyz
 127.0.0.1 cdcc3.com
+127.0.0.1 cdcqee.com
 127.0.0.1 cderyu.club
 127.0.0.1 cdfda.xyz
 127.0.0.1 cdkke.xyz
@@ -230,6 +233,7 @@
 127.0.0.1 cofz9.top
 127.0.0.1 cped7.xyz
 127.0.0.1 cqpczsu.cn
+127.0.0.1 crf999.cn
 127.0.0.1 crhyqq.com
 127.0.0.1 crookedchange.com
 127.0.0.1 csh253.cn
@@ -362,10 +366,12 @@
 127.0.0.1 ftptjj.xyz
 127.0.0.1 fvzljv.xyz
 127.0.0.1 fweia.xyz
+127.0.0.1 fxbcpr.xyz
 127.0.0.1 fy14.cn
 127.0.0.1 fzcsd33.com
 127.0.0.1 g0cu3.top
 127.0.0.1 g77ds2.xyz
+127.0.0.1 gahvy6ww.icu
 127.0.0.1 gaokao.asia
 127.0.0.1 gbcnvip15.com
 127.0.0.1 gcqciiqk.com
@@ -392,6 +398,7 @@
 127.0.0.1 grxeyig.xyz
 127.0.0.1 grxwqq.com
 127.0.0.1 guangdongtaiji.com
+127.0.0.1 guqsqfmi.com
 127.0.0.1 guzhimian.fun
 127.0.0.1 guzsjdl.cn
 127.0.0.1 gwide.xyz
@@ -404,6 +411,7 @@
 127.0.0.1 gzsjym.xyz
 127.0.0.1 gzsscr.cn
 127.0.0.1 h731.icu
+127.0.0.1 hacde5.icu
 127.0.0.1 hacde6.icu
 127.0.0.1 haili-spitzer.com
 127.0.0.1 handerfix.com
@@ -414,6 +422,7 @@
 127.0.0.1 hbkunye.com
 127.0.0.1 hbrmickt.com
 127.0.0.1 hciea.xyz
+127.0.0.1 hdxjtl.xyz
 127.0.0.1 hefei64.com
 127.0.0.1 hefrpv.xyz
 127.0.0.1 heild.xyz
@@ -431,6 +440,7 @@
 127.0.0.1 hifyeldu.top
 127.0.0.1 himeneko.ink
 127.0.0.1 hjtedf.xyz
+127.0.0.1 hlbbn6ii.icu
 127.0.0.1 hldwdz.xyz
 127.0.0.1 hoiea.xyz
 127.0.0.1 hontont.com
@@ -505,6 +515,7 @@
 127.0.0.1 jiangxing.live
 127.0.0.1 jiangxing.pub
 127.0.0.1 jiangzimeng1.cn
+127.0.0.1 jifyelda.top
 127.0.0.1 jinheart.xyz
 127.0.0.1 jinmin.online
 127.0.0.1 jiqadoi.cn
@@ -538,6 +549,8 @@
 127.0.0.1 jxvyrv.xyz
 127.0.0.1 jyt58.top
 127.0.0.1 jyxfvp.xyz
+127.0.0.1 k42kw.top
+127.0.0.1 k7f67a6s7.xyz
 127.0.0.1 kabuto.pro
 127.0.0.1 kart2ks.icu
 127.0.0.1 kayzqar.cn
@@ -557,6 +570,7 @@
 127.0.0.1 kkkqo.cn
 127.0.0.1 kkmbbvz.xyz
 127.0.0.1 kkylx.xyz
+127.0.0.1 klbvqqqj.com
 127.0.0.1 kmlxlkz.cn
 127.0.0.1 knxvwxe.cn
 127.0.0.1 koekd.xyz
@@ -606,6 +620,7 @@
 127.0.0.1 lqglqq.com
 127.0.0.1 lrah0.top
 127.0.0.1 lsancil.top
+127.0.0.1 ltkbyfd.icu
 127.0.0.1 luckydino.ren
 127.0.0.1 ludie.xyz
 127.0.0.1 ludpa.xyz
@@ -624,6 +639,7 @@
 127.0.0.1 m7g2v1b9.com
 127.0.0.1 m9d6p03.com
 127.0.0.1 mahao1.cn
+127.0.0.1 maiqi.xyz
 127.0.0.1 majunguo.cn
 127.0.0.1 maoqxyl.xyz
 127.0.0.1 mbekgac.xyz
@@ -659,6 +675,7 @@
 127.0.0.1 mxknqq.com
 127.0.0.1 mzqf1.com
 127.0.0.1 nagmopd.cn
+127.0.0.1 naiep.xyz
 127.0.0.1 najnus.com
 127.0.0.1 nakop.xyz
 127.0.0.1 naned.xyz
@@ -668,6 +685,7 @@
 127.0.0.1 ndruhz.xyz
 127.0.0.1 nedes.xyz
 127.0.0.1 neg2zos.icu
+127.0.0.1 neiod.xyz
 127.0.0.1 nekomasu.ltd
 127.0.0.1 networkname.xyz
 127.0.0.1 nezqmud.com
@@ -710,6 +728,7 @@
 127.0.0.1 oofyjik.xyz
 127.0.0.1 opida.xyz
 127.0.0.1 opzksyy.cn
+127.0.0.1 oqpgq.top
 127.0.0.1 originate.ltd
 127.0.0.1 orsrmrx.cn
 127.0.0.1 osancik.top
@@ -865,8 +884,8 @@
 127.0.0.1 szafvjdd.icu
 127.0.0.1 szsbiw.xyz
 127.0.0.1 t0pan.top
+127.0.0.1 t28goe.cn
 127.0.0.1 t33ng.com
-127.0.0.1 tacool.com
 127.0.0.1 tangxu.xyz
 127.0.0.1 taoli.name
 127.0.0.1 tc911.vip
@@ -1113,6 +1132,8 @@
 127.0.0.1 zeookuv.xyz
 127.0.0.1 zetcul.xyz
 127.0.0.1 zffymmdg.com
+127.0.0.1 zfmtyv.buzz
+127.0.0.1 zfmtyv.xyz
 127.0.0.1 zgyvg.top
 127.0.0.1 zhalinylqq.com
 127.0.0.1 zhalinyyds.com
@@ -1150,13 +1171,6 @@
 127.0.0.1 zyauopr.icu
 127.0.0.1 zzqrr.com
 127.0.0.1 zzrjdp.xyz
-127.0.0.1 hacde5.icu
-127.0.0.1 klbvqqqj.com
-127.0.0.1 t28goe.cn
-127.0.0.1 50aqzb.com
-127.0.0.1 neiod.xyz
-127.0.0.1 hdxjtl.xyz
-127.0.0.1 ltkbyfd.icu
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
