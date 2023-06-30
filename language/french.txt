@@ -2749,6 +2749,7 @@
 127.0.0.1 fleenaive.com
 127.0.0.1 fleeteddespite.com
 127.0.0.1 flfnlvwlmp.xyz
+127.0.0.1 flghgvlsdhetim.com
 127.0.0.1 flickerbridge.com
 127.0.0.1 flidgedahoman.com
 127.0.0.1 flintdepreciate.com
@@ -2935,6 +2936,7 @@
 127.0.0.1 gamecranedomestic.com
 127.0.0.1 gamersterritory.com
 127.0.0.1 gamez1a.com
+127.0.0.1 gamgladthereis.com
 127.0.0.1 gammonfiord.com
 127.0.0.1 gangismemunct.com
 127.0.0.1 ganoidcuishes.com
@@ -4124,6 +4126,7 @@
 127.0.0.1 keaogteoakk.com
 127.0.0.1 keaqoury.com
 127.0.0.1 kecgnsul.click
+127.0.0.1 kedasensiblem.info
 127.0.0.1 keifimnwamgyky.xyz
 127.0.0.1 kekonum.com
 127.0.0.1 kelsaurt.com
@@ -5380,6 +5383,7 @@
 127.0.0.1 opugokgmxah.com
 127.0.0.1 opwckdrfrlbipyj.com
 127.0.0.1 opxbppqplwv.com
+127.0.0.1 oqelpqoyyz.com
 127.0.0.1 oqrqonoqypgxo.xyz
 127.0.0.1 oqutyvrds.com
 127.0.0.1 orecjdjrx.com
@@ -7770,6 +7774,7 @@
 127.0.0.1 d1qtf1avwa1wvl.cloudfront.net
 127.0.0.1 d1s18kaechs9c9.cloudfront.net
 127.0.0.1 d1s5n6wuwgnxf4.cloudfront.net
+127.0.0.1 d1sboz88tkttfp.cloudfront.net
 127.0.0.1 d1sj3yrs7ojvv7.cloudfront.net
 127.0.0.1 d1tygkkxabxtvv.cloudfront.net
 127.0.0.1 d1u3772ihhjzwu.cloudfront.net

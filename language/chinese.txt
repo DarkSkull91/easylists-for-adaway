@@ -96,6 +96,7 @@
 127.0.0.1 adfec3.com
 127.0.0.1 advgjm.com
 127.0.0.1 aeletheacd.com
+127.0.0.1 afafevk.com
 127.0.0.1 afdunaui.com
 127.0.0.1 afgathacd.com
 127.0.0.1 afndhou.xyz
@@ -184,6 +185,7 @@
 127.0.0.1 bwandlv.top
 127.0.0.1 bwwlw.cn
 127.0.0.1 bxoiksm.xyz
+127.0.0.1 bxzm9a.icu
 127.0.0.1 by8428.com
 127.0.0.1 byjykj.xyz
 127.0.0.1 c9cc.icu
@@ -243,6 +245,7 @@
 127.0.0.1 d7dzf.xyz
 127.0.0.1 d86n.top
 127.0.0.1 daadr.cn
+127.0.0.1 daawv.cn
 127.0.0.1 daawx.cn
 127.0.0.1 daccp.cn
 127.0.0.1 dadcc.cn
@@ -267,6 +270,7 @@
 127.0.0.1 deansent.top
 127.0.0.1 denghaishan1.cn
 127.0.0.1 dertyhsf.xyz
+127.0.0.1 destc10.icu
 127.0.0.1 devofei.xyz
 127.0.0.1 dezstd.xyz
 127.0.0.1 dfaikhkm.xyz
@@ -346,6 +350,7 @@
 127.0.0.1 feild.xyz
 127.0.0.1 ffbjhl.xyz
 127.0.0.1 fgre9.top
+127.0.0.1 fhddnh.xyz
 127.0.0.1 fijipic.xyz
 127.0.0.1 fillhr.xyz
 127.0.0.1 findnam.xyz
@@ -405,6 +410,7 @@
 127.0.0.1 gwvzgjb.cn
 127.0.0.1 gx521.xyz
 127.0.0.1 gxemtes.xyz
+127.0.0.1 gxxie.com
 127.0.0.1 gyhgcgj.xyz
 127.0.0.1 gykyec.xyz
 127.0.0.1 gzexsc.top
@@ -529,6 +535,7 @@
 127.0.0.1 jnmaeun.xyz
 127.0.0.1 jntxvf.xyz
 127.0.0.1 joplopr.cn
+127.0.0.1 jpayu6di.icu
 127.0.0.1 jqueryboots.net
 127.0.0.1 jquerydns.com
 127.0.0.1 jrtwi.xyz
@@ -641,6 +648,7 @@
 127.0.0.1 mahao1.cn
 127.0.0.1 maiqi.xyz
 127.0.0.1 majunguo.cn
+127.0.0.1 manbag.net
 127.0.0.1 maoqxyl.xyz
 127.0.0.1 mbekgac.xyz
 127.0.0.1 mbly0.xyz
@@ -757,6 +765,7 @@
 127.0.0.1 pkkylyx.xyz
 127.0.0.1 pkynqq.com
 127.0.0.1 plnshao.xyz
+127.0.0.1 pnzhpb.xyz
 127.0.0.1 pohpll.xyz
 127.0.0.1 poiqwnekb.com
 127.0.0.1 poopd.xyz
@@ -891,6 +900,7 @@
 127.0.0.1 tc911.vip
 127.0.0.1 tctltb.com
 127.0.0.1 tejiachong.co
+127.0.0.1 teusyxz.icu
 127.0.0.1 tfations.live
 127.0.0.1 tffulllist.shop
 127.0.0.1 tfonlyuse.shop
@@ -898,6 +908,7 @@
 127.0.0.1 tgdopodk.com
 127.0.0.1 thdidx.xyz
 127.0.0.1 thesac8.top
+127.0.0.1 thvx9i.icu
 127.0.0.1 tian0.ltd
 127.0.0.1 tiancaiwei.wang
 127.0.0.1 tianma704.ltd
@@ -981,6 +992,7 @@
 127.0.0.1 vreephay.com
 127.0.0.1 vrffwbf.cn
 127.0.0.1 vtvnnl.xyz
+127.0.0.1 vucve6is.icu
 127.0.0.1 vueegqt.xyz
 127.0.0.1 vujhaib.cn
 127.0.0.1 vuxxtn.xyz
@@ -1171,18 +1183,18 @@
 127.0.0.1 zyauopr.icu
 127.0.0.1 zzqrr.com
 127.0.0.1 zzrjdp.xyz
-127.0.0.1 jpayu6di.icu
-127.0.0.1 destc10.icu
-127.0.0.1 gxxie.com
-127.0.0.1 pnzhpb.xyz
-127.0.0.1 manbag.net
-127.0.0.1 teusyxz.icu
-127.0.0.1 fhddnh.xyz
-127.0.0.1 afafevk.com
-127.0.0.1 vucve6is.icu
-127.0.0.1 bxzm9a.icu
-127.0.0.1 thvx9i.icu
-127.0.0.1 daawv.cn
+127.0.0.1 ecwmvlhy.com
+127.0.0.1 canser9.top
+127.0.0.1 guizhouxinsheng.com
+127.0.0.1 oueia.xyz
+127.0.0.1 vfjsa6do.icu
+127.0.0.1 dqcgkpp.icu
+127.0.0.1 xkbinj.xyz
+127.0.0.1 nefbjp.xyz
+127.0.0.1 hesramfi.com
+127.0.0.1 yklfg.cn
+127.0.0.1 rfto9i.icu
+127.0.0.1 kifyeldd.top
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
