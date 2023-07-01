@@ -194,6 +194,7 @@
 127.0.0.1 cadke.xyz
 127.0.0.1 campu.ltd
 127.0.0.1 canser8.top
+127.0.0.1 canser9.top
 127.0.0.1 caozhixiong.cn
 127.0.0.1 casisi118.vip
 127.0.0.1 cbhwekr.cn
@@ -294,6 +295,7 @@
 127.0.0.1 donku.club
 127.0.0.1 dpaic.xyz
 127.0.0.1 dqazwsxd.xyz
+127.0.0.1 dqcgkpp.icu
 127.0.0.1 drtyujgsg.xyz
 127.0.0.1 dsbt7.com
 127.0.0.1 dsctnsn.xyz
@@ -311,6 +313,7 @@
 127.0.0.1 ebuqxsjq.com
 127.0.0.1 ecav5.com
 127.0.0.1 eciea.xyz
+127.0.0.1 ecwmvlhy.com
 127.0.0.1 eduizioq.com
 127.0.0.1 efilgvz.cn
 127.0.0.1 efvsyhbf.xyz
@@ -403,6 +406,7 @@
 127.0.0.1 grxeyig.xyz
 127.0.0.1 grxwqq.com
 127.0.0.1 guangdongtaiji.com
+127.0.0.1 guizhouxinsheng.com
 127.0.0.1 guqsqfmi.com
 127.0.0.1 guzhimian.fun
 127.0.0.1 guzsjdl.cn
@@ -438,6 +442,7 @@
 127.0.0.1 heliangjun2.cn
 127.0.0.1 helid.xyz
 127.0.0.1 heretrail.com
+127.0.0.1 hesramfi.com
 127.0.0.1 hffxc.com
 127.0.0.1 hfhytx.xyz
 127.0.0.1 hgpdoa.cn
@@ -569,6 +574,7 @@
 127.0.0.1 kgelugaz.com
 127.0.0.1 kgeshe.site
 127.0.0.1 kianakaslana.club
+127.0.0.1 kifyeldd.top
 127.0.0.1 kingsunsky.ltd
 127.0.0.1 kjugr.xyz
 127.0.0.1 kjwysxs.cn
@@ -692,6 +698,7 @@
 127.0.0.1 ndqzqmb.xyz
 127.0.0.1 ndruhz.xyz
 127.0.0.1 nedes.xyz
+127.0.0.1 nefbjp.xyz
 127.0.0.1 neg2zos.icu
 127.0.0.1 neiod.xyz
 127.0.0.1 nekomasu.ltd
@@ -742,6 +749,7 @@
 127.0.0.1 osancik.top
 127.0.0.1 otwiss.xyz
 127.0.0.1 oubqzcg.cn
+127.0.0.1 oueia.xyz
 127.0.0.1 owandlk.top
 127.0.0.1 oyysbc.xyz
 127.0.0.1 ozkbdxdu.icu
@@ -828,6 +836,7 @@
 127.0.0.1 reffnik.cn
 127.0.0.1 rencaihome.xyz
 127.0.0.1 rfnenr.xyz
+127.0.0.1 rfto9i.icu
 127.0.0.1 rgyfqq.com
 127.0.0.1 rhxwnd.xyz
 127.0.0.1 risrauj.cn
@@ -980,6 +989,7 @@
 127.0.0.1 vdrfes.site
 127.0.0.1 vel7.xyz
 127.0.0.1 vezvpd.xyz
+127.0.0.1 vfjsa6do.icu
 127.0.0.1 vfsvv1.com
 127.0.0.1 vifzrf.xyz
 127.0.0.1 viroffyy.com
@@ -1064,6 +1074,7 @@
 127.0.0.1 xiod.xyz
 127.0.0.1 xiongxiaoze12.cn
 127.0.0.1 xjnyjt.xyz
+127.0.0.1 xkbinj.xyz
 127.0.0.1 xkdlqq.com
 127.0.0.1 xlardaxq.com
 127.0.0.1 xlsds888.xyz
@@ -1109,6 +1120,7 @@
 127.0.0.1 yisangyyds.com
 127.0.0.1 yiw2iei.icu
 127.0.0.1 yjgqpfj.cn
+127.0.0.1 yklfg.cn
 127.0.0.1 ykotyeo.cn
 127.0.0.1 ymhyw6.lol
 127.0.0.1 yrszy.com.cn
@@ -1183,18 +1195,18 @@
 127.0.0.1 zyauopr.icu
 127.0.0.1 zzqrr.com
 127.0.0.1 zzrjdp.xyz
-127.0.0.1 ecwmvlhy.com
-127.0.0.1 canser9.top
-127.0.0.1 guizhouxinsheng.com
-127.0.0.1 oueia.xyz
-127.0.0.1 vfjsa6do.icu
-127.0.0.1 dqcgkpp.icu
-127.0.0.1 xkbinj.xyz
-127.0.0.1 nefbjp.xyz
-127.0.0.1 hesramfi.com
-127.0.0.1 yklfg.cn
-127.0.0.1 rfto9i.icu
-127.0.0.1 kifyeldd.top
+127.0.0.1 nchxzmhr.com
+127.0.0.1 hegk09a.top
+127.0.0.1 gysn001.com
+127.0.0.1 dvbnmikxh.xyz
+127.0.0.1 xudgjz.xyz
+127.0.0.1 ncmxwhf.icu
+127.0.0.1 nohcff.xyz
+127.0.0.1 uym11.xyz
+127.0.0.1 zvdc9y.icu
+127.0.0.1 0krdn3.com
+127.0.0.1 plof69.com
+127.0.0.1 qaljfiwv.com
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
@@ -5770,6 +5782,7 @@
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
 127.0.0.1 003store.com
+127.0.0.1 mwzbp.iask.com.cn
 127.0.0.1 0941.org
 127.0.0.1 1.01fy.cn
 127.0.0.1 1.07swz.com
