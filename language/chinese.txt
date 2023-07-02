@@ -3,6 +3,7 @@
 127.0.0.1 0776.red
 127.0.0.1 08u6q.com
 127.0.0.1 0hlc8.top
+127.0.0.1 0krdn3.com
 127.0.0.1 10090dfs.com
 127.0.0.1 1136999.com
 127.0.0.1 1381a.xyz
@@ -303,6 +304,7 @@
 127.0.0.1 dszhqww.cn
 127.0.0.1 dtjhtp.xyz
 127.0.0.1 dtnhjzl.xyz
+127.0.0.1 dvbnmikxh.xyz
 127.0.0.1 dwibjkdsn.com
 127.0.0.1 dydujb.xyz
 127.0.0.1 dyhnbgtsl.xyz
@@ -417,6 +419,7 @@
 127.0.0.1 gxxie.com
 127.0.0.1 gyhgcgj.xyz
 127.0.0.1 gykyec.xyz
+127.0.0.1 gysn001.com
 127.0.0.1 gzexsc.top
 127.0.0.1 gzsjym.xyz
 127.0.0.1 gzsscr.cn
@@ -435,6 +438,7 @@
 127.0.0.1 hdxjtl.xyz
 127.0.0.1 hefei64.com
 127.0.0.1 hefrpv.xyz
+127.0.0.1 hegk09a.top
 127.0.0.1 heild.xyz
 127.0.0.1 heioa.xyz
 127.0.0.1 heiow.xyz
@@ -693,6 +697,8 @@
 127.0.0.1 najnus.com
 127.0.0.1 nakop.xyz
 127.0.0.1 naned.xyz
+127.0.0.1 nchxzmhr.com
+127.0.0.1 ncmxwhf.icu
 127.0.0.1 ncyksuw.xyz
 127.0.0.1 ncyx.ltd
 127.0.0.1 ndqzqmb.xyz
@@ -712,6 +718,7 @@
 127.0.0.1 nkvwvx.xyz
 127.0.0.1 nntsdp.xyz
 127.0.0.1 nogff.top
+127.0.0.1 nohcff.xyz
 127.0.0.1 npdkdb.xyz
 127.0.0.1 nqyz.tw
 127.0.0.1 nsfdsa.xyz
@@ -773,6 +780,7 @@
 127.0.0.1 pkkylyx.xyz
 127.0.0.1 pkynqq.com
 127.0.0.1 plnshao.xyz
+127.0.0.1 plof69.com
 127.0.0.1 pnzhpb.xyz
 127.0.0.1 pohpll.xyz
 127.0.0.1 poiqwnekb.com
@@ -793,6 +801,7 @@
 127.0.0.1 pyjqhb.xyz
 127.0.0.1 pzlxnd.xyz
 127.0.0.1 q1zcp.com
+127.0.0.1 qaljfiwv.com
 127.0.0.1 qange.com
 127.0.0.1 qat7i.top
 127.0.0.1 qatuaad.cn
@@ -977,6 +986,7 @@
 127.0.0.1 uwhreur.cn
 127.0.0.1 uxcnhsf.cn
 127.0.0.1 uxwkiyp.xyz
+127.0.0.1 uym11.xyz
 127.0.0.1 uysdxmo.com
 127.0.0.1 uyt79.top
 127.0.0.1 uz44x.xyz
@@ -1089,6 +1099,7 @@
 127.0.0.1 xsbdj6.com
 127.0.0.1 xtpwfb.xyz
 127.0.0.1 xuanqi.ltd
+127.0.0.1 xudgjz.xyz
 127.0.0.1 xueyugaoyuan.xyz
 127.0.0.1 xunjie.fun
 127.0.0.1 xuxiaoran.xyz
@@ -1189,24 +1200,26 @@
 127.0.0.1 zscgoqt.cn
 127.0.0.1 zsnfdphz.com
 127.0.0.1 ztaan.top
+127.0.0.1 zvdc9y.icu
 127.0.0.1 zvfaxh.xyz
 127.0.0.1 zxcrr.com
 127.0.0.1 zxgko.cn
 127.0.0.1 zyauopr.icu
 127.0.0.1 zzqrr.com
 127.0.0.1 zzrjdp.xyz
-127.0.0.1 nchxzmhr.com
-127.0.0.1 hegk09a.top
-127.0.0.1 gysn001.com
-127.0.0.1 dvbnmikxh.xyz
-127.0.0.1 xudgjz.xyz
-127.0.0.1 ncmxwhf.icu
-127.0.0.1 nohcff.xyz
-127.0.0.1 uym11.xyz
-127.0.0.1 zvdc9y.icu
-127.0.0.1 0krdn3.com
-127.0.0.1 plof69.com
-127.0.0.1 qaljfiwv.com
+127.0.0.1 hjpqt.cn
+127.0.0.1 twgzgqqu.com
+127.0.0.1 dcvefz.xyz
+127.0.0.1 tainec.fun
+127.0.0.1 tdavopl.icu
+127.0.0.1 sifyeldb.top
+127.0.0.1 abalado.com
+127.0.0.1 tbcgumkadc.xyz
+127.0.0.1 twzadf.xyz
+127.0.0.1 bdfg9a.icu
+127.0.0.1 lbprjdi.cn
+127.0.0.1 cloudflare.st
+127.0.0.1 hfk7j.top
 127.0.0.1 001adafg.xyz
 127.0.0.1 003aldjads.xyz
 127.0.0.1 004fsdljasd.xyz
@@ -5782,7 +5795,6 @@
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
 127.0.0.1 003store.com
-127.0.0.1 mwzbp.iask.com.cn
 127.0.0.1 0941.org
 127.0.0.1 1.01fy.cn
 127.0.0.1 1.07swz.com
@@ -6388,6 +6400,7 @@
 127.0.0.1 mps.wenkuzu.com
 127.0.0.1 ms.cnbanbao.com
 127.0.0.1 mt.64foot.com
+127.0.0.1 mwzbp.iask.com.cn
 127.0.0.1 myunion1.qm120.com
 127.0.0.1 myunion1.tupians.com
 127.0.0.1 n.baminw.com.cn
