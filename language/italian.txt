@@ -33,8 +33,8 @@
 127.0.0.1 widgets.shop.moda.it
 127.0.0.1 adserver.ilgazzettinovesuviano.com
 127.0.0.1 adv-img.edilportale.com
-127.0.0.1 giornalisti.vivere.srl
 127.0.0.1 napolimagazine.biz
+127.0.0.1 giornalisti.vivere.srl
 127.0.0.1 oas.repubblica.it
 127.0.0.1 plx.mrpornogratis.it
 127.0.0.1 plx.pornototale.com
