@@ -52,6 +52,11 @@
 127.0.0.1 rtumwzp.icu
 127.0.0.1 jpqed.xyz
 127.0.0.1 relafp.xyz
+127.0.0.1 eyq3nog.icu
+127.0.0.1 tifyeldi.top
+127.0.0.1 one6u.xyz
+127.0.0.1 metaversemolecule.com
+127.0.0.1 xccadc.com
 127.0.0.1 xiaoxiuapp.com
 127.0.0.1 yh18h8s.com
 127.0.0.1 zerolcp.cn
@@ -5114,10 +5119,10 @@
 127.0.0.1 yktj.yzz.cn
 127.0.0.1 yt-adp.nosdn.127.net
 127.0.0.1 yt-adp.ws.126.net
-127.0.0.1 yybx.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 qudajie.com
 127.0.0.1 003store.com
 127.0.0.1 0941.org
 127.0.0.1 1.01fy.cn
