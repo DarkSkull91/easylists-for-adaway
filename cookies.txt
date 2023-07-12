@@ -83,9 +83,9 @@
 127.0.0.1 contents2.00110.citi.com
 127.0.0.1 drfdisvc.walmart.com
 127.0.0.1 event.evtm.53.com
-127.0.0.1 gfp.intuit.com
 127.0.0.1 idstatus.sky.com
 127.0.0.1 imgs.signifyd.com
+127.0.0.1 pfp.intuit.com
 127.0.0.1 rba-screen.healthsafe-id.com
 127.0.0.1 rsx.afterpay.com
 127.0.0.1 svc2.sc.com
