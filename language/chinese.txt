@@ -112,6 +112,11 @@
 127.0.0.1 chiese.site
 127.0.0.1 oopej.xyz
 127.0.0.1 lamkghx.icu
+127.0.0.1 pcvzpj.xyz
+127.0.0.1 fwzvlp.xyz
+127.0.0.1 zcvyzsyd.icu
+127.0.0.1 xukou.net
+127.0.0.1 mlstx.cn
 127.0.0.1 zfteiv.xyz
 127.0.0.1 ziravd.xyz
 127.0.0.1 zonyff.xyz
