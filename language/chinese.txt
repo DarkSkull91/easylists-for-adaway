@@ -2,6 +2,7 @@
 127.0.0.1 3400.org
 127.0.0.1 52kuwang.cn
 127.0.0.1 abrnfctkn.xyz
+127.0.0.1 allcp.xyz
 127.0.0.1 amerzbj.cn
 127.0.0.1 baiduisjkbvsjkl.com
 127.0.0.1 baiduvjsbvjknlsvsv.com
@@ -11,6 +12,7 @@
 127.0.0.1 bifyeldv.top
 127.0.0.1 bkhblj.xyz
 127.0.0.1 boewgph.icu
+127.0.0.1 btescs.fun
 127.0.0.1 bttazsyk.icu
 127.0.0.1 caider.fun
 127.0.0.1 chiese.site
@@ -24,15 +26,18 @@
 127.0.0.1 dadde.cn
 127.0.0.1 dd778899dd.com
 127.0.0.1 dhkipdsc.xyz
+127.0.0.1 dojyiu8.com
 127.0.0.1 donchen501.cn
 127.0.0.1 dosre12.xyz
 127.0.0.1 dstbekdf.xyz
 127.0.0.1 dstbunkfw.xyz
+127.0.0.1 dyeperd.icu
 127.0.0.1 eghyahl.cn
 127.0.0.1 erfskhnpter.xyz
 127.0.0.1 esgher.site
 127.0.0.1 euitx.cn
 127.0.0.1 evidhjksdtgyxrh.xyz
+127.0.0.1 ewfsef.com
 127.0.0.1 eyq3nog.icu
 127.0.0.1 falsarywaybung.com
 127.0.0.1 fjsytjs.cn
@@ -58,6 +63,7 @@
 127.0.0.1 iplm.cc
 127.0.0.1 jdcnwd.com
 127.0.0.1 jh16csf.com
+127.0.0.1 jhlazsot.icu
 127.0.0.1 jhzfwl.cn
 127.0.0.1 jokerlulm.com
 127.0.0.1 jpqed.xyz
@@ -77,10 +83,12 @@
 127.0.0.1 lifyeldl.top
 127.0.0.1 lwide.xyz
 127.0.0.1 metaversemolecule.com
+127.0.0.1 misapopait.com
 127.0.0.1 mlstx.cn
 127.0.0.1 moobtcnse.xyz
 127.0.0.1 ngbthf.xyz
 127.0.0.1 nieae.xyz
+127.0.0.1 nqdufv.xyz
 127.0.0.1 nryqr.cn
 127.0.0.1 oifyeldk.top
 127.0.0.1 one6u.xyz
@@ -96,6 +104,7 @@
 127.0.0.1 qifyeldy.top
 127.0.0.1 qqnde.xyz
 127.0.0.1 qselic.top
+127.0.0.1 rabuagc.cn
 127.0.0.1 rdufuxr.icu
 127.0.0.1 relafp.xyz
 127.0.0.1 ronbbf.xyz
@@ -119,6 +128,7 @@
 127.0.0.1 xccadc.com
 127.0.0.1 xcvwrj.xyz
 127.0.0.1 xiaoxiuapp.com
+127.0.0.1 xjzyhp.xyz
 127.0.0.1 xmxupz.xyz
 127.0.0.1 xukou.net
 127.0.0.1 yh18h8s.com
