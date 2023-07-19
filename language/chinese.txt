@@ -13,12 +13,14 @@
 127.0.0.1 bdates.fun
 127.0.0.1 berylnbb.com
 127.0.0.1 betcss.site
+127.0.0.1 bgdizsay.icu
 127.0.0.1 bifyeldv.top
 127.0.0.1 bkhblj.xyz
 127.0.0.1 boewgph.icu
 127.0.0.1 btescs.fun
 127.0.0.1 bttazsyk.icu
 127.0.0.1 caider.fun
+127.0.0.1 ccnim.xyz
 127.0.0.1 chiese.site
 127.0.0.1 ciadre.fun
 127.0.0.1 cix0wk.com
@@ -28,6 +30,8 @@
 127.0.0.1 cyq3noz.icu
 127.0.0.1 dadbj.cn
 127.0.0.1 dadde.cn
+127.0.0.1 dafdf.cn
+127.0.0.1 dalld.xyz
 127.0.0.1 dd778899dd.com
 127.0.0.1 dhkipdsc.xyz
 127.0.0.1 dojyiu8.com
@@ -38,6 +42,7 @@
 127.0.0.1 dyeperd.icu
 127.0.0.1 eghyahl.cn
 127.0.0.1 erfskhnpter.xyz
+127.0.0.1 ertgbme.com
 127.0.0.1 esgher.fun
 127.0.0.1 esgher.site
 127.0.0.1 euitx.cn
@@ -45,6 +50,7 @@
 127.0.0.1 ewfsef.com
 127.0.0.1 eyq3nog.icu
 127.0.0.1 falsarywaybung.com
+127.0.0.1 fddxbn.xyz
 127.0.0.1 fjsytjs.cn
 127.0.0.1 fjtroip.cn
 127.0.0.1 fuliwang.cc
@@ -102,6 +108,7 @@
 127.0.0.1 oifyeldk.top
 127.0.0.1 one6u.xyz
 127.0.0.1 oopej.xyz
+127.0.0.1 owlinggnomist.com
 127.0.0.1 pcvzpj.xyz
 127.0.0.1 pirxzl.xyz
 127.0.0.1 plbs9k.icu
@@ -109,6 +116,7 @@
 127.0.0.1 powedw.com
 127.0.0.1 pr88vhg.com
 127.0.0.1 pstvvb.xyz
+127.0.0.1 qezpjlp.cn
 127.0.0.1 qhx1h2g.com
 127.0.0.1 qifyeldy.top
 127.0.0.1 qqnde.xyz
@@ -132,6 +140,8 @@
 127.0.0.1 uyq3ruf.icu
 127.0.0.1 v1gyb.xyz
 127.0.0.1 vnfsbl.xyz
+127.0.0.1 vvwuqxp.icu
+127.0.0.1 vxhtxt.xyz
 127.0.0.1 wubizigeng.com
 127.0.0.1 wuye3d.com
 127.0.0.1 wyq3rum.icu
@@ -145,6 +155,7 @@
 127.0.0.1 xukou.net
 127.0.0.1 yh18h8s.com
 127.0.0.1 ymhyw6.lol
+127.0.0.1 yuifgh.fun
 127.0.0.1 zcvyzsyd.icu
 127.0.0.1 zerolcp.cn
 127.0.0.1 zexfzson.icu
