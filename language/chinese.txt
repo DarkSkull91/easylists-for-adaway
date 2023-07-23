@@ -1,3 +1,4 @@
+127.0.0.1 1267a.xyz
 127.0.0.1 1379a.xyz
 127.0.0.1 1u5gy.xyz
 127.0.0.1 3400.org
@@ -17,6 +18,7 @@
 127.0.0.1 bgdizsay.icu
 127.0.0.1 bifyeldv.top
 127.0.0.1 bkhblj.xyz
+127.0.0.1 bnfyzszm.icu
 127.0.0.1 boewgph.icu
 127.0.0.1 bridgetnbe.com
 127.0.0.1 btescs.fun
@@ -70,9 +72,11 @@
 127.0.0.1 gjipd.xyz
 127.0.0.1 gkjmev3.com
 127.0.0.1 glhdan.site
+127.0.0.1 godni.xyz
 127.0.0.1 gw1jvhs.com
 127.0.0.1 gyq3bew.icu
 127.0.0.1 hanwdsii.com
+127.0.0.1 hdfdsdaw.com
 127.0.0.1 hdpdrandpd.xyz
 127.0.0.1 hfqdipw.cn
 127.0.0.1 hgehse.site
@@ -83,9 +87,11 @@
 127.0.0.1 hohmaryt.com
 127.0.0.1 hongteng.xyz
 127.0.0.1 hpvwdkn.cn
+127.0.0.1 hqgearb.icu
 127.0.0.1 hsadeg.site
 127.0.0.1 hstbrt.xyz
 127.0.0.1 huoju.asia
+127.0.0.1 hyeqp.xyz
 127.0.0.1 hypwbv.xyz
 127.0.0.1 hzhabei.cn
 127.0.0.1 ipadf.xyz
@@ -96,6 +102,7 @@
 127.0.0.1 jhlazsot.icu
 127.0.0.1 jhzfwl.cn
 127.0.0.1 jjklrcw.com
+127.0.0.1 jklhs7u.com
 127.0.0.1 jokerlulm.com
 127.0.0.1 jpqed.xyz
 127.0.0.1 jrmrijv.icu
@@ -115,10 +122,12 @@
 127.0.0.1 lamkghx.icu
 127.0.0.1 lanver.fun
 127.0.0.1 lbnqnp.xyz
+127.0.0.1 legdeh.fun
 127.0.0.1 lgohse.fun
 127.0.0.1 lifyeldl.top
 127.0.0.1 lrlsrz.xyz
 127.0.0.1 lwide.xyz
+127.0.0.1 lycjsix.cn
 127.0.0.1 metaversemolecule.com
 127.0.0.1 mifyeldx.top
 127.0.0.1 misapopait.com
@@ -137,6 +146,7 @@
 127.0.0.1 oifyeldk.top
 127.0.0.1 one6u.xyz
 127.0.0.1 oopej.xyz
+127.0.0.1 ossfile001.com
 127.0.0.1 owlinggnomist.com
 127.0.0.1 p11q.cn
 127.0.0.1 pcvzpj.xyz
@@ -146,11 +156,13 @@
 127.0.0.1 powedw.com
 127.0.0.1 pr88vhg.com
 127.0.0.1 pstvvb.xyz
+127.0.0.1 pzjizsyf.icu
 127.0.0.1 qezpjlp.cn
 127.0.0.1 qhx1h2g.com
 127.0.0.1 qifyeldy.top
 127.0.0.1 qqnde.xyz
 127.0.0.1 qselic.top
+127.0.0.1 qwdbsjnql.com
 127.0.0.1 rabuagc.cn
 127.0.0.1 rdufuxr.icu
 127.0.0.1 relafp.xyz
@@ -166,7 +178,9 @@
 127.0.0.1 ssjuxsc.cn
 127.0.0.1 tgbevv.xyz
 127.0.0.1 tifyeldi.top
+127.0.0.1 tlprlf.xyz
 127.0.0.1 tmwbszn.icu
+127.0.0.1 toastspinner.com
 127.0.0.1 tqdctl.xyz
 127.0.0.1 tvdpebx.cn
 127.0.0.1 uejdsw.com
@@ -175,6 +189,7 @@
 127.0.0.1 v1gyb.xyz
 127.0.0.1 vhjxrj.xyz
 127.0.0.1 vnfsbl.xyz
+127.0.0.1 vrlvnz.xyz
 127.0.0.1 vvdzucs.cn
 127.0.0.1 vvwuqxp.icu
 127.0.0.1 vxhtxt.xyz
@@ -184,6 +199,7 @@
 127.0.0.1 wuye3d.com
 127.0.0.1 wyq3rum.icu
 127.0.0.1 xccadc.com
+127.0.0.1 xckj0623.com
 127.0.0.1 xcvwrj.xyz
 127.0.0.1 xeghes.fun
 127.0.0.1 xeynozl.icu
