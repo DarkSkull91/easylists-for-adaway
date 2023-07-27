@@ -19,6 +19,7 @@
 127.0.0.1 bgdizsay.icu
 127.0.0.1 bifyeldv.top
 127.0.0.1 bkhblj.xyz
+127.0.0.1 bnds8.site
 127.0.0.1 bnfyzszm.icu
 127.0.0.1 boewgph.icu
 127.0.0.1 boyvtr8.com
@@ -103,6 +104,7 @@
 127.0.0.1 hpvwdkn.cn
 127.0.0.1 hqgearb.icu
 127.0.0.1 hsadeg.site
+127.0.0.1 hslbahu.top
 127.0.0.1 hstbrt.xyz
 127.0.0.1 hubiazhi.com
 127.0.0.1 hujunhao.name
@@ -133,6 +135,7 @@
 127.0.0.1 jutwzssh.icu
 127.0.0.1 jzdgn.cn
 127.0.0.1 jzixypd.icu
+127.0.0.1 jzxpxj.xyz
 127.0.0.1 kahgjjd.com
 127.0.0.1 kasiklz.cc
 127.0.0.1 kdvmnn.com
@@ -140,6 +143,7 @@
 127.0.0.1 kklpe.xyz
 127.0.0.1 kl91ccp.com
 127.0.0.1 kljslku.com
+127.0.0.1 kodfn.xyz
 127.0.0.1 kv8899.com
 127.0.0.1 kxm1b0u.com
 127.0.0.1 kyplpw.com
@@ -154,6 +158,7 @@
 127.0.0.1 lhiefl.com
 127.0.0.1 lifyeldl.top
 127.0.0.1 llpuhx.xyz
+127.0.0.1 lmnpd.xyz
 127.0.0.1 lrlsrz.xyz
 127.0.0.1 lvrvdn.xyz
 127.0.0.1 lwide.xyz
@@ -163,6 +168,8 @@
 127.0.0.1 misapopait.com
 127.0.0.1 mlstx.cn
 127.0.0.1 moobtcnse.xyz
+127.0.0.1 mrqbuf.xyz
+127.0.0.1 mt4v4.com
 127.0.0.1 mvgucp.com
 127.0.0.1 nektonsrutate.com
 127.0.0.1 ngbthf.xyz
@@ -181,6 +188,7 @@
 127.0.0.1 ossfile001.com
 127.0.0.1 owlinggnomist.com
 127.0.0.1 p11q.cn
+127.0.0.1 parnett55.xyz
 127.0.0.1 pcqsajr.icu
 127.0.0.1 pcvzpj.xyz
 127.0.0.1 pfqwbqs.cn
@@ -200,17 +208,22 @@
 127.0.0.1 rabuagc.cn
 127.0.0.1 rdufuxr.icu
 127.0.0.1 relafp.xyz
+127.0.0.1 remfebd.cn
 127.0.0.1 rifyeldz.top
 127.0.0.1 rilwzsit.icu
+127.0.0.1 rlqoyht.icu
 127.0.0.1 ronbbf.xyz
 127.0.0.1 rtumdhdk.xyz
 127.0.0.1 rtumwzp.icu
 127.0.0.1 sa8zdui.com
 127.0.0.1 sbeaje.com
+127.0.0.1 sdchb2.com
 127.0.0.1 sfg11rr.com
 127.0.0.1 sq59.cn
+127.0.0.1 ssdfgq7.com
 127.0.0.1 ssjuxsc.cn
 127.0.0.1 tarqk5.com
+127.0.0.1 tfttbd.xyz
 127.0.0.1 tgbevv.xyz
 127.0.0.1 tifyeldi.top
 127.0.0.1 tlprlf.xyz
@@ -220,6 +233,7 @@
 127.0.0.1 tvdpebx.cn
 127.0.0.1 tvrshv.xyz
 127.0.0.1 ty8bz.com
+127.0.0.1 u1022.com
 127.0.0.1 uejdsw.com
 127.0.0.1 ulojlvmejkaem.xyz
 127.0.0.1 uyq3ruf.icu
@@ -244,6 +258,7 @@
 127.0.0.1 xiaoxiuapp.com
 127.0.0.1 xjzyhp.xyz
 127.0.0.1 xmxupz.xyz
+127.0.0.1 xn--zw0autp42d.cn
 127.0.0.1 xpcwrgy.cn
 127.0.0.1 xpicj1.cc
 127.0.0.1 xqblnei.cn
