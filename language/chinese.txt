@@ -10,6 +10,7 @@
 127.0.0.1 a9able.com
 127.0.0.1 abdluv.xyz
 127.0.0.1 abrnfctkn.xyz
+127.0.0.1 akdie.xyz
 127.0.0.1 allcp.xyz
 127.0.0.1 amerzbj.cn
 127.0.0.1 baiduisjkbvsjkl.com
@@ -57,6 +58,7 @@
 127.0.0.1 ddush.xyz
 127.0.0.1 dehaer.site
 127.0.0.1 destc8.icu
+127.0.0.1 dgayibf.icu
 127.0.0.1 dghhot.com
 127.0.0.1 dhjrvj.xyz
 127.0.0.1 dhkipdsc.xyz
@@ -100,6 +102,7 @@
 127.0.0.1 guke.name
 127.0.0.1 gw1jvhs.com
 127.0.0.1 gyq3bew.icu
+127.0.0.1 gyutmrp.com
 127.0.0.1 hanwdsii.com
 127.0.0.1 hdfdsdaw.com
 127.0.0.1 hdpdrandpd.xyz
@@ -112,6 +115,7 @@
 127.0.0.1 hiqua.xyz
 127.0.0.1 hkkeafj.cn
 127.0.0.1 hlnr9q.icu
+127.0.0.1 hnfnjn.xyz
 127.0.0.1 hohmaryt.com
 127.0.0.1 hongteng.xyz
 127.0.0.1 hpvwdkn.cn
@@ -125,6 +129,7 @@
 127.0.0.1 hyeqp.xyz
 127.0.0.1 hypwbv.xyz
 127.0.0.1 hzhabei.cn
+127.0.0.1 ijgbuj.xyz
 127.0.0.1 ilade.xyz
 127.0.0.1 ipadf.xyz
 127.0.0.1 iplm.cc
@@ -149,6 +154,7 @@
 127.0.0.1 jrmrijv.icu
 127.0.0.1 jslbaha.top
 127.0.0.1 jszavs1.com
+127.0.0.1 jtbunh.xyz
 127.0.0.1 jujcjz.xyz
 127.0.0.1 jutwzssh.icu
 127.0.0.1 jvjlkih.com
@@ -223,6 +229,7 @@
 127.0.0.1 pirxzl.xyz
 127.0.0.1 plbs9k.icu
 127.0.0.1 pmxalz.xyz
+127.0.0.1 poqiod.com
 127.0.0.1 powedw.com
 127.0.0.1 pr88vhg.com
 127.0.0.1 pstvvb.xyz
@@ -282,6 +289,7 @@
 127.0.0.1 v1gyb.xyz
 127.0.0.1 vhjxrj.xyz
 127.0.0.1 vnfsbl.xyz
+127.0.0.1 vpsgu.cn
 127.0.0.1 vrlvnz.xyz
 127.0.0.1 vrr.name
 127.0.0.1 vvdzucs.cn
@@ -311,6 +319,7 @@
 127.0.0.1 yh18h8s.com
 127.0.0.1 yhhnjg.com
 127.0.0.1 ymhyw6.lol
+127.0.0.1 yuanxiang19.fun
 127.0.0.1 yuifgh.fun
 127.0.0.1 yyuivw6.com
 127.0.0.1 zcvyzsyd.icu
