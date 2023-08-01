@@ -2,6 +2,7 @@
 127.0.0.1 1379a.xyz
 127.0.0.1 1u5gy.xyz
 127.0.0.1 3400.org
+127.0.0.1 39mydp.xyz
 127.0.0.1 4asfgyx.com
 127.0.0.1 52acc.cn
 127.0.0.1 52kuwang.cn
@@ -18,6 +19,7 @@
 127.0.0.1 baitaiz.com
 127.0.0.1 bavde1.icu
 127.0.0.1 bbges.xyz
+127.0.0.1 bcejk.xyz
 127.0.0.1 bdates.fun
 127.0.0.1 berylnbb.com
 127.0.0.1 betcss.site
@@ -69,6 +71,7 @@
 127.0.0.1 dstbunkfw.xyz
 127.0.0.1 dyeperd.icu
 127.0.0.1 eamqbaqzaewwq.top
+127.0.0.1 eers0cy.com
 127.0.0.1 eghyahl.cn
 127.0.0.1 ejolul.xyz
 127.0.0.1 ekdky.cn
@@ -115,17 +118,20 @@
 127.0.0.1 hiqua.xyz
 127.0.0.1 hkkeafj.cn
 127.0.0.1 hlnr9q.icu
+127.0.0.1 hmjhnkas.com
 127.0.0.1 hnfnjn.xyz
 127.0.0.1 hohmaryt.com
 127.0.0.1 hongteng.xyz
 127.0.0.1 hpvwdkn.cn
 127.0.0.1 hqgearb.icu
+127.0.0.1 hqzcths.cn
 127.0.0.1 hsadeg.site
 127.0.0.1 hslbahu.top
 127.0.0.1 hstbrt.xyz
 127.0.0.1 hubiazhi.com
 127.0.0.1 hujunhao.name
 127.0.0.1 huoju.asia
+127.0.0.1 hxhohd.xyz
 127.0.0.1 hyeqp.xyz
 127.0.0.1 hypwbv.xyz
 127.0.0.1 hzhabei.cn
@@ -170,6 +176,7 @@
 127.0.0.1 kljslku.com
 127.0.0.1 knjmhmk.com
 127.0.0.1 kodfn.xyz
+127.0.0.1 kslbahd.top
 127.0.0.1 kv8899.com
 127.0.0.1 kxm1b0u.com
 127.0.0.1 kyplpw.com
@@ -188,6 +195,7 @@
 127.0.0.1 llpuhx.xyz
 127.0.0.1 lmnpd.xyz
 127.0.0.1 lrlsrz.xyz
+127.0.0.1 lskmipb.icu
 127.0.0.1 lvrvdn.xyz
 127.0.0.1 lwide.xyz
 127.0.0.1 lycjsix.cn
@@ -200,6 +208,7 @@
 127.0.0.1 mrqbuf.xyz
 127.0.0.1 mt4v4.com
 127.0.0.1 mvgucp.com
+127.0.0.1 ncgqmzm.cn
 127.0.0.1 nektonsrutate.com
 127.0.0.1 ngbthf.xyz
 127.0.0.1 nhjkm.com
@@ -233,14 +242,17 @@
 127.0.0.1 powedw.com
 127.0.0.1 pr88vhg.com
 127.0.0.1 pstvvb.xyz
+127.0.0.1 puy2.cn
 127.0.0.1 pzjizsyf.icu
 127.0.0.1 qezpjlp.cn
 127.0.0.1 qhx1h2g.com
 127.0.0.1 qifyeldy.top
+127.0.0.1 qpztub.xyz
 127.0.0.1 qqnde.xyz
 127.0.0.1 qselic.top
 127.0.0.1 qwdbsjnql.com
 127.0.0.1 rabuagc.cn
+127.0.0.1 rddsjx.xyz
 127.0.0.1 rdufuxr.icu
 127.0.0.1 relafp.xyz
 127.0.0.1 remfebd.cn
@@ -266,6 +278,7 @@
 127.0.0.1 tftran.shop
 127.0.0.1 tfttbd.xyz
 127.0.0.1 tgbevv.xyz
+127.0.0.1 thesac2.top
 127.0.0.1 tifyeldi.top
 127.0.0.1 tlprlf.xyz
 127.0.0.1 tmwbszn.icu
