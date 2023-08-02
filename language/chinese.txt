@@ -79,6 +79,7 @@
 127.0.0.1 epoid.xyz
 127.0.0.1 erfskhnpter.xyz
 127.0.0.1 ertgbme.com
+127.0.0.1 erty0yx.com
 127.0.0.1 esgher.fun
 127.0.0.1 esgher.site
 127.0.0.1 euitx.cn
@@ -93,6 +94,7 @@
 127.0.0.1 fjsytjs.cn
 127.0.0.1 fjtroip.cn
 127.0.0.1 fuliwang.cc
+127.0.0.1 fvxlhn.xyz
 127.0.0.1 fwepd.xyz
 127.0.0.1 fwzvlp.xyz
 127.0.0.1 ggdrfh5.com
@@ -109,6 +111,7 @@
 127.0.0.1 hanwdsii.com
 127.0.0.1 hdfdsdaw.com
 127.0.0.1 hdpdrandpd.xyz
+127.0.0.1 hegk01a.top
 127.0.0.1 hegk03a.top
 127.0.0.1 hfqdipw.cn
 127.0.0.1 hgehse.site
@@ -189,6 +192,7 @@
 127.0.0.1 legdeh.fun
 127.0.0.1 lgohse.fun
 127.0.0.1 lhiefl.com
+127.0.0.1 lhotajl.icu
 127.0.0.1 lifyeldl.top
 127.0.0.1 liitwrz.icu
 127.0.0.1 lkmhn.com
@@ -232,6 +236,7 @@
 127.0.0.1 owlinggnomist.com
 127.0.0.1 p11q.cn
 127.0.0.1 parnett55.xyz
+127.0.0.1 pbtsjh.xyz
 127.0.0.1 pcqsajr.icu
 127.0.0.1 pcvzpj.xyz
 127.0.0.1 pfqwbqs.cn
@@ -274,6 +279,7 @@
 127.0.0.1 ssnnn.net
 127.0.0.1 statisfile.com
 127.0.0.1 svarub.xyz
+127.0.0.1 svvev3.com
 127.0.0.1 tarqk5.com
 127.0.0.1 tftran.shop
 127.0.0.1 tfttbd.xyz
@@ -335,6 +341,7 @@
 127.0.0.1 yuanxiang19.fun
 127.0.0.1 yuifgh.fun
 127.0.0.1 yyuivw6.com
+127.0.0.1 yzllux.xyz
 127.0.0.1 zcvyzsyd.icu
 127.0.0.1 zddpnf.xyz
 127.0.0.1 zerolcp.cn
