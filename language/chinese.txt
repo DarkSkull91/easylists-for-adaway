@@ -51,6 +51,7 @@
 127.0.0.1 csedasdme.xyz
 127.0.0.1 cslbahf.top
 127.0.0.1 cuioxbqi.com
+127.0.0.1 cxsh.cn.com
 127.0.0.1 cyq3noz.icu
 127.0.0.1 dadbj.cn
 127.0.0.1 dadde.cn
@@ -63,6 +64,7 @@
 127.0.0.1 dehaer.site
 127.0.0.1 destc8.icu
 127.0.0.1 dffrahax.com
+127.0.0.1 dfgymtx.icu
 127.0.0.1 dgayibf.icu
 127.0.0.1 dghhot.com
 127.0.0.1 dhjrvj.xyz
@@ -185,6 +187,7 @@
 127.0.0.1 kljslku.com
 127.0.0.1 knjmhmk.com
 127.0.0.1 kodfn.xyz
+127.0.0.1 kqubxdb.cn
 127.0.0.1 kslbahd.top
 127.0.0.1 kv8899.com
 127.0.0.1 kxm1b0u.com
@@ -243,6 +246,7 @@
 127.0.0.1 ossfile001.com
 127.0.0.1 owlinggnomist.com
 127.0.0.1 p11q.cn
+127.0.0.1 p52q.cn
 127.0.0.1 parnett55.xyz
 127.0.0.1 pbtsjh.xyz
 127.0.0.1 pcqsajr.icu
@@ -262,6 +266,7 @@
 127.0.0.1 qifyeldy.top
 127.0.0.1 qpztub.xyz
 127.0.0.1 qqnde.xyz
+127.0.0.1 qrirud.xyz
 127.0.0.1 qselic.top
 127.0.0.1 qwdbsjnql.com
 127.0.0.1 rabuagc.cn
@@ -269,6 +274,7 @@
 127.0.0.1 rdufuxr.icu
 127.0.0.1 relafp.xyz
 127.0.0.1 remfebd.cn
+127.0.0.1 rhesed.site
 127.0.0.1 rifyeldz.top
 127.0.0.1 rilwzsit.icu
 127.0.0.1 rjzqtz.xyz
@@ -279,12 +285,14 @@
 127.0.0.1 rtumwzp.icu
 127.0.0.1 sa8zdui.com
 127.0.0.1 sacfasv.com
+127.0.0.1 sacre.cn
 127.0.0.1 sbeaje.com
 127.0.0.1 sdchb2.com
 127.0.0.1 sfg11rr.com
 127.0.0.1 shulsbs.cn
 127.0.0.1 sq59.cn
 127.0.0.1 ssdfgq7.com
+127.0.0.1 ssdtour.com
 127.0.0.1 ssjuxsc.cn
 127.0.0.1 sslbahb.top
 127.0.0.1 ssnnn.net
@@ -329,6 +337,7 @@
 127.0.0.1 vxhtxt.xyz
 127.0.0.1 wddsva0.com
 127.0.0.1 wnzle.com
+127.0.0.1 wsdfame.com
 127.0.0.1 wubizigeng.com
 127.0.0.1 wuye3d.com
 127.0.0.1 wyq3rum.icu
@@ -340,6 +349,7 @@
 127.0.0.1 xeynozl.icu
 127.0.0.1 xiaoxiuapp.com
 127.0.0.1 xiaoy.name
+127.0.0.1 xixrdn.xyz
 127.0.0.1 xjzyhp.xyz
 127.0.0.1 xlvqhx.xyz
 127.0.0.1 xmxupz.xyz
