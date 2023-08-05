@@ -277,7 +277,6 @@
 127.0.0.1 ad.hutor.ru
 127.0.0.1 ad.liveburst.com
 127.0.0.1 ad.luxnet.ua
-127.0.0.1 ad.moe.video
 127.0.0.1 ad.starlightmedia.ua
 127.0.0.1 adblockmetrics.ru
 127.0.0.1 adfun.ru
