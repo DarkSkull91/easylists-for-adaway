@@ -29,6 +29,7 @@
 127.0.0.1 bifyeldv.top
 127.0.0.1 bkhblj.xyz
 127.0.0.1 bkjlf58.com
+127.0.0.1 bnds4.site
 127.0.0.1 bnds8.site
 127.0.0.1 bnfyzszm.icu
 127.0.0.1 boewgph.icu
@@ -75,6 +76,7 @@
 127.0.0.1 dosre12.xyz
 127.0.0.1 dstbekdf.xyz
 127.0.0.1 dstbunkfw.xyz
+127.0.0.1 dwfjtz.xyz
 127.0.0.1 dyeperd.icu
 127.0.0.1 dzkwj0y.xyz
 127.0.0.1 eamqbaqzaewwq.top
@@ -96,8 +98,10 @@
 127.0.0.1 eyq3nog.icu
 127.0.0.1 falsarywaybung.com
 127.0.0.1 fantuan.name
+127.0.0.1 fcbqxt.xyz
 127.0.0.1 fddxbn.xyz
 127.0.0.1 feiln.xyz
+127.0.0.1 fengyukun03.cn
 127.0.0.1 fhglcpf.icu
 127.0.0.1 fjsytjs.cn
 127.0.0.1 fjtroip.cn
@@ -119,6 +123,7 @@
 127.0.0.1 gyutmrp.com
 127.0.0.1 hanwdsii.com
 127.0.0.1 hasgde.site
+127.0.0.1 hbqabbg.cn
 127.0.0.1 hdfdsdaw.com
 127.0.0.1 hdpdrandpd.xyz
 127.0.0.1 hegk01a.top
@@ -171,6 +176,7 @@
 127.0.0.1 jochenanabata.guru
 127.0.0.1 jokerlulm.com
 127.0.0.1 jpqed.xyz
+127.0.0.1 jpush0b.xyz
 127.0.0.1 jpvrbt.xyz
 127.0.0.1 jrmrijv.icu
 127.0.0.1 jslbaha.top
@@ -180,6 +186,7 @@
 127.0.0.1 jutwzssh.icu
 127.0.0.1 jvjlkih.com
 127.0.0.1 jzdgn.cn
+127.0.0.1 jzdwl4.cn
 127.0.0.1 jzixypd.icu
 127.0.0.1 jzxpxj.xyz
 127.0.0.1 kahgjjd.com
@@ -189,6 +196,7 @@
 127.0.0.1 kklpe.xyz
 127.0.0.1 kl91ccp.com
 127.0.0.1 kljslku.com
+127.0.0.1 klufjdo.com
 127.0.0.1 knjmhmk.com
 127.0.0.1 kodfn.xyz
 127.0.0.1 kqubxdb.cn
@@ -246,6 +254,7 @@
 127.0.0.1 nunxhv.com
 127.0.0.1 nxhwvt.xyz
 127.0.0.1 oifyeldk.top
+127.0.0.1 oijmds.com
 127.0.0.1 oiunga.com
 127.0.0.1 okmhmkjnm.com
 127.0.0.1 one6u.xyz
@@ -278,6 +287,7 @@
 127.0.0.1 qselic.top
 127.0.0.1 qwdbsjnql.com
 127.0.0.1 rabuagc.cn
+127.0.0.1 rdbousn.cn
 127.0.0.1 rddsjx.xyz
 127.0.0.1 rdufuxr.icu
 127.0.0.1 relafp.xyz
@@ -336,6 +346,7 @@
 127.0.0.1 uxtruz.xyz
 127.0.0.1 uyq3ruf.icu
 127.0.0.1 v1gyb.xyz
+127.0.0.1 vcydyzd.icu
 127.0.0.1 vhjxrj.xyz
 127.0.0.1 vmdlxj.xyz
 127.0.0.1 vnfsbl.xyz

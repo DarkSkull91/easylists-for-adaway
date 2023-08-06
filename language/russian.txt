@@ -285,7 +285,6 @@
 127.0.0.1 adsyst.ru
 127.0.0.1 adtraff.ru
 127.0.0.1 adv-first.ru
-127.0.0.1 adv.vz.ru
 127.0.0.1 advweb.ru
 127.0.0.1 aff.mediarotate.com
 127.0.0.1 afterview.ru
