@@ -1,4 +1,5 @@
 127.0.0.1 1267a.xyz
+127.0.0.1 1378a.xyz
 127.0.0.1 1379a.xyz
 127.0.0.1 1u5gy.xyz
 127.0.0.1 3400.org
@@ -44,6 +45,7 @@
 127.0.0.1 c9r05q.com
 127.0.0.1 caider.fun
 127.0.0.1 canser1.top
+127.0.0.1 canser5.top
 127.0.0.1 ccnim.xyz
 127.0.0.1 cdmjur.xyz
 127.0.0.1 chiese.site
@@ -66,9 +68,11 @@
 127.0.0.1 dehaer.site
 127.0.0.1 destc8.icu
 127.0.0.1 dffrahax.com
+127.0.0.1 dfgpifa.com
 127.0.0.1 dfgymtx.icu
 127.0.0.1 dgayibf.icu
 127.0.0.1 dghhot.com
+127.0.0.1 dghkpp.xyz
 127.0.0.1 dhjrvj.xyz
 127.0.0.1 dhkipdsc.xyz
 127.0.0.1 dojyiu8.com
@@ -82,6 +86,7 @@
 127.0.0.1 eamqbaqzaewwq.top
 127.0.0.1 eers0cy.com
 127.0.0.1 eghyahl.cn
+127.0.0.1 eheb8.cn
 127.0.0.1 ejolul.xyz
 127.0.0.1 ekdky.cn
 127.0.0.1 enhad.xyz
@@ -105,6 +110,7 @@
 127.0.0.1 fhglcpf.icu
 127.0.0.1 fjsytjs.cn
 127.0.0.1 fjtroip.cn
+127.0.0.1 foirkrt.icu
 127.0.0.1 fszpzd.xyz
 127.0.0.1 fuliwang.cc
 127.0.0.1 fvxlhn.xyz
@@ -134,6 +140,7 @@
 127.0.0.1 hghjks2.com
 127.0.0.1 hikykhz.icu
 127.0.0.1 hiqua.xyz
+127.0.0.1 hjgkr0g.xyz
 127.0.0.1 hjkiguy.com
 127.0.0.1 hkkeafj.cn
 127.0.0.1 hlnr9q.icu
@@ -232,6 +239,7 @@
 127.0.0.1 misapopait.com
 127.0.0.1 mlstx.cn
 127.0.0.1 mmead.xyz
+127.0.0.1 mnhknds.com
 127.0.0.1 moobtcnse.xyz
 127.0.0.1 mrqbuf.xyz
 127.0.0.1 mt4v4.com
@@ -244,6 +252,7 @@
 127.0.0.1 nieae.xyz
 127.0.0.1 nifyeldc.top
 127.0.0.1 njogejt.icu
+127.0.0.1 nmdotj.xyz
 127.0.0.1 nmkghh.com
 127.0.0.1 nnfyxd.xyz
 127.0.0.1 nnqwe.xyz
@@ -381,6 +390,7 @@
 127.0.0.1 xtbzff.xyz
 127.0.0.1 xukang09.cn
 127.0.0.1 xukou.net
+127.0.0.1 yegziyf.cn
 127.0.0.1 yh18h8s.com
 127.0.0.1 yhhnjg.com
 127.0.0.1 yjnhndt.com
@@ -5081,6 +5091,7 @@
 127.0.0.1 market.duowan.com
 127.0.0.1 mini.hao123.com
 127.0.0.1 miniye.xjts.cn
+127.0.0.1 mixer.sina.cn
 127.0.0.1 mm.nwell.net
 127.0.0.1 money.qz828.com
 127.0.0.1 nirentang.com
