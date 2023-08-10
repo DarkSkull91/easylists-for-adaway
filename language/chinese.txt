@@ -12,11 +12,14 @@
 127.0.0.1 89mtdab.xyz
 127.0.0.1 a8age.com
 127.0.0.1 a9able.com
+127.0.0.1 aaenv48847h.com
 127.0.0.1 abdluv.xyz
 127.0.0.1 abrnfctkn.xyz
 127.0.0.1 akdie.xyz
 127.0.0.1 allcp.xyz
 127.0.0.1 amerzbj.cn
+127.0.0.1 aqvwn18102h.com
+127.0.0.1 b4g7k9d2.com
 127.0.0.1 baiduisjkbvsjkl.com
 127.0.0.1 baiduvjsbvjknlsvsv.com
 127.0.0.1 baitaiz.com
@@ -81,12 +84,14 @@
 127.0.0.1 dojyiu8.com
 127.0.0.1 donchen501.cn
 127.0.0.1 dosre12.xyz
+127.0.0.1 dqjojx.xyz
 127.0.0.1 dstbekdf.xyz
 127.0.0.1 dstbunkfw.xyz
 127.0.0.1 dwfjtz.xyz
 127.0.0.1 dyeperd.icu
 127.0.0.1 dzkwj0y.xyz
 127.0.0.1 eamqbaqzaewwq.top
+127.0.0.1 ebscb0l.xyz
 127.0.0.1 eers0cy.com
 127.0.0.1 eghyahl.cn
 127.0.0.1 eheb8.cn
@@ -132,6 +137,7 @@
 127.0.0.1 gyq3bew.icu
 127.0.0.1 gyutmrp.com
 127.0.0.1 hacde3.icu
+127.0.0.1 haffo70.com
 127.0.0.1 hanwdsii.com
 127.0.0.1 hasgde.site
 127.0.0.1 hbqabbg.cn
@@ -165,6 +171,7 @@
 127.0.0.1 hujunhao.name
 127.0.0.1 huoju.asia
 127.0.0.1 hxhohd.xyz
+127.0.0.1 hxinitv.icu
 127.0.0.1 hyeqp.xyz
 127.0.0.1 hypwbv.xyz
 127.0.0.1 hzhabei.cn
@@ -247,6 +254,7 @@
 127.0.0.1 metaversemolecule.com
 127.0.0.1 mifyeldx.top
 127.0.0.1 misapopait.com
+127.0.0.1 mkjnba.com
 127.0.0.1 mkjnbg.com
 127.0.0.1 mkjnha.com
 127.0.0.1 mlstx.cn
@@ -351,12 +359,14 @@
 127.0.0.1 thesac2.top
 127.0.0.1 thesac7.top
 127.0.0.1 tifyeldi.top
+127.0.0.1 tknkfd.xyz
 127.0.0.1 tlprlf.xyz
 127.0.0.1 tmwbszn.icu
 127.0.0.1 toastspinner.com
 127.0.0.1 tptp002.cfd
 127.0.0.1 tpvuxt.xyz
 127.0.0.1 tqdctl.xyz
+127.0.0.1 tseda1.icu
 127.0.0.1 tseda6.icu
 127.0.0.1 ttykabh.icu
 127.0.0.1 tushwjp.icu
@@ -376,6 +386,7 @@
 127.0.0.1 vcydyzd.icu
 127.0.0.1 vghnnh.xyz
 127.0.0.1 vhjxrj.xyz
+127.0.0.1 vlgkotr.cn
 127.0.0.1 vmdlxj.xyz
 127.0.0.1 vnfsbl.xyz
 127.0.0.1 vpsgu.cn
@@ -405,6 +416,7 @@
 127.0.0.1 xlvqhx.xyz
 127.0.0.1 xmawwbz.icu
 127.0.0.1 xmxupz.xyz
+127.0.0.1 xn--jvrp4x1zyfta.net
 127.0.0.1 xn--zw0autp42d.cn
 127.0.0.1 xpcwrgy.cn
 127.0.0.1 xpicj1.cc
@@ -413,6 +425,7 @@
 127.0.0.1 xukang09.cn
 127.0.0.1 xukou.net
 127.0.0.1 yegziyf.cn
+127.0.0.1 ygzqlnt.cn
 127.0.0.1 yh18h8s.com
 127.0.0.1 yhhnjg.com
 127.0.0.1 yjnhkd.com
