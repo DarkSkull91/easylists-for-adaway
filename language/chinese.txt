@@ -23,6 +23,7 @@
 127.0.0.1 aqvwn18102h.com
 127.0.0.1 arpg2.com
 127.0.0.1 b4g7k9d2.com
+127.0.0.1 bai128.xyz
 127.0.0.1 baiduisjkbvsjkl.com
 127.0.0.1 baiduvjsbvjknlsvsv.com
 127.0.0.1 baitaiz.com
@@ -32,6 +33,7 @@
 127.0.0.1 bcejk.xyz
 127.0.0.1 bdates.fun
 127.0.0.1 belindanbd.com
+127.0.0.1 berjzj.xyz
 127.0.0.1 berylnbb.com
 127.0.0.1 betcss.site
 127.0.0.1 bftqdd.xyz
@@ -40,6 +42,7 @@
 127.0.0.1 bifyeldv.top
 127.0.0.1 bkhblj.xyz
 127.0.0.1 bkjlf58.com
+127.0.0.1 bnds3.site
 127.0.0.1 bnds4.site
 127.0.0.1 bnds8.site
 127.0.0.1 bnfyzszm.icu
@@ -81,6 +84,7 @@
 127.0.0.1 dd778899dd.com
 127.0.0.1 ddush.xyz
 127.0.0.1 dehaer.site
+127.0.0.1 derew6xbsc.xyz
 127.0.0.1 destc8.icu
 127.0.0.1 dffrahax.com
 127.0.0.1 dfgpifa.com
@@ -251,8 +255,10 @@
 127.0.0.1 liitwrz.icu
 127.0.0.1 likdie.com
 127.0.0.1 lkmhn.com
+127.0.0.1 lknnbd.xyz
 127.0.0.1 llpuhx.xyz
 127.0.0.1 lmnpd.xyz
+127.0.0.1 lokindt.com
 127.0.0.1 lokngd.com
 127.0.0.1 lqjinx.xyz
 127.0.0.1 lrlsrz.xyz
@@ -308,6 +314,7 @@
 127.0.0.1 pbtsjh.xyz
 127.0.0.1 pcqsajr.icu
 127.0.0.1 pcvzpj.xyz
+127.0.0.1 pfhj89w.com
 127.0.0.1 pfqwbqs.cn
 127.0.0.1 pirxzl.xyz
 127.0.0.1 pjsbuhl.icu
@@ -421,6 +428,7 @@
 127.0.0.1 xcvwrj.xyz
 127.0.0.1 xeghes.fun
 127.0.0.1 xeynozl.icu
+127.0.0.1 xhiit0n.xyz
 127.0.0.1 xiaoxiuapp.com
 127.0.0.1 xiaoy.name
 127.0.0.1 xixrdn.xyz
@@ -431,6 +439,7 @@
 127.0.0.1 xmxupz.xyz
 127.0.0.1 xn--jvrp4x1zyfta.net
 127.0.0.1 xn--zw0autp42d.cn
+127.0.0.1 xopxptn.cn
 127.0.0.1 xpcwrgy.cn
 127.0.0.1 xpicj1.cc
 127.0.0.1 xqblnei.cn
@@ -457,11 +466,18 @@
 127.0.0.1 zfcdirf.icu
 127.0.0.1 zfteiv.xyz
 127.0.0.1 zfvltd.xyz
+127.0.0.1 zggrxf.life
 127.0.0.1 zghsfh.xyz
 127.0.0.1 zifyeldq.top
 127.0.0.1 ziravd.xyz
 127.0.0.1 znyjmbh.icu
+127.0.0.1 36mghtd.xyz
+127.0.0.1 egipsbvlgn.xyz
+127.0.0.1 lingsiqiwu.com
+127.0.0.1 baidudvbjkbssjvsvv.com
+127.0.0.1 duyvtanrheje.xyz
 127.0.0.1 zonyff.xyz
+127.0.0.1 zvasuzb.icu
 127.0.0.1 zxrcfw.com
 127.0.0.1 zypzzv.xyz
 127.0.0.1 002777.xyz

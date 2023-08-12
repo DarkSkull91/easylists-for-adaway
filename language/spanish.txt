@@ -1,6 +1,7 @@
 127.0.0.1 pahtfi.tech
 127.0.0.1 palibzh.tech
 127.0.0.1 positive-ads.com
+127.0.0.1 cdnpublicidad.milenio.com
 127.0.0.1 news.grm.cl
 127.0.0.1 pub.tappx.com
 127.0.0.1 publyads.jstag.space
