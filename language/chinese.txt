@@ -2,7 +2,9 @@
 127.0.0.1 1378a.xyz
 127.0.0.1 1379a.xyz
 127.0.0.1 1u5gy.xyz
+127.0.0.1 23dhj4q.com
 127.0.0.1 3400.org
+127.0.0.1 36mghtd.xyz
 127.0.0.1 39mydp.xyz
 127.0.0.1 4asfgyx.com
 127.0.0.1 52acc.cn
@@ -24,6 +26,7 @@
 127.0.0.1 arpg2.com
 127.0.0.1 b4g7k9d2.com
 127.0.0.1 bai128.xyz
+127.0.0.1 baidudvbjkbssjvsvv.com
 127.0.0.1 baiduisjkbvsjkl.com
 127.0.0.1 baiduvjsbvjknlsvsv.com
 127.0.0.1 baitaiz.com
@@ -100,6 +103,7 @@
 127.0.0.1 dqjojx.xyz
 127.0.0.1 dstbekdf.xyz
 127.0.0.1 dstbunkfw.xyz
+127.0.0.1 duyvtanrheje.xyz
 127.0.0.1 dwfjtz.xyz
 127.0.0.1 dyeperd.icu
 127.0.0.1 dzkwj0y.xyz
@@ -107,6 +111,7 @@
 127.0.0.1 ebscb0l.xyz
 127.0.0.1 eers0cy.com
 127.0.0.1 eghyahl.cn
+127.0.0.1 egipsbvlgn.xyz
 127.0.0.1 eheb8.cn
 127.0.0.1 ejolul.xyz
 127.0.0.1 ekdky.cn
@@ -175,6 +180,7 @@
 127.0.0.1 hohmaryt.com
 127.0.0.1 hongteng.xyz
 127.0.0.1 hpvwdkn.cn
+127.0.0.1 hqdlhgx.cn
 127.0.0.1 hqgearb.icu
 127.0.0.1 hqzcths.cn
 127.0.0.1 hsadeg.site
@@ -199,6 +205,7 @@
 127.0.0.1 janwzsqi.icu
 127.0.0.1 jdcnwd.com
 127.0.0.1 jh16csf.com
+127.0.0.1 jhkggrr.icu
 127.0.0.1 jhlazsot.icu
 127.0.0.1 jhzfwl.cn
 127.0.0.1 jjade.xyz
@@ -206,9 +213,11 @@
 127.0.0.1 jjztrz.xyz
 127.0.0.1 jklhs7u.com
 127.0.0.1 jknnjk.com
+127.0.0.1 jmbluyxkl.xyz
 127.0.0.1 jnhgm.com
 127.0.0.1 jochenanabata.guru
 127.0.0.1 jokerlulm.com
+127.0.0.1 jothvz.xyz
 127.0.0.1 jpqed.xyz
 127.0.0.1 jpush0b.xyz
 127.0.0.1 jpvrbt.xyz
@@ -254,7 +263,9 @@
 127.0.0.1 lifyeldl.top
 127.0.0.1 liitwrz.icu
 127.0.0.1 likdie.com
+127.0.0.1 lingsiqiwu.com
 127.0.0.1 lkmhn.com
+127.0.0.1 lknhrnd.com
 127.0.0.1 lknnbd.xyz
 127.0.0.1 llpuhx.xyz
 127.0.0.1 lmnpd.xyz
@@ -268,6 +279,7 @@
 127.0.0.1 lwide.xyz
 127.0.0.1 lycjsix.cn
 127.0.0.1 metaversemolecule.com
+127.0.0.1 mh616.org
 127.0.0.1 mifyeldx.top
 127.0.0.1 misapopait.com
 127.0.0.1 mkjnba.com
@@ -375,6 +387,7 @@
 127.0.0.1 tfttbd.xyz
 127.0.0.1 tgbevv.xyz
 127.0.0.1 thesac2.top
+127.0.0.1 thesac3.top
 127.0.0.1 thesac7.top
 127.0.0.1 tifyeldi.top
 127.0.0.1 tknkfd.xyz
@@ -388,6 +401,7 @@
 127.0.0.1 tseda6.icu
 127.0.0.1 tslbahi.top
 127.0.0.1 ttykabh.icu
+127.0.0.1 tuplzt.xyz
 127.0.0.1 tushwjp.icu
 127.0.0.1 tuwaqtjcood.com
 127.0.0.1 tvdpebx.cn
@@ -398,7 +412,9 @@
 127.0.0.1 ujnkn.com
 127.0.0.1 ulojlvmejkaem.xyz
 127.0.0.1 unjld.com
+127.0.0.1 uslbaht.top
 127.0.0.1 uwgnpkd.cn
+127.0.0.1 uxmwh0f.xyz
 127.0.0.1 uxtruz.xyz
 127.0.0.1 uyq3ruf.icu
 127.0.0.1 v1gyb.xyz
@@ -471,11 +487,6 @@
 127.0.0.1 zifyeldq.top
 127.0.0.1 ziravd.xyz
 127.0.0.1 znyjmbh.icu
-127.0.0.1 36mghtd.xyz
-127.0.0.1 egipsbvlgn.xyz
-127.0.0.1 lingsiqiwu.com
-127.0.0.1 baidudvbjkbssjvsvv.com
-127.0.0.1 duyvtanrheje.xyz
 127.0.0.1 zonyff.xyz
 127.0.0.1 zvasuzb.icu
 127.0.0.1 zxrcfw.com
