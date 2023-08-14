@@ -91,6 +91,7 @@
 127.0.0.1 destc8.icu
 127.0.0.1 dffrahax.com
 127.0.0.1 dfgpifa.com
+127.0.0.1 dfgwer.com
 127.0.0.1 dfgymtx.icu
 127.0.0.1 dgayibf.icu
 127.0.0.1 dghhot.com
@@ -228,6 +229,7 @@
 127.0.0.1 jujcjz.xyz
 127.0.0.1 jutwzssh.icu
 127.0.0.1 jvjlkih.com
+127.0.0.1 jyvith.xyz
 127.0.0.1 jzdgn.cn
 127.0.0.1 jzdwl4.cn
 127.0.0.1 jzixypd.icu
@@ -242,6 +244,7 @@
 127.0.0.1 klufjdo.com
 127.0.0.1 knjmhmk.com
 127.0.0.1 kodfn.xyz
+127.0.0.1 koljnda.com
 127.0.0.1 kqubxdb.cn
 127.0.0.1 kslbahd.top
 127.0.0.1 kv8899.com
@@ -256,6 +259,7 @@
 127.0.0.1 lanver.fun
 127.0.0.1 lbnqnp.xyz
 127.0.0.1 legdeh.fun
+127.0.0.1 legopq.site
 127.0.0.1 lgohse.fun
 127.0.0.1 lgoseh.fun
 127.0.0.1 lhiefl.com
@@ -264,6 +268,7 @@
 127.0.0.1 liitwrz.icu
 127.0.0.1 likdie.com
 127.0.0.1 lingsiqiwu.com
+127.0.0.1 liugaohao.com
 127.0.0.1 lkmhn.com
 127.0.0.1 lknhrnd.com
 127.0.0.1 lknnbd.xyz
@@ -336,9 +341,11 @@
 127.0.0.1 powedw.com
 127.0.0.1 pr88vhg.com
 127.0.0.1 pstvvb.xyz
+127.0.0.1 ptmabek.cn
 127.0.0.1 puy2.cn
 127.0.0.1 pzjizsyf.icu
 127.0.0.1 qezpjlp.cn
+127.0.0.1 qhjm600.com
 127.0.0.1 qhx1h2g.com
 127.0.0.1 qifyeldy.top
 127.0.0.1 qpztub.xyz
@@ -360,6 +367,7 @@
 127.0.0.1 rlqoyht.icu
 127.0.0.1 ronbbf.xyz
 127.0.0.1 rpyor0k.xyz
+127.0.0.1 rssxsjh.icu
 127.0.0.1 rtborp.xyz
 127.0.0.1 rtumdhdk.xyz
 127.0.0.1 rtumwzp.icu
@@ -382,6 +390,7 @@
 127.0.0.1 svarub.xyz
 127.0.0.1 svvev3.com
 127.0.0.1 tarqk5.com
+127.0.0.1 termvb.xyz
 127.0.0.1 tfdmzsgy.icu
 127.0.0.1 tftran.shop
 127.0.0.1 tfttbd.xyz
@@ -462,6 +471,7 @@
 127.0.0.1 xtbzff.xyz
 127.0.0.1 xukang09.cn
 127.0.0.1 xukou.net
+127.0.0.1 yac5t.cn
 127.0.0.1 yegziyf.cn
 127.0.0.1 ygzqlnt.cn
 127.0.0.1 yh18h8s.com
