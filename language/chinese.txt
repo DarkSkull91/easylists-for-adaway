@@ -4,6 +4,7 @@
 127.0.0.1 1u5gy.xyz
 127.0.0.1 23dhj4q.com
 127.0.0.1 3400.org
+127.0.0.1 35vc.com
 127.0.0.1 36mghtd.xyz
 127.0.0.1 39mydp.xyz
 127.0.0.1 4asfgyx.com
@@ -35,6 +36,7 @@
 127.0.0.1 bbges.xyz
 127.0.0.1 bcejk.xyz
 127.0.0.1 bdates.fun
+127.0.0.1 beclsbx.icu
 127.0.0.1 belindanbd.com
 127.0.0.1 berjzj.xyz
 127.0.0.1 berylnbb.com
@@ -47,9 +49,12 @@
 127.0.0.1 bkjlf58.com
 127.0.0.1 bnds3.site
 127.0.0.1 bnds4.site
+127.0.0.1 bnds6.site
 127.0.0.1 bnds8.site
 127.0.0.1 bnfyzszm.icu
 127.0.0.1 boewgph.icu
+127.0.0.1 botnrr.xyz
+127.0.0.1 boyidianqi.com.cn
 127.0.0.1 boyvtr8.com
 127.0.0.1 bridgetnbe.com
 127.0.0.1 btescs.fun
@@ -98,6 +103,7 @@
 127.0.0.1 dghkpp.xyz
 127.0.0.1 dhjrvj.xyz
 127.0.0.1 dhkipdsc.xyz
+127.0.0.1 dnightwish.xyz
 127.0.0.1 dojyiu8.com
 127.0.0.1 donchen501.cn
 127.0.0.1 dosre12.xyz
@@ -247,6 +253,7 @@
 127.0.0.1 koljnda.com
 127.0.0.1 kqubxdb.cn
 127.0.0.1 kslbahd.top
+127.0.0.1 kuxkddg.cn
 127.0.0.1 kv8899.com
 127.0.0.1 kwcmrfb.cn
 127.0.0.1 kxm1b0u.com
@@ -323,6 +330,7 @@
 127.0.0.1 one6u.xyz
 127.0.0.1 oopej.xyz
 127.0.0.1 ooqwc.xyz
+127.0.0.1 oslbahk.top
 127.0.0.1 ossfile001.com
 127.0.0.1 owlinggnomist.com
 127.0.0.1 p11q.cn
@@ -348,6 +356,7 @@
 127.0.0.1 qhjm600.com
 127.0.0.1 qhx1h2g.com
 127.0.0.1 qifyeldy.top
+127.0.0.1 qjekt0c.xyz
 127.0.0.1 qpztub.xyz
 127.0.0.1 qqnde.xyz
 127.0.0.1 qrirud.xyz
@@ -363,6 +372,7 @@
 127.0.0.1 rhesed.site
 127.0.0.1 rifyeldz.top
 127.0.0.1 rilwzsit.icu
+127.0.0.1 rixgpx.xyz
 127.0.0.1 rjzqtz.xyz
 127.0.0.1 rlqoyht.icu
 127.0.0.1 ronbbf.xyz
@@ -418,6 +428,7 @@
 127.0.0.1 ty8bz.com
 127.0.0.1 u1022.com
 127.0.0.1 uejdsw.com
+127.0.0.1 ujgf120.com
 127.0.0.1 ujnkn.com
 127.0.0.1 ulojlvmejkaem.xyz
 127.0.0.1 unjld.com
@@ -430,6 +441,7 @@
 127.0.0.1 vcydyzd.icu
 127.0.0.1 vghnnh.xyz
 127.0.0.1 vhjxrj.xyz
+127.0.0.1 vihppjk.cn
 127.0.0.1 vlgkotr.cn
 127.0.0.1 vmdlxj.xyz
 127.0.0.1 vnfsbl.xyz
