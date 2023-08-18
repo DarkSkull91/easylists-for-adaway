@@ -41,6 +41,7 @@
 127.0.0.1 berjzj.xyz
 127.0.0.1 berylnbb.com
 127.0.0.1 betcss.site
+127.0.0.1 bfjk360.com
 127.0.0.1 bftqdd.xyz
 127.0.0.1 bgdizsay.icu
 127.0.0.1 bhjuy10.com
@@ -92,6 +93,7 @@
 127.0.0.1 dalmfn.xyz
 127.0.0.1 dasv10rewq.xyz
 127.0.0.1 dbnwlp.xyz
+127.0.0.1 dcsxv.com
 127.0.0.1 dd667788dd.com
 127.0.0.1 dd778899dd.com
 127.0.0.1 ddush.xyz
@@ -107,6 +109,7 @@
 127.0.0.1 dghkpp.xyz
 127.0.0.1 dhjrvj.xyz
 127.0.0.1 dhkipdsc.xyz
+127.0.0.1 dnceqzz.icu
 127.0.0.1 dnightwish.xyz
 127.0.0.1 dojyiu8.com
 127.0.0.1 donchen501.cn
@@ -147,8 +150,10 @@
 127.0.0.1 feiln.xyz
 127.0.0.1 fengyukun03.cn
 127.0.0.1 fhglcpf.icu
+127.0.0.1 fiktvlnc.icu
 127.0.0.1 fjsytjs.cn
 127.0.0.1 fjtroip.cn
+127.0.0.1 fmre1.com
 127.0.0.1 foirkrt.icu
 127.0.0.1 fszpzd.xyz
 127.0.0.1 fuliwang.cc
@@ -177,6 +182,7 @@
 127.0.0.1 hdpdrandpd.xyz
 127.0.0.1 hegk01a.top
 127.0.0.1 hegk03a.top
+127.0.0.1 hfjk3wa.com
 127.0.0.1 hfqdipw.cn
 127.0.0.1 hgehse.site
 127.0.0.1 hgf8hck.com
@@ -261,6 +267,7 @@
 127.0.0.1 kl91ccp.com
 127.0.0.1 kljslku.com
 127.0.0.1 klufjdo.com
+127.0.0.1 kmjndas.com
 127.0.0.1 kmnhgna.com
 127.0.0.1 knjmhmk.com
 127.0.0.1 kodfn.xyz
@@ -381,6 +388,7 @@
 127.0.0.1 qrirud.xyz
 127.0.0.1 qselic.top
 127.0.0.1 qslbahy.top
+127.0.0.1 qucncfo.cn
 127.0.0.1 qwdbsjnql.com
 127.0.0.1 rabuagc.cn
 127.0.0.1 rdbousn.cn
@@ -397,6 +405,7 @@
 127.0.0.1 ronbbf.xyz
 127.0.0.1 rpyor0k.xyz
 127.0.0.1 rssxsjh.icu
+127.0.0.1 rszkhn.xyz
 127.0.0.1 rtborp.xyz
 127.0.0.1 rtumdhdk.xyz
 127.0.0.1 rtumwzp.icu
@@ -430,6 +439,7 @@
 127.0.0.1 tggsd07.com
 127.0.0.1 thesac2.top
 127.0.0.1 thesac3.top
+127.0.0.1 thesac4.top
 127.0.0.1 thesac7.top
 127.0.0.1 tifyeldi.top
 127.0.0.1 tknkfd.xyz
@@ -540,6 +550,7 @@
 127.0.0.1 zvasuzb.icu
 127.0.0.1 zxrcfw.com
 127.0.0.1 zypzzv.xyz
+127.0.0.1 zzisnvb.cn
 127.0.0.1 002777.xyz
 127.0.0.1 01fen.com
 127.0.0.1 01v62.xyz
