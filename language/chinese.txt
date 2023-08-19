@@ -19,10 +19,13 @@
 127.0.0.1 aaenv48847h.com
 127.0.0.1 abdluv.xyz
 127.0.0.1 abrnfctkn.xyz
+127.0.0.1 afgp10l.com
 127.0.0.1 akdie.xyz
 127.0.0.1 allcp.xyz
 127.0.0.1 amerzbj.cn
 127.0.0.1 anwqj0i.xyz
+127.0.0.1 anyunwl04.com
+127.0.0.1 apdfmhp.cn
 127.0.0.1 aqvwn18102h.com
 127.0.0.1 arpg2.com
 127.0.0.1 b4g7k9d2.com
@@ -88,6 +91,7 @@
 127.0.0.1 cyq3noz.icu
 127.0.0.1 dadbj.cn
 127.0.0.1 dadde.cn
+127.0.0.1 daeis.cn
 127.0.0.1 dafdf.cn
 127.0.0.1 dalld.xyz
 127.0.0.1 dalmfn.xyz
@@ -227,6 +231,7 @@
 127.0.0.1 islbaho.top
 127.0.0.1 jakid.xyz
 127.0.0.1 janwzsqi.icu
+127.0.0.1 jayhou.top
 127.0.0.1 jdcnwd.com
 127.0.0.1 jh16csf.com
 127.0.0.1 jhkggrr.icu
@@ -313,6 +318,7 @@
 127.0.0.1 lvrvdn.xyz
 127.0.0.1 lwide.xyz
 127.0.0.1 lycjsix.cn
+127.0.0.1 lzmvcrp.icu
 127.0.0.1 metaversemolecule.com
 127.0.0.1 mh616.org
 127.0.0.1 mifyeldx.top
@@ -345,6 +351,7 @@
 127.0.0.1 northcookie.xyz
 127.0.0.1 nqdufv.xyz
 127.0.0.1 nryqr.cn
+127.0.0.1 nswtojdi.icu
 127.0.0.1 ntozchv.icu
 127.0.0.1 nunxhv.com
 127.0.0.1 nxhwvt.xyz
@@ -391,6 +398,7 @@
 127.0.0.1 qucncfo.cn
 127.0.0.1 qwdbsjnql.com
 127.0.0.1 rabuagc.cn
+127.0.0.1 rcblfd.xyz
 127.0.0.1 rdbousn.cn
 127.0.0.1 rddsjx.xyz
 127.0.0.1 rdufuxr.icu
@@ -440,6 +448,7 @@
 127.0.0.1 thesac2.top
 127.0.0.1 thesac3.top
 127.0.0.1 thesac4.top
+127.0.0.1 thesac5.top
 127.0.0.1 thesac7.top
 127.0.0.1 tifyeldi.top
 127.0.0.1 tknkfd.xyz
@@ -489,6 +498,7 @@
 127.0.0.1 vxhtxt.xyz
 127.0.0.1 wddsva0.com
 127.0.0.1 wnzle.com
+127.0.0.1 wrpsouf.cn
 127.0.0.1 wsdfame.com
 127.0.0.1 wslbahe.top
 127.0.0.1 wubizigeng.com
@@ -509,6 +519,7 @@
 127.0.0.1 xlvqhx.xyz
 127.0.0.1 xmawwbz.icu
 127.0.0.1 xmxupz.xyz
+127.0.0.1 xn--521-x72fh66s.cn
 127.0.0.1 xn--jvrp4x1zyfta.net
 127.0.0.1 xn--zw0autp42d.cn
 127.0.0.1 xopxptn.cn
@@ -525,6 +536,7 @@
 127.0.0.1 yhhnjg.com
 127.0.0.1 yjnhkd.com
 127.0.0.1 yjnhndt.com
+127.0.0.1 yjnkas.com
 127.0.0.1 ymhyw6.lol
 127.0.0.1 yuanmengbi.com
 127.0.0.1 yuanxiang19.fun
@@ -542,6 +554,8 @@
 127.0.0.1 zfvltd.xyz
 127.0.0.1 zggrxf.life
 127.0.0.1 zghsfh.xyz
+127.0.0.1 zglmvz.buzz
+127.0.0.1 zglmvz.xyz
 127.0.0.1 zifyeldq.top
 127.0.0.1 ziravd.xyz
 127.0.0.1 znyjmbh.icu
@@ -5533,6 +5547,7 @@
 127.0.0.1 bas.boshi.tv
 127.0.0.1 bchina-1.xsfaya.com
 127.0.0.1 bd-china-1.appmobile.cn
+127.0.0.1 bd-js.duote.com
 127.0.0.1 bd-js1.2345.com
 127.0.0.1 bd-s.baixing.net
 127.0.0.1 bd.ahsrst.cn
