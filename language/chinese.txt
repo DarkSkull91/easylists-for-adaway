@@ -20,6 +20,7 @@
 127.0.0.1 abdluv.xyz
 127.0.0.1 abrnfctkn.xyz
 127.0.0.1 afgp10l.com
+127.0.0.1 ajtdumo.cn
 127.0.0.1 akdie.xyz
 127.0.0.1 allcp.xyz
 127.0.0.1 amerzbj.cn
@@ -62,7 +63,9 @@
 127.0.0.1 botnrr.xyz
 127.0.0.1 boyidianqi.com.cn
 127.0.0.1 boyvtr8.com
+127.0.0.1 brendanbc.com
 127.0.0.1 bridgetnbe.com
+127.0.0.1 bslbahv.top
 127.0.0.1 btescs.fun
 127.0.0.1 btsvad8.com
 127.0.0.1 bttazsyk.icu
@@ -91,6 +94,7 @@
 127.0.0.1 cyq3noz.icu
 127.0.0.1 dadbj.cn
 127.0.0.1 dadde.cn
+127.0.0.1 dadms.cn
 127.0.0.1 daeis.cn
 127.0.0.1 dafdf.cn
 127.0.0.1 dalld.xyz
@@ -174,6 +178,7 @@
 127.0.0.1 godni.xyz
 127.0.0.1 greatnumeric.com
 127.0.0.1 guke.name
+127.0.0.1 gvbhae0.com
 127.0.0.1 gw1jvhs.com
 127.0.0.1 gyq3bew.icu
 127.0.0.1 gyutmrp.com
@@ -291,6 +296,7 @@
 127.0.0.1 lamkghx.icu
 127.0.0.1 lanver.fun
 127.0.0.1 lbnqnp.xyz
+127.0.0.1 leadc4.icu
 127.0.0.1 legdeh.fun
 127.0.0.1 legopq.site
 127.0.0.1 lfjtiuy.cn
@@ -302,6 +308,7 @@
 127.0.0.1 liitwrz.icu
 127.0.0.1 likdie.com
 127.0.0.1 lingsiqiwu.com
+127.0.0.1 lishuaibin.cn
 127.0.0.1 liugaohao.com
 127.0.0.1 lkmhn.com
 127.0.0.1 lknhrnd.com
@@ -328,6 +335,7 @@
 127.0.0.1 mkjnha.com
 127.0.0.1 mlstx.cn
 127.0.0.1 mmead.xyz
+127.0.0.1 mmtnat.com
 127.0.0.1 mnhknds.com
 127.0.0.1 mnpbxjq.cn
 127.0.0.1 moobtcnse.xyz
@@ -458,6 +466,7 @@
 127.0.0.1 tptp002.cfd
 127.0.0.1 tpvuxt.xyz
 127.0.0.1 tqdctl.xyz
+127.0.0.1 tqytqdrq.icu
 127.0.0.1 tseda1.icu
 127.0.0.1 tseda6.icu
 127.0.0.1 tslbahi.top
@@ -487,6 +496,7 @@
 127.0.0.1 vhutitpu.icu
 127.0.0.1 vihppjk.cn
 127.0.0.1 vlgkotr.cn
+127.0.0.1 vlujojf.icu
 127.0.0.1 vmdlxj.xyz
 127.0.0.1 vnfsbl.xyz
 127.0.0.1 vpsgu.cn
@@ -558,6 +568,7 @@
 127.0.0.1 zglmvz.xyz
 127.0.0.1 zifyeldq.top
 127.0.0.1 ziravd.xyz
+127.0.0.1 zmdjbl.xyz
 127.0.0.1 znyjmbh.icu
 127.0.0.1 zonyff.xyz
 127.0.0.1 zszhln.xyz
