@@ -5,6 +5,7 @@
 127.0.0.1 23dhj4q.com
 127.0.0.1 3400.org
 127.0.0.1 35vc.com
+127.0.0.1 360114.xyz
 127.0.0.1 36mghtd.xyz
 127.0.0.1 39mydp.xyz
 127.0.0.1 4asfgyx.com
@@ -12,6 +13,7 @@
 127.0.0.1 52kuwang.cn
 127.0.0.1 5ggj5cp.com
 127.0.0.1 777aa999aa.com
+127.0.0.1 7xixi.site
 127.0.0.1 8861198.com
 127.0.0.1 89mtdab.xyz
 127.0.0.1 a8age.com
@@ -88,6 +90,7 @@
 127.0.0.1 connectreadoasis.com
 127.0.0.1 csedasdme.xyz
 127.0.0.1 cslbahf.top
+127.0.0.1 ctienlf.top
 127.0.0.1 ctquh0q.xyz
 127.0.0.1 cuioxbqi.com
 127.0.0.1 cxsh.cn.com
@@ -168,6 +171,7 @@
 127.0.0.1 fvxlhn.xyz
 127.0.0.1 fwepd.xyz
 127.0.0.1 fwzvlp.xyz
+127.0.0.1 fxeaobv.icu
 127.0.0.1 gdjme27.com
 127.0.0.1 ggdrfh5.com
 127.0.0.1 gghmef7.com
@@ -182,6 +186,7 @@
 127.0.0.1 gw1jvhs.com
 127.0.0.1 gyq3bew.icu
 127.0.0.1 gyutmrp.com
+127.0.0.1 hacde1.icu
 127.0.0.1 hacde3.icu
 127.0.0.1 haffo70.com
 127.0.0.1 hanwdsii.com
@@ -320,6 +325,7 @@
 127.0.0.1 lqjinx.xyz
 127.0.0.1 lrlsrz.xyz
 127.0.0.1 lrqpyhn.icu
+127.0.0.1 lshuaibin.cn
 127.0.0.1 lskmipb.icu
 127.0.0.1 lslbahl.top
 127.0.0.1 lvrvdn.xyz
@@ -354,6 +360,7 @@
 127.0.0.1 njogejt.icu
 127.0.0.1 nmdotj.xyz
 127.0.0.1 nmkghh.com
+127.0.0.1 nmssdbgmf.xyz
 127.0.0.1 nnfyxd.xyz
 127.0.0.1 nnqwe.xyz
 127.0.0.1 northcookie.xyz
@@ -363,6 +370,7 @@
 127.0.0.1 ntozchv.icu
 127.0.0.1 nunxhv.com
 127.0.0.1 nxhwvt.xyz
+127.0.0.1 oaclrst.cn
 127.0.0.1 oifyeldk.top
 127.0.0.1 oijmds.com
 127.0.0.1 oiunga.com
@@ -381,6 +389,8 @@
 127.0.0.1 pcvzpj.xyz
 127.0.0.1 pfhj89w.com
 127.0.0.1 pfqwbqs.cn
+127.0.0.1 pgght17.com
+127.0.0.1 piqtpbxo.icu
 127.0.0.1 pirxzl.xyz
 127.0.0.1 pjsbuhl.icu
 127.0.0.1 plbs9k.icu
@@ -495,6 +505,7 @@
 127.0.0.1 vhsutpgui.xyz
 127.0.0.1 vhutitpu.icu
 127.0.0.1 vihppjk.cn
+127.0.0.1 vkjsnvk.com
 127.0.0.1 vlgkotr.cn
 127.0.0.1 vlujojf.icu
 127.0.0.1 vmdlxj.xyz
@@ -502,6 +513,7 @@
 127.0.0.1 vpsgu.cn
 127.0.0.1 vrlvnz.xyz
 127.0.0.1 vrr.name
+127.0.0.1 vujzkkz.cn
 127.0.0.1 vvdzucs.cn
 127.0.0.1 vvwuqxp.icu
 127.0.0.1 vwfppr.xyz
@@ -573,6 +585,7 @@
 127.0.0.1 zonyff.xyz
 127.0.0.1 zszhln.xyz
 127.0.0.1 zvasuzb.icu
+127.0.0.1 zwfkxb.xyz
 127.0.0.1 zxrcfw.com
 127.0.0.1 zypzzv.xyz
 127.0.0.1 zzisnvb.cn
