@@ -31,6 +31,7 @@
 127.0.0.1 apdfmhp.cn
 127.0.0.1 aqvwn18102h.com
 127.0.0.1 arpg2.com
+127.0.0.1 asdyui16.cn
 127.0.0.1 b4g7k9d2.com
 127.0.0.1 bai128.xyz
 127.0.0.1 baidudvbjkbssjvsvv.com
@@ -80,8 +81,10 @@
 127.0.0.1 caider.fun
 127.0.0.1 canser1.top
 127.0.0.1 canser5.top
+127.0.0.1 canser7.top
 127.0.0.1 ccnim.xyz
 127.0.0.1 cdmjur.xyz
+127.0.0.1 cdncloud.asia
 127.0.0.1 cfdns.vip
 127.0.0.1 chiese.site
 127.0.0.1 chozarpeases.com
@@ -95,6 +98,7 @@
 127.0.0.1 cuioxbqi.com
 127.0.0.1 cxsh.cn.com
 127.0.0.1 cyq3noz.icu
+127.0.0.1 d0lzq.com
 127.0.0.1 dadbj.cn
 127.0.0.1 dadde.cn
 127.0.0.1 dadms.cn
@@ -222,6 +226,7 @@
 127.0.0.1 hsadeg.site
 127.0.0.1 hslbahu.top
 127.0.0.1 hstbrt.xyz
+127.0.0.1 hthivr.xyz
 127.0.0.1 huaxia.name
 127.0.0.1 hubiazhi.com
 127.0.0.1 hujunhao.name
@@ -234,6 +239,7 @@
 127.0.0.1 ihwdun.xyz
 127.0.0.1 ijgbuj.xyz
 127.0.0.1 ilade.xyz
+127.0.0.1 iojnask.com
 127.0.0.1 ipadf.xyz
 127.0.0.1 iplm.cc
 127.0.0.1 iqede.xyz
@@ -328,6 +334,7 @@
 127.0.0.1 lshuaibin.cn
 127.0.0.1 lskmipb.icu
 127.0.0.1 lslbahl.top
+127.0.0.1 ltsubzgmw.xyz
 127.0.0.1 lvrvdn.xyz
 127.0.0.1 lwide.xyz
 127.0.0.1 lycjsix.cn
@@ -357,6 +364,7 @@
 127.0.0.1 nhjkm.com
 127.0.0.1 nieae.xyz
 127.0.0.1 nifyeldc.top
+127.0.0.1 nimoatl.icu
 127.0.0.1 njogejt.icu
 127.0.0.1 nmdotj.xyz
 127.0.0.1 nmkghh.com
@@ -470,6 +478,7 @@
 127.0.0.1 thesac7.top
 127.0.0.1 tifyeldi.top
 127.0.0.1 tknkfd.xyz
+127.0.0.1 tlbjw.com
 127.0.0.1 tlprlf.xyz
 127.0.0.1 tmwbszn.icu
 127.0.0.1 toastspinner.com
@@ -493,6 +502,7 @@
 127.0.0.1 ujnkn.com
 127.0.0.1 ulojlvmejkaem.xyz
 127.0.0.1 unjld.com
+127.0.0.1 uraseszincy.com
 127.0.0.1 uslbaht.top
 127.0.0.1 uwgnpkd.cn
 127.0.0.1 uxmwh0f.xyz
@@ -519,6 +529,7 @@
 127.0.0.1 vwfppr.xyz
 127.0.0.1 vxhtxt.xyz
 127.0.0.1 wddsva0.com
+127.0.0.1 wlgxaij.cn
 127.0.0.1 wnzle.com
 127.0.0.1 wrpsouf.cn
 127.0.0.1 wsdfame.com
@@ -551,7 +562,9 @@
 127.0.0.1 xtbzff.xyz
 127.0.0.1 xukang09.cn
 127.0.0.1 xukou.net
+127.0.0.1 xwqtatnw.icu
 127.0.0.1 yac5t.cn
+127.0.0.1 ydgh0zc.com
 127.0.0.1 yegziyf.cn
 127.0.0.1 ygzqlnt.cn
 127.0.0.1 yh18h8s.com
@@ -576,6 +589,7 @@
 127.0.0.1 zfvltd.xyz
 127.0.0.1 zggrxf.life
 127.0.0.1 zghsfh.xyz
+127.0.0.1 zgkvfu.xyz
 127.0.0.1 zglmvz.buzz
 127.0.0.1 zglmvz.xyz
 127.0.0.1 zifyeldq.top
@@ -5545,7 +5559,6 @@
 127.0.0.1 aiwen.cc
 127.0.0.1 al.newxue.com
 127.0.0.1 anews7.nvwu.com
-127.0.0.1 api.557400.com
 127.0.0.1 aqc.gucheng.com
 127.0.0.1 as1.m.hao123.com
 127.0.0.1 as1.wenku.baidu.com
