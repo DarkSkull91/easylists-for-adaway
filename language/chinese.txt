@@ -3,6 +3,9 @@
 127.0.0.1 1379a.xyz
 127.0.0.1 1u5gy.xyz
 127.0.0.1 23dhj4q.com
+127.0.0.1 3337126.com
+127.0.0.1 3338637.com
+127.0.0.1 3338652.com
 127.0.0.1 3400.org
 127.0.0.1 35vc.com
 127.0.0.1 360114.xyz
@@ -82,6 +85,7 @@
 127.0.0.1 canser1.top
 127.0.0.1 canser5.top
 127.0.0.1 canser7.top
+127.0.0.1 cao-gao.xyz
 127.0.0.1 ccnim.xyz
 127.0.0.1 cdmjur.xyz
 127.0.0.1 cdncloud.asia
@@ -133,6 +137,7 @@
 127.0.0.1 dstbekdf.xyz
 127.0.0.1 dstbunkfw.xyz
 127.0.0.1 duyvtanrheje.xyz
+127.0.0.1 dvtednm.cn
 127.0.0.1 dwfjtz.xyz
 127.0.0.1 dyeperd.icu
 127.0.0.1 dygtulfe.icu
@@ -170,6 +175,7 @@
 127.0.0.1 fjtroip.cn
 127.0.0.1 fmre1.com
 127.0.0.1 foirkrt.icu
+127.0.0.1 frsejhged.xyz
 127.0.0.1 fszpzd.xyz
 127.0.0.1 fuliwang.cc
 127.0.0.1 fvxlhn.xyz
@@ -181,6 +187,7 @@
 127.0.0.1 gghmef7.com
 127.0.0.1 ghland.site
 127.0.0.1 gjipd.xyz
+127.0.0.1 gjkame6.com
 127.0.0.1 gkjmev3.com
 127.0.0.1 glhdan.site
 127.0.0.1 godni.xyz
@@ -188,6 +195,7 @@
 127.0.0.1 guke.name
 127.0.0.1 gvbhae0.com
 127.0.0.1 gw1jvhs.com
+127.0.0.1 gwrpceo.cn
 127.0.0.1 gyq3bew.icu
 127.0.0.1 gyutmrp.com
 127.0.0.1 hacde1.icu
@@ -200,6 +208,7 @@
 127.0.0.1 hdpdrandpd.xyz
 127.0.0.1 hegk01a.top
 127.0.0.1 hegk03a.top
+127.0.0.1 hegk05a.top
 127.0.0.1 hfjk3wa.com
 127.0.0.1 hfqdipw.cn
 127.0.0.1 hgehse.site
@@ -212,6 +221,7 @@
 127.0.0.1 hiqua.xyz
 127.0.0.1 hjgkr0g.xyz
 127.0.0.1 hjkiguy.com
+127.0.0.1 hkctmldg.icu
 127.0.0.1 hkkeafj.cn
 127.0.0.1 hlnr9q.icu
 127.0.0.1 hmjhnkas.com
@@ -227,6 +237,7 @@
 127.0.0.1 hslbahu.top
 127.0.0.1 hstbrt.xyz
 127.0.0.1 hthivr.xyz
+127.0.0.1 htienlu.top
 127.0.0.1 huaxia.name
 127.0.0.1 hubiazhi.com
 127.0.0.1 hujunhao.name
@@ -236,6 +247,7 @@
 127.0.0.1 hyeqp.xyz
 127.0.0.1 hypwbv.xyz
 127.0.0.1 hzhabei.cn
+127.0.0.1 idynbff.cn
 127.0.0.1 ihwdun.xyz
 127.0.0.1 ijgbuj.xyz
 127.0.0.1 ilade.xyz
@@ -288,6 +300,7 @@
 127.0.0.1 kl91ccp.com
 127.0.0.1 kljslku.com
 127.0.0.1 klufjdo.com
+127.0.0.1 kmhnk00.com
 127.0.0.1 kmjndas.com
 127.0.0.1 kmnhgna.com
 127.0.0.1 knjmhmk.com
@@ -369,6 +382,8 @@
 127.0.0.1 nmdotj.xyz
 127.0.0.1 nmkghh.com
 127.0.0.1 nmssdbgmf.xyz
+127.0.0.1 nndzsw.com
+127.0.0.1 nndzsw1.com
 127.0.0.1 nnfyxd.xyz
 127.0.0.1 nnqwe.xyz
 127.0.0.1 northcookie.xyz
@@ -395,6 +410,7 @@
 127.0.0.1 pbtsjh.xyz
 127.0.0.1 pcqsajr.icu
 127.0.0.1 pcvzpj.xyz
+127.0.0.1 pdjjrh.xyz
 127.0.0.1 pfhj89w.com
 127.0.0.1 pfqwbqs.cn
 127.0.0.1 pgght17.com
@@ -528,6 +544,7 @@
 127.0.0.1 vvwuqxp.icu
 127.0.0.1 vwfppr.xyz
 127.0.0.1 vxhtxt.xyz
+127.0.0.1 vzvvifw.cn
 127.0.0.1 wddsva0.com
 127.0.0.1 wlgxaij.cn
 127.0.0.1 wnzle.com
@@ -562,6 +579,7 @@
 127.0.0.1 xtbzff.xyz
 127.0.0.1 xukang09.cn
 127.0.0.1 xukou.net
+127.0.0.1 xuwfmhh.icu
 127.0.0.1 xwqtatnw.icu
 127.0.0.1 yac5t.cn
 127.0.0.1 ydgh0zc.com
@@ -573,6 +591,7 @@
 127.0.0.1 yjnhndt.com
 127.0.0.1 yjnkas.com
 127.0.0.1 ymhyw6.lol
+127.0.0.1 yruws6.com
 127.0.0.1 yuanmengbi.com
 127.0.0.1 yuanxiang19.fun
 127.0.0.1 yuifgh.fun

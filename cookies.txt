@@ -46,6 +46,7 @@
 127.0.0.1 cmp.telerama.fr
 127.0.0.1 cmp.uniconsent.com
 127.0.0.1 cmp.vg.no
+127.0.0.1 cmpv2.pcworld.com
 127.0.0.1 consent.23g.io
 127.0.0.1 consent.amateurphotographer.co.uk
 127.0.0.1 consent.canalboat.co.uk
