@@ -15,6 +15,7 @@
 127.0.0.1 52acc.cn
 127.0.0.1 52kuwang.cn
 127.0.0.1 5ggj5cp.com
+127.0.0.1 5lfgdju.com
 127.0.0.1 777aa999aa.com
 127.0.0.1 7xixi.site
 127.0.0.1 8861198.com
@@ -169,6 +170,7 @@
 127.0.0.1 fddxbn.xyz
 127.0.0.1 feiln.xyz
 127.0.0.1 fengyukun03.cn
+127.0.0.1 fgetmzx.icu
 127.0.0.1 fhglcpf.icu
 127.0.0.1 fiktvlnc.icu
 127.0.0.1 fjsytjs.cn
@@ -207,6 +209,7 @@
 127.0.0.1 hdfdsdaw.com
 127.0.0.1 hdpdrandpd.xyz
 127.0.0.1 hegk01a.top
+127.0.0.1 hegk02a.top
 127.0.0.1 hegk03a.top
 127.0.0.1 hegk05a.top
 127.0.0.1 hfjk3wa.com
@@ -401,6 +404,7 @@
 127.0.0.1 one6u.xyz
 127.0.0.1 oopej.xyz
 127.0.0.1 ooqwc.xyz
+127.0.0.1 oqyiapj.cn
 127.0.0.1 oslbahk.top
 127.0.0.1 ossfile001.com
 127.0.0.1 owlinggnomist.com
@@ -419,6 +423,7 @@
 127.0.0.1 pjsbuhl.icu
 127.0.0.1 plbs9k.icu
 127.0.0.1 pmxalz.xyz
+127.0.0.1 pnlhnx.xyz
 127.0.0.1 poqiod.com
 127.0.0.1 powedw.com
 127.0.0.1 pr88vhg.com
@@ -616,6 +621,7 @@
 127.0.0.1 zmdjbl.xyz
 127.0.0.1 znyjmbh.icu
 127.0.0.1 zonyff.xyz
+127.0.0.1 zpotkvpy.icu
 127.0.0.1 zszhln.xyz
 127.0.0.1 zvasuzb.icu
 127.0.0.1 zwfkxb.xyz
