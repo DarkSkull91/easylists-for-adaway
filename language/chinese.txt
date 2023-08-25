@@ -10,6 +10,7 @@
 127.0.0.1 35vc.com
 127.0.0.1 360114.xyz
 127.0.0.1 36mghtd.xyz
+127.0.0.1 38kmute.xyz
 127.0.0.1 39mydp.xyz
 127.0.0.1 4asfgyx.com
 127.0.0.1 52acc.cn
@@ -46,6 +47,7 @@
 127.0.0.1 bavde3.icu
 127.0.0.1 bbges.xyz
 127.0.0.1 bcejk.xyz
+127.0.0.1 bcsijjgck.xyz
 127.0.0.1 bdates.fun
 127.0.0.1 beclsbx.icu
 127.0.0.1 belindanbd.com
@@ -164,6 +166,7 @@
 127.0.0.1 evidhjksdtgyxrh.xyz
 127.0.0.1 ewfsef.com
 127.0.0.1 eyq3nog.icu
+127.0.0.1 f1tfmxzg.icu
 127.0.0.1 falsarywaybung.com
 127.0.0.1 fantuan.name
 127.0.0.1 fcbqxt.xyz
@@ -201,6 +204,7 @@
 127.0.0.1 gyq3bew.icu
 127.0.0.1 gyutmrp.com
 127.0.0.1 hacde1.icu
+127.0.0.1 hacde10.icu
 127.0.0.1 hacde3.icu
 127.0.0.1 haffo70.com
 127.0.0.1 hanwdsii.com
@@ -260,6 +264,7 @@
 127.0.0.1 iqede.xyz
 127.0.0.1 iqgoukn.cn
 127.0.0.1 islbaho.top
+127.0.0.1 itienlo.top
 127.0.0.1 jakid.xyz
 127.0.0.1 janwzsqi.icu
 127.0.0.1 jayhou.top
@@ -299,6 +304,7 @@
 127.0.0.1 kasiklz.cc
 127.0.0.1 kdvmnn.com
 127.0.0.1 kgeesh.site
+127.0.0.1 kjvaqbyebqarl.top
 127.0.0.1 kklpe.xyz
 127.0.0.1 kl91ccp.com
 127.0.0.1 kljslku.com
@@ -314,6 +320,7 @@
 127.0.0.1 kuxkddg.cn
 127.0.0.1 kv8899.com
 127.0.0.1 kwcmrfb.cn
+127.0.0.1 kxcp365.com
 127.0.0.1 kxm1b0u.com
 127.0.0.1 kyplpw.com
 127.0.0.1 kyq3hky.icu
@@ -427,6 +434,7 @@
 127.0.0.1 poqiod.com
 127.0.0.1 powedw.com
 127.0.0.1 pr88vhg.com
+127.0.0.1 prokyrn.icu
 127.0.0.1 pstvvb.xyz
 127.0.0.1 ptmabek.cn
 127.0.0.1 puy2.cn
@@ -464,16 +472,19 @@
 127.0.0.1 rtborp.xyz
 127.0.0.1 rtumdhdk.xyz
 127.0.0.1 rtumwzp.icu
+127.0.0.1 rvzlobj.cn
 127.0.0.1 sa8zdui.com
 127.0.0.1 sacfasv.com
 127.0.0.1 sacre.cn
 127.0.0.1 sbeaje.com
+127.0.0.1 sd01you.com
 127.0.0.1 sdchb2.com
 127.0.0.1 sdfgbuy.com
 127.0.0.1 sensifyfugged.com
 127.0.0.1 sfg11rr.com
 127.0.0.1 shulsbs.cn
 127.0.0.1 simblotusitate.com
+127.0.0.1 sjbgyak.cn
 127.0.0.1 sq59.cn
 127.0.0.1 ssdfgq7.com
 127.0.0.1 ssdtour.com
@@ -516,6 +527,7 @@
 127.0.0.1 tuwaqtjcood.com
 127.0.0.1 tvdpebx.cn
 127.0.0.1 tvrshv.xyz
+127.0.0.1 txcv68f.com
 127.0.0.1 ty8bz.com
 127.0.0.1 u1022.com
 127.0.0.1 uejdsw.com
@@ -553,6 +565,7 @@
 127.0.0.1 wddsva0.com
 127.0.0.1 wlgxaij.cn
 127.0.0.1 wnzle.com
+127.0.0.1 wpoarjokzgi.com
 127.0.0.1 wrpsouf.cn
 127.0.0.1 wsdfame.com
 127.0.0.1 wslbahe.top
@@ -586,7 +599,10 @@
 127.0.0.1 xukou.net
 127.0.0.1 xuwfmhh.icu
 127.0.0.1 xwqtatnw.icu
+127.0.0.1 xwsqtngwa.xyz
+127.0.0.1 xxniln.xyz
 127.0.0.1 yac5t.cn
+127.0.0.1 yasg114.com
 127.0.0.1 ydgh0zc.com
 127.0.0.1 yegziyf.cn
 127.0.0.1 ygzqlnt.cn
@@ -606,6 +622,7 @@
 127.0.0.1 zcbfjd.xyz
 127.0.0.1 zcvyzsyd.icu
 127.0.0.1 zddpnf.xyz
+127.0.0.1 zents7.top
 127.0.0.1 zerolcp.cn
 127.0.0.1 zexfzson.icu
 127.0.0.1 zfcdirf.icu
@@ -616,6 +633,7 @@
 127.0.0.1 zgkvfu.xyz
 127.0.0.1 zglmvz.buzz
 127.0.0.1 zglmvz.xyz
+127.0.0.1 zgtwzq.xyz
 127.0.0.1 zifyeldq.top
 127.0.0.1 ziravd.xyz
 127.0.0.1 zmdjbl.xyz
