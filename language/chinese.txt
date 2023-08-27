@@ -54,7 +54,9 @@
 127.0.0.1 belindanbd.com
 127.0.0.1 berjzj.xyz
 127.0.0.1 berylnbb.com
+127.0.0.1 beste1.icu
 127.0.0.1 betcss.site
+127.0.0.1 bfdcuy9.com
 127.0.0.1 bfjk360.com
 127.0.0.1 bftqdd.xyz
 127.0.0.1 bgdizsay.icu
@@ -158,6 +160,7 @@
 127.0.0.1 epoid.xyz
 127.0.0.1 eraaoec.cn
 127.0.0.1 erfskhnpter.xyz
+127.0.0.1 erlirscid.com
 127.0.0.1 ertgbme.com
 127.0.0.1 erty0yx.com
 127.0.0.1 esgher.fun
@@ -168,6 +171,7 @@
 127.0.0.1 ewfsef.com
 127.0.0.1 eyq3nog.icu
 127.0.0.1 f1tfmxzg.icu
+127.0.0.1 fads315.com
 127.0.0.1 falsarywaybung.com
 127.0.0.1 fantuan.name
 127.0.0.1 fcbqxt.xyz
@@ -181,6 +185,7 @@
 127.0.0.1 fjtroip.cn
 127.0.0.1 fmre1.com
 127.0.0.1 foirkrt.icu
+127.0.0.1 frrhdl.xyz
 127.0.0.1 frsejhged.xyz
 127.0.0.1 fszpzd.xyz
 127.0.0.1 fuliwang.cc
@@ -237,6 +242,7 @@
 127.0.0.1 hnxxt.net
 127.0.0.1 hohmaryt.com
 127.0.0.1 hongteng.xyz
+127.0.0.1 hpgmkbt.icu
 127.0.0.1 hpvwdkn.cn
 127.0.0.1 hqdlhgx.cn
 127.0.0.1 hqgearb.icu
@@ -293,6 +299,7 @@
 127.0.0.1 jslbaha.top
 127.0.0.1 jszavs1.com
 127.0.0.1 jtbunh.xyz
+127.0.0.1 jtienla.top
 127.0.0.1 jujcjz.xyz
 127.0.0.1 jutwzssh.icu
 127.0.0.1 jvjlkih.com
@@ -536,6 +543,7 @@
 127.0.0.1 ty8bz.com
 127.0.0.1 u1022.com
 127.0.0.1 uejdsw.com
+127.0.0.1 uhwnrfu.cn
 127.0.0.1 ujgf120.com
 127.0.0.1 ujnkn.com
 127.0.0.1 ulojlvmejkaem.xyz
@@ -543,6 +551,7 @@
 127.0.0.1 uraseszincy.com
 127.0.0.1 uslbaht.top
 127.0.0.1 uwgnpkd.cn
+127.0.0.1 uxlqwra.cn
 127.0.0.1 uxmwh0f.xyz
 127.0.0.1 uxtruz.xyz
 127.0.0.1 uyq3ruf.icu
@@ -617,6 +626,7 @@
 127.0.0.1 yjnhkd.com
 127.0.0.1 yjnhndt.com
 127.0.0.1 yjnkas.com
+127.0.0.1 ykkbwdf.cn
 127.0.0.1 ymhyw6.lol
 127.0.0.1 yruws6.com
 127.0.0.1 yuanmengbi.com
@@ -624,6 +634,7 @@
 127.0.0.1 yuifgh.fun
 127.0.0.1 yyuivw6.com
 127.0.0.1 yzllux.xyz
+127.0.0.1 z3yfkdjd.icu
 127.0.0.1 zbx01.com
 127.0.0.1 zcbfjd.xyz
 127.0.0.1 zcvyzsyd.icu
@@ -5559,7 +5570,6 @@
 127.0.0.1 a.yuzhainan.com
 127.0.0.1 a.zuowenku.net
 127.0.0.1 a.zuowenxuan.cn
-127.0.0.1 a1.0s.net.cn
 127.0.0.1 a1.289.com
 127.0.0.1 a1.99933.cn
 127.0.0.1 a1.99966.cn
@@ -5629,7 +5639,6 @@
 127.0.0.1 b7sw62.pingshu8.xyz
 127.0.0.1 baidu1.cardbaobao.com
 127.0.0.1 baidu1.codejie.net
-127.0.0.1 baiduada.babihu.com
 127.0.0.1 baidujs.cnys.com
 127.0.0.1 baj.fanwenzhan.com
 127.0.0.1 bas.boshi.tv
@@ -5878,8 +5887,6 @@
 127.0.0.1 hh.jiankang.com
 127.0.0.1 hi.xiunm.cn
 127.0.0.1 hi.xiunm.com
-127.0.0.1 hu.xbhy.com
-127.0.0.1 huhai.cdwz8.cn
 127.0.0.1 hxbt.alading123.com
 127.0.0.1 hy.huangye88.com.cn
 127.0.0.1 hy.huangye88.net

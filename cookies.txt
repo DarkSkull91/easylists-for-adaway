@@ -58,6 +58,7 @@
 127.0.0.1 consent.unilad.com
 127.0.0.1 cookies.lmt.lv
 127.0.0.1 fuse.forbes.com
+127.0.0.1 gdpr-api.sharethis.com
 127.0.0.1 gdpr.internetbrands.com
 127.0.0.1 mms.cmpsky.com
 127.0.0.1 privacy.claytonhomes.com
