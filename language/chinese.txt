@@ -16,6 +16,7 @@
 127.0.0.1 4asfgyx.com
 127.0.0.1 52acc.cn
 127.0.0.1 52kuwang.cn
+127.0.0.1 5gg17gm.com
 127.0.0.1 5ggj5cp.com
 127.0.0.1 5lfgdju.com
 127.0.0.1 777aa999aa.com
@@ -69,6 +70,7 @@
 127.0.0.1 bkhblj.xyz
 127.0.0.1 bkjlf58.com
 127.0.0.1 bmptbyb.com
+127.0.0.1 bmyrihf.icu
 127.0.0.1 bnds3.site
 127.0.0.1 bnds4.site
 127.0.0.1 bnds6.site
@@ -161,6 +163,7 @@
 127.0.0.1 eheb8.cn
 127.0.0.1 ejolul.xyz
 127.0.0.1 ekdky.cn
+127.0.0.1 eltdeh.top
 127.0.0.1 enhad.xyz
 127.0.0.1 epoid.xyz
 127.0.0.1 eraaoec.cn
@@ -224,6 +227,7 @@
 127.0.0.1 hbxhnqj.cn
 127.0.0.1 hdfdsdaw.com
 127.0.0.1 hdpdrandpd.xyz
+127.0.0.1 hefei668.com
 127.0.0.1 hegk01a.top
 127.0.0.1 hegk02a.top
 127.0.0.1 hegk03a.top
@@ -242,6 +246,7 @@
 127.0.0.1 hjkiguy.com
 127.0.0.1 hkctmldg.icu
 127.0.0.1 hkkeafj.cn
+127.0.0.1 hkscldggm.xyz
 127.0.0.1 hlnr9q.icu
 127.0.0.1 hmjhnkas.com
 127.0.0.1 hnfnjn.xyz
@@ -301,6 +306,7 @@
 127.0.0.1 jpush0b.xyz
 127.0.0.1 jpvrbt.xyz
 127.0.0.1 jqkcett.icu
+127.0.0.1 jrltdiu.cn
 127.0.0.1 jrmrijv.icu
 127.0.0.1 jslbaha.top
 127.0.0.1 jszavs1.com
@@ -408,6 +414,7 @@
 127.0.0.1 nifyeldc.top
 127.0.0.1 nimoatl.icu
 127.0.0.1 njogejt.icu
+127.0.0.1 nlvgxr.xyz
 127.0.0.1 nmdotj.xyz
 127.0.0.1 nmkghh.com
 127.0.0.1 nmssdbgmf.xyz
@@ -472,6 +479,7 @@
 127.0.0.1 qslbahy.top
 127.0.0.1 qucncfo.cn
 127.0.0.1 qwdbsjnql.com
+127.0.0.1 r5dfwjtb.icu
 127.0.0.1 rabuagc.cn
 127.0.0.1 rbodwtj.icu
 127.0.0.1 rcblfd.xyz
@@ -502,6 +510,7 @@
 127.0.0.1 sd01you.com
 127.0.0.1 sdchb2.com
 127.0.0.1 sdfgbuy.com
+127.0.0.1 sdvfvgj.cn
 127.0.0.1 sensifyfugged.com
 127.0.0.1 sfg11rr.com
 127.0.0.1 shulsbs.cn
@@ -597,6 +606,7 @@
 127.0.0.1 wuye3d.com
 127.0.0.1 wyq3rum.icu
 127.0.0.1 wzctuv.xyz
+127.0.0.1 x5hnj21.com
 127.0.0.1 xccadc.com
 127.0.0.1 xckj0623.com
 127.0.0.1 xcvwrj.xyz
