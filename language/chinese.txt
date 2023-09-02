@@ -72,6 +72,8 @@
 127.0.0.1 bifyeldv.top
 127.0.0.1 bkhblj.xyz
 127.0.0.1 bkjlf58.com
+127.0.0.1 bleumzr.icu
+127.0.0.1 bmiea.xyz
 127.0.0.1 bmptbyb.com
 127.0.0.1 bmyrihf.icu
 127.0.0.1 bnds3.site
@@ -80,6 +82,7 @@
 127.0.0.1 bnds7.site
 127.0.0.1 bnds8.site
 127.0.0.1 bnfyzszm.icu
+127.0.0.1 bnrdnx.xyz
 127.0.0.1 boewgph.icu
 127.0.0.1 botnrr.xyz
 127.0.0.1 boyidianqi.com.cn
@@ -214,6 +217,7 @@
 127.0.0.1 fxeaobv.icu
 127.0.0.1 gdjme27.com
 127.0.0.1 ggdrfh5.com
+127.0.0.1 ggdumze.cn
 127.0.0.1 gghmef7.com
 127.0.0.1 ghland.site
 127.0.0.1 gjipd.xyz
@@ -301,6 +305,7 @@
 127.0.0.1 janwzsqi.icu
 127.0.0.1 jayhou.top
 127.0.0.1 jdcnwd.com
+127.0.0.1 jgsajfggv.xyz
 127.0.0.1 jh16csf.com
 127.0.0.1 jhkggrr.icu
 127.0.0.1 jhlazsot.icu
@@ -338,6 +343,7 @@
 127.0.0.1 kahgjjd.com
 127.0.0.1 kasiklz.cc
 127.0.0.1 kdvmnn.com
+127.0.0.1 kekop.cn
 127.0.0.1 kgeesh.site
 127.0.0.1 kjvaqbyebqarl.top
 127.0.0.1 kklpe.xyz
@@ -371,6 +377,7 @@
 127.0.0.1 leadc4.icu
 127.0.0.1 legdeh.fun
 127.0.0.1 legopq.site
+127.0.0.1 lestv1.icu
 127.0.0.1 lfjtiuy.cn
 127.0.0.1 lgohse.fun
 127.0.0.1 lgoseh.fun
@@ -453,6 +460,7 @@
 127.0.0.1 oijmds.com
 127.0.0.1 oiunga.com
 127.0.0.1 okmhmkjnm.com
+127.0.0.1 okmhnd.com
 127.0.0.1 one6u.xyz
 127.0.0.1 oopej.xyz
 127.0.0.1 ooqwc.xyz
@@ -590,6 +598,7 @@
 127.0.0.1 txcv68f.com
 127.0.0.1 ty8bz.com
 127.0.0.1 u1022.com
+127.0.0.1 uchat6.com
 127.0.0.1 uejdsw.com
 127.0.0.1 uhwnrfu.cn
 127.0.0.1 ujgf120.com
@@ -648,6 +657,7 @@
 127.0.0.1 xhpghv.xyz
 127.0.0.1 xiaoxiuapp.com
 127.0.0.1 xiaoy.name
+127.0.0.1 xiezhuo038.cn
 127.0.0.1 xixrdn.xyz
 127.0.0.1 xjzyhp.xyz
 127.0.0.1 xkmwxwy.cn
@@ -718,9 +728,6 @@
 127.0.0.1 zwfkxb.xyz
 127.0.0.1 zxrcfw.com
 127.0.0.1 zypzzv.xyz
-127.0.0.1 lestv1.icu
-127.0.0.1 bleumzr.icu
-127.0.0.1 kekop.cn
 127.0.0.1 zzisnvb.cn
 127.0.0.1 002777.xyz
 127.0.0.1 01fen.com
