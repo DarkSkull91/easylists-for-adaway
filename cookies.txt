@@ -140,8 +140,6 @@
 127.0.0.1 fc.vodafone.de
 127.0.0.1 up-cookiemon.wavecdn.net
 127.0.0.1 cmp.histoire-et-civilisations.com
-127.0.0.1 cmp.lavie.fr
-127.0.0.1 cmp.lepoint.fr
 127.0.0.1 consent.prismamedia.com
 127.0.0.1 consentement.ouest-france.fr
 127.0.0.1 cookies.leadplace.fr
@@ -159,7 +157,6 @@
 127.0.0.1 cookies.gardena.net
 127.0.0.1 privacyportal.fatergroup.com
 127.0.0.1 gdpr.laxd.com
-127.0.0.1 cmp.tek.no
 127.0.0.1 cookie.gazeta.pl
 127.0.0.1 cookies.fakt.pl
 127.0.0.1 cookies.forbes.pl
