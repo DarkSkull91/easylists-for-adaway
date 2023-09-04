@@ -55,6 +55,7 @@
 127.0.0.1 bavde1.icu
 127.0.0.1 bavde3.icu
 127.0.0.1 bbges.xyz
+127.0.0.1 bbphonix.xyz
 127.0.0.1 bcejk.xyz
 127.0.0.1 bcsijjgck.xyz
 127.0.0.1 bdates.fun
@@ -115,6 +116,7 @@
 127.0.0.1 ciadre.fun
 127.0.0.1 cix0wk.com
 127.0.0.1 connectreadoasis.com
+127.0.0.1 cqtlimi.cn
 127.0.0.1 csedasdme.xyz
 127.0.0.1 cslbahf.top
 127.0.0.1 ctienlf.top
@@ -311,6 +313,7 @@
 127.0.0.1 jh16csf.com
 127.0.0.1 jhkggrr.icu
 127.0.0.1 jhlazsot.icu
+127.0.0.1 jhvchv.xyz
 127.0.0.1 jhzfwl.cn
 127.0.0.1 jixmlx.xyz
 127.0.0.1 jjade.xyz
@@ -469,6 +472,7 @@
 127.0.0.1 one6u.xyz
 127.0.0.1 oopej.xyz
 127.0.0.1 ooqwc.xyz
+127.0.0.1 oq6ry.com
 127.0.0.1 oqyiapj.cn
 127.0.0.1 oslbahk.top
 127.0.0.1 ossfile001.com
@@ -567,6 +571,7 @@
 127.0.0.1 suy5x8.com
 127.0.0.1 svarub.xyz
 127.0.0.1 svvev3.com
+127.0.0.1 sxundrh.cn
 127.0.0.1 t2zfyxjj.icu
 127.0.0.1 tarqk5.com
 127.0.0.1 tcuqqhj.icu
@@ -583,7 +588,9 @@
 127.0.0.1 thesac4.top
 127.0.0.1 thesac5.top
 127.0.0.1 thesac7.top
+127.0.0.1 thesac9.top
 127.0.0.1 tifyeldi.top
+127.0.0.1 tjwzyjx.icu
 127.0.0.1 tknkfd.xyz
 127.0.0.1 tkqwurl.icu
 127.0.0.1 tlbjw.com
