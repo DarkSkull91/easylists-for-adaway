@@ -24,6 +24,7 @@
 127.0.0.1 7xixi.site
 127.0.0.1 81wx.info
 127.0.0.1 8861198.com
+127.0.0.1 88lajs1.com
 127.0.0.1 89mtdab.xyz
 127.0.0.1 999pro.top
 127.0.0.1 9cc9ckp.com
@@ -34,6 +35,7 @@
 127.0.0.1 abdluv.xyz
 127.0.0.1 abrnfctkn.xyz
 127.0.0.1 afgp10l.com
+127.0.0.1 afxncq.com
 127.0.0.1 ajtdumo.cn
 127.0.0.1 akdie.xyz
 127.0.0.1 allcp.xyz
@@ -111,6 +113,7 @@
 127.0.0.1 cdncloud.asia
 127.0.0.1 cfdns.vip
 127.0.0.1 cheda1.icu
+127.0.0.1 cheda7.icu
 127.0.0.1 chiese.site
 127.0.0.1 chozarpeases.com
 127.0.0.1 ciadre.fun
@@ -164,6 +167,7 @@
 127.0.0.1 dstbekdf.xyz
 127.0.0.1 dstbunkfw.xyz
 127.0.0.1 duyvtanrheje.xyz
+127.0.0.1 dvenkbn.icu
 127.0.0.1 dvtednm.cn
 127.0.0.1 dwfjtz.xyz
 127.0.0.1 dwyngjb.icu
@@ -173,6 +177,7 @@
 127.0.0.1 eamqbaqzaewwq.top
 127.0.0.1 ebscb0l.xyz
 127.0.0.1 eers0cy.com
+127.0.0.1 eexlgyn.cn
 127.0.0.1 eghyahl.cn
 127.0.0.1 egipsbvlgn.xyz
 127.0.0.1 eheb8.cn
@@ -537,6 +542,7 @@
 127.0.0.1 rlqoyht.icu
 127.0.0.1 ronbbf.xyz
 127.0.0.1 rpyor0k.xyz
+127.0.0.1 rrxddl.xyz
 127.0.0.1 rssxsjh.icu
 127.0.0.1 rszkhn.xyz
 127.0.0.1 rtborp.xyz
@@ -595,6 +601,7 @@
 127.0.0.1 tkqwurl.icu
 127.0.0.1 tlbjw.com
 127.0.0.1 tlprlf.xyz
+127.0.0.1 tltyygb.cn
 127.0.0.1 tmwbszn.icu
 127.0.0.1 toastspinner.com
 127.0.0.1 tptp002.cfd
@@ -660,6 +667,7 @@
 127.0.0.1 wrpsouf.cn
 127.0.0.1 wsdfame.com
 127.0.0.1 wslbahe.top
+127.0.0.1 wtienle.top
 127.0.0.1 wubizigeng.com
 127.0.0.1 wuye3d.com
 127.0.0.1 wyq3rum.icu
