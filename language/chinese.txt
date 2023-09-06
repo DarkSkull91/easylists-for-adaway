@@ -36,6 +36,8 @@
 127.0.0.1 abrnfctkn.xyz
 127.0.0.1 afgp10l.com
 127.0.0.1 afxncq.com
+127.0.0.1 ajcode.co
+127.0.0.1 ajkjbcjbaaaed.com
 127.0.0.1 ajtdumo.cn
 127.0.0.1 akdie.xyz
 127.0.0.1 allcp.xyz
@@ -48,6 +50,7 @@
 127.0.0.1 asdyui16.cn
 127.0.0.1 b0ufmrzl.icu
 127.0.0.1 b4g7k9d2.com
+127.0.0.1 bace10.top
 127.0.0.1 bai128.xyz
 127.0.0.1 baiduapp.app
 127.0.0.1 baidudvbjkbssjvsvv.com
@@ -128,6 +131,7 @@
 127.0.0.1 cxsh.cn.com
 127.0.0.1 cyq3noz.icu
 127.0.0.1 d0lzq.com
+127.0.0.1 d3nfknbv.icu
 127.0.0.1 dadbj.cn
 127.0.0.1 dadde.cn
 127.0.0.1 dadms.cn
@@ -344,6 +348,7 @@
 127.0.0.1 jujcjz.xyz
 127.0.0.1 jutwzssh.icu
 127.0.0.1 jvjlkih.com
+127.0.0.1 jwylcrb.cn
 127.0.0.1 jxmiyrh.icu
 127.0.0.1 jxtejf.xyz
 127.0.0.1 jygiizv.icu
@@ -391,6 +396,7 @@
 127.0.0.1 legopq.site
 127.0.0.1 lestv1.icu
 127.0.0.1 lfjtiuy.cn
+127.0.0.1 lgoewtd.icu
 127.0.0.1 lgohse.fun
 127.0.0.1 lgoseh.fun
 127.0.0.1 lhgwcvw.cn
@@ -482,6 +488,7 @@
 127.0.0.1 oslbahk.top
 127.0.0.1 ossfile001.com
 127.0.0.1 owlinggnomist.com
+127.0.0.1 oyfnkle.cn
 127.0.0.1 p11q.cn
 127.0.0.1 p2kfynrr.icu
 127.0.0.1 p52q.cn
@@ -505,6 +512,7 @@
 127.0.0.1 pr88vhg.com
 127.0.0.1 prokyrn.icu
 127.0.0.1 pstvvb.xyz
+127.0.0.1 ptfxh.com
 127.0.0.1 ptmabek.cn
 127.0.0.1 puy2.cn
 127.0.0.1 pypwxvo.cn
@@ -520,6 +528,7 @@
 127.0.0.1 qrirud.xyz
 127.0.0.1 qselic.top
 127.0.0.1 qslbahy.top
+127.0.0.1 qtienly.top
 127.0.0.1 qucncfo.cn
 127.0.0.1 qwdbsjnql.com
 127.0.0.1 r5dfwjtb.icu
@@ -560,6 +569,7 @@
 127.0.0.1 sd01you.com
 127.0.0.1 sdchb2.com
 127.0.0.1 sdfgbuy.com
+127.0.0.1 sdfyiu.com
 127.0.0.1 sdvfvgj.cn
 127.0.0.1 sensifyfugged.com
 127.0.0.1 sfg11rr.com
@@ -724,6 +734,7 @@
 127.0.0.1 yzllux.xyz
 127.0.0.1 z3yfkdjd.icu
 127.0.0.1 zbx01.com
+127.0.0.1 zbzbzb.xyz
 127.0.0.1 zcbfjd.xyz
 127.0.0.1 zcvyzsyd.icu
 127.0.0.1 zddpnf.xyz
@@ -749,6 +760,7 @@
 127.0.0.1 zpotkvpy.icu
 127.0.0.1 zpsovpgyk.xyz
 127.0.0.1 zszhln.xyz
+127.0.0.1 ztqdkzn.cn
 127.0.0.1 zvasuzb.icu
 127.0.0.1 zwfkxb.xyz
 127.0.0.1 zxrcfw.com
@@ -4067,6 +4079,7 @@
 127.0.0.1 d15cjcet1djbmv.cloudfront.net
 127.0.0.1 d26yfyk0ym2k1u.cloudfront.net
 127.0.0.1 d32bug9eb0g0bh.cloudfront.net
+127.0.0.1 d37d9zbli5ytch.cloudfront.net
 127.0.0.1 d3t3z4teexdk2r.cloudfront.net
 127.0.0.1 darren01.oss-cn-beijing.aliyuncs.com
 127.0.0.1 dingbu.bj.bcebos.com
