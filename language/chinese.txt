@@ -221,6 +221,7 @@
 127.0.0.1 foirkrt.icu
 127.0.0.1 frrhdl.xyz
 127.0.0.1 frsejhged.xyz
+127.0.0.1 fsjjrbz.cn
 127.0.0.1 fszpzd.xyz
 127.0.0.1 fuliwang.cc
 127.0.0.1 fvxlhn.xyz
@@ -531,6 +532,8 @@
 127.0.0.1 qtienly.top
 127.0.0.1 qucncfo.cn
 127.0.0.1 qwdbsjnql.com
+127.0.0.1 qxakzox.cn
+127.0.0.1 qxrvmu.com
 127.0.0.1 r5dfwjtb.icu
 127.0.0.1 rabuagc.cn
 127.0.0.1 rbodwtj.icu
@@ -662,12 +665,14 @@
 127.0.0.1 vpsgu.cn
 127.0.0.1 vrlvnz.xyz
 127.0.0.1 vrr.name
+127.0.0.1 vswswlz.icu
 127.0.0.1 vujzkkz.cn
 127.0.0.1 vvdzucs.cn
 127.0.0.1 vvwuqxp.icu
 127.0.0.1 vvxhth.xyz
 127.0.0.1 vwfppr.xyz
 127.0.0.1 vxhtxt.xyz
+127.0.0.1 vyreat.icu
 127.0.0.1 vzvvifw.cn
 127.0.0.1 wcv68kw.com
 127.0.0.1 wddsva0.com
@@ -739,6 +744,7 @@
 127.0.0.1 zcvyzsyd.icu
 127.0.0.1 zddpnf.xyz
 127.0.0.1 zdwykjd.icu
+127.0.0.1 zents10.top
 127.0.0.1 zents7.top
 127.0.0.1 zerolcp.cn
 127.0.0.1 zexfzson.icu
@@ -754,6 +760,7 @@
 127.0.0.1 zgwsnw.xyz
 127.0.0.1 zifyeldq.top
 127.0.0.1 ziravd.xyz
+127.0.0.1 zlbcxr.xyz
 127.0.0.1 zmdjbl.xyz
 127.0.0.1 znyjmbh.icu
 127.0.0.1 zonyff.xyz
