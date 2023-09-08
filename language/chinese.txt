@@ -147,6 +147,7 @@
 127.0.0.1 dd667788dd.com
 127.0.0.1 dd778899dd.com
 127.0.0.1 ddush.xyz
+127.0.0.1 degjidp.icu
 127.0.0.1 dehaer.site
 127.0.0.1 derew6xbsc.xyz
 127.0.0.1 desac7.icu
@@ -250,6 +251,7 @@
 127.0.0.1 hacde10.icu
 127.0.0.1 hacde3.icu
 127.0.0.1 haffo70.com
+127.0.0.1 haise10.top
 127.0.0.1 hanwdsii.com
 127.0.0.1 hasgde.site
 127.0.0.1 hbqabbg.cn
@@ -298,6 +300,8 @@
 127.0.0.1 hujunhao.name
 127.0.0.1 hummingexam.com
 127.0.0.1 huoju.asia
+127.0.0.1 hvdath.xyz
+127.0.0.1 hwnod.xyz
 127.0.0.1 hxhohd.xyz
 127.0.0.1 hxinitv.icu
 127.0.0.1 hyeqp.xyz
@@ -372,6 +376,7 @@
 127.0.0.1 kmjndas.com
 127.0.0.1 kmnhgna.com
 127.0.0.1 knjmhmk.com
+127.0.0.1 knliylh.cn
 127.0.0.1 kodfn.xyz
 127.0.0.1 koljnda.com
 127.0.0.1 kqubxdb.cn
@@ -428,6 +433,7 @@
 127.0.0.1 lwide.xyz
 127.0.0.1 lycjsix.cn
 127.0.0.1 lzmvcrp.icu
+127.0.0.1 mdhxyhl.cn
 127.0.0.1 mdwhxw.com
 127.0.0.1 metaversemolecule.com
 127.0.0.1 mh616.org
@@ -579,6 +585,7 @@
 127.0.0.1 shulsbs.cn
 127.0.0.1 simblotusitate.com
 127.0.0.1 sjbgyak.cn
+127.0.0.1 solaron.top
 127.0.0.1 sq59.cn
 127.0.0.1 ssdfgq7.com
 127.0.0.1 ssdtour.com
@@ -624,6 +631,7 @@
 127.0.0.1 tseda1.icu
 127.0.0.1 tseda6.icu
 127.0.0.1 tslbahi.top
+127.0.0.1 ttienli.top
 127.0.0.1 ttykabh.icu
 127.0.0.1 tuplzt.xyz
 127.0.0.1 tushwjp.icu
@@ -650,6 +658,7 @@
 127.0.0.1 uyq3ruf.icu
 127.0.0.1 v1gyb.xyz
 127.0.0.1 vcydyzd.icu
+127.0.0.1 vexilorath.com
 127.0.0.1 vfzfrx.xyz
 127.0.0.1 vghnnh.xyz
 127.0.0.1 vhjxrj.xyz
@@ -741,6 +750,7 @@
 127.0.0.1 zbx01.com
 127.0.0.1 zbzbzb.xyz
 127.0.0.1 zcbfjd.xyz
+127.0.0.1 zcgqsd.icu
 127.0.0.1 zcvyzsyd.icu
 127.0.0.1 zddpnf.xyz
 127.0.0.1 zdwykjd.icu
