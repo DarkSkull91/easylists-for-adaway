@@ -161,6 +161,7 @@
 127.0.0.1 dghkpp.xyz
 127.0.0.1 dhjrvj.xyz
 127.0.0.1 dhkipdsc.xyz
+127.0.0.1 dmvckj.icu
 127.0.0.1 dnceqzz.icu
 127.0.0.1 dnightwish.xyz
 127.0.0.1 dojyiu8.com
@@ -291,10 +292,12 @@
 127.0.0.1 hqgearb.icu
 127.0.0.1 hqzcths.cn
 127.0.0.1 hsadeg.site
+127.0.0.1 hsfbpp.xyz
 127.0.0.1 hslbahu.top
 127.0.0.1 hstbrt.xyz
 127.0.0.1 hthivr.xyz
 127.0.0.1 htienlu.top
+127.0.0.1 htseca.top
 127.0.0.1 huaxia.name
 127.0.0.1 hubiazhi.com
 127.0.0.1 hujunhao.name
@@ -311,6 +314,7 @@
 127.0.0.1 ihwdun.xyz
 127.0.0.1 ijgbuj.xyz
 127.0.0.1 ilade.xyz
+127.0.0.1 inowe.xyz
 127.0.0.1 iojnask.com
 127.0.0.1 ipadf.xyz
 127.0.0.1 iplm.cc
@@ -475,6 +479,7 @@
 127.0.0.1 nnqwe.xyz
 127.0.0.1 northcookie.xyz
 127.0.0.1 nqdufv.xyz
+127.0.0.1 nqoxurf.icu
 127.0.0.1 nryqr.cn
 127.0.0.1 nswtojdi.icu
 127.0.0.1 ntozchv.icu
@@ -651,6 +656,7 @@
 127.0.0.1 unjld.com
 127.0.0.1 uraseszincy.com
 127.0.0.1 uslbaht.top
+127.0.0.1 uuzwvqc.cn
 127.0.0.1 uwgnpkd.cn
 127.0.0.1 uxlqwra.cn
 127.0.0.1 uxmwh0f.xyz
