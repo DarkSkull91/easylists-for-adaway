@@ -48,6 +48,7 @@
 127.0.0.1 aqvwn18102h.com
 127.0.0.1 arpg2.com
 127.0.0.1 asdyui16.cn
+127.0.0.1 azukgee.cn
 127.0.0.1 b0ufmrzl.icu
 127.0.0.1 b4g7k9d2.com
 127.0.0.1 bace10.top
@@ -150,6 +151,7 @@
 127.0.0.1 degjidp.icu
 127.0.0.1 dehaer.site
 127.0.0.1 derew6xbsc.xyz
+127.0.0.1 desac10.icu
 127.0.0.1 desac7.icu
 127.0.0.1 destc8.icu
 127.0.0.1 dffrahax.com
@@ -245,6 +247,7 @@
 127.0.0.1 gvbhae0.com
 127.0.0.1 gw1jvhs.com
 127.0.0.1 gwrpceo.cn
+127.0.0.1 gxgbvmg.cn
 127.0.0.1 gyq3bew.icu
 127.0.0.1 gyqifa.com
 127.0.0.1 gyutmrp.com
@@ -304,6 +307,7 @@
 127.0.0.1 hummingexam.com
 127.0.0.1 huoju.asia
 127.0.0.1 hvdath.xyz
+127.0.0.1 hwfoct.icu
 127.0.0.1 hwnod.xyz
 127.0.0.1 hxhohd.xyz
 127.0.0.1 hxinitv.icu
@@ -357,6 +361,7 @@
 127.0.0.1 jujcjz.xyz
 127.0.0.1 jutwzssh.icu
 127.0.0.1 jvjlkih.com
+127.0.0.1 jweoe.xyz
 127.0.0.1 jwylcrb.cn
 127.0.0.1 jxmiyrh.icu
 127.0.0.1 jxtejf.xyz
@@ -506,6 +511,7 @@
 127.0.0.1 p52q.cn
 127.0.0.1 parnett55.xyz
 127.0.0.1 pbtsjh.xyz
+127.0.0.1 pchznf.xyz
 127.0.0.1 pcqsajr.icu
 127.0.0.1 pcvzpj.xyz
 127.0.0.1 pdjjrh.xyz
@@ -703,6 +709,7 @@
 127.0.0.1 wyq3rum.icu
 127.0.0.1 wzctuv.xyz
 127.0.0.1 x5hnj21.com
+127.0.0.1 xbyoujv.icu
 127.0.0.1 xccadc.com
 127.0.0.1 xckj0623.com
 127.0.0.1 xcvwrj.xyz
@@ -726,6 +733,7 @@
 127.0.0.1 xpcwrgy.cn
 127.0.0.1 xpicj1.cc
 127.0.0.1 xqblnei.cn
+127.0.0.1 xrb0owc.icu
 127.0.0.1 xtbzff.xyz
 127.0.0.1 xukang09.cn
 127.0.0.1 xukou.net
