@@ -117,6 +117,7 @@
 127.0.0.1 cdncloud.asia
 127.0.0.1 cfdns.vip
 127.0.0.1 cheda1.icu
+127.0.0.1 cheda10.icu
 127.0.0.1 cheda7.icu
 127.0.0.1 chiese.site
 127.0.0.1 chozarpeases.com
@@ -222,6 +223,7 @@
 127.0.0.1 fjsytjs.cn
 127.0.0.1 fjtroip.cn
 127.0.0.1 fmre1.com
+127.0.0.1 fngcgbl.icu
 127.0.0.1 foirkrt.icu
 127.0.0.1 frrhdl.xyz
 127.0.0.1 frsejhged.xyz
@@ -345,6 +347,7 @@
 127.0.0.1 jknnjk.com
 127.0.0.1 jmbluyxkl.xyz
 127.0.0.1 jnhgm.com
+127.0.0.1 jnp0kmm.icu
 127.0.0.1 jochenanabata.guru
 127.0.0.1 jokerlulm.com
 127.0.0.1 jothvz.xyz
@@ -373,6 +376,7 @@
 127.0.0.1 jzxpxj.xyz
 127.0.0.1 kahgjjd.com
 127.0.0.1 kasiklz.cc
+127.0.0.1 kcnwe.xyz
 127.0.0.1 kdvmnn.com
 127.0.0.1 kekop.cn
 127.0.0.1 kgeesh.site
@@ -414,6 +418,7 @@
 127.0.0.1 lgoewtd.icu
 127.0.0.1 lgohse.fun
 127.0.0.1 lgoseh.fun
+127.0.0.1 lguaud.icu
 127.0.0.1 lhgwcvw.cn
 127.0.0.1 lhiefl.com
 127.0.0.1 lhotajl.icu
@@ -539,6 +544,7 @@
 127.0.0.1 qezpjlp.cn
 127.0.0.1 qhjm600.com
 127.0.0.1 qhx1h2g.com
+127.0.0.1 qhxtzwf.cn
 127.0.0.1 qifyeldy.top
 127.0.0.1 qjekt0c.xyz
 127.0.0.1 qpztub.xyz
@@ -662,6 +668,7 @@
 127.0.0.1 unjld.com
 127.0.0.1 uraseszincy.com
 127.0.0.1 uslbaht.top
+127.0.0.1 utienlt.top
 127.0.0.1 uuzwvqc.cn
 127.0.0.1 uwgnpkd.cn
 127.0.0.1 uxlqwra.cn
@@ -725,6 +732,7 @@
 127.0.0.1 xkmwxwy.cn
 127.0.0.1 xlvqhx.xyz
 127.0.0.1 xmawwbz.icu
+127.0.0.1 xmjajv.xyz
 127.0.0.1 xmxupz.xyz
 127.0.0.1 xn--521-x72fh66s.cn
 127.0.0.1 xn--jvrp4x1zyfta.net
