@@ -414,6 +414,7 @@
 127.0.0.1 legdeh.fun
 127.0.0.1 legopq.site
 127.0.0.1 lestv1.icu
+127.0.0.1 lestv10.icu
 127.0.0.1 lfjtiuy.cn
 127.0.0.1 lgoewtd.icu
 127.0.0.1 lgohse.fun
@@ -447,6 +448,7 @@
 127.0.0.1 lwide.xyz
 127.0.0.1 lycjsix.cn
 127.0.0.1 lzmvcrp.icu
+127.0.0.1 m4pgay.com
 127.0.0.1 mdhxyhl.cn
 127.0.0.1 mdwhxw.com
 127.0.0.1 metaversemolecule.com
@@ -461,6 +463,7 @@
 127.0.0.1 mmtnat.com
 127.0.0.1 mnhknds.com
 127.0.0.1 mnpbxjq.cn
+127.0.0.1 mnzvtwd.cn
 127.0.0.1 moobtcnse.xyz
 127.0.0.1 mrqbuf.xyz
 127.0.0.1 mt4v4.com
@@ -526,6 +529,7 @@
 127.0.0.1 piqtpbxo.icu
 127.0.0.1 pirxzl.xyz
 127.0.0.1 pjsbuhl.icu
+127.0.0.1 pkjmmn.icu
 127.0.0.1 plbs9k.icu
 127.0.0.1 pmxalz.xyz
 127.0.0.1 pnhp3x1.com
@@ -540,7 +544,9 @@
 127.0.0.1 puy2.cn
 127.0.0.1 pypwxvo.cn
 127.0.0.1 pzjizsyf.icu
+127.0.0.1 pzqqstb.icu
 127.0.0.1 q27sz.com
+127.0.0.1 qbhmz3.com
 127.0.0.1 qezpjlp.cn
 127.0.0.1 qhjm600.com
 127.0.0.1 qhx1h2g.com
@@ -704,6 +710,7 @@
 127.0.0.1 vzvvifw.cn
 127.0.0.1 wcv68kw.com
 127.0.0.1 wddsva0.com
+127.0.0.1 whe0nqk.icu
 127.0.0.1 wlgxaij.cn
 127.0.0.1 wnzle.com
 127.0.0.1 wpoarjokzgi.com
@@ -746,6 +753,7 @@
 127.0.0.1 xukang09.cn
 127.0.0.1 xukou.net
 127.0.0.1 xuwfmhh.icu
+127.0.0.1 xwlyfl.xyz
 127.0.0.1 xwqtatnw.icu
 127.0.0.1 xwsqtngwa.xyz
 127.0.0.1 xxniln.xyz
