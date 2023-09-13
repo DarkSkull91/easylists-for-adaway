@@ -1,4 +1,5 @@
 127.0.0.1 1267a.xyz
+127.0.0.1 126ccb.xyz
 127.0.0.1 1378a.xyz
 127.0.0.1 1379a.xyz
 127.0.0.1 1u5gy.xyz
@@ -123,6 +124,7 @@
 127.0.0.1 chozarpeases.com
 127.0.0.1 ciadre.fun
 127.0.0.1 cix0wk.com
+127.0.0.1 cocloud.site
 127.0.0.1 connectreadoasis.com
 127.0.0.1 cqtlimi.cn
 127.0.0.1 csedasdme.xyz
@@ -218,6 +220,7 @@
 127.0.0.1 feiln.xyz
 127.0.0.1 fengyukun03.cn
 127.0.0.1 fgetmzx.icu
+127.0.0.1 fgnzdb.xyz
 127.0.0.1 fhglcpf.icu
 127.0.0.1 fiktvlnc.icu
 127.0.0.1 fjsytjs.cn
@@ -357,6 +360,7 @@
 127.0.0.1 jqkcett.icu
 127.0.0.1 jrltdiu.cn
 127.0.0.1 jrmrijv.icu
+127.0.0.1 jsgdvkjz.com
 127.0.0.1 jslbaha.top
 127.0.0.1 jszavs1.com
 127.0.0.1 jtbunh.xyz
@@ -369,6 +373,7 @@
 127.0.0.1 jxmiyrh.icu
 127.0.0.1 jxtejf.xyz
 127.0.0.1 jygiizv.icu
+127.0.0.1 jynthelon.com
 127.0.0.1 jyvith.xyz
 127.0.0.1 jzdgn.cn
 127.0.0.1 jzdwl4.cn
@@ -512,6 +517,7 @@
 127.0.0.1 oqyiapj.cn
 127.0.0.1 oslbahk.top
 127.0.0.1 ossfile001.com
+127.0.0.1 otienlk.top
 127.0.0.1 owlinggnomist.com
 127.0.0.1 oyfnkle.cn
 127.0.0.1 p11q.cn
@@ -563,6 +569,7 @@
 127.0.0.1 qwdbsjnql.com
 127.0.0.1 qxakzox.cn
 127.0.0.1 qxrvmu.com
+127.0.0.1 qzpbwq.com
 127.0.0.1 r5dfwjtb.icu
 127.0.0.1 rabuagc.cn
 127.0.0.1 rbodwtj.icu
@@ -605,6 +612,7 @@
 127.0.0.1 sdvfvgj.cn
 127.0.0.1 sensifyfugged.com
 127.0.0.1 sfg11rr.com
+127.0.0.1 sgeth7.icu
 127.0.0.1 shulsbs.cn
 127.0.0.1 simblotusitate.com
 127.0.0.1 sjbgyak.cn
@@ -659,6 +667,7 @@
 127.0.0.1 tuplzt.xyz
 127.0.0.1 tushwjp.icu
 127.0.0.1 tuwaqtjcood.com
+127.0.0.1 tuyyex.icu
 127.0.0.1 tvdpebx.cn
 127.0.0.1 tvrshv.xyz
 127.0.0.1 txcv68f.com
@@ -744,6 +753,7 @@
 127.0.0.1 xn--521-x72fh66s.cn
 127.0.0.1 xn--jvrp4x1zyfta.net
 127.0.0.1 xn--zw0autp42d.cn
+127.0.0.1 xolerkr.cn
 127.0.0.1 xopxptn.cn
 127.0.0.1 xpcwrgy.cn
 127.0.0.1 xpicj1.cc
@@ -774,6 +784,7 @@
 127.0.0.1 yuanxiang19.fun
 127.0.0.1 yuifgh.fun
 127.0.0.1 yunliunet.com
+127.0.0.1 yxvoud.com
 127.0.0.1 yyuivw6.com
 127.0.0.1 yzllux.xyz
 127.0.0.1 z3yfkdjd.icu
@@ -801,6 +812,7 @@
 127.0.0.1 zifyeldq.top
 127.0.0.1 ziravd.xyz
 127.0.0.1 zlbcxr.xyz
+127.0.0.1 zlyhslx.icu
 127.0.0.1 zmdjbl.xyz
 127.0.0.1 znyjmbh.icu
 127.0.0.1 zonyff.xyz
