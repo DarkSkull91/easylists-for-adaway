@@ -6657,7 +6657,6 @@
 127.0.0.1 startex3download.com
 127.0.0.1 startmode.biz
 127.0.0.1 startnewtab.com
-127.0.0.1 starzplay.com
 127.0.0.1 stat.ovh
 127.0.0.1 statdynamic.com
 127.0.0.1 statelycasimir.com

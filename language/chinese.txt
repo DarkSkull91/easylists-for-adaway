@@ -91,6 +91,7 @@
 127.0.0.1 bnds8.site
 127.0.0.1 bnfyzszm.icu
 127.0.0.1 bnrdnx.xyz
+127.0.0.1 boats8.top
 127.0.0.1 boewgph.icu
 127.0.0.1 botnrr.xyz
 127.0.0.1 boyidianqi.com.cn
@@ -228,6 +229,7 @@
 127.0.0.1 fmre1.com
 127.0.0.1 fngcgbl.icu
 127.0.0.1 foirkrt.icu
+127.0.0.1 fqpxzr.xyz
 127.0.0.1 frrhdl.xyz
 127.0.0.1 frsejhged.xyz
 127.0.0.1 fsjjrbz.cn
@@ -313,6 +315,7 @@
 127.0.0.1 huoju.asia
 127.0.0.1 hvdath.xyz
 127.0.0.1 hwfoct.icu
+127.0.0.1 hwivedn.icu
 127.0.0.1 hwnod.xyz
 127.0.0.1 hxhohd.xyz
 127.0.0.1 hxinitv.icu
@@ -502,6 +505,7 @@
 127.0.0.1 nswtojdi.icu
 127.0.0.1 ntozchv.icu
 127.0.0.1 nunxhv.com
+127.0.0.1 nwera.xyz
 127.0.0.1 nxhwvt.xyz
 127.0.0.1 oaclrst.cn
 127.0.0.1 oaihiiacb.com
@@ -535,6 +539,7 @@
 127.0.0.1 piqtpbxo.icu
 127.0.0.1 pirxzl.xyz
 127.0.0.1 pjsbuhl.icu
+127.0.0.1 pjy55d.com
 127.0.0.1 pkjmmn.icu
 127.0.0.1 plbs9k.icu
 127.0.0.1 pmxalz.xyz
@@ -543,6 +548,7 @@
 127.0.0.1 poqiod.com
 127.0.0.1 powedw.com
 127.0.0.1 pr88vhg.com
+127.0.0.1 procdn.asia
 127.0.0.1 prokyrn.icu
 127.0.0.1 pstvvb.xyz
 127.0.0.1 ptfxh.com
@@ -578,6 +584,7 @@
 127.0.0.1 rcblfd.xyz
 127.0.0.1 rdbousn.cn
 127.0.0.1 rddsjx.xyz
+127.0.0.1 rdpcom.com
 127.0.0.1 rdufuxr.icu
 127.0.0.1 recds7.icu
 127.0.0.1 relafp.xyz
@@ -607,6 +614,7 @@
 127.0.0.1 schedfi.com
 127.0.0.1 sd01you.com
 127.0.0.1 sdchb2.com
+127.0.0.1 sdcuo.com
 127.0.0.1 sdfgbuy.com
 127.0.0.1 sdfyiu.com
 127.0.0.1 sdvfvgj.cn
@@ -683,6 +691,7 @@
 127.0.0.1 unjld.com
 127.0.0.1 uraseszincy.com
 127.0.0.1 uslbaht.top
+127.0.0.1 uslsxe.com
 127.0.0.1 utienlt.top
 127.0.0.1 uuzwvqc.cn
 127.0.0.1 uwgnpkd.cn
@@ -737,6 +746,7 @@
 127.0.0.1 xckj0623.com
 127.0.0.1 xcvwrj.xyz
 127.0.0.1 xeghes.fun
+127.0.0.1 xeikwh.icu
 127.0.0.1 xeynozl.icu
 127.0.0.1 xhiit0n.xyz
 127.0.0.1 xhpghv.xyz
@@ -760,6 +770,7 @@
 127.0.0.1 xqblnei.cn
 127.0.0.1 xrb0owc.icu
 127.0.0.1 xtbzff.xyz
+127.0.0.1 xtjpdfr.cn
 127.0.0.1 xukang09.cn
 127.0.0.1 xukou.net
 127.0.0.1 xuwfmhh.icu
@@ -779,12 +790,14 @@
 127.0.0.1 yjnkas.com
 127.0.0.1 ykkbwdf.cn
 127.0.0.1 ymhyw6.lol
+127.0.0.1 yofprpv.cn
 127.0.0.1 yruws6.com
 127.0.0.1 yuanmengbi.com
 127.0.0.1 yuanxiang19.fun
 127.0.0.1 yuifgh.fun
 127.0.0.1 yunliunet.com
 127.0.0.1 yxvoud.com
+127.0.0.1 yyefao.com
 127.0.0.1 yyuivw6.com
 127.0.0.1 yzllux.xyz
 127.0.0.1 z3yfkdjd.icu
