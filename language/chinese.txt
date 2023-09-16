@@ -2,6 +2,8 @@
 127.0.0.1 126ccb.xyz
 127.0.0.1 1378a.xyz
 127.0.0.1 1379a.xyz
+127.0.0.1 155zn.com
+127.0.0.1 1jc5t.xyz
 127.0.0.1 1u5gy.xyz
 127.0.0.1 23dhj4q.com
 127.0.0.1 3337126.com
@@ -18,10 +20,13 @@
 127.0.0.1 4asfgyx.com
 127.0.0.1 52acc.cn
 127.0.0.1 52kuwang.cn
+127.0.0.1 54dbg.xyz
 127.0.0.1 5gg17gm.com
 127.0.0.1 5ggj5cp.com
 127.0.0.1 5lfgdju.com
 127.0.0.1 777aa999aa.com
+127.0.0.1 777zz777zz.com
+127.0.0.1 789peizi.com
 127.0.0.1 7xixi.site
 127.0.0.1 81wx.info
 127.0.0.1 8861198.com
@@ -42,6 +47,7 @@
 127.0.0.1 ajkjbcjbaaaed.com
 127.0.0.1 ajtdumo.cn
 127.0.0.1 akdie.xyz
+127.0.0.1 alemu4s.com
 127.0.0.1 allcp.xyz
 127.0.0.1 amerzbj.cn
 127.0.0.1 anwqj0i.xyz
@@ -119,6 +125,7 @@
 127.0.0.1 ccnim.xyz
 127.0.0.1 cdmjur.xyz
 127.0.0.1 cdncloud.asia
+127.0.0.1 ceshi1.ink
 127.0.0.1 cfdns.vip
 127.0.0.1 cheda1.icu
 127.0.0.1 cheda10.icu
@@ -156,6 +163,7 @@
 127.0.0.1 ddush.xyz
 127.0.0.1 degjidp.icu
 127.0.0.1 dehaer.site
+127.0.0.1 dektcvna.icu
 127.0.0.1 derew6xbsc.xyz
 127.0.0.1 desac10.icu
 127.0.0.1 desac7.icu
@@ -169,6 +177,7 @@
 127.0.0.1 dghkpp.xyz
 127.0.0.1 dhjrvj.xyz
 127.0.0.1 dhkipdsc.xyz
+127.0.0.1 diouy9cvtx.xyz
 127.0.0.1 dmvckj.icu
 127.0.0.1 dnceqzz.icu
 127.0.0.1 dnightwish.xyz
@@ -210,6 +219,7 @@
 127.0.0.1 eslbahw.top
 127.0.0.1 etienlw.top
 127.0.0.1 euitx.cn
+127.0.0.1 evb0gxo.icu
 127.0.0.1 evidhjksdtgyxrh.xyz
 127.0.0.1 ewfsef.com
 127.0.0.1 eyq3nog.icu
@@ -235,12 +245,14 @@
 127.0.0.1 frrhdl.xyz
 127.0.0.1 frsejhged.xyz
 127.0.0.1 fsjjrbz.cn
+127.0.0.1 fsmhub.icu
 127.0.0.1 fszpzd.xyz
 127.0.0.1 fuliwang.cc
 127.0.0.1 fvxlhn.xyz
 127.0.0.1 fwepd.xyz
 127.0.0.1 fwzvlp.xyz
 127.0.0.1 fxeaobv.icu
+127.0.0.1 gcbflvx.cn
 127.0.0.1 gdjme27.com
 127.0.0.1 ggdrfh5.com
 127.0.0.1 ggdumze.cn
@@ -354,6 +366,7 @@
 127.0.0.1 jjztrz.xyz
 127.0.0.1 jklhs7u.com
 127.0.0.1 jknnjk.com
+127.0.0.1 jkzbjv.xyz
 127.0.0.1 jmbluyxkl.xyz
 127.0.0.1 jnhgm.com
 127.0.0.1 jnp0kmm.icu
@@ -426,6 +439,7 @@
 127.0.0.1 legopq.site
 127.0.0.1 lestv1.icu
 127.0.0.1 lestv10.icu
+127.0.0.1 lestv7.icu
 127.0.0.1 lfjtiuy.cn
 127.0.0.1 lgoewtd.icu
 127.0.0.1 lgohse.fun
@@ -679,6 +693,7 @@
 127.0.0.1 tslbahi.top
 127.0.0.1 ttienli.top
 127.0.0.1 ttykabh.icu
+127.0.0.1 tuhzjrr.cn
 127.0.0.1 tuplzt.xyz
 127.0.0.1 tushwjp.icu
 127.0.0.1 tuwaqtjcood.com
@@ -717,6 +732,7 @@
 127.0.0.1 victoriajumpc.com
 127.0.0.1 vihppjk.cn
 127.0.0.1 vkjsnvk.com
+127.0.0.1 vktztp.xyz
 127.0.0.1 vlgkotr.cn
 127.0.0.1 vlujojf.icu
 127.0.0.1 vmdlxj.xyz
@@ -786,6 +802,7 @@
 127.0.0.1 xwqtatnw.icu
 127.0.0.1 xwsqtngwa.xyz
 127.0.0.1 xxniln.xyz
+127.0.0.1 xybnfn.xyz
 127.0.0.1 yac5t.cn
 127.0.0.1 yasg114.com
 127.0.0.1 ybcnvqf.cn
@@ -799,12 +816,14 @@
 127.0.0.1 yjnkas.com
 127.0.0.1 ykkbwdf.cn
 127.0.0.1 ymhyw6.lol
+127.0.0.1 ynfxxbp.xyz
 127.0.0.1 yofprpv.cn
 127.0.0.1 yruws6.com
 127.0.0.1 yuanmengbi.com
 127.0.0.1 yuanxiang19.fun
 127.0.0.1 yuifgh.fun
 127.0.0.1 yunliunet.com
+127.0.0.1 ywkkmze.cn
 127.0.0.1 yxvoud.com
 127.0.0.1 yyefao.com
 127.0.0.1 yyuivw6.com
@@ -847,10 +866,6 @@
 127.0.0.1 zwfkxb.xyz
 127.0.0.1 zxrcfw.com
 127.0.0.1 zypzzv.xyz
-127.0.0.1 diouy9cvtx.xyz
-127.0.0.1 54dbg.xyz
-127.0.0.1 xybnfn.xyz
-127.0.0.1 1jc5t.xyz
 127.0.0.1 zzisnvb.cn
 127.0.0.1 002777.xyz
 127.0.0.1 01v62.xyz
