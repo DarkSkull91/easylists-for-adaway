@@ -109,6 +109,7 @@
 127.0.0.1 bsbaswq.cn
 127.0.0.1 bslbahv.top
 127.0.0.1 btescs.fun
+127.0.0.1 btienlv.top
 127.0.0.1 btsvad8.com
 127.0.0.1 bttazsyk.icu
 127.0.0.1 bupidt.xyz
@@ -130,6 +131,7 @@
 127.0.0.1 cheda1.icu
 127.0.0.1 cheda10.icu
 127.0.0.1 cheda7.icu
+127.0.0.1 cheda8.icu
 127.0.0.1 chiese.site
 127.0.0.1 chozarpeases.com
 127.0.0.1 ciadre.fun
@@ -254,6 +256,7 @@
 127.0.0.1 fxeaobv.icu
 127.0.0.1 gcbflvx.cn
 127.0.0.1 gdjme27.com
+127.0.0.1 gdz0cqs.icu
 127.0.0.1 ggdrfh5.com
 127.0.0.1 ggdumze.cn
 127.0.0.1 gghmef7.com
@@ -353,6 +356,7 @@
 127.0.0.1 jakid.xyz
 127.0.0.1 janwzsqi.icu
 127.0.0.1 jayhou.top
+127.0.0.1 jcwtml.icu
 127.0.0.1 jdcnwd.com
 127.0.0.1 jgsajfggv.xyz
 127.0.0.1 jh16csf.com
@@ -401,8 +405,10 @@
 127.0.0.1 kahgjjd.com
 127.0.0.1 kasiklz.cc
 127.0.0.1 kcnwe.xyz
+127.0.0.1 kcqpvqr.cn
 127.0.0.1 kdvmnn.com
 127.0.0.1 kekop.cn
+127.0.0.1 kfjpren.xyz
 127.0.0.1 kgeesh.site
 127.0.0.1 kjvaqbyebqarl.top
 127.0.0.1 kklpe.xyz
@@ -659,6 +665,7 @@
 127.0.0.1 sxundrh.cn
 127.0.0.1 t2zfyxjj.icu
 127.0.0.1 tarqk5.com
+127.0.0.1 tbb0001.top
 127.0.0.1 tcuqqhj.icu
 127.0.0.1 termvb.xyz
 127.0.0.1 tfdmzsgy.icu
@@ -735,6 +742,7 @@
 127.0.0.1 vktztp.xyz
 127.0.0.1 vlgkotr.cn
 127.0.0.1 vlujojf.icu
+127.0.0.1 vmbzhfh.cn
 127.0.0.1 vmdlxj.xyz
 127.0.0.1 vnfsbl.xyz
 127.0.0.1 vpsgu.cn
@@ -742,6 +750,7 @@
 127.0.0.1 vrr.name
 127.0.0.1 vswswlz.icu
 127.0.0.1 vujzkkz.cn
+127.0.0.1 vuvxpf.xyz
 127.0.0.1 vvdzucs.cn
 127.0.0.1 vvwuqxp.icu
 127.0.0.1 vvxhth.xyz
@@ -4795,6 +4804,7 @@
 127.0.0.1 ca.yangshengtv.com
 127.0.0.1 car.qcmrjx.com
 127.0.0.1 cbdm.weathercn.com
+127.0.0.1 cc.8181zx.com
 127.0.0.1 cc.xiaodapei.com
 127.0.0.1 cc.xwscg.com
 127.0.0.1 cdgtw3.guapaijia.com
