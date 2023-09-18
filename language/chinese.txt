@@ -96,6 +96,7 @@
 127.0.0.1 bnds6.site
 127.0.0.1 bnds7.site
 127.0.0.1 bnds8.site
+127.0.0.1 bnets1.icu
 127.0.0.1 bnfyzszm.icu
 127.0.0.1 bnrdnx.xyz
 127.0.0.1 boats8.top
@@ -114,6 +115,7 @@
 127.0.0.1 bttazsyk.icu
 127.0.0.1 bupidt.xyz
 127.0.0.1 bxackzj.icu
+127.0.0.1 bxjhlhk.xyz
 127.0.0.1 byvlph.xyz
 127.0.0.1 bzxvtj.xyz
 127.0.0.1 c4d4.cn
@@ -136,6 +138,7 @@
 127.0.0.1 chozarpeases.com
 127.0.0.1 ciadre.fun
 127.0.0.1 cix0wk.com
+127.0.0.1 cnied.xyz
 127.0.0.1 cocloud.site
 127.0.0.1 connectreadoasis.com
 127.0.0.1 cqtlimi.cn
@@ -170,6 +173,7 @@
 127.0.0.1 desac10.icu
 127.0.0.1 desac7.icu
 127.0.0.1 destc8.icu
+127.0.0.1 dexylv.xyz
 127.0.0.1 dffrahax.com
 127.0.0.1 dfgpifa.com
 127.0.0.1 dfgwer.com
@@ -352,6 +356,8 @@
 127.0.0.1 iqgoukn.cn
 127.0.0.1 islbaho.top
 127.0.0.1 itienlo.top
+127.0.0.1 ixxoo.asia
+127.0.0.1 iyybqzv.cn
 127.0.0.1 j7ifivzy.icu
 127.0.0.1 jakid.xyz
 127.0.0.1 janwzsqi.icu
@@ -518,6 +524,7 @@
 127.0.0.1 nlvgxr.xyz
 127.0.0.1 nmdotj.xyz
 127.0.0.1 nmkghh.com
+127.0.0.1 nmlfev.icu
 127.0.0.1 nmssdbgmf.xyz
 127.0.0.1 nndzsw.com
 127.0.0.1 nndzsw1.com
@@ -663,6 +670,7 @@
 127.0.0.1 svarub.xyz
 127.0.0.1 svvev3.com
 127.0.0.1 sxundrh.cn
+127.0.0.1 szn0ehq.icu
 127.0.0.1 t2zfyxjj.icu
 127.0.0.1 tarqk5.com
 127.0.0.1 tbb0001.top
