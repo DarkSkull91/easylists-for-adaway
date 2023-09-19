@@ -6,6 +6,7 @@
 127.0.0.1 1jc5t.xyz
 127.0.0.1 1u5gy.xyz
 127.0.0.1 23dhj4q.com
+127.0.0.1 32ycta.xyz
 127.0.0.1 3337126.com
 127.0.0.1 3338637.com
 127.0.0.1 3338652.com
@@ -18,6 +19,7 @@
 127.0.0.1 3ad5iot.com
 127.0.0.1 3er88wn.com
 127.0.0.1 4asfgyx.com
+127.0.0.1 4l903.com
 127.0.0.1 52acc.cn
 127.0.0.1 52kuwang.cn
 127.0.0.1 54dbg.xyz
@@ -187,9 +189,11 @@
 127.0.0.1 dmvckj.icu
 127.0.0.1 dnceqzz.icu
 127.0.0.1 dnightwish.xyz
+127.0.0.1 dniwe.xyz
 127.0.0.1 dojyiu8.com
 127.0.0.1 donchen501.cn
 127.0.0.1 dosre12.xyz
+127.0.0.1 dozwjl.xyz
 127.0.0.1 dpbgnf.xyz
 127.0.0.1 dqjojx.xyz
 127.0.0.1 dsbjdeh.cn
@@ -531,6 +535,7 @@
 127.0.0.1 nnfyxd.xyz
 127.0.0.1 nnqwe.xyz
 127.0.0.1 northcookie.xyz
+127.0.0.1 npnzfri.xyz
 127.0.0.1 nqdufv.xyz
 127.0.0.1 nqoxurf.icu
 127.0.0.1 nryqr.cn
@@ -568,6 +573,7 @@
 127.0.0.1 pfhj89w.com
 127.0.0.1 pfqwbqs.cn
 127.0.0.1 pgght17.com
+127.0.0.1 pgpufyzi.xyz
 127.0.0.1 piqtpbxo.icu
 127.0.0.1 pirxzl.xyz
 127.0.0.1 pjsbuhl.icu
@@ -603,6 +609,7 @@
 127.0.0.1 qselic.top
 127.0.0.1 qslbahy.top
 127.0.0.1 qtienly.top
+127.0.0.1 qu96.com
 127.0.0.1 qucncfo.cn
 127.0.0.1 qwdbsjnql.com
 127.0.0.1 qxakzox.cn
@@ -626,6 +633,7 @@
 127.0.0.1 rilwzsit.icu
 127.0.0.1 riqmqrd.icu
 127.0.0.1 rixgpx.xyz
+127.0.0.1 rixqlvd.cn
 127.0.0.1 rjzqtz.xyz
 127.0.0.1 rlqoyht.icu
 127.0.0.1 ronbbf.xyz
@@ -637,6 +645,7 @@
 127.0.0.1 rtumdhdk.xyz
 127.0.0.1 rtumwzp.icu
 127.0.0.1 rvzlobj.cn
+127.0.0.1 rwarwf.icu
 127.0.0.1 rznscya.cn
 127.0.0.1 s2dcm.com
 127.0.0.1 sa8zdui.com
@@ -653,6 +662,7 @@
 127.0.0.1 sdvfvgj.cn
 127.0.0.1 sensifyfugged.com
 127.0.0.1 sfg11rr.com
+127.0.0.1 sgeth1.icu
 127.0.0.1 sgeth7.icu
 127.0.0.1 shulsbs.cn
 127.0.0.1 simblotusitate.com
@@ -769,6 +779,7 @@
 127.0.0.1 wcv68kw.com
 127.0.0.1 wddsva0.com
 127.0.0.1 whe0nqk.icu
+127.0.0.1 whjding.cn
 127.0.0.1 wlgxaij.cn
 127.0.0.1 wnzle.com
 127.0.0.1 wpoarjokzgi.com
@@ -835,6 +846,7 @@
 127.0.0.1 ymhyw6.lol
 127.0.0.1 ynfxxbp.xyz
 127.0.0.1 yofprpv.cn
+127.0.0.1 ypvtw.com
 127.0.0.1 yruws6.com
 127.0.0.1 yuanmengbi.com
 127.0.0.1 yuanxiang19.fun
