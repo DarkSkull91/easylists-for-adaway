@@ -92,7 +92,6 @@
 127.0.0.1 bkjlf58.com
 127.0.0.1 bleumzr.icu
 127.0.0.1 bmiea.xyz
-127.0.0.1 bmptbyb.com
 127.0.0.1 bmyrihf.icu
 127.0.0.1 bnds3.site
 127.0.0.1 bnds4.site
@@ -238,7 +237,6 @@
 127.0.0.1 eyq3nog.icu
 127.0.0.1 f1tfmxzg.icu
 127.0.0.1 fads315.com
-127.0.0.1 falsarywaybung.com
 127.0.0.1 fangcunzhijian1.cn
 127.0.0.1 fantuan.name
 127.0.0.1 fcbqxt.xyz
@@ -273,7 +271,6 @@
 127.0.0.1 gghmef7.com
 127.0.0.1 ghland.site
 127.0.0.1 gjipd.xyz
-127.0.0.1 gjkame6.com
 127.0.0.1 gkjmev3.com
 127.0.0.1 glhdan.site
 127.0.0.1 godni.xyz
@@ -507,7 +504,6 @@
 127.0.0.1 mkjnha.com
 127.0.0.1 mlstx.cn
 127.0.0.1 mmead.xyz
-127.0.0.1 mmtnat.com
 127.0.0.1 mnhknds.com
 127.0.0.1 mnpbxjq.cn
 127.0.0.1 mnzvtwd.cn
@@ -523,7 +519,6 @@
 127.0.0.1 ncgqmzm.cn
 127.0.0.1 ndqcz0e.xyz
 127.0.0.1 neghes.fun
-127.0.0.1 nektonsrutate.com
 127.0.0.1 ngbthf.xyz
 127.0.0.1 nhjkm.com
 127.0.0.1 nieae.xyz
@@ -564,7 +559,6 @@
 127.0.0.1 oslbahk.top
 127.0.0.1 ossfile001.com
 127.0.0.1 otienlk.top
-127.0.0.1 owlinggnomist.com
 127.0.0.1 oyfnkle.cn
 127.0.0.1 p11q.cn
 127.0.0.1 p2kfynrr.icu
@@ -712,7 +706,6 @@
 127.0.0.1 tlprlf.xyz
 127.0.0.1 tltyygb.cn
 127.0.0.1 tmwbszn.icu
-127.0.0.1 toastspinner.com
 127.0.0.1 tptp002.cfd
 127.0.0.1 tpvuxt.xyz
 127.0.0.1 tqdctl.xyz
@@ -726,7 +719,6 @@
 127.0.0.1 tuhzjrr.cn
 127.0.0.1 tuplzt.xyz
 127.0.0.1 tushwjp.icu
-127.0.0.1 tuwaqtjcood.com
 127.0.0.1 tuyyex.icu
 127.0.0.1 tvdpebx.cn
 127.0.0.1 tvrshv.xyz
@@ -906,6 +898,20 @@
 127.0.0.1 zxrcfw.com
 127.0.0.1 zypzzv.xyz
 127.0.0.1 zzisnvb.cn
+127.0.0.1 wiybthm.cn
+127.0.0.1 lzvjtxe.xyz
+127.0.0.1 tidvbj.xyz
+127.0.0.1 xu27r.com
+127.0.0.1 zkzpgz.icu
+127.0.0.1 rsde1.top
+127.0.0.1 ewzavfde.xyz
+127.0.0.1 fnitw.xyz
+127.0.0.1 clisatf.top
+127.0.0.1 wzguosutang.com
+127.0.0.1 gzdszb.cn
+127.0.0.1 cirruscarnival.com
+127.0.0.1 pelageforgers.com
+127.0.0.1 vuedivv.icu
 127.0.0.1 002777.xyz
 127.0.0.1 01v62.xyz
 127.0.0.1 0272aa.com
@@ -978,7 +984,6 @@
 127.0.0.1 188aaa.us
 127.0.0.1 199aaa.us
 127.0.0.1 1cdhf.top
-127.0.0.1 1kanz.cn
 127.0.0.1 1l1.cc
 127.0.0.1 1n4o.icu
 127.0.0.1 1porp.top
@@ -1243,7 +1248,6 @@
 127.0.0.1 abenshishabi.com
 127.0.0.1 abgxxc.com
 127.0.0.1 accid.xyz
-127.0.0.1 accommodatingremindauntie.com
 127.0.0.1 aceik.xyz
 127.0.0.1 acqc9.com
 127.0.0.1 acsc10.com
@@ -1251,7 +1255,6 @@
 127.0.0.1 ad2023.site
 127.0.0.1 adbtwyxl96.fun
 127.0.0.1 adcd7.com
-127.0.0.1 additionsmiracle.com
 127.0.0.1 adelaideceliacd.com
 127.0.0.1 adfec3.com
 127.0.0.1 adkisdh3897.xyz
@@ -1361,7 +1364,6 @@
 127.0.0.1 baidutm999.xyz
 127.0.0.1 baiduwudi929.xyz
 127.0.0.1 baitu1llbkotsfthllcjeg.com
-127.0.0.1 balspaulite.com
 127.0.0.1 banhui.xyz
 127.0.0.1 banlisgv.fun
 127.0.0.1 bapdkgmvn.xyz
@@ -1398,7 +1400,6 @@
 127.0.0.1 bgbyzv.xyz
 127.0.0.1 bgnlaigv.fun
 127.0.0.1 bh2q.fun
-127.0.0.1 bharalhallahs.com
 127.0.0.1 bhcnmrn.icu
 127.0.0.1 bhcwr.cn
 127.0.0.1 bhduan.xyz
@@ -1556,7 +1557,6 @@
 127.0.0.1 clw99.mobi
 127.0.0.1 cmci5cape.icu
 127.0.0.1 cnnanxing.mobi
-127.0.0.1 cnredg.xyz
 127.0.0.1 cnshiw2.com
 127.0.0.1 cnucpaq.xyz
 127.0.0.1 cofz9.top
@@ -1656,7 +1656,6 @@
 127.0.0.1 dertyhsf.xyz
 127.0.0.1 destc10.icu
 127.0.0.1 deude.ltd
-127.0.0.1 devofei.xyz
 127.0.0.1 dewalt-sales.com
 127.0.0.1 dezstd.xyz
 127.0.0.1 df5b.top
@@ -2093,7 +2092,6 @@
 127.0.0.1 hesramfi.com
 127.0.0.1 hevuabv.cn
 127.0.0.1 hezlqmwm.com
-127.0.0.1 hffxc.com
 127.0.0.1 hfhytx.xyz
 127.0.0.1 hfjsbf.xyz
 127.0.0.1 hfk7j.top
@@ -2281,7 +2279,6 @@
 127.0.0.1 j04r.top
 127.0.0.1 j1p6w.xyz
 127.0.0.1 j721s.top
-127.0.0.1 j8jp.com
 127.0.0.1 jaowd.xyz
 127.0.0.1 japsmna.cyou
 127.0.0.1 javddngx.cyou
@@ -2610,11 +2607,9 @@
 127.0.0.1 lnzjlr.xyz
 127.0.0.1 lo9b.top
 127.0.0.1 lobqpt.xyz
-127.0.0.1 loganfeels.com
 127.0.0.1 loispp.com
 127.0.0.1 looktt.xyz
 127.0.0.1 loopd.cyou
-127.0.0.1 lopqrx.xyz
 127.0.0.1 lorenop.icu
 127.0.0.1 love-yy.company
 127.0.0.1 lpaehxw.cn
@@ -2842,7 +2837,6 @@
 127.0.0.1 nqnggnsc.fun
 127.0.0.1 nqyz.tw
 127.0.0.1 nrjzkj.cn
-127.0.0.1 nsfdsa.xyz
 127.0.0.1 nsnignsc.xyz
 127.0.0.1 nsnoownmc.fun
 127.0.0.1 nsweq.xyz
@@ -3041,10 +3035,8 @@
 127.0.0.1 pqldzp.xyz
 127.0.0.1 pqomnfbg.com
 127.0.0.1 pqxyqq.com
-127.0.0.1 printsmull.com
 127.0.0.1 prju.top
 127.0.0.1 prlioxb.cn
-127.0.0.1 prplads.com
 127.0.0.1 prtlth.xyz
 127.0.0.1 ps123.online
 127.0.0.1 psvvzb.xyz
@@ -3236,7 +3228,6 @@
 127.0.0.1 rmqz.xyz
 127.0.0.1 rnajhyd.xyz
 127.0.0.1 rnhqxh.com
-127.0.0.1 robberyinscription.com
 127.0.0.1 roeaasi.cyou
 127.0.0.1 rooby.cyou
 127.0.0.1 rou1.xyz
@@ -3258,7 +3249,6 @@
 127.0.0.1 rsnignsz.xyz
 127.0.0.1 rsnoownmz.fun
 127.0.0.1 rss9f.top
-127.0.0.1 rszqtry.cn
 127.0.0.1 rtcegcp.cn
 127.0.0.1 rtdxqq.com
 127.0.0.1 rthmnj.xyz
@@ -3270,7 +3260,6 @@
 127.0.0.1 rulwph.xyz
 127.0.0.1 runn.fun
 127.0.0.1 ruohe.fun
-127.0.0.1 rusticaula.com
 127.0.0.1 ruyqiolnz.cyou
 127.0.0.1 rvlgrb.xyz
 127.0.0.1 rwadakesz.cyou
@@ -3449,7 +3438,6 @@
 127.0.0.1 tfaftemail.com
 127.0.0.1 tfallview.live
 127.0.0.1 tfations.live
-127.0.0.1 tfbulkidn.com
 127.0.0.1 tfcoverss.live
 127.0.0.1 tffindmarket.live
 127.0.0.1 tffulllist.shop
@@ -3472,7 +3460,6 @@
 127.0.0.1 thvx9i.icu
 127.0.0.1 tian-ting.ink
 127.0.0.1 tianlaoyyds.com
-127.0.0.1 tianmel.xyz
 127.0.0.1 tifpjz.xyz
 127.0.0.1 timothy.wang
 127.0.0.1 tingchen.xyz
@@ -3490,7 +3477,6 @@
 127.0.0.1 toijr.xyz
 127.0.0.1 topboo.xyz
 127.0.0.1 torwq.xyz
-127.0.0.1 toskmisway.com
 127.0.0.1 touwengyyds.com
 127.0.0.1 tpjmqq.com
 127.0.0.1 tprwnvk.cn
@@ -3498,7 +3484,6 @@
 127.0.0.1 tqdpqq.com
 127.0.0.1 tqnggnsi.fun
 127.0.0.1 traktalent.com
-127.0.0.1 travescorylus.com
 127.0.0.1 trfmxf.xyz
 127.0.0.1 troxa.xyz
 127.0.0.1 trp69.top
@@ -3662,7 +3647,6 @@
 127.0.0.1 viope.cyou
 127.0.0.1 vipzhuan.xyz
 127.0.0.1 viroffyy.com
-127.0.0.1 vizacasa.xyz
 127.0.0.1 vj1p.xyz
 127.0.0.1 vjhjxh.xyz
 127.0.0.1 vk9f.top
@@ -3702,7 +3686,6 @@
 127.0.0.1 w4jz.top
 127.0.0.1 w80n.fun
 127.0.0.1 w9f1r.top
-127.0.0.1 wagepulsate.com
 127.0.0.1 wangyun01.cn
 127.0.0.1 wangzezhong.top
 127.0.0.1 wangzhe.cx
@@ -3762,7 +3745,6 @@
 127.0.0.1 wocexaa.cn
 127.0.0.1 wocoqs.xyz
 127.0.0.1 wodw0.xyz
-127.0.0.1 wooledswards.com
 127.0.0.1 worjeklmq.com
 127.0.0.1 wosidnlkxq.com
 127.0.0.1 wotui.ltd
@@ -4217,10 +4199,7 @@
 127.0.0.1 chushoushijian.cn
 127.0.0.1 cpro.baidu.com
 127.0.0.1 d15cjcet1djbmv.cloudfront.net
-127.0.0.1 d26yfyk0ym2k1u.cloudfront.net
-127.0.0.1 d32bug9eb0g0bh.cloudfront.net
 127.0.0.1 d37d9zbli5ytch.cloudfront.net
-127.0.0.1 d3t3z4teexdk2r.cloudfront.net
 127.0.0.1 darren01.oss-cn-beijing.aliyuncs.com
 127.0.0.1 dingbu.bj.bcebos.com
 127.0.0.1 dmg-dd.oss-accelerate.aliyuncs.com
@@ -4771,7 +4750,6 @@
 127.0.0.1 bd.watu.cn
 127.0.0.1 bd1-china.6789.com
 127.0.0.1 bd1.365qilu.com
-127.0.0.1 bd1.99danji.com
 127.0.0.1 bd1.click.com.cn
 127.0.0.1 bd1.flfgw.cn
 127.0.0.1 bd1.guancha.cn
