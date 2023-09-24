@@ -1,4 +1,5 @@
 127.0.0.1 023best.cn
+127.0.0.1 110628.cn
 127.0.0.1 1267a.xyz
 127.0.0.1 126ccb.xyz
 127.0.0.1 1378a.xyz
@@ -62,6 +63,7 @@
 127.0.0.1 aqvwn18102h.com
 127.0.0.1 arpg2.com
 127.0.0.1 asdyui16.cn
+127.0.0.1 atdlbgx.xyz
 127.0.0.1 availablesshaother.com
 127.0.0.1 azukgee.cn
 127.0.0.1 b0ufmrzl.icu
@@ -98,6 +100,7 @@
 127.0.0.1 bkjlf58.com
 127.0.0.1 bleumzr.icu
 127.0.0.1 bmiea.xyz
+127.0.0.1 bmjvrf.xyz
 127.0.0.1 bmyrihf.icu
 127.0.0.1 bnds3.site
 127.0.0.1 bnds4.site
@@ -149,9 +152,11 @@
 127.0.0.1 cirruscarnival.com
 127.0.0.1 cix0wk.com
 127.0.0.1 clisatf.top
+127.0.0.1 cmbmtpjm.xyz
 127.0.0.1 cnied.xyz
 127.0.0.1 cocloud.site
 127.0.0.1 connectreadoasis.com
+127.0.0.1 cqmpigx.cn
 127.0.0.1 cqtlimi.cn
 127.0.0.1 crvbnac.xyz
 127.0.0.1 csedasdme.xyz
@@ -183,6 +188,7 @@
 127.0.0.1 dektcvna.icu
 127.0.0.1 derew6xbsc.xyz
 127.0.0.1 desac10.icu
+127.0.0.1 desac4.icu
 127.0.0.1 desac7.icu
 127.0.0.1 destc8.icu
 127.0.0.1 dexylv.xyz
@@ -384,6 +390,7 @@
 127.0.0.1 janwzsqi.icu
 127.0.0.1 jayhou.top
 127.0.0.1 jcwtml.icu
+127.0.0.1 jczunp.xyz
 127.0.0.1 jdcnwd.com
 127.0.0.1 jgsajfggv.xyz
 127.0.0.1 jh16csf.com
@@ -814,6 +821,7 @@
 127.0.0.1 wddsva0.com
 127.0.0.1 whe0nqk.icu
 127.0.0.1 whjding.cn
+127.0.0.1 winzid.icu
 127.0.0.1 wiybthm.cn
 127.0.0.1 wlgxaij.cn
 127.0.0.1 wnzle.com
@@ -5009,6 +5017,7 @@
 127.0.0.1 ios.426g.com
 127.0.0.1 ipssss.com
 127.0.0.1 iuou.myadobe.cn
+127.0.0.1 iuou.ysw365.com
 127.0.0.1 j.baminw.cn
 127.0.0.1 j.diangon.com
 127.0.0.1 j1.piaobing.com

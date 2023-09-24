@@ -20,6 +20,7 @@
 127.0.0.1 plugin.management
 127.0.0.1 privacy-cdn.sixfifty.com
 127.0.0.1 privacy.digimedia.com
+127.0.0.1 privacy.wum.rocks
 127.0.0.1 smarteucookiebanner.upsell-apps.com
 127.0.0.1 truyoproductionuscdn.truyo.com
 127.0.0.1 webcache-eu.datareporter.eu
