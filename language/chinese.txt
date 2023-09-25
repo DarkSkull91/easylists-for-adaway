@@ -31,6 +31,7 @@
 127.0.0.1 777aa999aa.com
 127.0.0.1 777zz777zz.com
 127.0.0.1 789peizi.com
+127.0.0.1 7ohy3f.cn
 127.0.0.1 7xixi.site
 127.0.0.1 81wx.info
 127.0.0.1 8861198.com
@@ -62,6 +63,7 @@
 127.0.0.1 appaaaddd.com
 127.0.0.1 aqvwn18102h.com
 127.0.0.1 arpg2.com
+127.0.0.1 asclan.icu
 127.0.0.1 asdyui16.cn
 127.0.0.1 atdlbgx.xyz
 127.0.0.1 availablesshaother.com
@@ -427,6 +429,7 @@
 127.0.0.1 jutwzssh.icu
 127.0.0.1 jvjlkih.com
 127.0.0.1 jweoe.xyz
+127.0.0.1 jwltpv.xyz
 127.0.0.1 jwylcrb.cn
 127.0.0.1 jxmiyrh.icu
 127.0.0.1 jxtejf.xyz
@@ -474,6 +477,7 @@
 127.0.0.1 lamkghx.icu
 127.0.0.1 lanver.fun
 127.0.0.1 lbnqnp.xyz
+127.0.0.1 lctcbtly.xyz
 127.0.0.1 ldjhlqr.cn
 127.0.0.1 leadc4.icu
 127.0.0.1 legdeh.fun
@@ -529,6 +533,7 @@
 127.0.0.1 mkjnba.com
 127.0.0.1 mkjnbg.com
 127.0.0.1 mkjnha.com
+127.0.0.1 mlhdvjv.xyz
 127.0.0.1 mlstx.cn
 127.0.0.1 mmead.xyz
 127.0.0.1 mnhknds.com
@@ -542,6 +547,7 @@
 127.0.0.1 mvgucp.com
 127.0.0.1 naqiwjj.icu
 127.0.0.1 naryvz.xyz
+127.0.0.1 nba55.cc
 127.0.0.1 nbtfbb.xyz
 127.0.0.1 ncgqmzm.cn
 127.0.0.1 ndqcz0e.xyz
@@ -669,6 +675,7 @@
 127.0.0.1 rixqlvd.cn
 127.0.0.1 rjzqtz.xyz
 127.0.0.1 rlqoyht.icu
+127.0.0.1 rnfhsji.cn
 127.0.0.1 ronbbf.xyz
 127.0.0.1 rpyor0k.xyz
 127.0.0.1 rrxddl.xyz
@@ -686,6 +693,7 @@
 127.0.0.1 sacfasv.com
 127.0.0.1 sacre.cn
 127.0.0.1 sbcjahdc.com
+127.0.0.1 sbdvjsbjslkv.com
 127.0.0.1 sbeaje.com
 127.0.0.1 schedfi.com
 127.0.0.1 sd01you.com
@@ -803,6 +811,7 @@
 127.0.0.1 vmbzhfh.cn
 127.0.0.1 vmdlxj.xyz
 127.0.0.1 vnfsbl.xyz
+127.0.0.1 voxirf.xyz
 127.0.0.1 vpsgu.cn
 127.0.0.1 vrlvnz.xyz
 127.0.0.1 vrr.name
@@ -915,6 +924,7 @@
 127.0.0.1 zents10.top
 127.0.0.1 zents5.top
 127.0.0.1 zents7.top
+127.0.0.1 zents8.top
 127.0.0.1 zerolcp.cn
 127.0.0.1 zexfzson.icu
 127.0.0.1 zfcdirf.icu
