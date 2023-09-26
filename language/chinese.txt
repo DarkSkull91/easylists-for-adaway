@@ -31,6 +31,7 @@
 127.0.0.1 777aa999aa.com
 127.0.0.1 777zz777zz.com
 127.0.0.1 789peizi.com
+127.0.0.1 7i4dka.cn
 127.0.0.1 7ohy3f.cn
 127.0.0.1 7xixi.site
 127.0.0.1 81wx.info
@@ -184,6 +185,7 @@
 127.0.0.1 dcsxv.com
 127.0.0.1 dd667788dd.com
 127.0.0.1 dd778899dd.com
+127.0.0.1 ddlvpmt.xyz
 127.0.0.1 ddush.xyz
 127.0.0.1 degjidp.icu
 127.0.0.1 dehaer.site
@@ -229,6 +231,7 @@
 127.0.0.1 eamqbaqzaewwq.top
 127.0.0.1 ebscb0l.xyz
 127.0.0.1 ecami.xyz
+127.0.0.1 ecmwsx.icu
 127.0.0.1 eers0cy.com
 127.0.0.1 eexlgyn.cn
 127.0.0.1 eghyahl.cn
@@ -297,6 +300,7 @@
 127.0.0.1 gniew.xyz
 127.0.0.1 godni.xyz
 127.0.0.1 goingsranchange.com
+127.0.0.1 gqgfrgx.cn
 127.0.0.1 greatnumeric.com
 127.0.0.1 guke.name
 127.0.0.1 gvbhae0.com
@@ -312,9 +316,11 @@
 127.0.0.1 hacde3.icu
 127.0.0.1 haffo70.com
 127.0.0.1 haise10.top
+127.0.0.1 haise2.top
 127.0.0.1 haise8.top
 127.0.0.1 hanwdsii.com
 127.0.0.1 hasgde.site
+127.0.0.1 havttn.xyz
 127.0.0.1 hbqabbg.cn
 127.0.0.1 hbxhnqj.cn
 127.0.0.1 hdfdsdaw.com
@@ -446,6 +452,7 @@
 127.0.0.1 kcqpvqr.cn
 127.0.0.1 kdvmnn.com
 127.0.0.1 kekop.cn
+127.0.0.1 keptafd.cn
 127.0.0.1 kfjpren.xyz
 127.0.0.1 kgeesh.site
 127.0.0.1 kjvaqbyebqarl.top
@@ -649,6 +656,7 @@
 127.0.0.1 qtienly.top
 127.0.0.1 qu96.com
 127.0.0.1 qucncfo.cn
+127.0.0.1 quelorimu.com
 127.0.0.1 qwdbsjnql.com
 127.0.0.1 qxakzox.cn
 127.0.0.1 qxrvmu.com
@@ -683,6 +691,7 @@
 127.0.0.1 rssxsjh.icu
 127.0.0.1 rszkhn.xyz
 127.0.0.1 rtborp.xyz
+127.0.0.1 rtnuld.xyz
 127.0.0.1 rtumdhdk.xyz
 127.0.0.1 rtumwzp.icu
 127.0.0.1 rvzlobj.cn
@@ -784,6 +793,7 @@
 127.0.0.1 unmsrvh.cn
 127.0.0.1 uraseszincy.com
 127.0.0.1 uslbaht.top
+127.0.0.1 uslsjwnk.xyz
 127.0.0.1 uslsxe.com
 127.0.0.1 utienlt.top
 127.0.0.1 uuzwvqc.cn
@@ -794,7 +804,9 @@
 127.0.0.1 uyq3ruf.icu
 127.0.0.1 v1gyb.xyz
 127.0.0.1 vakdop.icu
+127.0.0.1 vanessajumpd.com
 127.0.0.1 vcydyzd.icu
+127.0.0.1 venum.top
 127.0.0.1 vexilorath.com
 127.0.0.1 vfzfrx.xyz
 127.0.0.1 vghkncbu.xyz
