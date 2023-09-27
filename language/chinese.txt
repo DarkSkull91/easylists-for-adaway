@@ -15,7 +15,9 @@
 127.0.0.1 3400.org
 127.0.0.1 35vc.com
 127.0.0.1 360114.xyz
+127.0.0.1 36gv.com
 127.0.0.1 36mghtd.xyz
+127.0.0.1 37dv.com
 127.0.0.1 38kmute.xyz
 127.0.0.1 39mydp.xyz
 127.0.0.1 3ad5iot.com
@@ -66,6 +68,8 @@
 127.0.0.1 arpg2.com
 127.0.0.1 asclan.icu
 127.0.0.1 asdyui16.cn
+127.0.0.1 asfklgnbvx.com
+127.0.0.1 asryrzpu.xyz
 127.0.0.1 atdlbgx.xyz
 127.0.0.1 availablesshaother.com
 127.0.0.1 azukgee.cn
@@ -113,6 +117,7 @@
 127.0.0.1 bnets1.icu
 127.0.0.1 bnfyzszm.icu
 127.0.0.1 bnrdnx.xyz
+127.0.0.1 boats5.top
 127.0.0.1 boats8.top
 127.0.0.1 boewgph.icu
 127.0.0.1 botnrr.xyz
@@ -132,6 +137,7 @@
 127.0.0.1 bxackzj.icu
 127.0.0.1 bxjhlhk.xyz
 127.0.0.1 byvlph.xyz
+127.0.0.1 bzthxv.xyz
 127.0.0.1 bzxvtj.xyz
 127.0.0.1 c4d4.cn
 127.0.0.1 c9r05q.com
@@ -383,6 +389,7 @@
 127.0.0.1 ihwdun.xyz
 127.0.0.1 ijgbuj.xyz
 127.0.0.1 ilade.xyz
+127.0.0.1 imbikh.icu
 127.0.0.1 inowe.xyz
 127.0.0.1 iojnask.com
 127.0.0.1 ipadf.xyz
@@ -447,6 +454,7 @@
 127.0.0.1 jzixypd.icu
 127.0.0.1 jzxpxj.xyz
 127.0.0.1 kahgjjd.com
+127.0.0.1 kanagi.xyz
 127.0.0.1 kasiklz.cc
 127.0.0.1 kcnwe.xyz
 127.0.0.1 kcqpvqr.cn
@@ -468,6 +476,7 @@
 127.0.0.1 kodfn.xyz
 127.0.0.1 koljnda.com
 127.0.0.1 kqubxdb.cn
+127.0.0.1 krjzxie.cn
 127.0.0.1 kslbahd.top
 127.0.0.1 ktienld.top
 127.0.0.1 kuxkddg.cn
@@ -513,6 +522,7 @@
 127.0.0.1 lknnbd.xyz
 127.0.0.1 llpuhx.xyz
 127.0.0.1 lmnpd.xyz
+127.0.0.1 lniwe.xyz
 127.0.0.1 lokindt.com
 127.0.0.1 lokngd.com
 127.0.0.1 lqjinx.xyz
@@ -635,6 +645,7 @@
 127.0.0.1 ptfxh.com
 127.0.0.1 ptmabek.cn
 127.0.0.1 puy2.cn
+127.0.0.1 pvlnjwr.xyz
 127.0.0.1 pypwxvo.cn
 127.0.0.1 pzjizsyf.icu
 127.0.0.1 pzqqstb.icu
@@ -648,6 +659,7 @@
 127.0.0.1 qhxtzwf.cn
 127.0.0.1 qifyeldy.top
 127.0.0.1 qjekt0c.xyz
+127.0.0.1 qpcvlbp.cn
 127.0.0.1 qpztub.xyz
 127.0.0.1 qqnde.xyz
 127.0.0.1 qrirud.xyz
@@ -670,6 +682,7 @@
 127.0.0.1 rdbousn.cn
 127.0.0.1 rddsjx.xyz
 127.0.0.1 rdpcom.com
+127.0.0.1 rdpsht.xyz
 127.0.0.1 rdufuxr.icu
 127.0.0.1 recds7.icu
 127.0.0.1 recds8.icu
