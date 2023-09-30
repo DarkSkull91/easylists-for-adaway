@@ -29,9 +29,11 @@
 127.0.0.1 52acc.cn
 127.0.0.1 52kuwang.cn
 127.0.0.1 54dbg.xyz
+127.0.0.1 591520.xyz
 127.0.0.1 5gg17gm.com
 127.0.0.1 5ggj5cp.com
 127.0.0.1 5lfgdju.com
+127.0.0.1 738atf.xyz
 127.0.0.1 777aa999aa.com
 127.0.0.1 777zz777zz.com
 127.0.0.1 789peizi.com
@@ -50,9 +52,11 @@
 127.0.0.1 a8age.com
 127.0.0.1 a9able.com
 127.0.0.1 aaenv48847h.com
+127.0.0.1 aaholidays.cn
 127.0.0.1 aapeople.cn
 127.0.0.1 abdluv.xyz
 127.0.0.1 abrnfctkn.xyz
+127.0.0.1 aelxock.cn
 127.0.0.1 afgp10l.com
 127.0.0.1 afxncq.com
 127.0.0.1 ajcode.co
@@ -141,10 +145,12 @@
 127.0.0.1 bwdiy.cn
 127.0.0.1 bxackzj.icu
 127.0.0.1 bxjhlhk.xyz
+127.0.0.1 bytupkvc.xyz
 127.0.0.1 byvlph.xyz
 127.0.0.1 bzthxv.xyz
 127.0.0.1 bzxvtj.xyz
 127.0.0.1 c4d4.cn
+127.0.0.1 c72w6.com
 127.0.0.1 c9r05q.com
 127.0.0.1 caider.fun
 127.0.0.1 canser1.top
@@ -169,6 +175,7 @@
 127.0.0.1 clisatf.top
 127.0.0.1 cmbmtpjm.xyz
 127.0.0.1 cnied.xyz
+127.0.0.1 cnskyline.top
 127.0.0.1 cocloud.site
 127.0.0.1 connectreadoasis.com
 127.0.0.1 cqmpigx.cn
@@ -255,6 +262,7 @@
 127.0.0.1 emailservcesonline.site
 127.0.0.1 enhad.xyz
 127.0.0.1 epoid.xyz
+127.0.0.1 epxprfk.xyz
 127.0.0.1 eraaoec.cn
 127.0.0.1 erfskhnpter.xyz
 127.0.0.1 erlirscid.com
@@ -352,6 +360,7 @@
 127.0.0.1 hgiaef.site
 127.0.0.1 hgjjk45.com
 127.0.0.1 hh6820123.com
+127.0.0.1 hhlsxp.xyz
 127.0.0.1 higefa.site
 127.0.0.1 hikykhz.icu
 127.0.0.1 hiqua.xyz
@@ -526,6 +535,7 @@
 127.0.0.1 lishuaibin.cn
 127.0.0.1 liugaohao.com
 127.0.0.1 livingshonghealth.com
+127.0.0.1 ljnrjt.xyz
 127.0.0.1 lkmhn.com
 127.0.0.1 lknhrnd.com
 127.0.0.1 lknnbd.xyz
@@ -611,11 +621,13 @@
 127.0.0.1 oaclrst.cn
 127.0.0.1 oaihiiacb.com
 127.0.0.1 obzthda.xyz
+127.0.0.1 oepce.xyz
 127.0.0.1 oifyeldk.top
 127.0.0.1 oijmds.com
 127.0.0.1 oiunga.com
 127.0.0.1 okmhmkjnm.com
 127.0.0.1 okmhnd.com
+127.0.0.1 oncgqzu.cn
 127.0.0.1 one6u.xyz
 127.0.0.1 oopej.xyz
 127.0.0.1 ooqwc.xyz
@@ -689,6 +701,7 @@
 127.0.0.1 qxrvmu.com
 127.0.0.1 qzpbwq.com
 127.0.0.1 r5dfwjtb.icu
+127.0.0.1 ra6.xyz
 127.0.0.1 rabuagc.cn
 127.0.0.1 rbodwtj.icu
 127.0.0.1 rbrbr88p.cn
@@ -745,6 +758,7 @@
 127.0.0.1 seynqt.icu
 127.0.0.1 sfg11rr.com
 127.0.0.1 sgeth1.icu
+127.0.0.1 sgeth3.icu
 127.0.0.1 sgeth7.icu
 127.0.0.1 shulsbs.cn
 127.0.0.1 sibehgtq.xyz
@@ -818,6 +832,7 @@
 127.0.0.1 uhwnrfu.cn
 127.0.0.1 ujgf120.com
 127.0.0.1 ujnkn.com
+127.0.0.1 ukpsal.icu
 127.0.0.1 ulojlvmejkaem.xyz
 127.0.0.1 unjld.com
 127.0.0.1 unmsrvh.cn
