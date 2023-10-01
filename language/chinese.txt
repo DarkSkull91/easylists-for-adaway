@@ -51,11 +51,14 @@
 127.0.0.1 9fgh98k.com
 127.0.0.1 a8age.com
 127.0.0.1 a9able.com
+127.0.0.1 aacoffee.cn
 127.0.0.1 aaenv48847h.com
 127.0.0.1 aaholidays.cn
 127.0.0.1 aapeople.cn
+127.0.0.1 aasingapore.cn
 127.0.0.1 abdluv.xyz
 127.0.0.1 abrnfctkn.xyz
+127.0.0.1 actdk.xyz
 127.0.0.1 aelxock.cn
 127.0.0.1 afgp10l.com
 127.0.0.1 afxncq.com
@@ -231,6 +234,7 @@
 127.0.0.1 dniwe.xyz
 127.0.0.1 dojyiu8.com
 127.0.0.1 donchen501.cn
+127.0.0.1 donghua.asia
 127.0.0.1 dosre12.xyz
 127.0.0.1 dozwjl.xyz
 127.0.0.1 dpbgnf.xyz
@@ -339,6 +343,7 @@
 127.0.0.1 haffo70.com
 127.0.0.1 haise10.top
 127.0.0.1 haise2.top
+127.0.0.1 haise6.top
 127.0.0.1 haise8.top
 127.0.0.1 hanwdsii.com
 127.0.0.1 hasgde.site
@@ -400,6 +405,7 @@
 127.0.0.1 hxhohd.xyz
 127.0.0.1 hxinitv.icu
 127.0.0.1 hyeqp.xyz
+127.0.0.1 hylaxngo.xyz
 127.0.0.1 hypwbv.xyz
 127.0.0.1 hzhabei.cn
 127.0.0.1 idynbff.cn
@@ -583,6 +589,7 @@
 127.0.0.1 mvamnng.cn
 127.0.0.1 mvgucp.com
 127.0.0.1 mwqucr.icu
+127.0.0.1 nafqioj.cn
 127.0.0.1 naqiwjj.icu
 127.0.0.1 naryvz.xyz
 127.0.0.1 nba55.cc
@@ -665,6 +672,7 @@
 127.0.0.1 poqiod.com
 127.0.0.1 powedw.com
 127.0.0.1 pr88vhg.com
+127.0.0.1 prntvf.xyz
 127.0.0.1 procdn.asia
 127.0.0.1 prokyrn.icu
 127.0.0.1 pstvvb.xyz
@@ -672,6 +680,7 @@
 127.0.0.1 ptmabek.cn
 127.0.0.1 puy2.cn
 127.0.0.1 pvlnjwr.xyz
+127.0.0.1 pxxcyni.cn
 127.0.0.1 pypwxvo.cn
 127.0.0.1 pzjizsyf.icu
 127.0.0.1 pzqqstb.icu
@@ -681,6 +690,7 @@
 127.0.0.1 qbhmz3.com
 127.0.0.1 qezpjlp.cn
 127.0.0.1 qgrnyis.cn
+127.0.0.1 qhbhlii.xyz
 127.0.0.1 qhjm600.com
 127.0.0.1 qhx1h2g.com
 127.0.0.1 qhxtzwf.cn
@@ -914,6 +924,7 @@
 127.0.0.1 xhpghv.xyz
 127.0.0.1 xiaoxiuapp.com
 127.0.0.1 xiaoy.name
+127.0.0.1 xibfnb.xyz
 127.0.0.1 xiezhuo038.cn
 127.0.0.1 xixrdn.xyz
 127.0.0.1 xjzyhp.xyz
@@ -962,6 +973,7 @@
 127.0.0.1 yruws6.com
 127.0.0.1 yuanmengbi.com
 127.0.0.1 yuanxiang19.fun
+127.0.0.1 yueesv.icu
 127.0.0.1 yuifgh.fun
 127.0.0.1 yunliunet.com
 127.0.0.1 ywkkmze.cn
