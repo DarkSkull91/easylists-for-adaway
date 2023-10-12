@@ -1,3 +1,4 @@
+127.0.0.1 1bctkn.xyz
 127.0.0.1 273knt.xyz
 127.0.0.1 88lajs3.com
 127.0.0.1 actrqdr.cn
@@ -8,16 +9,22 @@
 127.0.0.1 bnets9.icu
 127.0.0.1 boats4.top
 127.0.0.1 bydcxdy.cn
+127.0.0.1 cadizer.com
 127.0.0.1 ceiuip.icu
+127.0.0.1 cheda6.icu
 127.0.0.1 cjndvoglik.xyz
+127.0.0.1 crhabkd.cn
 127.0.0.1 cuvtnzv.cn
 127.0.0.1 ddvoht.xyz
 127.0.0.1 dhgfhedxx.xyz
 127.0.0.1 djiuss.cn
 127.0.0.1 dkvakldvnsv.com
+127.0.0.1 ebmlsvw.cn
 127.0.0.1 fastjs.org
 127.0.0.1 fkjsjwbs.xyz
 127.0.0.1 fzgetdy.cn
+127.0.0.1 gixgav.icu
+127.0.0.1 gmx22.top
 127.0.0.1 gmx23.top
 127.0.0.1 gmx24.top
 127.0.0.1 gmx27.top
@@ -33,6 +40,7 @@
 127.0.0.1 jlhlnd.xyz
 127.0.0.1 jndxsuy.xyz
 127.0.0.1 jofknbpe.xyz
+127.0.0.1 jvjmjt.xyz
 127.0.0.1 kvskknklssv.com
 127.0.0.1 kyikdee.cn
 127.0.0.1 kzprugp.xyz
@@ -49,6 +57,7 @@
 127.0.0.1 mmvjuti.cn
 127.0.0.1 mphhgat.xyz
 127.0.0.1 mwfyab.icu
+127.0.0.1 nangongmall.com
 127.0.0.1 neeujqf.cn
 127.0.0.1 negnixa.cn
 127.0.0.1 oapyrzde.xyz
@@ -66,6 +75,7 @@
 127.0.0.1 tcgaqh.icu
 127.0.0.1 thboxp.xyz
 127.0.0.1 trdmtx.xyz
+127.0.0.1 uahozcfq.xyz
 127.0.0.1 ukjwyv.icu
 127.0.0.1 ulrvkee.xyz
 127.0.0.1 uqeuxpl.cn
@@ -76,11 +86,13 @@
 127.0.0.1 vdggsd008.com
 127.0.0.1 vdggsd009.com
 127.0.0.1 vdggsd010.com
+127.0.0.1 vdggsd011.com
 127.0.0.1 vivienjumpe.com
 127.0.0.1 vttqld.xyz
 127.0.0.1 vxdpmxw.xyz
 127.0.0.1 wjoxqd.com
 127.0.0.1 wkrcbszi.xyz
+127.0.0.1 wrtjojn.xyz
 127.0.0.1 xcqbbcqpl.xyz
 127.0.0.1 xkfigjh.cn
 127.0.0.1 xmvmir.icu
