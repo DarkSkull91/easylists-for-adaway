@@ -1,9 +1,12 @@
 127.0.0.1 1bctkn.xyz
+127.0.0.1 20szp.com
+127.0.0.1 24w0p.com
 127.0.0.1 273knt.xyz
 127.0.0.1 88lajs3.com
 127.0.0.1 a4bj6.xyz
 127.0.0.1 actrqdr.cn
 127.0.0.1 agossuoeach.com
+127.0.0.1 aknkvallbfml.com
 127.0.0.1 anhlnnm.cn
 127.0.0.1 aueajkn.cn
 127.0.0.1 bbfnrn.xyz
@@ -30,6 +33,7 @@
 127.0.0.1 fzgetdy.cn
 127.0.0.1 gixgav.icu
 127.0.0.1 gizlnr.com
+127.0.0.1 gmx16.top
 127.0.0.1 gmx20.top
 127.0.0.1 gmx21.top
 127.0.0.1 gmx22.top
@@ -41,6 +45,7 @@
 127.0.0.1 gmx29.top
 127.0.0.1 gmx30.top
 127.0.0.1 haise3.top
+127.0.0.1 haise5.top
 127.0.0.1 hcqumrjbx.xyz
 127.0.0.1 hrtinqj.cn
 127.0.0.1 huhwllvk.xyz
@@ -61,6 +66,7 @@
 127.0.0.1 ldvnehc.xyz
 127.0.0.1 liuyi22.cn
 127.0.0.1 lkoqtvvajktpjsk.xyz
+127.0.0.1 llblwzg.xyz
 127.0.0.1 lnxpdj.xyz
 127.0.0.1 lovespenhas.com
 127.0.0.1 lwmzoaf.cn
@@ -72,6 +78,7 @@
 127.0.0.1 mmvjuti.cn
 127.0.0.1 mphhgat.xyz
 127.0.0.1 mqrupjsm.xyz
+127.0.0.1 mryqtym.cn
 127.0.0.1 mwfyab.icu
 127.0.0.1 nangongmall.com
 127.0.0.1 neeujqf.cn
@@ -81,6 +88,7 @@
 127.0.0.1 njtbiml.xyz
 127.0.0.1 oapyrzde.xyz
 127.0.0.1 ocwdkp.icu
+127.0.0.1 oprece.xyz
 127.0.0.1 orssengseen.com
 127.0.0.1 pexavfro.xyz
 127.0.0.1 pqjeoqa.cn
@@ -93,8 +101,10 @@
 127.0.0.1 roxewwq.cn
 127.0.0.1 rslkhj.xyz
 127.0.0.1 rvreuxi.cn
+127.0.0.1 rzflhxn.cn
 127.0.0.1 serda10.icu
 127.0.0.1 sgeth9.icu
+127.0.0.1 smlpcz.icu
 127.0.0.1 tcgaqh.icu
 127.0.0.1 thboxp.xyz
 127.0.0.1 trdmtx.xyz
@@ -112,6 +122,8 @@
 127.0.0.1 vdggsd011.com
 127.0.0.1 vdggsd012.com
 127.0.0.1 vdggsd013.com
+127.0.0.1 vdggsd014.com
+127.0.0.1 vgjaxnuw.xyz
 127.0.0.1 vivienjumpe.com
 127.0.0.1 vttqld.xyz
 127.0.0.1 vxdpmxw.xyz
@@ -130,6 +142,7 @@
 127.0.0.1 yhlzadr.xyz
 127.0.0.1 yhtpsy8888.cc
 127.0.0.1 yutiqf.icu
+127.0.0.1 z91f4.top
 127.0.0.1 zbxtcwi.xyz
 127.0.0.1 zchvyet.cn
 127.0.0.1 zents2.top
@@ -4163,6 +4176,7 @@
 127.0.0.1 djs.baomihua.com
 127.0.0.1 dms.fx678.com
 127.0.0.1 doubleclick.ctfile.com
+127.0.0.1 ds1.kaijia.com
 127.0.0.1 dsp.ali213.net
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 dvs.china.com
