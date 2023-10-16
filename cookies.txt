@@ -60,6 +60,7 @@
 127.0.0.1 consent.thecountrysmallholder.com
 127.0.0.1 consent.thegreatoutdoorsmag.com
 127.0.0.1 consent.unilad.com
+127.0.0.1 cookie-consent.festo.com
 127.0.0.1 cookies.lmt.lv
 127.0.0.1 fuse.forbes.com
 127.0.0.1 gdpr-api.sharethis.com
@@ -141,6 +142,7 @@
 127.0.0.1 consent.perry-rhodan.net
 127.0.0.1 consent.werner-mertz.de
 127.0.0.1 consent2.rheinische-anzeigenblaetter.de
+127.0.0.1 consenttool.haendlerbund.de
 127.0.0.1 cookies.ptj.de
 127.0.0.1 fc.vodafone.de
 127.0.0.1 up-cookiemon.wavecdn.net
