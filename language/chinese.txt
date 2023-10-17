@@ -8,10 +8,12 @@
 127.0.0.1 273knt.xyz
 127.0.0.1 88lajs3.com
 127.0.0.1 a4bj6.xyz
+127.0.0.1 aaknmt.icu
 127.0.0.1 actrqdr.cn
 127.0.0.1 agossuoeach.com
 127.0.0.1 aknkvallbfml.com
 127.0.0.1 anhlnnm.cn
+127.0.0.1 aniede.xyz
 127.0.0.1 athecsz.cn
 127.0.0.1 aueajkn.cn
 127.0.0.1 bbfnrn.xyz
@@ -40,8 +42,10 @@
 127.0.0.1 fzgetdy.cn
 127.0.0.1 gixgav.icu
 127.0.0.1 gizlnr.com
+127.0.0.1 gmx13.top
 127.0.0.1 gmx15.top
 127.0.0.1 gmx16.top
+127.0.0.1 gmx17.top
 127.0.0.1 gmx20.top
 127.0.0.1 gmx21.top
 127.0.0.1 gmx22.top
@@ -67,8 +71,10 @@
 127.0.0.1 jndxsuy.xyz
 127.0.0.1 jofknbpe.xyz
 127.0.0.1 jvjmjt.xyz
+127.0.0.1 knuaxfv.cn
 127.0.0.1 kshrsf.icu
 127.0.0.1 kvskknklssv.com
+127.0.0.1 kwtgntyu.xyz
 127.0.0.1 kyikdee.cn
 127.0.0.1 kzprugp.xyz
 127.0.0.1 ldvnehc.xyz
@@ -98,6 +104,7 @@
 127.0.0.1 ocwdkp.icu
 127.0.0.1 oprece.xyz
 127.0.0.1 orssengseen.com
+127.0.0.1 ovfvkfc.xyz
 127.0.0.1 pexavfro.xyz
 127.0.0.1 phwrju.xyz
 127.0.0.1 pqjeoqa.cn
@@ -107,6 +114,7 @@
 127.0.0.1 qwjtdcl.cn
 127.0.0.1 rcnldz.xyz
 127.0.0.1 rkds10.icu
+127.0.0.1 rkds5.icu
 127.0.0.1 roxewwq.cn
 127.0.0.1 rslkhj.xyz
 127.0.0.1 rvreuxi.cn
@@ -133,6 +141,7 @@
 127.0.0.1 vdggsd013.com
 127.0.0.1 vdggsd014.com
 127.0.0.1 vdggsd015.com
+127.0.0.1 vdggsd016.com
 127.0.0.1 vgjaxnuw.xyz
 127.0.0.1 vivienjumpe.com
 127.0.0.1 vttqld.xyz
@@ -156,6 +165,7 @@
 127.0.0.1 yhlzadr.xyz
 127.0.0.1 yhtpsy8888.cc
 127.0.0.1 yutiqf.icu
+127.0.0.1 z1wfe.top
 127.0.0.1 z91f4.top
 127.0.0.1 zbxtcwi.xyz
 127.0.0.1 zchvyet.cn
@@ -5034,6 +5044,7 @@
 127.0.0.1 xue.zbyw.cn
 127.0.0.1 xuexi.hydcd.com
 127.0.0.1 y.photoint.net
+127.0.0.1 y1.junshitt.com
 127.0.0.1 y1.spreton.com
 127.0.0.1 y66xvgo5i.chuimg.com
 127.0.0.1 yi.ximizi.com
