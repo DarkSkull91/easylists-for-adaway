@@ -7,6 +7,7 @@
 127.0.0.1 24w0p.com
 127.0.0.1 273knt.xyz
 127.0.0.1 44jui.top
+127.0.0.1 6528fdyngk.xyz
 127.0.0.1 6gcstb.xyz
 127.0.0.1 88lajs3.com
 127.0.0.1 a4bj6.xyz
@@ -20,6 +21,7 @@
 127.0.0.1 asfybkiy.xyz
 127.0.0.1 athecsz.cn
 127.0.0.1 aueajkn.cn
+127.0.0.1 awaw.asia
 127.0.0.1 bbfnrn.xyz
 127.0.0.1 beste3.icu
 127.0.0.1 bgbqfqwi.xyz
@@ -37,6 +39,7 @@
 127.0.0.1 cjndvoglik.xyz
 127.0.0.1 cmdcdacq.xyz
 127.0.0.1 cntc8.icu
+127.0.0.1 crazyit8.com
 127.0.0.1 crhabkd.cn
 127.0.0.1 cuvtnzv.cn
 127.0.0.1 ddvoht.xyz
@@ -86,6 +89,8 @@
 127.0.0.1 gmx46.top
 127.0.0.1 gmx47.top
 127.0.0.1 gmx48.top
+127.0.0.1 grthhr.xyz
+127.0.0.1 gslejoki.xyz
 127.0.0.1 gth112.com
 127.0.0.1 haise3.top
 127.0.0.1 haise4.top
@@ -109,8 +114,10 @@
 127.0.0.1 jofknbpe.xyz
 127.0.0.1 jvjmjt.xyz
 127.0.0.1 klfbnklddfbkn.com
+127.0.0.1 knhmgn.com
 127.0.0.1 knuaxfv.cn
 127.0.0.1 kshrsf.icu
+127.0.0.1 kvhee.com
 127.0.0.1 kvskknklssv.com
 127.0.0.1 kwtgntyu.xyz
 127.0.0.1 kyikdee.cn
@@ -133,6 +140,7 @@
 127.0.0.1 mfnfylx.xyz
 127.0.0.1 mhnzhlase.xyz
 127.0.0.1 mmvjuti.cn
+127.0.0.1 mnhncf.cn
 127.0.0.1 mphhgat.xyz
 127.0.0.1 mqrupjsm.xyz
 127.0.0.1 mryqtym.cn
@@ -140,11 +148,14 @@
 127.0.0.1 myyxox.icu
 127.0.0.1 nangongmall.com
 127.0.0.1 nbxymdy.cn
+127.0.0.1 ndvfwlv.cn
 127.0.0.1 neeujqf.cn
 127.0.0.1 negnixa.cn
 127.0.0.1 nerydw.xyz
 127.0.0.1 newpgqnfapkamg.xyz
 127.0.0.1 njtbiml.xyz
+127.0.0.1 nofizx.xyz
+127.0.0.1 nrzzaep.xyz
 127.0.0.1 oapyrzde.xyz
 127.0.0.1 ocwdkp.icu
 127.0.0.1 omzxutfm.com
@@ -228,9 +239,11 @@
 127.0.0.1 xxfphsg.cn
 127.0.0.1 xxkswdf.icu
 127.0.0.1 y341i.xyz
+127.0.0.1 ycmgeb.icu
 127.0.0.1 yepgdita.xyz
 127.0.0.1 yhlzadr.xyz
 127.0.0.1 yhtpsy8888.cc
+127.0.0.1 yuanxiab.cn
 127.0.0.1 yutiqf.icu
 127.0.0.1 yxrxsov.xyz
 127.0.0.1 z1wfe.top
@@ -240,6 +253,7 @@
 127.0.0.1 zcpsc.top
 127.0.0.1 zents2.top
 127.0.0.1 zzyy17.top
+127.0.0.1 zzyy18.top
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
