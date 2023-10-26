@@ -7,8 +7,10 @@
 127.0.0.1 24w0p.com
 127.0.0.1 273knt.xyz
 127.0.0.1 44jui.top
+127.0.0.1 5jzu5t.com
 127.0.0.1 6528fdyngk.xyz
 127.0.0.1 6gcstb.xyz
+127.0.0.1 888bb666cc.com
 127.0.0.1 88lajs3.com
 127.0.0.1 88lajs4.com
 127.0.0.1 a4bj6.xyz
@@ -44,16 +46,21 @@
 127.0.0.1 cntc8.icu
 127.0.0.1 crazyit8.com
 127.0.0.1 crhabkd.cn
+127.0.0.1 cthbini.xyz
 127.0.0.1 cuvtnzv.cn
 127.0.0.1 cxpjrqa.cn
+127.0.0.1 ddkh59.com
 127.0.0.1 ddvoht.xyz
 127.0.0.1 dhgfhedxx.xyz
 127.0.0.1 diaocaixiaq.cn
 127.0.0.1 djiuss.cn
 127.0.0.1 dkvakldvnsv.com
 127.0.0.1 dpj0uvy.icu
+127.0.0.1 dqlfabc.cn
 127.0.0.1 dqzehgha.xyz
+127.0.0.1 dsbfpt.xyz
 127.0.0.1 dumeia.cn
+127.0.0.1 dunrnd.com
 127.0.0.1 dvnqhdmze.xyz
 127.0.0.1 dwerzv.xyz
 127.0.0.1 ebmlsvw.cn
@@ -70,6 +77,7 @@
 127.0.0.1 fzgetdy.cn
 127.0.0.1 gejhhh.cn
 127.0.0.1 gelbjvl.cn
+127.0.0.1 ghbdsbfd.com
 127.0.0.1 gixgav.icu
 127.0.0.1 gizlnr.com
 127.0.0.1 gmx11.top
@@ -92,10 +100,12 @@
 127.0.0.1 gmx29.top
 127.0.0.1 gmx30.top
 127.0.0.1 gmx42.top
+127.0.0.1 gmx44.top
 127.0.0.1 gmx45.top
 127.0.0.1 gmx46.top
 127.0.0.1 gmx47.top
 127.0.0.1 gmx48.top
+127.0.0.1 gnuoipb.cn
 127.0.0.1 gqleov.icu
 127.0.0.1 grthhr.xyz
 127.0.0.1 gslejoki.xyz
@@ -110,6 +120,7 @@
 127.0.0.1 hrtinqj.cn
 127.0.0.1 huhwllvk.xyz
 127.0.0.1 hwuogmusthxfpk.xyz
+127.0.0.1 hynahyqq.xyz
 127.0.0.1 ibsea.cn
 127.0.0.1 icvsleec.xyz
 127.0.0.1 igkgag.xyz
@@ -124,7 +135,9 @@
 127.0.0.1 jndxsuy.xyz
 127.0.0.1 jnkmhn.com
 127.0.0.1 jofknbpe.xyz
+127.0.0.1 juljrd.xyz
 127.0.0.1 jvjmjt.xyz
+127.0.0.1 kaaqgf.icu
 127.0.0.1 klfbnklddfbkn.com
 127.0.0.1 knhmgn.com
 127.0.0.1 knuaxfv.cn
@@ -187,6 +200,7 @@
 127.0.0.1 psroyx.icu
 127.0.0.1 qauksl.icu
 127.0.0.1 qbhjokk.xyz
+127.0.0.1 qbswezw.cn
 127.0.0.1 qinjgh.icu
 127.0.0.1 qmoxxhc.cn
 127.0.0.1 qmwx4.xyz
@@ -210,6 +224,7 @@
 127.0.0.1 shipostrich.com
 127.0.0.1 shx11.xyz
 127.0.0.1 smlpcz.icu
+127.0.0.1 sregfle.cn
 127.0.0.1 tcgaqh.icu
 127.0.0.1 tdhlmto.cn
 127.0.0.1 thboxp.xyz
@@ -246,6 +261,7 @@
 127.0.0.1 wkrcbszi.xyz
 127.0.0.1 wqvbuj.icu
 127.0.0.1 wrtjojn.xyz
+127.0.0.1 wuruigroup.com
 127.0.0.1 wuyaw.cn
 127.0.0.1 wvtem.com
 127.0.0.1 xcqbbcqpl.xyz
