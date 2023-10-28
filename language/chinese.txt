@@ -25,6 +25,7 @@
 127.0.0.1 asfybkiy.xyz
 127.0.0.1 athecsz.cn
 127.0.0.1 aueajkn.cn
+127.0.0.1 avplwte.xyz
 127.0.0.1 awaw.asia
 127.0.0.1 bbfnrn.xyz
 127.0.0.1 beezwol.com
@@ -44,6 +45,7 @@
 127.0.0.1 cheda6.icu
 127.0.0.1 chrtds.xyz
 127.0.0.1 cjndvoglik.xyz
+127.0.0.1 cjohpsc.cn
 127.0.0.1 cmdcdacq.xyz
 127.0.0.1 cntc8.icu
 127.0.0.1 crazyit8.com
@@ -54,6 +56,7 @@
 127.0.0.1 dcdglb.xyz
 127.0.0.1 ddkh59.com
 127.0.0.1 ddvoht.xyz
+127.0.0.1 df-long.cn
 127.0.0.1 dhgfhedxx.xyz
 127.0.0.1 diaocaixiaq.cn
 127.0.0.1 djiuss.cn
@@ -103,6 +106,8 @@
 127.0.0.1 gmx28.top
 127.0.0.1 gmx29.top
 127.0.0.1 gmx30.top
+127.0.0.1 gmx38.top
+127.0.0.1 gmx41.top
 127.0.0.1 gmx42.top
 127.0.0.1 gmx43.top
 127.0.0.1 gmx44.top
@@ -162,8 +167,10 @@
 127.0.0.1 liuyuhuaa.cn
 127.0.0.1 lkoqtvvajktpjsk.xyz
 127.0.0.1 llblwzg.xyz
+127.0.0.1 lmfehr.xyz
 127.0.0.1 lnxpdj.xyz
 127.0.0.1 lovespenhas.com
+127.0.0.1 lryqef.xyz
 127.0.0.1 lwmzoaf.cn
 127.0.0.1 lwwlkj1.cn
 127.0.0.1 lxznbz.xyz
@@ -236,10 +243,13 @@
 127.0.0.1 shx11.xyz
 127.0.0.1 smlpcz.icu
 127.0.0.1 sregfle.cn
+127.0.0.1 suzoqz.icu
+127.0.0.1 syjkscy.cn
 127.0.0.1 tcgaqh.icu
 127.0.0.1 tdhlmto.cn
 127.0.0.1 thboxp.xyz
 127.0.0.1 tmlwvxae.xyz
+127.0.0.1 tongjiniao.com
 127.0.0.1 trdmtx.xyz
 127.0.0.1 tyuetxt.com
 127.0.0.1 uahozcfq.xyz
@@ -270,6 +280,7 @@
 127.0.0.1 whdwydt.cn
 127.0.0.1 wjoxqd.com
 127.0.0.1 wkrcbszi.xyz
+127.0.0.1 woxwhfdo.xyz
 127.0.0.1 wqvbuj.icu
 127.0.0.1 wrtjojn.xyz
 127.0.0.1 wuruigroup.com
