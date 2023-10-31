@@ -38,6 +38,7 @@
 127.0.0.1 11838aaad0.com
 127.0.0.1 11askdnalsd11.monster
 127.0.0.1 11ausdasd12.monster
+127.0.0.1 1239feffd9.com
 127.0.0.1 126bbdd6df.com
 127.0.0.1 12e42de17f.com
 127.0.0.1 12link.bonuscontract.com
@@ -835,6 +836,7 @@
 127.0.0.1 arcticclairvoyant.com
 127.0.0.1 areamindless.com
 127.0.0.1 arenitezill.com
+127.0.0.1 arfobkorfa.com
 127.0.0.1 arfycvxb.com
 127.0.0.1 argalsunclay.space
 127.0.0.1 argondenial.com
@@ -4194,6 +4196,7 @@
 127.0.0.1 kibejoyant.com
 127.0.0.1 kibycomaker.com
 127.0.0.1 kidskinnucleus.com
+127.0.0.1 kigcpofilaw.com
 127.0.0.1 kigvboadl.xyz
 127.0.0.1 kikckfirtss.com
 127.0.0.1 kilnedlucban.com
