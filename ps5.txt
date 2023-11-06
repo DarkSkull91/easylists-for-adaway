@@ -1,0 +1,4 @@
+127.0.0.1 *.update.playstation.net
+127.0.0.1 a01.cdn.update.playstation.org.edgesuite.net
+127.0.0.1 playstation.sony.akadns.net
+127.0.0.1 a192.d.akamai.net
