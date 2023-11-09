@@ -1,7 +1,10 @@
-127.0.0.1 fuk01.ps5.update.playstation.net
-127.0.0.1 duk01.ps5.update.playstation.net
-127.0.0.1 fus01.ps5.update.playstation.net
-127.0.0.1 al02.cdn.update.playstation.net
-127.0.0.1 a01.cdn.update.playstation.org.edgesuite.net
-127.0.0.1 playstation.sony.akadns.net
-127.0.0.1 a192.d.akamai.net
+duk01.ps5.update.playstation.net
+fuk01.ps5.update.playstation.net
+dus01.ps5.update.playstation.net
+fus01.ps5.update.playstation.net
+feu01.ps5.update.playstation.net
+dau01.ps5.update.playstation.net
+fau01.ps5.update.playstation.net
+djp01.ps5.update.playstation.net
+fjp01.ps5.update.playstation.net
+sgst.prod.dl.playstation.net
