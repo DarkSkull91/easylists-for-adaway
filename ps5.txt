@@ -1,10 +1,10 @@
-duk01.ps5.update.playstation.net
-fuk01.ps5.update.playstation.net
-dus01.ps5.update.playstation.net
-fus01.ps5.update.playstation.net
-feu01.ps5.update.playstation.net
-dau01.ps5.update.playstation.net
-fau01.ps5.update.playstation.net
-djp01.ps5.update.playstation.net
-fjp01.ps5.update.playstation.net
-sgst.prod.dl.playstation.net
+127.0.0.1 duk01.ps5.update.playstation.net
+127.0.0.1 fuk01.ps5.update.playstation.net
+127.0.0.1 dus01.ps5.update.playstation.net
+127.0.0.1 fus01.ps5.update.playstation.net
+127.0.0.1 feu01.ps5.update.playstation.net
+127.0.0.1 dau01.ps5.update.playstation.net
+127.0.0.1 fau01.ps5.update.playstation.net
+127.0.0.1 djp01.ps5.update.playstation.net
+127.0.0.1 fjp01.ps5.update.playstation.net
+127.0.0.1 sgst.prod.dl.playstation.net
