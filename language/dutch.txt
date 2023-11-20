@@ -2,6 +2,7 @@
 127.0.0.1 dntblckmpls.nl
 127.0.0.1 nojazz.eu
 127.0.0.1 viadata.store
+127.0.0.1 ads.nextday.media
 127.0.0.1 advertising-cdn.dpgmedia.cloud
 127.0.0.1 aa.tweakers.nl
 127.0.0.1 content1.pcmweb.nl

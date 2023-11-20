@@ -946,7 +946,6 @@
 127.0.0.1 wt.lovfot.ru
 127.0.0.1 1k-shop.ru
 127.0.0.1 24onlinesmi.net
-127.0.0.1 24reporter.ru
 127.0.0.1 academyun.ru
 127.0.0.1 adiabetic.ru
 127.0.0.1 ads.bid
@@ -1095,7 +1094,6 @@
 127.0.0.1 shoko-slim.biz
 127.0.0.1 shop-blogs.org
 127.0.0.1 shopblog.org
-127.0.0.1 show.novostionline.net
 127.0.0.1 smi-inform.ru
 127.0.0.1 smibooks.ru
 127.0.0.1 smiru.ru
@@ -1108,7 +1106,6 @@
 127.0.0.1 tivinot.ru
 127.0.0.1 top-rutor.eu
 127.0.0.1 top-stores.ru
-127.0.0.1 topnews.novostionline.net
 127.0.0.1 topnews.smi.one
 127.0.0.1 topnews2.ru
 127.0.0.1 tops-blogs.ru
