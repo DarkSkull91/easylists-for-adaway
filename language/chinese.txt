@@ -28,6 +28,7 @@
 127.0.0.1 5jzu5t.com
 127.0.0.1 6528fdyngk.xyz
 127.0.0.1 6gcstb.xyz
+127.0.0.1 7bspu.site
 127.0.0.1 7dusx.xyz
 127.0.0.1 7ry30.xyz
 127.0.0.1 888bb666cc.com
@@ -69,6 +70,7 @@
 127.0.0.1 berrynicolo.com
 127.0.0.1 beste3.icu
 127.0.0.1 bfbchr.xyz
+127.0.0.1 bfgtfxd.com
 127.0.0.1 bgbqfqwi.xyz
 127.0.0.1 bgdgpbpm.xyz
 127.0.0.1 bhiagi.xyz
@@ -109,6 +111,7 @@
 127.0.0.1 cnrdlpk.xyz
 127.0.0.1 cntc8.icu
 127.0.0.1 cojvur.icu
+127.0.0.1 corcztpc.xyz
 127.0.0.1 crazyit8.com
 127.0.0.1 crhabkd.cn
 127.0.0.1 cry2h.cn
@@ -143,6 +146,7 @@
 127.0.0.1 dvnqhdmze.xyz
 127.0.0.1 dwerzv.xyz
 127.0.0.1 dwq661.biz
+127.0.0.1 dzdxnbc.xyz
 127.0.0.1 ebmlsvw.cn
 127.0.0.1 eejwvwoo.xyz
 127.0.0.1 egadfe.xyz
@@ -170,6 +174,7 @@
 127.0.0.1 feijied.xyz
 127.0.0.1 fenem.top
 127.0.0.1 fepmpify.xyz
+127.0.0.1 fgcxdr.cn
 127.0.0.1 fgttbz.xyz
 127.0.0.1 fguhyg.cn
 127.0.0.1 fkjsjwbs.xyz
@@ -259,6 +264,7 @@
 127.0.0.1 hjnjjcw.xyz
 127.0.0.1 hkljed.xyz
 127.0.0.1 hkrytf.xyz
+127.0.0.1 hkvuzv.xyz
 127.0.0.1 hnkhgw.com
 127.0.0.1 holdntlc.com
 127.0.0.1 hooe.top
@@ -290,6 +296,7 @@
 127.0.0.1 itwzlyq.com
 127.0.0.1 iujlwn.icu
 127.0.0.1 iuvssgh.cn
+127.0.0.1 jackdd.xyz
 127.0.0.1 jane1.top
 127.0.0.1 jane2.top
 127.0.0.1 jcbjcb9.cn
@@ -314,6 +321,7 @@
 127.0.0.1 kaaqgf.icu
 127.0.0.1 kaezakkjt.com
 127.0.0.1 kbbrptv.xyz
+127.0.0.1 kbzs88.com
 127.0.0.1 kemas.top
 127.0.0.1 kjdbcjkmc.com
 127.0.0.1 kkmsa.top
@@ -365,6 +373,7 @@
 127.0.0.1 meilunsc.com
 127.0.0.1 mfnfylx.xyz
 127.0.0.1 mggzah.icu
+127.0.0.1 mhglue.xyz
 127.0.0.1 mhnzhlase.xyz
 127.0.0.1 mhzftye.xyz
 127.0.0.1 mlumlio.cn
@@ -449,11 +458,13 @@
 127.0.0.1 qtq632.com
 127.0.0.1 quqtone.cn
 127.0.0.1 quzmtpxw.xyz
+127.0.0.1 quzpvtt.xyz
 127.0.0.1 qwesaz.com
 127.0.0.1 qwjtdcl.cn
 127.0.0.1 qwnmfiti.xyz
 127.0.0.1 qyoqeq.xyz
 127.0.0.1 r9ffi.fun
+127.0.0.1 ran2.top
 127.0.0.1 rcnithgm.xyz
 127.0.0.1 rcnldz.xyz
 127.0.0.1 rett.top
@@ -464,12 +475,14 @@
 127.0.0.1 rkds2.icu
 127.0.0.1 rkds5.icu
 127.0.0.1 rntdqwc.xyz
+127.0.0.1 ronm.top
 127.0.0.1 roxewwq.cn
 127.0.0.1 rqrvfp.xyz
 127.0.0.1 rrfccx.com
 127.0.0.1 rslkhj.xyz
 127.0.0.1 rvreuxi.cn
 127.0.0.1 rvvji.online
+127.0.0.1 rxrdjb.xyz
 127.0.0.1 rzflhxn.cn
 127.0.0.1 scqaaf.cn
 127.0.0.1 serda10.icu
@@ -571,6 +584,7 @@
 127.0.0.1 wutsldsk.xyz
 127.0.0.1 wuyaw.cn
 127.0.0.1 wvtem.com
+127.0.0.1 wwwww.asia
 127.0.0.1 wyiegt.icu
 127.0.0.1 wymzwy.cn
 127.0.0.1 wyoaij.icu
@@ -606,6 +620,7 @@
 127.0.0.1 yhlzadr.xyz
 127.0.0.1 yhtpsy8888.cc
 127.0.0.1 yivkzvog.xyz
+127.0.0.1 yjbdyjnctgj.top
 127.0.0.1 yjxzvqy.xyz
 127.0.0.1 ykujch.icu
 127.0.0.1 ynulcpt.cn
@@ -637,15 +652,16 @@
 127.0.0.1 zyzo.cn
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
-127.0.0.1 corcztpc.xyz
-127.0.0.1 ran2.top
-127.0.0.1 7bspu.site
-127.0.0.1 quzpvtt.xyz
-127.0.0.1 rxrdjb.xyz
-127.0.0.1 hkvuzv.xyz
-127.0.0.1 dzdxnbc.xyz
-127.0.0.1 jackdd.xyz
-127.0.0.1 mhglue.xyz
+127.0.0.1 ytezym.xyz
+127.0.0.1 juhooqv.cn
+127.0.0.1 lejshxao.xyz
+127.0.0.1 vpqko.fun
+127.0.0.1 prhphla.xyz
+127.0.0.1 lejshxao.xyz
+127.0.0.1 koyuod.xyz
+127.0.0.1 djponj.xyz
+127.0.0.1 huxsvl.xyz
+127.0.0.1 kkeojk.xyz
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
