@@ -5,7 +5,6 @@
 127.0.0.1 totalmedia2.ynet.co.il
 127.0.0.1 adserv.mako.co.il
 127.0.0.1 sdc.mako.co.il
-127.0.0.1 houdini.haaretz.co.il
 127.0.0.1 ads.one.co.il
 127.0.0.1 banners.news1.co.il
 127.0.0.1 alipim.net
