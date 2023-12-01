@@ -38,9 +38,12 @@
 127.0.0.1 88lajs4.com
 127.0.0.1 88lajs6.com
 127.0.0.1 8d07a.xyz
+127.0.0.1 8zkt7.xyz
 127.0.0.1 913mj.xyz
 127.0.0.1 999aa666bb.com
 127.0.0.1 a4bj6.xyz
+127.0.0.1 aadmei.xyz
+127.0.0.1 aaiwuq.xyz
 127.0.0.1 aaknmt.icu
 127.0.0.1 actrqdr.cn
 127.0.0.1 aflsj.com
@@ -52,6 +55,7 @@
 127.0.0.1 aispyd.icu
 127.0.0.1 aknkvallbfml.com
 127.0.0.1 albsgdq.cn
+127.0.0.1 ameidj.xyz
 127.0.0.1 anhlnnm.cn
 127.0.0.1 aniede.xyz
 127.0.0.1 anjneia.xyz
@@ -70,6 +74,7 @@
 127.0.0.1 azdiqsb.cn
 127.0.0.1 bachou.cn
 127.0.0.1 bavkvoks.xyz
+127.0.0.1 bbccf12.xyz
 127.0.0.1 bbfnrn.xyz
 127.0.0.1 bcovazp.icu
 127.0.0.1 bctxtl.xyz
@@ -174,6 +179,7 @@
 127.0.0.1 elas666.pics
 127.0.0.1 elemea.xyz
 127.0.0.1 elprput.xyz
+127.0.0.1 emynwlz.xyz
 127.0.0.1 eqcwpeo.cn
 127.0.0.1 eraygc.xyz
 127.0.0.1 erutxdk.cn
@@ -206,6 +212,7 @@
 127.0.0.1 fortxfq.cn
 127.0.0.1 fotaxf.xyz
 127.0.0.1 fptdxkm.com
+127.0.0.1 fqtljn.xyz
 127.0.0.1 fsgiosi.com
 127.0.0.1 ftzzbx.xyz
 127.0.0.1 fwhhcpj.xyz
@@ -271,9 +278,11 @@
 127.0.0.1 gszetzdm.xyz
 127.0.0.1 gth112.com
 127.0.0.1 gwdobvs.cn
+127.0.0.1 gxx4t.online
 127.0.0.1 haise3.top
 127.0.0.1 haise4.top
 127.0.0.1 haise5.top
+127.0.0.1 hanadrmc.xyz
 127.0.0.1 haree.cn
 127.0.0.1 haxqxd.xyz
 127.0.0.1 hcgbhq.com
@@ -321,6 +330,7 @@
 127.0.0.1 ionjkcj.cn
 127.0.0.1 iqs871.com
 127.0.0.1 irtefs.xyz
+127.0.0.1 isnd.top
 127.0.0.1 itwzlyq.com
 127.0.0.1 iujlwn.icu
 127.0.0.1 iuvssgh.cn
@@ -367,6 +377,7 @@
 127.0.0.1 knhmgn.com
 127.0.0.1 knuaxfv.cn
 127.0.0.1 koyuod.xyz
+127.0.0.1 kqbrgl.icu
 127.0.0.1 kshrsf.icu
 127.0.0.1 ksrgsc.xyz
 127.0.0.1 ktvtxir.xyz
@@ -406,6 +417,7 @@
 127.0.0.1 m05ib.xyz
 127.0.0.1 m2k3j7x8.com
 127.0.0.1 mads7.icu
+127.0.0.1 max211.top
 127.0.0.1 mbiypew.cn
 127.0.0.1 mcds7.icu
 127.0.0.1 mcds9.icu
@@ -436,6 +448,7 @@
 127.0.0.1 naweslt.cn
 127.0.0.1 nbxymdy.cn
 127.0.0.1 nbycjpo.cn
+127.0.0.1 ncjpbv.xyz
 127.0.0.1 ndbaxn.xyz
 127.0.0.1 ndvfwlv.cn
 127.0.0.1 neeujqf.cn
@@ -466,8 +479,10 @@
 127.0.0.1 olltcqg.xyz
 127.0.0.1 omkxes.xyz
 127.0.0.1 omzxutfm.com
+127.0.0.1 onxtxdm.xyz
 127.0.0.1 ooejkd.xyz
 127.0.0.1 oouiqi.xyz
+127.0.0.1 operqr.top
 127.0.0.1 oprece.xyz
 127.0.0.1 orssengseen.com
 127.0.0.1 ovfvkfc.xyz
@@ -540,6 +555,7 @@
 127.0.0.1 rrfccx.com
 127.0.0.1 rshsk.xyz
 127.0.0.1 rslkhj.xyz
+127.0.0.1 rt004.top
 127.0.0.1 rvreuxi.cn
 127.0.0.1 rvvji.online
 127.0.0.1 rxrdjb.xyz
@@ -655,6 +671,7 @@
 127.0.0.1 wuyaw.cn
 127.0.0.1 wvtem.com
 127.0.0.1 wwwww.asia
+127.0.0.1 wwxufo.com
 127.0.0.1 wyiegt.icu
 127.0.0.1 wymzwy.cn
 127.0.0.1 wyoaij.icu
@@ -669,6 +686,7 @@
 127.0.0.1 xixil.cn
 127.0.0.1 xjxbdh.xyz
 127.0.0.1 xkfigjh.cn
+127.0.0.1 xkjmjj.com
 127.0.0.1 xlam.cn
 127.0.0.1 xlca666.site
 127.0.0.1 xmvmir.icu
@@ -727,17 +745,12 @@
 127.0.0.1 zys16.top
 127.0.0.1 zyzo.cn
 127.0.0.1 zzyy17.top
-127.0.0.1 aadmei.xyz
-127.0.0.1 onxtxdm.xyz
-127.0.0.1 isnd.top
-127.0.0.1 gxx4t.online
-127.0.0.1 aaiwuq.xyz
-127.0.0.1 hanadrmc.xyz
-127.0.0.1 ncjpbv.xyz
-127.0.0.1 bbccf12.xyz
-127.0.0.1 emynwlz.xyz
-127.0.0.1 kqbrgl.icu
-127.0.0.1 ameidj.xyz
+127.0.0.1 a99hz.space
+127.0.0.1 raxetyrw.xyz
+127.0.0.1 birgga.top
+127.0.0.1 tklnzv.xyz
+127.0.0.1 uhjxitn.xyz
+127.0.0.1 3i2i.com
 127.0.0.1 zzyy18.top
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
