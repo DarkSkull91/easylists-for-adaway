@@ -44,11 +44,13 @@
 127.0.0.1 8zkt7.xyz
 127.0.0.1 913mj.xyz
 127.0.0.1 999aa666bb.com
+127.0.0.1 9i8i.com
 127.0.0.1 a4bj6.xyz
 127.0.0.1 a99hz.space
 127.0.0.1 aadmei.xyz
 127.0.0.1 aaiwuq.xyz
 127.0.0.1 aaknmt.icu
+127.0.0.1 aapubcti.xyz
 127.0.0.1 actrqdr.cn
 127.0.0.1 aflsj.com
 127.0.0.1 agossuoeach.com
@@ -71,6 +73,7 @@
 127.0.0.1 arbbj6.com
 127.0.0.1 asfybkiy.xyz
 127.0.0.1 athecsz.cn
+127.0.0.1 atmdew.xyz
 127.0.0.1 aueajkn.cn
 127.0.0.1 autyxdek.xyz
 127.0.0.1 avplwte.xyz
@@ -130,6 +133,7 @@
 127.0.0.1 ckmbig.xyz
 127.0.0.1 clcmdie.com
 127.0.0.1 cmdcdacq.xyz
+127.0.0.1 cmiega.top
 127.0.0.1 cnrdlpk.xyz
 127.0.0.1 cntc8.icu
 127.0.0.1 cojvur.icu
@@ -212,6 +216,7 @@
 127.0.0.1 fgttbz.xyz
 127.0.0.1 fguhyg.cn
 127.0.0.1 fifqjp.xyz
+127.0.0.1 fjxstt.xyz
 127.0.0.1 fkjsjwbs.xyz
 127.0.0.1 fluhmmr.cn
 127.0.0.1 fmvbyji.cn
@@ -229,6 +234,7 @@
 127.0.0.1 g0fc3.com
 127.0.0.1 g2ak5.com
 127.0.0.1 gaopinoa.cn
+127.0.0.1 gbc27.online
 127.0.0.1 gcbtgh26.xyz
 127.0.0.1 gejhhh.cn
 127.0.0.1 gelbjvl.cn
@@ -301,6 +307,7 @@
 127.0.0.1 hibj.online
 127.0.0.1 hihlj.online
 127.0.0.1 hinm.online
+127.0.0.1 hitchprivilege.com
 127.0.0.1 hixutb.xyz
 127.0.0.1 hjnjjcw.xyz
 127.0.0.1 hkljed.xyz
@@ -317,6 +324,7 @@
 127.0.0.1 huxsvl.xyz
 127.0.0.1 hvpard.xyz
 127.0.0.1 hw0.com.cn
+127.0.0.1 hwpvbdj.xyz
 127.0.0.1 hwuogmusthxfpk.xyz
 127.0.0.1 hwvwxerw.xyz
 127.0.0.1 hxhx9.cn
@@ -327,6 +335,7 @@
 127.0.0.1 icvsleec.xyz
 127.0.0.1 icwnix.icu
 127.0.0.1 idddlon.xyz
+127.0.0.1 ieequd.icu
 127.0.0.1 igkgag.xyz
 127.0.0.1 ikmhndd.com
 127.0.0.1 iknhgj.com
@@ -348,6 +357,7 @@
 127.0.0.1 jcbjcb9.cn
 127.0.0.1 jeqxuvv.icu
 127.0.0.1 jevwdao.cn
+127.0.0.1 jhl1993.cn
 127.0.0.1 jiangjinmoa.cn
 127.0.0.1 jiangyahuid.top
 127.0.0.1 jiangyahuir.top
@@ -397,6 +407,7 @@
 127.0.0.1 kyikdee.cn
 127.0.0.1 kzprugp.xyz
 127.0.0.1 l80ays.com
+127.0.0.1 latu.cc
 127.0.0.1 lblwhh.xyz
 127.0.0.1 ldvnehc.xyz
 127.0.0.1 leidad.xyz
@@ -423,6 +434,7 @@
 127.0.0.1 lwmzoaf.cn
 127.0.0.1 lwwlkj1.cn
 127.0.0.1 lxznbz.xyz
+127.0.0.1 lznpcwl.xyz
 127.0.0.1 m05ib.xyz
 127.0.0.1 m2k3j7x8.com
 127.0.0.1 mads7.icu
@@ -527,6 +539,7 @@
 127.0.0.1 qboywc.xyz
 127.0.0.1 qbswezw.cn
 127.0.0.1 qdtjjxr.xyz
+127.0.0.1 qgl27.xyz
 127.0.0.1 qimacdg.cn
 127.0.0.1 qinjgh.icu
 127.0.0.1 qmoxxhc.cn
@@ -614,6 +627,7 @@
 127.0.0.1 trdmtx.xyz
 127.0.0.1 trrmkzesvyqrary.com
 127.0.0.1 ttgjwxp.icu
+127.0.0.1 tunovl.xyz
 127.0.0.1 tuvixr.xyz
 127.0.0.1 txzepl.xyz
 127.0.0.1 tyuetxt.com
@@ -764,9 +778,13 @@
 127.0.0.1 zyzo.cn
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
-127.0.0.1 atmdew.xyz
-127.0.0.1 9i8i.com
-127.0.0.1 cmiega.top
+127.0.0.1 2s8s.com
+127.0.0.1 xrrhwgj.xyz
+127.0.0.1 jqvajfvs.xyz
+127.0.0.1 rivdxb.xyz
+127.0.0.1 twlmq.space
+127.0.0.1 uskoie.xyz
+127.0.0.1 needqnv.xyz
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
@@ -3809,6 +3827,7 @@
 127.0.0.1 lmlmvip.com
 127.0.0.1 lu.sogou.com
 127.0.0.1 lu.sogoucdn.com
+127.0.0.1 mnnmnn.com
 127.0.0.1 mobantong.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 n0211.com
 127.0.0.1 n0244.com
