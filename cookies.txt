@@ -19,6 +19,7 @@
 127.0.0.1 gdpr-settings.s3.amazonaws.com
 127.0.0.1 gdpr.studybreakmedia.com
 127.0.0.1 macaron-cookie-data.decms.eu
+127.0.0.1 messaging.sourcepoint.com
 127.0.0.1 optanon.blob.core.windows.net
 127.0.0.1 plugin.management
 127.0.0.1 privacy-cdn.sixfifty.com
