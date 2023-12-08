@@ -8,6 +8,7 @@
 127.0.0.1 gema-online.de
 127.0.0.1 holyjesus.de
 127.0.0.1 spd-spenden.de
+127.0.0.1 swissadserver.ch
 127.0.0.1 wirverkaufennichts.de
 127.0.0.1 wixnm.com
 127.0.0.1 delmovip.com
