@@ -3,7 +3,6 @@
 127.0.0.1 advx.esprimo.com
 127.0.0.1 affiliatetxt.nextmediaweb.com
 127.0.0.1 bannerpress.bps.plap.it
-127.0.0.1 377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
 127.0.0.1 ad.jamba.it
 127.0.0.1 ad.missena.io
 127.0.0.1 adagiobanner.s3.amazonaws.com

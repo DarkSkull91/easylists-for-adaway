@@ -89,6 +89,7 @@
 127.0.0.1 awareista.com
 127.0.0.1 awaw.asia
 127.0.0.1 ax7fv.space
+127.0.0.1 aymwiq.xyz
 127.0.0.1 azdiqsb.cn
 127.0.0.1 bachou.cn
 127.0.0.1 bavkvoks.xyz
@@ -119,6 +120,7 @@
 127.0.0.1 boats4.top
 127.0.0.1 bollenhurkle.com
 127.0.0.1 bpbfymv.xyz
+127.0.0.1 bpdtrfb.xyz
 127.0.0.1 bplrpf.xyz
 127.0.0.1 brorzpj.cn
 127.0.0.1 btfjjwt.xyz
@@ -244,6 +246,7 @@
 127.0.0.1 foizico.cn
 127.0.0.1 fortxfq.cn
 127.0.0.1 fotaxf.xyz
+127.0.0.1 foxoxn.xyz
 127.0.0.1 fptdxkm.com
 127.0.0.1 fqtljn.xyz
 127.0.0.1 fsgiosi.com
@@ -336,6 +339,7 @@
 127.0.0.1 hinm.online
 127.0.0.1 hitchprivilege.com
 127.0.0.1 hixutb.xyz
+127.0.0.1 hjdkvt.xyz
 127.0.0.1 hjnjjcw.xyz
 127.0.0.1 hkljed.xyz
 127.0.0.1 hkrytf.xyz
@@ -436,6 +440,7 @@
 127.0.0.1 koyuod.xyz
 127.0.0.1 kqbrgl.icu
 127.0.0.1 kqvvqv.icu
+127.0.0.1 kqwerp.top
 127.0.0.1 kshrsf.icu
 127.0.0.1 ksrgsc.xyz
 127.0.0.1 ktvtxir.xyz
@@ -463,6 +468,7 @@
 127.0.0.1 lkoqtvvajktpjsk.xyz
 127.0.0.1 lkot.top
 127.0.0.1 llblwzg.xyz
+127.0.0.1 lleo.top
 127.0.0.1 llmxt.fun
 127.0.0.1 llnxdx.xyz
 127.0.0.1 lmfehr.xyz
@@ -531,6 +537,7 @@
 127.0.0.1 negnixa.cn
 127.0.0.1 nerydw.xyz
 127.0.0.1 newpgqnfapkamg.xyz
+127.0.0.1 nfldgbt.xyz
 127.0.0.1 njppuaj.cn
 127.0.0.1 njreka.xyz
 127.0.0.1 njrnwan.cn
@@ -547,8 +554,10 @@
 127.0.0.1 nyhgjmlg.xyz
 127.0.0.1 nyhgvn.xyz
 127.0.0.1 nyvgbt.xyz
+127.0.0.1 oafhif.icu
 127.0.0.1 oapyrzde.xyz
 127.0.0.1 ocpydszq.xyz
+127.0.0.1 ocryndsu.xyz
 127.0.0.1 ocwdkp.icu
 127.0.0.1 oehcxmhk.xyz
 127.0.0.1 oektiu.xyz
@@ -676,7 +685,9 @@
 127.0.0.1 stylishar.com
 127.0.0.1 suzoqz.icu
 127.0.0.1 syjkscy.cn
+127.0.0.1 szbxm.cn
 127.0.0.1 tae0t.site
+127.0.0.1 tc8ji.website
 127.0.0.1 tcgaqh.icu
 127.0.0.1 tcvmtp.xyz
 127.0.0.1 tdhlmto.cn
@@ -724,6 +735,7 @@
 127.0.0.1 uskoie.xyz
 127.0.0.1 usxuyr.icu
 127.0.0.1 uuzsfpju.xyz
+127.0.0.1 uwerpyh.cn
 127.0.0.1 uwfxvvm.cn
 127.0.0.1 uzrxoxd.xyz
 127.0.0.1 v34s6r.com
@@ -787,6 +799,7 @@
 127.0.0.1 wwhsxwow.xyz
 127.0.0.1 wwwww.asia
 127.0.0.1 wwxufo.com
+127.0.0.1 wxsignin.top
 127.0.0.1 wyiegt.icu
 127.0.0.1 wymzwy.cn
 127.0.0.1 wyoaij.icu
@@ -878,15 +891,16 @@
 127.0.0.1 zzbmxl.xyz
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
-127.0.0.1 bpdtrfb.xyz
-127.0.0.1 aymwiq.xyz
-127.0.0.1 lleo.top
-127.0.0.1 tc8ji.website
-127.0.0.1 ocryndsu.xyz
-127.0.0.1 nfldgbt.xyz
-127.0.0.1 hjdkvt.xyz
-127.0.0.1 oafhif.icu
-127.0.0.1 kqwerp.top
+127.0.0.1 zf4.top
+127.0.0.1 zxpvalr.xyz
+127.0.0.1 sltle.icu
+127.0.0.1 ptflrj.xyz
+127.0.0.1 aerbgpn.xyz
+127.0.0.1 limopf.top
+127.0.0.1 ravzbd.xyz
+127.0.0.1 ukkkmg.xyz
+127.0.0.1 ucjevgue.xyz
+127.0.0.1 seutop.icu
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz

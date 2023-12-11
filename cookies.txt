@@ -173,6 +173,7 @@
 127.0.0.1 cmp.impress.co.jp
 127.0.0.1 gdpr.api.bcdn.jp
 127.0.0.1 gdpr.laxd.com
+127.0.0.1 consensu.infor.pl
 127.0.0.1 cookie.gazeta.pl
 127.0.0.1 cookies.fakt.pl
 127.0.0.1 cookies.forbes.pl
