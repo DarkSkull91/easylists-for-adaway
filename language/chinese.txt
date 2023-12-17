@@ -50,6 +50,7 @@
 127.0.0.1 888cool.cn
 127.0.0.1 88dgl.top
 127.0.0.1 88dgn.top
+127.0.0.1 88dgs.top
 127.0.0.1 88dgx.top
 127.0.0.1 88dml.top
 127.0.0.1 88lajs3.com
@@ -73,6 +74,7 @@
 127.0.0.1 aaknmt.icu
 127.0.0.1 aapubcti.xyz
 127.0.0.1 abcd789.com
+127.0.0.1 acemof.top
 127.0.0.1 actrqdr.cn
 127.0.0.1 aerbgpn.xyz
 127.0.0.1 aflsj.com
@@ -105,6 +107,7 @@
 127.0.0.1 avplwte.xyz
 127.0.0.1 awareista.com
 127.0.0.1 awaw.asia
+127.0.0.1 awzddev.cn
 127.0.0.1 ax7fv.space
 127.0.0.1 aymwiq.xyz
 127.0.0.1 azdiqsb.cn
@@ -117,6 +120,7 @@
 127.0.0.1 bcovazp.icu
 127.0.0.1 bctxtl.xyz
 127.0.0.1 bdlexn.xyz
+127.0.0.1 bdzdd2-sdd53-vxc.com
 127.0.0.1 beezwol.com
 127.0.0.1 bepmrb.xyz
 127.0.0.1 berrynicolo.com
@@ -157,6 +161,7 @@
 127.0.0.1 ccwxma.xyz
 127.0.0.1 cdsa2.icu
 127.0.0.1 ceiuip.icu
+127.0.0.1 cfateu.xyz
 127.0.0.1 cgbswl.icu
 127.0.0.1 cgqwgv.icu
 127.0.0.1 cheda6.icu
@@ -246,6 +251,7 @@
 127.0.0.1 ezacci.xyz
 127.0.0.1 f23al.xyz
 127.0.0.1 f4nfg.site
+127.0.0.1 f780f.space
 127.0.0.1 fastjs.org
 127.0.0.1 faxffjo.com
 127.0.0.1 fbvskv3.com
@@ -382,6 +388,7 @@
 127.0.0.1 hunklm.com
 127.0.0.1 huxifena.cn
 127.0.0.1 huxsvl.xyz
+127.0.0.1 hvlitr.xyz
 127.0.0.1 hvpard.xyz
 127.0.0.1 hw0.com.cn
 127.0.0.1 hwpvbdj.xyz
@@ -483,6 +490,7 @@
 127.0.0.1 kvsvug.xyz
 127.0.0.1 kwtgntyu.xyz
 127.0.0.1 kyikdee.cn
+127.0.0.1 kyjwtxei.xyz
 127.0.0.1 kzprugp.xyz
 127.0.0.1 l80ays.com
 127.0.0.1 latu.cc
@@ -530,6 +538,7 @@
 127.0.0.1 maxun066.top
 127.0.0.1 maxun103.top
 127.0.0.1 maxun118.top
+127.0.0.1 mbfhwag.xyz
 127.0.0.1 mbiypew.cn
 127.0.0.1 mcds7.icu
 127.0.0.1 mcds9.icu
@@ -552,6 +561,7 @@
 127.0.0.1 mpgsqk.xyz
 127.0.0.1 mphhgat.xyz
 127.0.0.1 mqrupjsm.xyz
+127.0.0.1 mqznjujv.xyz
 127.0.0.1 mross044.com
 127.0.0.1 mrs30w.com
 127.0.0.1 mrthav.xyz
@@ -588,6 +598,7 @@
 127.0.0.1 nndytv.xyz
 127.0.0.1 nnfalf.xyz
 127.0.0.1 nofizx.xyz
+127.0.0.1 nrfhbd.xyz
 127.0.0.1 nrzzaep.xyz
 127.0.0.1 ntlzvrv.xyz
 127.0.0.1 nubcdaqa.xyz
@@ -672,11 +683,13 @@
 127.0.0.1 quzmtpxw.xyz
 127.0.0.1 quzpvtt.xyz
 127.0.0.1 qvftejz.cn
+127.0.0.1 qvrdlvz.cn
 127.0.0.1 qwesaz.com
 127.0.0.1 qwjtdcl.cn
 127.0.0.1 qwnmfiti.xyz
 127.0.0.1 qydoex.icu
 127.0.0.1 qyoqeq.xyz
+127.0.0.1 qznjujv.xyz
 127.0.0.1 r9ffi.fun
 127.0.0.1 ran2.top
 127.0.0.1 raolmsc.com
@@ -761,7 +774,9 @@
 127.0.0.1 tozwrqnq.xyz
 127.0.0.1 tpzatf.xyz
 127.0.0.1 tqrznqs.cn
+127.0.0.1 tqznjujv.xyz
 127.0.0.1 trdmtx.xyz
+127.0.0.1 trojangfw.xyz
 127.0.0.1 trrmkzesvyqrary.com
 127.0.0.1 ttgjwxp.icu
 127.0.0.1 tunovl.xyz
@@ -958,16 +973,15 @@
 127.0.0.1 zzbmxl.xyz
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
-127.0.0.1 kyjwtxei.xyz
-127.0.0.1 f780f.space
-127.0.0.1 awzddev.cn
-127.0.0.1 qznjujv.xyz
-127.0.0.1 hvlitr.xyz
-127.0.0.1 mbfhwag.xyz
-127.0.0.1 trojangfw.xyz
-127.0.0.1 nrfhbd.xyz
-127.0.0.1 cfateu.xyz
-127.0.0.1 acemof.top
+127.0.0.1 abe1.cn
+127.0.0.1 c9qh3.website
+127.0.0.1 cntsgsd.top
+127.0.0.1 tybmbbgu.xyz
+127.0.0.1 kphcrjth.xyz
+127.0.0.1 thjwxz.xyz
+127.0.0.1 oryhic.xyz
+127.0.0.1 phcrjth.xyz
+127.0.0.1 ytjzqde.xyz
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
@@ -4124,6 +4138,7 @@
 127.0.0.1 adsc.wasu.tv
 127.0.0.1 adsclick.yx.js.cn
 127.0.0.1 adshows.21cn.com
+127.0.0.1 adsmind.gdtimg.com
 127.0.0.1 adt.xdrig.com
 127.0.0.1 adv-sv-show.focus.cn
 127.0.0.1 adx.mala.cn
