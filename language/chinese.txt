@@ -34,6 +34,7 @@
 127.0.0.1 3562wsgkbcm.xyz
 127.0.0.1 38bw0.space
 127.0.0.1 3dh9y.com
+127.0.0.1 3hufi.site
 127.0.0.1 3i2i.com
 127.0.0.1 3uvz5.xyz
 127.0.0.1 415677.com
@@ -106,6 +107,7 @@
 127.0.0.1 aqwsms.xyz
 127.0.0.1 ar611.xyz
 127.0.0.1 arbbj6.com
+127.0.0.1 arhnuin.xyz
 127.0.0.1 asfybkiy.xyz
 127.0.0.1 athecsz.cn
 127.0.0.1 atmdew.xyz
@@ -145,6 +147,7 @@
 127.0.0.1 bhlntz.xyz
 127.0.0.1 birgga.top
 127.0.0.1 birglucy.xyz
+127.0.0.1 bjappzvz.xyz
 127.0.0.1 bjhhbox.xyz
 127.0.0.1 bjtgds.xyz
 127.0.0.1 bmatgg18.xyz
@@ -158,6 +161,7 @@
 127.0.0.1 bpdtrfb.xyz
 127.0.0.1 bphcrjth.xyz
 127.0.0.1 bplrpf.xyz
+127.0.0.1 bqxexj.xyz
 127.0.0.1 brorzpj.cn
 127.0.0.1 btfjjwt.xyz
 127.0.0.1 bthypgm.cn
@@ -393,6 +397,7 @@
 127.0.0.1 hanadrmc.xyz
 127.0.0.1 hangzhouhdb.top
 127.0.0.1 haokanshipin.com
+127.0.0.1 hapqncfg.xyz
 127.0.0.1 haree.cn
 127.0.0.1 haxqxd.xyz
 127.0.0.1 hcgbhq.com
@@ -515,6 +520,7 @@
 127.0.0.1 kemas.top
 127.0.0.1 kfckcu.xyz
 127.0.0.1 kfpicimage.xyz
+127.0.0.1 kjappzvz.xyz
 127.0.0.1 kjdbcjkmc.com
 127.0.0.1 kkeojk.xyz
 127.0.0.1 kkisoo.com
@@ -612,6 +618,7 @@
 127.0.0.1 mhglue.xyz
 127.0.0.1 mhnzhlase.xyz
 127.0.0.1 mhzftye.xyz
+127.0.0.1 mjappzvz.xyz
 127.0.0.1 mlumlio.cn
 127.0.0.1 mlzjepc.xyz
 127.0.0.1 mmiedf.xyz
@@ -701,6 +708,7 @@
 127.0.0.1 oryhic.xyz
 127.0.0.1 ovfvkfc.xyz
 127.0.0.1 owkmmo.xyz
+127.0.0.1 owyame.xyz
 127.0.0.1 oxrvfsi.xyz
 127.0.0.1 ozolei.xyz
 127.0.0.1 p5kzev.com
@@ -855,7 +863,9 @@
 127.0.0.1 tgvgzt.xyz
 127.0.0.1 thboxp.xyz
 127.0.0.1 thjwxz.xyz
+127.0.0.1 tipl.top
 127.0.0.1 titv.top
+127.0.0.1 tjappzvz.xyz
 127.0.0.1 tklnzv.xyz
 127.0.0.1 tmlwvxae.xyz
 127.0.0.1 tmvebl.xyz
@@ -899,6 +909,7 @@
 127.0.0.1 uidwyx.icu
 127.0.0.1 uiszwh.icu
 127.0.0.1 uito.top
+127.0.0.1 ujappzvz.xyz
 127.0.0.1 ukjwyv.icu
 127.0.0.1 ukkkmg.xyz
 127.0.0.1 ulrvkee.xyz
@@ -1006,6 +1017,7 @@
 127.0.0.1 xgrcfz.xyz
 127.0.0.1 xiaohuishu.top
 127.0.0.1 xixil.cn
+127.0.0.1 xjappzvz.xyz
 127.0.0.1 xjxbdh.xyz
 127.0.0.1 xkfigjh.cn
 127.0.0.1 xkjmjj.com
@@ -1075,6 +1087,7 @@
 127.0.0.1 zbxtcwi.xyz
 127.0.0.1 zchvyet.cn
 127.0.0.1 zcpsc.top
+127.0.0.1 zd0.top
 127.0.0.1 zdjtxjp.xyz
 127.0.0.1 zents2.top
 127.0.0.1 zf4.top
@@ -1103,13 +1116,14 @@
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
 127.0.0.1 zzyy19.top
-127.0.0.1 kjappzvz.xyz
-127.0.0.1 hapqncfg.xyz
-127.0.0.1 zd0.top
-127.0.0.1 bqxexj.xyz
-127.0.0.1 3hufi.site
-127.0.0.1 owyame.xyz
-127.0.0.1 arhnuin.xyz
+127.0.0.1 xiaobizaizi1.top
+127.0.0.1 kiiepofl.xyz
+127.0.0.1 jazftz.xyz
+127.0.0.1 rjlfolk.xyz
+127.0.0.1 nahgvfhs.xyz
+127.0.0.1 7vnkf.online
+127.0.0.1 daslethv.com
+127.0.0.1 iiwoqm.xyz
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
 127.0.0.1 01v62.xyz
@@ -4839,6 +4853,7 @@
 127.0.0.1 dms.xuexxing.com
 127.0.0.1 dmym.aixyy.com
 127.0.0.1 domain1.chahaoba.cn
+127.0.0.1 domcwlxin.360doc.cn
 127.0.0.1 du1.bbdj.com
 127.0.0.1 edu.jiukang.org
 127.0.0.1 ee.shixunwang.net
