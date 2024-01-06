@@ -4,6 +4,7 @@
 127.0.0.1 univers-animers.net
 127.0.0.1 00280181d0.com
 127.0.0.1 00518b6f0c.com
+127.0.0.1 007a15696d.com
 127.0.0.1 008f54b4d6.com
 127.0.0.1 009c96c8be.com
 127.0.0.1 0165672dd6.com
@@ -12,6 +13,7 @@
 127.0.0.1 0407ba6a0a.com
 127.0.0.1 044165bfac.com
 127.0.0.1 04c7739392.com
+127.0.0.1 05b960757b.com
 127.0.0.1 05fbc08eac.com
 127.0.0.1 0741cb485e.com
 127.0.0.1 07c6b39b80.com
@@ -67,6 +69,7 @@
 127.0.0.1 12link.bonuscontract.com
 127.0.0.1 12xgetsready12.monster
 127.0.0.1 135c3f731e.com
+127.0.0.1 13c65864bc.com
 127.0.0.1 13f8c0b498.com
 127.0.0.1 14165563f4.com
 127.0.0.1 147d72d01e.com
@@ -163,6 +166,7 @@
 127.0.0.1 207a6277c2.com
 127.0.0.1 20dnfksdf20.monster
 127.0.0.1 20e2b2c425.com
+127.0.0.1 20f555d506.com
 127.0.0.1 20ksjbdf20.monster
 127.0.0.1 20sjndkfs32.monster
 127.0.0.1 210f3810db.com
@@ -296,6 +300,7 @@
 127.0.0.1 3b491af723.com
 127.0.0.1 3b53iyahbw.com
 127.0.0.1 3b8784189a.com
+127.0.0.1 3b9119638d.com
 127.0.0.1 3b915daff0.com
 127.0.0.1 3ba87e4828c5a95.com
 127.0.0.1 3c58498663.com
@@ -349,6 +354,7 @@
 127.0.0.1 443f6269ce.com
 127.0.0.1 44c3576c4d.com
 127.0.0.1 45190ec38a.com
+127.0.0.1 459bfb9e58.com
 127.0.0.1 460ea5280e.com
 127.0.0.1 462a8879ca.com
 127.0.0.1 465c3b7fb1.com
@@ -414,6 +420,7 @@
 127.0.0.1 50h6v79p.top
 127.0.0.1 512d58dd4c.com
 127.0.0.1 513575528.com
+127.0.0.1 51644b5548.com
 127.0.0.1 517a6efd5d.com
 127.0.0.1 518ad0c781.com
 127.0.0.1 51981f644b.com
@@ -444,8 +451,10 @@
 127.0.0.1 56bb1465d3.com
 127.0.0.1 56kqs1f8t09y.top
 127.0.0.1 573569djd.com
+127.0.0.1 573d28b35e.com
 127.0.0.1 574cfa4903.com
 127.0.0.1 575sbkcwu7o0.top
+127.0.0.1 58054f8197.com
 127.0.0.1 58c232d55d.com
 127.0.0.1 59151d56e9.com
 127.0.0.1 592eb4ef33.com
@@ -521,6 +530,7 @@
 127.0.0.1 667de02040.com
 127.0.0.1 66abea4654.com
 127.0.0.1 66djhbfjgdg66.monster
+127.0.0.1 673681cb40.com
 127.0.0.1 675ad8b574.com
 127.0.0.1 681ba37858.com
 127.0.0.1 6899a76aa7.com
@@ -840,6 +850,7 @@
 127.0.0.1 abdqgbkux.xyz
 127.0.0.1 abductatabq.xyz
 127.0.0.1 abe0a67ce4.com
+127.0.0.1 abeenrwvyrqj.top
 127.0.0.1 abfb1f1f31.com
 127.0.0.1 abjwkkabu.com
 127.0.0.1 ablachassign.digital
@@ -992,6 +1003,7 @@
 127.0.0.1 aiwtbamcfmmwe.com
 127.0.0.1 aj2142.online
 127.0.0.1 aj2178.online
+127.0.0.1 ajaiguhubeh.com
 127.0.0.1 ajchyrpc.com
 127.0.0.1 ajdkksdnnnsfrk.com
 127.0.0.1 ajedqxic.xyz
@@ -1055,6 +1067,7 @@
 127.0.0.1 amitaephapse.com
 127.0.0.1 amjwipvapvrux.com
 127.0.0.1 amlvbzvvnjere.top
+127.0.0.1 ammanunshook.com
 127.0.0.1 amomumgarcons.com
 127.0.0.1 amorphouspain.com
 127.0.0.1 amorphouspimple.com
@@ -1137,6 +1150,7 @@
 127.0.0.1 aqdudwpqamv.xyz
 127.0.0.1 aqhruciqpa.xyz
 127.0.0.1 aqqehupwcg.com
+127.0.0.1 aqqjqknzvnka.top
 127.0.0.1 aqsimkpg.xyz
 127.0.0.1 aqxiukkelu.xyz
 127.0.0.1 arabic-life.buzz
@@ -1149,6 +1163,7 @@
 127.0.0.1 arfobkorfa.com
 127.0.0.1 arfycvxb.com
 127.0.0.1 argalsunclay.space
+127.0.0.1 argeerstsi.space
 127.0.0.1 argondenial.com
 127.0.0.1 aribinspelts.com
 127.0.0.1 arinpmxwal.xyz
@@ -1168,6 +1183,7 @@
 127.0.0.1 arukoggls.com
 127.0.0.1 arvbjqavenqbj.top
 127.0.0.1 arvoscomedos.com
+127.0.0.1 aryabzerznbkj.top
 127.0.0.1 aryabzerznbnw.top
 127.0.0.1 arzorgfadv.com
 127.0.0.1 asalawsuit.com
@@ -1191,6 +1207,7 @@
 127.0.0.1 assignlabor.com
 127.0.0.1 assumedadel.xyz
 127.0.0.1 assurancedangerous.com
+127.0.0.1 assuredcreasy.tech
 127.0.0.1 astaticsagest.com
 127.0.0.1 astemolgachan.com
 127.0.0.1 astmjdeyhwxf.xyz
@@ -1227,6 +1244,7 @@
 127.0.0.1 aunvjngnjh.com
 127.0.0.1 aunxqvrmywxg.xyz
 127.0.0.1 auqeaeehunyx.com
+127.0.0.1 aurangkavas.com
 127.0.0.1 aureigabelle.com
 127.0.0.1 aureneceriman.com
 127.0.0.1 aurigovg.tech
@@ -1253,6 +1271,7 @@
 127.0.0.1 awingbhoots.com
 127.0.0.1 awjsuysgacunjms.xyz
 127.0.0.1 awkwardtilt.com
+127.0.0.1 awlweyznvqnvn.top
 127.0.0.1 awvvhgqkrdw.com
 127.0.0.1 awwoeoevxnvt.com
 127.0.0.1 awwtkisfm.com
@@ -1273,7 +1292,9 @@
 127.0.0.1 ayllnllwajqbe.top
 127.0.0.1 ayllnllwajwyj.top
 127.0.0.1 ayqezbeayjvjv.top
+127.0.0.1 ayqezbeayjvrj.top
 127.0.0.1 ayrlgmivortj.com
+127.0.0.1 ayvwbzqnjrklj.top
 127.0.0.1 ayxvriiuicxuab.com
 127.0.0.1 azansreliant.com
 127.0.0.1 azclip.co.ua
@@ -1330,6 +1351,7 @@
 127.0.0.1 bankedbaisakh.com
 127.0.0.1 barmssoorma.com
 127.0.0.1 baronrydaters.com
+127.0.0.1 barwaysidle.com
 127.0.0.1 baryonmartrix.space
 127.0.0.1 baseearsh.com
 127.0.0.1 basetts.com
@@ -1377,6 +1399,7 @@
 127.0.0.1 begunkrivu.guru
 127.0.0.1 behestsbussed.tech
 127.0.0.1 beigeiros.pw
+127.0.0.1 belamypisum.com
 127.0.0.1 belieskartvel.com
 127.0.0.1 bemaskspackle.com
 127.0.0.1 bemireulling.com
@@ -1388,6 +1411,7 @@
 127.0.0.1 besheardefiler.com
 127.0.0.1 beshestoly.com
 127.0.0.1 besirenfeijoa.live
+127.0.0.1 besmutshelixin.com
 127.0.0.1 bessioutdrew.com
 127.0.0.1 bestcontentcost.top
 127.0.0.1 bestfreecounterstat.com
@@ -1413,6 +1437,7 @@
 127.0.0.1 bhirhtacp.xyz
 127.0.0.1 bhwmghkmaoox.xyz
 127.0.0.1 biancatirurai.com
+127.0.0.1 bicepsseiner.com
 127.0.0.1 bicjetapwdsiby.xyz
 127.0.0.1 biehekshh.com
 127.0.0.1 biejfauofqd.com
@@ -1432,6 +1457,7 @@
 127.0.0.1 birgandenemied.com
 127.0.0.1 biscussexbug.xyz
 127.0.0.1 bitonlyana.live
+127.0.0.1 bitterswhein.com
 127.0.0.1 bivxkpllwkec.xyz
 127.0.0.1 bj-gov-cn.website
 127.0.0.1 bjalhhexccfur.com
@@ -1450,6 +1476,7 @@
 127.0.0.1 blabbeddop.com
 127.0.0.1 blakeelses.tech
 127.0.0.1 blamsskunk.com
+127.0.0.1 blanksjabot.com
 127.0.0.1 blastswaggons.com
 127.0.0.1 bldehttuhabrwt.com
 127.0.0.1 bldwdfxfnauvqy.com

@@ -126,6 +126,7 @@
 127.0.0.1 autyxdek.xyz
 127.0.0.1 auvohoxm.xyz
 127.0.0.1 avplwte.xyz
+127.0.0.1 avvfjhg.xyz
 127.0.0.1 awareista.com
 127.0.0.1 awaw.asia
 127.0.0.1 awzddev.cn
@@ -135,9 +136,11 @@
 127.0.0.1 bachou.cn
 127.0.0.1 baitu3lllqubyqmttdkjsv.com
 127.0.0.1 bavkvoks.xyz
+127.0.0.1 baxbyfn.cn
 127.0.0.1 bbccf12.xyz
 127.0.0.1 bbfnrn.xyz
 127.0.0.1 bbrnpj.xyz
+127.0.0.1 bbyfsfo.cn
 127.0.0.1 bcovazp.icu
 127.0.0.1 bcqnbge.cn
 127.0.0.1 bctxtl.xyz
@@ -180,6 +183,7 @@
 127.0.0.1 bpdtrfb.xyz
 127.0.0.1 bphcrjth.xyz
 127.0.0.1 bplrpf.xyz
+127.0.0.1 bpyerxzn.xyz
 127.0.0.1 bqjqripb.xyz
 127.0.0.1 bqxexj.xyz
 127.0.0.1 brorzpj.cn
@@ -582,6 +586,7 @@
 127.0.0.1 kkisoo.com
 127.0.0.1 kkmsa.top
 127.0.0.1 kkosiso.com
+127.0.0.1 kksjoa.com
 127.0.0.1 kkyjfdj.xyz
 127.0.0.1 klfbnklddfbkn.com
 127.0.0.1 kltmjevd.xyz
@@ -594,6 +599,7 @@
 127.0.0.1 koqsxdpx.xyz
 127.0.0.1 koyuod.xyz
 127.0.0.1 kphcrjth.xyz
+127.0.0.1 kpyerxzn.xyz
 127.0.0.1 kqbrgl.icu
 127.0.0.1 kqjqripb.xyz
 127.0.0.1 kqvvqv.icu
@@ -709,6 +715,7 @@
 127.0.0.1 mpgsqk.xyz
 127.0.0.1 mphcrjth.xyz
 127.0.0.1 mphhgat.xyz
+127.0.0.1 mpyerxzn.xyz
 127.0.0.1 mqjqripb.xyz
 127.0.0.1 mqrupjsm.xyz
 127.0.0.1 mqznjujv.xyz
@@ -918,8 +925,10 @@
 127.0.0.1 s019.com
 127.0.0.1 s5ue6.com
 127.0.0.1 sagcyq.xyz
+127.0.0.1 sakguz.icu
 127.0.0.1 sbhduht.xyz
 127.0.0.1 scqaaf.cn
+127.0.0.1 sd2ua.icu
 127.0.0.1 sdjbcjsbdjk.com
 127.0.0.1 sdkjnbjksbnkjs.com
 127.0.0.1 sdklcnskvbks.com
@@ -954,7 +963,9 @@
 127.0.0.1 suzoqz.icu
 127.0.0.1 svhdbmp.cn
 127.0.0.1 syjkscy.cn
+127.0.0.1 szbpf.cn
 127.0.0.1 szbxm.cn
+127.0.0.1 szmkr.cn
 127.0.0.1 tae0t.site
 127.0.0.1 tafuzcxr.xyz
 127.0.0.1 tatyboy.top
@@ -990,6 +1001,7 @@
 127.0.0.1 toyhyhv.icu
 127.0.0.1 tozwrqnq.xyz
 127.0.0.1 tphcrjth.xyz
+127.0.0.1 tpyerxzn.xyz
 127.0.0.1 tpzatf.xyz
 127.0.0.1 tqjqripb.xyz
 127.0.0.1 tqrznqs.cn
@@ -1048,6 +1060,7 @@
 127.0.0.1 unxuoag.cn
 127.0.0.1 uoqsxdpx.xyz
 127.0.0.1 uphcrjth.xyz
+127.0.0.1 upyerxzn.xyz
 127.0.0.1 uqeuxpl.cn
 127.0.0.1 uqjqripb.xyz
 127.0.0.1 uskoie.xyz
@@ -1103,6 +1116,7 @@
 127.0.0.1 vjzjpt.xyz
 127.0.0.1 vljjtj.xyz
 127.0.0.1 vmr6t.icu
+127.0.0.1 vnvyhj.xyz
 127.0.0.1 vozftn.xyz
 127.0.0.1 vpqko.fun
 127.0.0.1 vpqrydt.xyz
@@ -1139,6 +1153,7 @@
 127.0.0.1 wutsldsk.xyz
 127.0.0.1 wuyaw.cn
 127.0.0.1 wvtem.com
+127.0.0.1 wvyqks.xyz
 127.0.0.1 wwhsxwow.xyz
 127.0.0.1 wwwww.asia
 127.0.0.1 wwxufo.com
@@ -1184,6 +1199,7 @@
 127.0.0.1 xoojqxh.icu
 127.0.0.1 xoqsxdpx.xyz
 127.0.0.1 xphcrjth.xyz
+127.0.0.1 xpyerxzn.xyz
 127.0.0.1 xqgduov.cn
 127.0.0.1 xqjqripb.xyz
 127.0.0.1 xrcembm.cn
@@ -1279,13 +1295,8 @@
 127.0.0.1 zzbmxl.xyz
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
-127.0.0.1 baxbyfn.cn
-127.0.0.1 vnvyhj.xyz
-127.0.0.1 kpyerxzn.xyz
-127.0.0.1 sakguz.icu
-127.0.0.1 wvyqks.xyz
-127.0.0.1 avvfjhg.xyz
-127.0.0.1 szmkr.cn
+127.0.0.1 kogtrmjz.xyz
+127.0.0.1 iumboa.xyz
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
