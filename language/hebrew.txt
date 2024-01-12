@@ -6,10 +6,9 @@
 127.0.0.1 adserv.mako.co.il
 127.0.0.1 sdc.mako.co.il
 127.0.0.1 ads.one.co.il
-127.0.0.1 avoda-mehabait.co.il
 127.0.0.1 banners.news1.co.il
-127.0.0.1 saphiretelavivisrael.com
 127.0.0.1 alipim.net
+127.0.0.1 avoda-mehabait.co.il
 127.0.0.1 fringantlarn8.live
 127.0.0.1 hasdarot.cc
 127.0.0.1 hasdarot.club
@@ -29,5 +28,6 @@
 127.0.0.1 losittooday.info
 127.0.0.1 mporli.info
 127.0.0.1 pinukim.net
+127.0.0.1 saphiretelavivisrael.com
 127.0.0.1 sdarotil.top
 127.0.0.1 seret.live
