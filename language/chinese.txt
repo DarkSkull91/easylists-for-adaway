@@ -104,6 +104,7 @@
 127.0.0.1 aispyd.icu
 127.0.0.1 ajbpcxi.xyz
 127.0.0.1 aknkvallbfml.com
+127.0.0.1 aknusp.cn
 127.0.0.1 albsgdq.cn
 127.0.0.1 alchemeeten.com
 127.0.0.1 alwaysc.com
@@ -151,6 +152,7 @@
 127.0.0.1 bcovazp.icu
 127.0.0.1 bcqnbge.cn
 127.0.0.1 bctxtl.xyz
+127.0.0.1 bdjdpyrt.xyz
 127.0.0.1 bdlexn.xyz
 127.0.0.1 bdsahkln.xyz
 127.0.0.1 bdzdd2-sdd53-vxc.com
@@ -271,6 +273,7 @@
 127.0.0.1 deanth.xyz
 127.0.0.1 demifa.top
 127.0.0.1 df-long.cn
+127.0.0.1 df63x.xyz
 127.0.0.1 dfg6.top
 127.0.0.1 dfninp.xyz
 127.0.0.1 dfxvkgz.xyz
@@ -377,6 +380,7 @@
 127.0.0.1 fsgiosi.com
 127.0.0.1 ftzzbx.xyz
 127.0.0.1 fuvbbjl.xyz
+127.0.0.1 fwffa.cn
 127.0.0.1 fwhhcpj.xyz
 127.0.0.1 fxbcc.cyou
 127.0.0.1 fxkfhbn.xyz
@@ -571,10 +575,12 @@
 127.0.0.1 jmylj.cn
 127.0.0.1 jndxsuy.xyz
 127.0.0.1 jnkmhn.com
+127.0.0.1 jnwpzq.com
 127.0.0.1 jofknbpe.xyz
 127.0.0.1 jppxnhe.xyz
 127.0.0.1 jqtkzuco.xyz
 127.0.0.1 jqvajfvs.xyz
+127.0.0.1 jsjtjj.xyz
 127.0.0.1 jspqhh.xyz
 127.0.0.1 jubbkon.top
 127.0.0.1 judthih.cn
@@ -595,10 +601,12 @@
 127.0.0.1 kaaqgf.icu
 127.0.0.1 kaezakkjt.com
 127.0.0.1 kafuzcxr.xyz
+127.0.0.1 kbayke.xyz
 127.0.0.1 kbbrptv.xyz
 127.0.0.1 kbzs88.com
 127.0.0.1 kdgjsf.com
 127.0.0.1 kdh095.cn
+127.0.0.1 kdjdpyrt.xyz
 127.0.0.1 kdsahkln.xyz
 127.0.0.1 kebohjhh.xyz
 127.0.0.1 kekmhvbb.xyz
@@ -668,6 +676,7 @@
 127.0.0.1 lckjqtx.xyz
 127.0.0.1 ldvnehc.xyz
 127.0.0.1 leidad.xyz
+127.0.0.1 leizylb.icu
 127.0.0.1 lejshxao.xyz
 127.0.0.1 lemida.xyz
 127.0.0.1 lewhrzv.xyz
@@ -681,6 +690,7 @@
 127.0.0.1 liuyi22.cn
 127.0.0.1 liuyuhuaa.cn
 127.0.0.1 ljhbhy.cn
+127.0.0.1 ljpbtjq.xyz
 127.0.0.1 lkdybkwi.xyz
 127.0.0.1 lkenflknkd.com
 127.0.0.1 lkoqtvvajktpjsk.xyz
@@ -728,6 +738,7 @@
 127.0.0.1 mcds7.icu
 127.0.0.1 mcds9.icu
 127.0.0.1 mdezco.xyz
+127.0.0.1 mdjdpyrt.xyz
 127.0.0.1 mdsahkln.xyz
 127.0.0.1 mebohjhh.xyz
 127.0.0.1 mefiafd.top
@@ -843,6 +854,7 @@
 127.0.0.1 oe3.top
 127.0.0.1 oehcxmhk.xyz
 127.0.0.1 oektiu.xyz
+127.0.0.1 ogouawc.cn
 127.0.0.1 ogxstqna.xyz
 127.0.0.1 ohdvafp.xyz
 127.0.0.1 ohopao.xyz
@@ -1039,6 +1051,7 @@
 127.0.0.1 tcgaqh.icu
 127.0.0.1 tcvmtp.xyz
 127.0.0.1 tdhlmto.cn
+127.0.0.1 tdjdpyrt.xyz
 127.0.0.1 tdsahkln.xyz
 127.0.0.1 teamjwar.com
 127.0.0.1 tebohjhh.xyz
@@ -1108,12 +1121,14 @@
 127.0.0.1 ucjevgue.xyz
 127.0.0.1 uckgqa.xyz
 127.0.0.1 udb3n.icu
+127.0.0.1 udjdpyrt.xyz
 127.0.0.1 udpdmeb.cn
 127.0.0.1 udsahkln.xyz
 127.0.0.1 uebipacy.xyz
 127.0.0.1 uebohjhh.xyz
 127.0.0.1 uekmhvbb.xyz
 127.0.0.1 uflybplr.xyz
+127.0.0.1 ugbler.icu
 127.0.0.1 ugkpsi.xyz
 127.0.0.1 ugpibtpk.xyz
 127.0.0.1 ugvbsrbht.xyz
@@ -1163,6 +1178,7 @@
 127.0.0.1 uzrxoxd.xyz
 127.0.0.1 v34s6r.com
 127.0.0.1 v44e.com
+127.0.0.1 vainanalyst.com
 127.0.0.1 vainews.cn
 127.0.0.1 valerieavisnba.com
 127.0.0.1 valerieurania.com
@@ -1217,6 +1233,7 @@
 127.0.0.1 wakenssponged.com
 127.0.0.1 waxin0gjue.cn
 127.0.0.1 wbkaqly.cn
+127.0.0.1 wcbghap63.shop
 127.0.0.1 wclsylk.cn
 127.0.0.1 wecklrb.cn
 127.0.0.1 werssf.com
@@ -1256,6 +1273,7 @@
 127.0.0.1 xcholvbc.xyz
 127.0.0.1 xcqbbcqpl.xyz
 127.0.0.1 xdfdqce.xyz
+127.0.0.1 xdjdpyrt.xyz
 127.0.0.1 xdsahkln.xyz
 127.0.0.1 xeazoj.icu
 127.0.0.1 xebohjhh.xyz
@@ -1391,13 +1409,9 @@
 127.0.0.1 zzbmxl.xyz
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
-127.0.0.1 fwffa.cn
-127.0.0.1 kdjdpyrt.xyz
-127.0.0.1 wcbghap63.shop
-127.0.0.1 jsjtjj.xyz
-127.0.0.1 ljpbtjq.xyz
-127.0.0.1 kbayke.xyz
-127.0.0.1 ugbler.icu
+127.0.0.1 cjpczyi.cn
+127.0.0.1 kjrspnbf.xyz
+127.0.0.1 yqlxwb.icu
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
