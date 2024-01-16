@@ -27,6 +27,7 @@
 127.0.0.1 1vudktp.com
 127.0.0.1 1weorpu.com
 127.0.0.1 2023sb.net
+127.0.0.1 2024114t.shop
 127.0.0.1 20szp.com
 127.0.0.1 222aa333bb.com
 127.0.0.1 24w0p.com
@@ -108,6 +109,7 @@
 127.0.0.1 ajbpcxi.xyz
 127.0.0.1 aknkvallbfml.com
 127.0.0.1 aknusp.cn
+127.0.0.1 albdbsk.xyz
 127.0.0.1 albsgdq.cn
 127.0.0.1 alchemeeten.com
 127.0.0.1 alwaysc.com
@@ -202,6 +204,7 @@
 127.0.0.1 bphcrjth.xyz
 127.0.0.1 bplrpf.xyz
 127.0.0.1 bpyerxzn.xyz
+127.0.0.1 bpztsxx.com
 127.0.0.1 bqjqripb.xyz
 127.0.0.1 bqxexj.xyz
 127.0.0.1 brorzpj.cn
@@ -272,6 +275,7 @@
 127.0.0.1 cxapio.xyz
 127.0.0.1 cxpjrqa.cn
 127.0.0.1 cy5kr.fun
+127.0.0.1 dafdfd.cn
 127.0.0.1 danun.cn
 127.0.0.1 daslethv.com
 127.0.0.1 dbpxivi.xyz
@@ -406,6 +410,7 @@
 127.0.0.1 geicmu.xyz
 127.0.0.1 gejhhh.cn
 127.0.0.1 gelbjvl.cn
+127.0.0.1 gepvgv.icu
 127.0.0.1 gfbdb1.com
 127.0.0.1 ggrfab.icu
 127.0.0.1 ggsnyc.xyz
@@ -698,6 +703,7 @@
 127.0.0.1 lhtnuop.xyz
 127.0.0.1 lhzxbp.xyz
 127.0.0.1 lianglili2.cn
+127.0.0.1 lih6e.site
 127.0.0.1 limopf.top
 127.0.0.1 linj.top
 127.0.0.1 liujiahao6.cn
@@ -999,9 +1005,11 @@
 127.0.0.1 rsvvfx.xyz
 127.0.0.1 rt004.top
 127.0.0.1 rudenx.xyz
+127.0.0.1 rvbiocn.cn
 127.0.0.1 rvreuxi.cn
 127.0.0.1 rvvji.online
 127.0.0.1 rvvmhp.xyz
+127.0.0.1 rwftzx.xyz
 127.0.0.1 rwnmcum.cn
 127.0.0.1 rxrdjb.xyz
 127.0.0.1 rycff.online
@@ -1133,6 +1141,7 @@
 127.0.0.1 tzelzfnj.xyz
 127.0.0.1 tznizrhd.xyz
 127.0.0.1 u21033.com
+127.0.0.1 u2tu4.icu
 127.0.0.1 uafuzcxr.xyz
 127.0.0.1 uahozcfq.xyz
 127.0.0.1 uakxkb.icu
@@ -1194,6 +1203,7 @@
 127.0.0.1 uycxhgrp.xyz
 127.0.0.1 uydzfldt.xyz
 127.0.0.1 uymahuxv.xyz
+127.0.0.1 uyulwc.xyz
 127.0.0.1 uzelzfnj.xyz
 127.0.0.1 uznizrhd.xyz
 127.0.0.1 uzrxoxd.xyz
@@ -1432,12 +1442,9 @@
 127.0.0.1 zzbmxl.xyz
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
-127.0.0.1 bpztsxx.com
-127.0.0.1 gepvgv.icu
-127.0.0.1 lih6e.site
-127.0.0.1 rwftzx.xyz
-127.0.0.1 albdbsk.xyz
-127.0.0.1 uyulwc.xyz
+127.0.0.1 kozhyf.icu
+127.0.0.1 ffawfa.cn
+127.0.0.1 zghrxn.xyz
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
