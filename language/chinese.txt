@@ -75,6 +75,7 @@
 127.0.0.1 88lm03.com
 127.0.0.1 89hdn.cn
 127.0.0.1 8d07a.xyz
+127.0.0.1 8ovgk.online
 127.0.0.1 8zkt7.xyz
 127.0.0.1 913mj.xyz
 127.0.0.1 94n33.fun
@@ -107,6 +108,7 @@
 127.0.0.1 aiiaqw.xyz
 127.0.0.1 aispyd.icu
 127.0.0.1 ajbpcxi.xyz
+127.0.0.1 akjdbjkcbacj.com
 127.0.0.1 aknkvallbfml.com
 127.0.0.1 aknusp.cn
 127.0.0.1 albdbsk.xyz
@@ -368,6 +370,7 @@
 127.0.0.1 feijied.xyz
 127.0.0.1 fenem.top
 127.0.0.1 fepmpify.xyz
+127.0.0.1 ffawfa.cn
 127.0.0.1 fgcxdr.cn
 127.0.0.1 fghhbp.xyz
 127.0.0.1 fgttbz.xyz
@@ -419,6 +422,7 @@
 127.0.0.1 gixgav.icu
 127.0.0.1 gizlnr.com
 127.0.0.1 gkktjf.top
+127.0.0.1 gkswas.xyz
 127.0.0.1 gmgbmzz.xyz
 127.0.0.1 gmx10.top
 127.0.0.1 gmx11.top
@@ -555,6 +559,7 @@
 127.0.0.1 iossdok.com
 127.0.0.1 ioswhi.com
 127.0.0.1 ipryes.top
+127.0.0.1 ipuswrg.cn
 127.0.0.1 iqs871.com
 127.0.0.1 irtefs.xyz
 127.0.0.1 isine88.com
@@ -655,6 +660,7 @@
 127.0.0.1 kogtrmjz.xyz
 127.0.0.1 koqsxdpx.xyz
 127.0.0.1 koyuod.xyz
+127.0.0.1 kozhyf.icu
 127.0.0.1 kpbqlqv.cn
 127.0.0.1 kphcrjth.xyz
 127.0.0.1 kpyerxzn.xyz
@@ -662,6 +668,7 @@
 127.0.0.1 kqjqripb.xyz
 127.0.0.1 kqvvqv.icu
 127.0.0.1 kqwerp.top
+127.0.0.1 krbsumc.cn
 127.0.0.1 kreisis.top
 127.0.0.1 kshrsf.icu
 127.0.0.1 ksrgsc.xyz
@@ -812,6 +819,7 @@
 127.0.0.1 muycpg.xyz
 127.0.0.1 muyihh.top
 127.0.0.1 muyxmmz.cn
+127.0.0.1 mvbvvch.xyz
 127.0.0.1 mvng.cn
 127.0.0.1 mvpqrydt.xyz
 127.0.0.1 mwfyab.icu
@@ -1054,6 +1062,7 @@
 127.0.0.1 sregfle.cn
 127.0.0.1 srldkqj.cn
 127.0.0.1 srlhgo.cn
+127.0.0.1 stq89.icu
 127.0.0.1 stusnais.com
 127.0.0.1 stylishar.com
 127.0.0.1 suclj.xyz
@@ -1414,6 +1423,7 @@
 127.0.0.1 zents2.top
 127.0.0.1 zf4.top
 127.0.0.1 zfvtswv.xyz
+127.0.0.1 zghrxn.xyz
 127.0.0.1 zhangyuting04.cn
 127.0.0.1 zhongfumzzew.com
 127.0.0.1 zigyspv.icu
@@ -1442,9 +1452,12 @@
 127.0.0.1 zzbmxl.xyz
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
-127.0.0.1 kozhyf.icu
-127.0.0.1 ffawfa.cn
-127.0.0.1 zghrxn.xyz
+127.0.0.1 zmklhev.cn
+127.0.0.1 hqjstd.xyz
+127.0.0.1 hltkl.fun
+127.0.0.1 oyotqp.icu
+127.0.0.1 vrwdsvr.icu
+127.0.0.1 dnfnpff.xyz
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
