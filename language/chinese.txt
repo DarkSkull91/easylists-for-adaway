@@ -46,6 +46,7 @@
 127.0.0.1 415677.com
 127.0.0.1 44180055.cn
 127.0.0.1 44jui.top
+127.0.0.1 4wfe3.icu
 127.0.0.1 53ynh.xyz
 127.0.0.1 5698tp.com
 127.0.0.1 5ejlo.xyz
@@ -108,6 +109,7 @@
 127.0.0.1 aiiaqw.xyz
 127.0.0.1 aispyd.icu
 127.0.0.1 ajbpcxi.xyz
+127.0.0.1 ajghca.xyz
 127.0.0.1 akjdbjkcbacj.com
 127.0.0.1 aknkvallbfml.com
 127.0.0.1 aknusp.cn
@@ -298,6 +300,7 @@
 127.0.0.1 djponj.xyz
 127.0.0.1 dkvakldvnsv.com
 127.0.0.1 dkyd6.xyz
+127.0.0.1 dnfnpff.xyz
 127.0.0.1 dnn1300.top
 127.0.0.1 dotuij.top
 127.0.0.1 dpj0uvy.icu
@@ -507,11 +510,13 @@
 127.0.0.1 hkljed.xyz
 127.0.0.1 hkrytf.xyz
 127.0.0.1 hkvuzv.xyz
+127.0.0.1 hltkl.fun
 127.0.0.1 hltqsbl.cn
 127.0.0.1 hnkhgw.com
 127.0.0.1 holdntlc.com
 127.0.0.1 holmesmind.com
 127.0.0.1 hooe.top
+127.0.0.1 hqjstd.xyz
 127.0.0.1 hrtinqj.cn
 127.0.0.1 hscnpk86.shop
 127.0.0.1 hshmbx.xyz
@@ -768,6 +773,7 @@
 127.0.0.1 mdjdpyrt.xyz
 127.0.0.1 mdsahkln.xyz
 127.0.0.1 mebohjhh.xyz
+127.0.0.1 mec9k.com
 127.0.0.1 mefiafd.top
 127.0.0.1 meilunsc.com
 127.0.0.1 mekmhvbb.xyz
@@ -907,6 +913,7 @@
 127.0.0.1 owkmmo.xyz
 127.0.0.1 owyame.xyz
 127.0.0.1 oxrvfsi.xyz
+127.0.0.1 oyotqp.icu
 127.0.0.1 ozolei.xyz
 127.0.0.1 p5kzev.com
 127.0.0.1 pajhvd.xyz
@@ -961,6 +968,7 @@
 127.0.0.1 qoswfds.cn
 127.0.0.1 qqvlsr.icu
 127.0.0.1 qqyjis.xyz
+127.0.0.1 qsfbmol.cn
 127.0.0.1 qtciam.xyz
 127.0.0.1 qtq632.com
 127.0.0.1 quqtone.cn
@@ -1264,6 +1272,7 @@
 127.0.0.1 vrnblp.xyz
 127.0.0.1 vrnrpzy.xyz
 127.0.0.1 vrosqolcg.com
+127.0.0.1 vrwdsvr.icu
 127.0.0.1 vtnmxx.xyz
 127.0.0.1 vttqld.xyz
 127.0.0.1 vvlhrz.xyz
@@ -1279,6 +1288,7 @@
 127.0.0.1 wecklrb.cn
 127.0.0.1 werssf.com
 127.0.0.1 wewbnso.cn
+127.0.0.1 wfpjeul.cn
 127.0.0.1 wfqgfaa.cn
 127.0.0.1 whdwydt.cn
 127.0.0.1 whols.cn
@@ -1410,6 +1420,7 @@
 127.0.0.1 yutiqf.icu
 127.0.0.1 yv8zs.online
 127.0.0.1 yxcrcc.xyz
+127.0.0.1 yxptcrss.xyz
 127.0.0.1 yxrxsov.xyz
 127.0.0.1 z0a1b2c3d4.com
 127.0.0.1 z1wfe.top
@@ -1433,6 +1444,7 @@
 127.0.0.1 zkfojr.xyz
 127.0.0.1 zlncvn.xyz
 127.0.0.1 zmfcnlvu.xyz
+127.0.0.1 zmklhev.cn
 127.0.0.1 zndvfrl.xyz
 127.0.0.1 znwzcmd.cn
 127.0.0.1 zohdfd.xyz
@@ -1452,12 +1464,11 @@
 127.0.0.1 zzbmxl.xyz
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
-127.0.0.1 zmklhev.cn
-127.0.0.1 hqjstd.xyz
-127.0.0.1 hltkl.fun
-127.0.0.1 oyotqp.icu
-127.0.0.1 vrwdsvr.icu
-127.0.0.1 dnfnpff.xyz
+127.0.0.1 sidfiz.icu
+127.0.0.1 umrstfl.cn
+127.0.0.1 vggg5.space
+127.0.0.1 pfjfjid.xyz
+127.0.0.1 halqpt.xyz
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
