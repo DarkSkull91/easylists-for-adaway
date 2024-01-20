@@ -12,6 +12,7 @@
 127.0.0.1 1234good.com
 127.0.0.1 1287a.xyz
 127.0.0.1 17123.net
+127.0.0.1 1821z.website
 127.0.0.1 1bctkn.xyz
 127.0.0.1 1cjzfyb.com
 127.0.0.1 1cpkcnm.com
@@ -224,6 +225,7 @@
 127.0.0.1 bvnjeqa.xyz
 127.0.0.1 bvpqrydt.xyz
 127.0.0.1 bxbyll.xyz
+127.0.0.1 bxnxdlb.xyz
 127.0.0.1 bycxhgrp.xyz
 127.0.0.1 bydcxdy.cn
 127.0.0.1 bydzfldt.xyz
@@ -265,6 +267,7 @@
 127.0.0.1 cojvur.icu
 127.0.0.1 commonwealthproficient.com
 127.0.0.1 corcztpc.xyz
+127.0.0.1 courtoyz.com
 127.0.0.1 cpddgcr.xyz
 127.0.0.1 cpmlwhra.xyz
 127.0.0.1 crazyit8.com
@@ -582,6 +585,7 @@
 127.0.0.1 jackdd.xyz
 127.0.0.1 jane1.top
 127.0.0.1 jane2.top
+127.0.0.1 jatfugios.com
 127.0.0.1 jazftz.xyz
 127.0.0.1 jcbjcb9.cn
 127.0.0.1 jcluhz.xyz
@@ -703,6 +707,7 @@
 127.0.0.1 kzelzfnj.xyz
 127.0.0.1 kznizrhd.xyz
 127.0.0.1 kzprugp.xyz
+127.0.0.1 l7ghj.xyz
 127.0.0.1 l80ays.com
 127.0.0.1 latu.cc
 127.0.0.1 lbjdbym.xyz
@@ -759,6 +764,7 @@
 127.0.0.1 m05ib.xyz
 127.0.0.1 m28458.top
 127.0.0.1 m2k3j7x8.com
+127.0.0.1 m6500.top
 127.0.0.1 m8oxd.xyz
 127.0.0.1 mads7.icu
 127.0.0.1 mafuzcxr.xyz
@@ -938,6 +944,7 @@
 127.0.0.1 pipc.top
 127.0.0.1 pirubcfy.xyz
 127.0.0.1 pkfuxvbk.xyz
+127.0.0.1 pknrnj.xyz
 127.0.0.1 plnrkgc.xyz
 127.0.0.1 pobrpr.xyz
 127.0.0.1 poiwer.com
@@ -1017,6 +1024,7 @@
 127.0.0.1 rntdqwc.xyz
 127.0.0.1 roio.top
 127.0.0.1 ronm.top
+127.0.0.1 rotondelibya.com
 127.0.0.1 roxewwq.cn
 127.0.0.1 rqauutf.icu
 127.0.0.1 rqrvfp.xyz
@@ -1033,6 +1041,7 @@
 127.0.0.1 rvvmhp.xyz
 127.0.0.1 rwftzx.xyz
 127.0.0.1 rwnmcum.cn
+127.0.0.1 rxojynr.icu
 127.0.0.1 rxrdjb.xyz
 127.0.0.1 rycff.online
 127.0.0.1 rydzfldt.xyz
@@ -1077,10 +1086,12 @@
 127.0.0.1 sregfle.cn
 127.0.0.1 srldkqj.cn
 127.0.0.1 srlhgo.cn
+127.0.0.1 stbwhln.cn
 127.0.0.1 stq89.icu
 127.0.0.1 stusnais.com
 127.0.0.1 stylishar.com
 127.0.0.1 suclj.xyz
+127.0.0.1 sukneyu.com
 127.0.0.1 sunshijc.com
 127.0.0.1 suzoqz.icu
 127.0.0.1 svhdbmp.cn
@@ -1212,6 +1223,7 @@
 127.0.0.1 upyerxzn.xyz
 127.0.0.1 uqeuxpl.cn
 127.0.0.1 uqjqripb.xyz
+127.0.0.1 urueuah.cn
 127.0.0.1 uskoie.xyz
 127.0.0.1 usvkfwth.xyz
 127.0.0.1 usxuyr.icu
@@ -1308,6 +1320,7 @@
 127.0.0.1 wkrcbszi.xyz
 127.0.0.1 wkzsmj.icu
 127.0.0.1 wlzlrlp.xyz
+127.0.0.1 wmnraj.icu
 127.0.0.1 wnllmyw.xyz
 127.0.0.1 worlderva.com
 127.0.0.1 woxwhfdo.xyz
@@ -1382,6 +1395,7 @@
 127.0.0.1 xvorpqz.cn
 127.0.0.1 xvpqrydt.xyz
 127.0.0.1 xvzfyra.xyz
+127.0.0.1 xwlnhw.com
 127.0.0.1 xxfphsg.cn
 127.0.0.1 xxkswdf.icu
 127.0.0.1 xxlfteg.xyz
@@ -1474,13 +1488,6 @@
 127.0.0.1 zzbmxl.xyz
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
-127.0.0.1 urueuah.cn
-127.0.0.1 pknrnj.xyz
-127.0.0.1 wmnraj.icu
-127.0.0.1 rxojynr.icu
-127.0.0.1 bxnxdlb.xyz
-127.0.0.1 1821z.website
-127.0.0.1 sukneyu.com
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
