@@ -62,6 +62,7 @@
 127.0.0.1 7dusx.xyz
 127.0.0.1 7ry30.xyz
 127.0.0.1 7vnkf.online
+127.0.0.1 82zcb.icu
 127.0.0.1 888bb666cc.com
 127.0.0.1 888cool.cn
 127.0.0.1 888xx222kk.com
@@ -98,6 +99,7 @@
 127.0.0.1 abcd789.com
 127.0.0.1 abe1.cn
 127.0.0.1 acemof.top
+127.0.0.1 acsegt86.shop
 127.0.0.1 actrqdr.cn
 127.0.0.1 adtx2.cn
 127.0.0.1 aerbgpn.xyz
@@ -147,6 +149,7 @@
 127.0.0.1 avvfjhg.xyz
 127.0.0.1 awareista.com
 127.0.0.1 awaw.asia
+127.0.0.1 awcdst.icu
 127.0.0.1 awzddev.cn
 127.0.0.1 ax7fv.space
 127.0.0.1 aymwiq.xyz
@@ -269,6 +272,7 @@
 127.0.0.1 corcztpc.xyz
 127.0.0.1 courtoyz.com
 127.0.0.1 cpddgcr.xyz
+127.0.0.1 cpffkbpq.xyz
 127.0.0.1 cpmlwhra.xyz
 127.0.0.1 crazyit8.com
 127.0.0.1 crhabkd.cn
@@ -399,6 +403,7 @@
 127.0.0.1 fortxfq.cn
 127.0.0.1 fotaxf.xyz
 127.0.0.1 foxoxn.xyz
+127.0.0.1 foysswr.cn
 127.0.0.1 fptdxkm.com
 127.0.0.1 fqfclmlo.xyz
 127.0.0.1 fqtljn.xyz
@@ -514,6 +519,7 @@
 127.0.0.1 hjdha.cn
 127.0.0.1 hjdkvt.xyz
 127.0.0.1 hjnjjcw.xyz
+127.0.0.1 hkaiedb.icu
 127.0.0.1 hkljed.xyz
 127.0.0.1 hkrytf.xyz
 127.0.0.1 hkvuzv.xyz
@@ -528,7 +534,9 @@
 127.0.0.1 hscnpk86.shop
 127.0.0.1 hshmbx.xyz
 127.0.0.1 hsi2i.fun
+127.0.0.1 htubzpb.cn
 127.0.0.1 huhwllvk.xyz
+127.0.0.1 hulichuang.mobi
 127.0.0.1 hunklm.com
 127.0.0.1 huryds.top
 127.0.0.1 huxifena.cn
@@ -599,6 +607,7 @@
 127.0.0.1 jiangyahuid.top
 127.0.0.1 jiangyahuir.top
 127.0.0.1 jili9.io
+127.0.0.1 jingalbundles.com
 127.0.0.1 jingxuanjingyan.com
 127.0.0.1 jjvzqjh.xyz
 127.0.0.1 jkbdpp.xyz
@@ -686,6 +695,7 @@
 127.0.0.1 kshrsf.icu
 127.0.0.1 ksrgsc.xyz
 127.0.0.1 ksvkfwth.xyz
+127.0.0.1 ktauoy.xyz
 127.0.0.1 ktnwxhjv.xyz
 127.0.0.1 ktvtxir.xyz
 127.0.0.1 ktwwzqdx.xyz
@@ -879,6 +889,7 @@
 127.0.0.1 nnfalf.xyz
 127.0.0.1 nnrbyty.xyz
 127.0.0.1 nofizx.xyz
+127.0.0.1 npnpxoz.xyz
 127.0.0.1 nrfhbd.xyz
 127.0.0.1 nrzzaep.xyz
 127.0.0.1 nshypdry.xyz
@@ -959,6 +970,7 @@
 127.0.0.1 ptflrj.xyz
 127.0.0.1 ptppcyg.xyz
 127.0.0.1 pugxfvm.cn
+127.0.0.1 pupsjr.xyz
 127.0.0.1 pvnzrr.xyz
 127.0.0.1 pxxnejx.xyz
 127.0.0.1 pzcogpj.icu
@@ -1045,6 +1057,7 @@
 127.0.0.1 rxrdjb.xyz
 127.0.0.1 rycff.online
 127.0.0.1 rydzfldt.xyz
+127.0.0.1 ryyuvrt.cn
 127.0.0.1 rzflhxn.cn
 127.0.0.1 s019.com
 127.0.0.1 s5ue6.com
@@ -1078,6 +1091,7 @@
 127.0.0.1 smbx8.net
 127.0.0.1 smgsue.xyz
 127.0.0.1 smlpcz.icu
+127.0.0.1 so1nv.xyz
 127.0.0.1 sogou.st
 127.0.0.1 sotunet.com
 127.0.0.1 splfnok.cn
@@ -1306,6 +1320,7 @@
 127.0.0.1 wbkaqly.cn
 127.0.0.1 wcbghap63.shop
 127.0.0.1 wclsylk.cn
+127.0.0.1 wdadad.cn
 127.0.0.1 wecklrb.cn
 127.0.0.1 werssf.com
 127.0.0.1 wewbnso.cn
@@ -1379,6 +1394,7 @@
 127.0.0.1 xogtrmjz.xyz
 127.0.0.1 xoojqxh.icu
 127.0.0.1 xoqsxdpx.xyz
+127.0.0.1 xpffkbpq.xyz
 127.0.0.1 xphcrjth.xyz
 127.0.0.1 xpyerxzn.xyz
 127.0.0.1 xqgduov.cn
@@ -1431,8 +1447,10 @@
 127.0.0.1 ymmiyun.com
 127.0.0.1 ymniqh.icu
 127.0.0.1 ynulcpt.cn
+127.0.0.1 yohnoirs.com
 127.0.0.1 yongzhen8.com
 127.0.0.1 ypcngw.xyz
+127.0.0.1 ypffkbpq.xyz
 127.0.0.1 yqlxwb.icu
 127.0.0.1 yshlor.icu
 127.0.0.1 ysxt9.com
@@ -1457,6 +1475,7 @@
 127.0.0.1 zdjtxjp.xyz
 127.0.0.1 zents2.top
 127.0.0.1 zf4.top
+127.0.0.1 zfp32.buzz
 127.0.0.1 zfvtswv.xyz
 127.0.0.1 zghrxn.xyz
 127.0.0.1 zhangyuting04.cn
