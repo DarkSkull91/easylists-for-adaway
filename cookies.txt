@@ -111,7 +111,6 @@
 127.0.0.1 cmp.vizus.cz
 127.0.0.1 consent.t-mobile.cz
 127.0.0.1 me9ddf.moebelix.cz
-127.0.0.1 ccm.npo.nl
 127.0.0.1 cmp.deondernemer.nl
 127.0.0.1 cookie.vrt.be
 127.0.0.1 cookie.wieni.be

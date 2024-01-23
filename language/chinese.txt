@@ -275,6 +275,7 @@
 127.0.0.1 cpddgcr.xyz
 127.0.0.1 cpffkbpq.xyz
 127.0.0.1 cpmlwhra.xyz
+127.0.0.1 cpyjyhny.xyz
 127.0.0.1 crazyit8.com
 127.0.0.1 crhabkd.cn
 127.0.0.1 criknudsr.com
@@ -404,6 +405,7 @@
 127.0.0.1 fol9v.xyz
 127.0.0.1 fortxfq.cn
 127.0.0.1 fotaxf.xyz
+127.0.0.1 fotrbx.xyz
 127.0.0.1 foxoxn.xyz
 127.0.0.1 foysswr.cn
 127.0.0.1 fptdxkm.com
@@ -563,11 +565,14 @@
 127.0.0.1 icvsleec.xyz
 127.0.0.1 icwnix.icu
 127.0.0.1 idddlon.xyz
+127.0.0.1 idns.online
 127.0.0.1 ieequd.icu
 127.0.0.1 ielgag.top
 127.0.0.1 iephrenhq.com
+127.0.0.1 iewtwo.xyz
 127.0.0.1 igkgag.xyz
 127.0.0.1 iincon.icu
+127.0.0.1 iivruiz.cn
 127.0.0.1 iiwoqm.xyz
 127.0.0.1 ikmhndd.com
 127.0.0.1 iknhgj.com
@@ -937,6 +942,8 @@
 127.0.0.1 otbeksf.cn
 127.0.0.1 otxlhpm.xyz
 127.0.0.1 ovfvkfc.xyz
+127.0.0.1 ovnrmvg.cn
+127.0.0.1 ovykq.online
 127.0.0.1 owkmmo.xyz
 127.0.0.1 owyame.xyz
 127.0.0.1 oxrvfsi.xyz
@@ -1016,6 +1023,7 @@
 127.0.0.1 qydoex.icu
 127.0.0.1 qyoqeq.xyz
 127.0.0.1 qznjujv.xyz
+127.0.0.1 qzvzluu.xyz
 127.0.0.1 r9ffi.fun
 127.0.0.1 ran2.top
 127.0.0.1 raolmsc.com
@@ -1405,6 +1413,8 @@
 127.0.0.1 xpffkbpq.xyz
 127.0.0.1 xphcrjth.xyz
 127.0.0.1 xpyerxzn.xyz
+127.0.0.1 xpyjyhny.xyz
+127.0.0.1 xq2024.com
 127.0.0.1 xqgduov.cn
 127.0.0.1 xqjqripb.xyz
 127.0.0.1 xrcembm.cn
@@ -1461,6 +1471,7 @@
 127.0.0.1 yongzhen8.com
 127.0.0.1 ypcngw.xyz
 127.0.0.1 ypffkbpq.xyz
+127.0.0.1 ypyjyhny.xyz
 127.0.0.1 yqlxwb.icu
 127.0.0.1 yshlor.icu
 127.0.0.1 ysxt9.com
@@ -1519,12 +1530,11 @@
 127.0.0.1 zzbmxl.xyz
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
-127.0.0.1 iivruiz.cn
-127.0.0.1 fotrbx.xyz
-127.0.0.1 qzvzluu.xyz
-127.0.0.1 iewtwo.xyz
-127.0.0.1 ypyjyhny.xyz
-127.0.0.1 ovykq.online
+127.0.0.1 cjzrfxs.xyz
+127.0.0.1 fyvpzn.xyz
+127.0.0.1 fm44f.space
+127.0.0.1 yhubsxmg.xyz
+127.0.0.1 hrbpopp.cn
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
