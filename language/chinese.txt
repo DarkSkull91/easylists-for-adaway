@@ -171,6 +171,7 @@
 127.0.0.1 bdzdd2-sdd53-vxc.com
 127.0.0.1 bebohjhh.xyz
 127.0.0.1 beezwol.com
+127.0.0.1 befyah.icu
 127.0.0.1 bekmhvbb.xyz
 127.0.0.1 bepmrb.xyz
 127.0.0.1 berrynicolo.com
@@ -277,6 +278,7 @@
 127.0.0.1 cpddgcr.xyz
 127.0.0.1 cpffkbpq.xyz
 127.0.0.1 cpmlwhra.xyz
+127.0.0.1 cprdmnlo.xyz
 127.0.0.1 cpyjyhny.xyz
 127.0.0.1 crazyit8.com
 127.0.0.1 crhabkd.cn
@@ -417,6 +419,7 @@
 127.0.0.1 fsgiosi.com
 127.0.0.1 ftzzbx.xyz
 127.0.0.1 fuvbbjl.xyz
+127.0.0.1 fv77e.icu
 127.0.0.1 fwffa.cn
 127.0.0.1 fwhhcpj.xyz
 127.0.0.1 fxbcc.cyou
@@ -431,6 +434,7 @@
 127.0.0.1 gaopinoa.cn
 127.0.0.1 gbc27.online
 127.0.0.1 gcbtgh26.xyz
+127.0.0.1 gcssem.xyz
 127.0.0.1 gcwwsv.icu
 127.0.0.1 ged46.xyz
 127.0.0.1 geicmu.xyz
@@ -615,6 +619,7 @@
 127.0.0.1 jdrnpei.xyz
 127.0.0.1 jeqxuvv.icu
 127.0.0.1 jevwdao.cn
+127.0.0.1 jgygtv.cn
 127.0.0.1 jhl1993.cn
 127.0.0.1 jhpbtp.xyz
 127.0.0.1 jiangjinmoa.cn
@@ -785,6 +790,7 @@
 127.0.0.1 lwmzoaf.cn
 127.0.0.1 lwwlkj1.cn
 127.0.0.1 lxznbz.xyz
+127.0.0.1 lyckery.com
 127.0.0.1 lznpcwl.xyz
 127.0.0.1 m05ib.xyz
 127.0.0.1 m28458.top
@@ -897,6 +903,7 @@
 127.0.0.1 newpgqnfapkamg.xyz
 127.0.0.1 nfldgbt.xyz
 127.0.0.1 nhcdn.cn
+127.0.0.1 nixqvd.xyz
 127.0.0.1 njppuaj.cn
 127.0.0.1 njpyrn.xyz
 127.0.0.1 njreka.xyz
@@ -922,6 +929,7 @@
 127.0.0.1 nzlrfdv.xyz
 127.0.0.1 oafhif.icu
 127.0.0.1 oapyrzde.xyz
+127.0.0.1 obdjzhq.xyz
 127.0.0.1 ocpydszq.xyz
 127.0.0.1 ocryndsu.xyz
 127.0.0.1 ocwdkp.icu
@@ -1201,6 +1209,7 @@
 127.0.0.1 tuqnwz.icu
 127.0.0.1 tuvixr.xyz
 127.0.0.1 tvpqrydt.xyz
+127.0.0.1 tweezesmalanga.com
 127.0.0.1 twj6s.icu
 127.0.0.1 twlmq.space
 127.0.0.1 twtfdd.xyz
@@ -1425,6 +1434,7 @@
 127.0.0.1 xoqsxdpx.xyz
 127.0.0.1 xpffkbpq.xyz
 127.0.0.1 xphcrjth.xyz
+127.0.0.1 xprdmnlo.xyz
 127.0.0.1 xpyerxzn.xyz
 127.0.0.1 xpyjyhny.xyz
 127.0.0.1 xq2024.com
@@ -1485,6 +1495,7 @@
 127.0.0.1 yongzhen8.com
 127.0.0.1 ypcngw.xyz
 127.0.0.1 ypffkbpq.xyz
+127.0.0.1 yprdmnlo.xyz
 127.0.0.1 ypyjyhny.xyz
 127.0.0.1 yqlxwb.icu
 127.0.0.1 yshlor.icu
@@ -1544,6 +1555,12 @@
 127.0.0.1 zzbmxl.xyz
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
+127.0.0.1 tajdad.cn
+127.0.0.1 ftdbtko.xyz
+127.0.0.1 yhnvgdkw.xyz
+127.0.0.1 abqdgu.xyz
+127.0.0.1 052db.website
+127.0.0.1 nszort.xyz
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
