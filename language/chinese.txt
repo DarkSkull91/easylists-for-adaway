@@ -49,6 +49,7 @@
 127.0.0.1 415677.com
 127.0.0.1 44180055.cn
 127.0.0.1 44jui.top
+127.0.0.1 4imk5.online
 127.0.0.1 4wfe3.icu
 127.0.0.1 53ynh.xyz
 127.0.0.1 5698tp.com
@@ -260,6 +261,7 @@
 127.0.0.1 cgqwgv.icu
 127.0.0.1 chbheroq.xyz
 127.0.0.1 cheda6.icu
+127.0.0.1 chgpuxim.xyz
 127.0.0.1 chnvgdkw.xyz
 127.0.0.1 chrtds.xyz
 127.0.0.1 chubsxmg.xyz
@@ -305,6 +307,7 @@
 127.0.0.1 dbpxivi.xyz
 127.0.0.1 dcdglb.xyz
 127.0.0.1 ddkh59.com
+127.0.0.1 ddllhqj.xyz
 127.0.0.1 ddvoht.xyz
 127.0.0.1 deanth.xyz
 127.0.0.1 demifa.top
@@ -320,6 +323,7 @@
 127.0.0.1 djponj.xyz
 127.0.0.1 dkvakldvnsv.com
 127.0.0.1 dkyd6.xyz
+127.0.0.1 dmdnlr.xyz
 127.0.0.1 dnfnpff.xyz
 127.0.0.1 dnn1300.top
 127.0.0.1 dotuij.top
@@ -673,6 +677,7 @@
 127.0.0.1 kaaqgf.icu
 127.0.0.1 kaezakkjt.com
 127.0.0.1 kafuzcxr.xyz
+127.0.0.1 kaurieseluxate.com
 127.0.0.1 kbayke.xyz
 127.0.0.1 kbbrptv.xyz
 127.0.0.1 kbzs88.com
@@ -767,6 +772,7 @@
 127.0.0.1 lih6e.site
 127.0.0.1 limopf.top
 127.0.0.1 linj.top
+127.0.0.1 lioyfmp.cn
 127.0.0.1 liujiahao6.cn
 127.0.0.1 liuyi22.cn
 127.0.0.1 liuyuhuaa.cn
@@ -914,6 +920,7 @@
 127.0.0.1 newpgqnfapkamg.xyz
 127.0.0.1 nfldgbt.xyz
 127.0.0.1 nhcdn.cn
+127.0.0.1 niticl.icu
 127.0.0.1 nixqvd.xyz
 127.0.0.1 njppuaj.cn
 127.0.0.1 njpyrn.xyz
@@ -1035,6 +1042,7 @@
 127.0.0.1 qmwx4.xyz
 127.0.0.1 qoqoangry.com
 127.0.0.1 qoswfds.cn
+127.0.0.1 qqainj.cn
 127.0.0.1 qqvlsr.icu
 127.0.0.1 qqyjis.xyz
 127.0.0.1 qsfbmol.cn
@@ -1431,6 +1439,7 @@
 127.0.0.1 xg6hb.xyz
 127.0.0.1 xgrcfz.xyz
 127.0.0.1 xhbheroq.xyz
+127.0.0.1 xhgpuxim.xyz
 127.0.0.1 xhnvgdkw.xyz
 127.0.0.1 xhubsxmg.xyz
 127.0.0.1 xiaobizaizi1.top
@@ -1504,6 +1513,7 @@
 127.0.0.1 yfzpxnb.xyz
 127.0.0.1 ygfgzmzo.xyz
 127.0.0.1 yhbheroq.xyz
+127.0.0.1 yhgpuxim.xyz
 127.0.0.1 yhlzadr.xyz
 127.0.0.1 yhnvgdkw.xyz
 127.0.0.1 yhtpsy8888.cc
@@ -1537,6 +1547,7 @@
 127.0.0.1 yxcrcc.xyz
 127.0.0.1 yxptcrss.xyz
 127.0.0.1 yxrxsov.xyz
+127.0.0.1 yzmcok.xyz
 127.0.0.1 z0a1b2c3d4.com
 127.0.0.1 z1wfe.top
 127.0.0.1 z3p9f.xyz
@@ -1582,11 +1593,6 @@
 127.0.0.1 zzbmxl.xyz
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
-127.0.0.1 ddllhqj.xyz
-127.0.0.1 yhgpuxim.xyz
-127.0.0.1 qqainj.cn
-127.0.0.1 yzmcok.xyz
-127.0.0.1 4imk5.online
 127.0.0.1 zzyy19.top
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
@@ -5603,7 +5609,6 @@
 127.0.0.1 v1.phb123.com
 127.0.0.1 v1.taksh.cn
 127.0.0.1 v1.wphonelife.com
-127.0.0.1 ve.kj-cy.cn
 127.0.0.1 vip.panggugu.com
 127.0.0.1 vv1.pyhfxdm.cn
 127.0.0.1 vvv.ieduw.com
