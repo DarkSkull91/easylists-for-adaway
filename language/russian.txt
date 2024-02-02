@@ -27,7 +27,6 @@
 127.0.0.1 adpro.com.ua
 127.0.0.1 adru.net
 127.0.0.1 adsellers.net
-127.0.0.1 adsplius.lt
 127.0.0.1 adtime.ru
 127.0.0.1 adunit.chango.ca
 127.0.0.1 advaction.ru
@@ -47,7 +46,6 @@
 127.0.0.1 b-one.com.ua
 127.0.0.1 b.acpr.su
 127.0.0.1 b.candy.vl.ru
-127.0.0.1 b.itvnet.lv
 127.0.0.1 b.madplace99.com
 127.0.0.1 b.nwave.de
 127.0.0.1 b2bvideo.ru
@@ -338,7 +336,6 @@
 127.0.0.1 clickspay.ru
 127.0.0.1 clme.biz
 127.0.0.1 clme.net
-127.0.0.1 clo.lv
 127.0.0.1 clunder.net
 127.0.0.1 codata.ru
 127.0.0.1 codeextrarich.net
@@ -708,7 +705,6 @@
 127.0.0.1 promobuster.org
 127.0.0.1 proravenstvo.ru
 127.0.0.1 proravnovesie.ru
-127.0.0.1 proxy.dlf.lt
 127.0.0.1 prozapas.dn.ua
 127.0.0.1 pwfb7w87ov.ru
 127.0.0.1 qcvdwtpnit.ru
@@ -1144,7 +1140,6 @@
 127.0.0.1 ad.webnext.ru
 127.0.0.1 ado.delfi.ee
 127.0.0.1 ap.delfi.ee
-127.0.0.1 b.inbox.lv
 127.0.0.1 b.netall.ru
 127.0.0.1 banner.lbs.km.ru
 127.0.0.1 banner.osp-ua.info
