@@ -60,6 +60,7 @@
 127.0.0.1 5q7eb.website
 127.0.0.1 6528fdyngk.xyz
 127.0.0.1 666aa777bb.com
+127.0.0.1 666bb777ww.com
 127.0.0.1 6969aa.cn
 127.0.0.1 6gcstb.xyz
 127.0.0.1 777bb111ww.com
@@ -216,6 +217,7 @@
 127.0.0.1 bnfhxszj.xyz
 127.0.0.1 bnnfvd.xyz
 127.0.0.1 boats4.top
+127.0.0.1 bocenamesingle.xyz
 127.0.0.1 bogtrmjz.xyz
 127.0.0.1 bollenhurkle.com
 127.0.0.1 boplgt.icu
@@ -227,6 +229,7 @@
 127.0.0.1 bpyerxzn.xyz
 127.0.0.1 bpztsxx.com
 127.0.0.1 bqjqripb.xyz
+127.0.0.1 bqnmxza.cn
 127.0.0.1 bqxexj.xyz
 127.0.0.1 brookssa.com
 127.0.0.1 brorzpj.cn
@@ -260,6 +263,7 @@
 127.0.0.1 cadizer.com
 127.0.0.1 cammak.xyz
 127.0.0.1 caonme.xyz
+127.0.0.1 catwalkoutled.com
 127.0.0.1 cbttnmo.xyz
 127.0.0.1 ccwxma.xyz
 127.0.0.1 cdsa2.icu
@@ -307,6 +311,7 @@
 127.0.0.1 cry2h.cn
 127.0.0.1 cshlal.icu
 127.0.0.1 csmfee.xyz
+127.0.0.1 ctcxflak.xyz
 127.0.0.1 cthbini.xyz
 127.0.0.1 cuvtnzv.cn
 127.0.0.1 cvtbdap.xyz
@@ -482,6 +487,7 @@
 127.0.0.1 gepvgv.icu
 127.0.0.1 gfbdb1.com
 127.0.0.1 gfpvvwf.xyz
+127.0.0.1 gghhce96.shop
 127.0.0.1 gghhct36.shop
 127.0.0.1 ggrfab.icu
 127.0.0.1 ggsnyc.xyz
@@ -547,6 +553,7 @@
 127.0.0.1 gwdobvs.cn
 127.0.0.1 gwivqo.xyz
 127.0.0.1 gxx4t.online
+127.0.0.1 h7h35.space
 127.0.0.1 hailfi.top
 127.0.0.1 haise3.top
 127.0.0.1 haise4.top
@@ -646,6 +653,7 @@
 127.0.0.1 iqs871.com
 127.0.0.1 iqveat.icu
 127.0.0.1 irtefs.xyz
+127.0.0.1 isigqno.com
 127.0.0.1 isine88.com
 127.0.0.1 isksss.top
 127.0.0.1 isna.top
@@ -733,6 +741,7 @@
 127.0.0.1 kjacgk.xyz
 127.0.0.1 kjappzvz.xyz
 127.0.0.1 kjdbcjkmc.com
+127.0.0.1 kjjjusb.xyz
 127.0.0.1 kjrspnbf.xyz
 127.0.0.1 kkbbjtfp.xyz
 127.0.0.1 kkeojk.xyz
@@ -856,6 +865,7 @@
 127.0.0.1 m8oxd.xyz
 127.0.0.1 mads7.icu
 127.0.0.1 mafuzcxr.xyz
+127.0.0.1 makqsd.icu
 127.0.0.1 manymgsgn.com
 127.0.0.1 maoskk.com
 127.0.0.1 maqmix.icu
@@ -1088,6 +1098,7 @@
 127.0.0.1 qmwx4.xyz
 127.0.0.1 qoqoangry.com
 127.0.0.1 qoswfds.cn
+127.0.0.1 qpawkw.xyz
 127.0.0.1 qqainj.cn
 127.0.0.1 qqvlsr.icu
 127.0.0.1 qqyjis.xyz
@@ -1438,6 +1449,7 @@
 127.0.0.1 wcbghap63.shop
 127.0.0.1 wclsylk.cn
 127.0.0.1 wdadad.cn
+127.0.0.1 wdakda.cn
 127.0.0.1 wdcigo.xyz
 127.0.0.1 wecklrb.cn
 127.0.0.1 werssf.com
@@ -1541,6 +1553,7 @@
 127.0.0.1 xrllybr.xyz
 127.0.0.1 xrrhwgj.xyz
 127.0.0.1 xsvkfwth.xyz
+127.0.0.1 xtcxflak.xyz
 127.0.0.1 xtnwxhjv.xyz
 127.0.0.1 xucyufv.icu
 127.0.0.1 xuoizbtl.xyz
@@ -1605,6 +1618,7 @@
 127.0.0.1 yqlxwb.icu
 127.0.0.1 yshlor.icu
 127.0.0.1 ysxt9.com
+127.0.0.1 ytcxflak.xyz
 127.0.0.1 ytezym.xyz
 127.0.0.1 ytjzqde.xyz
 127.0.0.1 ytlcz.cn
@@ -1655,6 +1669,7 @@
 127.0.0.1 zrljzgs.xyz
 127.0.0.1 zu2.top
 127.0.0.1 zuugfj.cn
+127.0.0.1 zvnjvd.xyz
 127.0.0.1 zvtnj.icu
 127.0.0.1 zxpvalr.xyz
 127.0.0.1 zys13.top

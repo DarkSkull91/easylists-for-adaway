@@ -26,7 +26,6 @@
 127.0.0.1 ladbrokes.hs-edge.net
 127.0.0.1 media.alphaload.com
 127.0.0.1 oddsserve-wqps7yvkz.stackpathdns.com
-127.0.0.1 ox.comventure.de
 127.0.0.1 partner.fondsdiscount.de
 127.0.0.1 partner.maxxim.de
 127.0.0.1 partner.simplytel.de
@@ -42,7 +41,6 @@
 127.0.0.1 ad.dl.dewezet.de
 127.0.0.1 ad.dslr-forum.de
 127.0.0.1 ad.games.ch
-127.0.0.1 ad.putenbrust.net
 127.0.0.1 as.chartsurfer.de
 127.0.0.1 banner.click-tt.de
 127.0.0.1 code.bergsteigen.com
