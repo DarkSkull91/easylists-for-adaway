@@ -6,6 +6,7 @@
 127.0.0.1 0efghij.com
 127.0.0.1 0ghijkl.com
 127.0.0.1 0hq6k.site
+127.0.0.1 0j91h.cyou
 127.0.0.1 0mnopqr.com
 127.0.0.1 0yzabcd.com
 127.0.0.1 1227a.xyz
@@ -35,6 +36,7 @@
 127.0.0.1 20szp.com
 127.0.0.1 222aa333bb.com
 127.0.0.1 24w0p.com
+127.0.0.1 25ktra.cn
 127.0.0.1 273knt.xyz
 127.0.0.1 2c0a5.xyz
 127.0.0.1 2hpg0.fun
@@ -155,6 +157,7 @@
 127.0.0.1 athecsz.cn
 127.0.0.1 atlggfy.cn
 127.0.0.1 atmdew.xyz
+127.0.0.1 atwqyor.cn
 127.0.0.1 audgiqb.cn
 127.0.0.1 aueajkn.cn
 127.0.0.1 auerkbo.cn
@@ -299,6 +302,7 @@
 127.0.0.1 ckmbig.xyz
 127.0.0.1 clcmdie.com
 127.0.0.1 clgvlvbc.xyz
+127.0.0.1 clkdbbvy.xyz
 127.0.0.1 clrjnhxi.xyz
 127.0.0.1 clypzbzs.xyz
 127.0.0.1 cmdcdacq.xyz
@@ -515,6 +519,7 @@
 127.0.0.1 gizlnr.com
 127.0.0.1 gkktjf.top
 127.0.0.1 gkswas.xyz
+127.0.0.1 glittersh.com
 127.0.0.1 glruh.site
 127.0.0.1 gmgbmzz.xyz
 127.0.0.1 gmx10.top
@@ -554,6 +559,7 @@
 127.0.0.1 gmx46.top
 127.0.0.1 gmx47.top
 127.0.0.1 gmx48.top
+127.0.0.1 gmxysb.icu
 127.0.0.1 gn01.top
 127.0.0.1 gnuoipb.cn
 127.0.0.1 gqleov.icu
@@ -1073,6 +1079,7 @@
 127.0.0.1 oyotqp.icu
 127.0.0.1 oyugspe.cn
 127.0.0.1 ozolei.xyz
+127.0.0.1 p2ijd.space
 127.0.0.1 p5kzev.com
 127.0.0.1 pajhvd.xyz
 127.0.0.1 pdhjnz.xyz
@@ -1572,6 +1579,7 @@
 127.0.0.1 xlam.cn
 127.0.0.1 xlca666.site
 127.0.0.1 xlgvlvbc.xyz
+127.0.0.1 xlkdbbvy.xyz
 127.0.0.1 xlnvvbk.xyz
 127.0.0.1 xlrjnhxi.xyz
 127.0.0.1 xltmjevd.xyz
@@ -1603,13 +1611,16 @@
 127.0.0.1 xtcxflak.xyz
 127.0.0.1 xtnwxhjv.xyz
 127.0.0.1 xtvrtrya.xyz
+127.0.0.1 xtxidx.xyz
 127.0.0.1 xucyufv.icu
 127.0.0.1 xuoizbtl.xyz
 127.0.0.1 xuyanlong1.cn
 127.0.0.1 xvbnrh.xyz
+127.0.0.1 xvilxdv.cn
 127.0.0.1 xvorpqz.cn
 127.0.0.1 xvpqrydt.xyz
 127.0.0.1 xvzfyra.xyz
+127.0.0.1 xvzvqoq.xyz
 127.0.0.1 xwlnhw.com
 127.0.0.1 xxfphsg.cn
 127.0.0.1 xxkswdf.icu
@@ -1648,10 +1659,12 @@
 127.0.0.1 yivkzvog.xyz
 127.0.0.1 yjbdyjnctgj.top
 127.0.0.1 yjxzvqy.xyz
+127.0.0.1 ykgfcs.xyz
 127.0.0.1 ykujch.icu
 127.0.0.1 ykxafzdu.xyz
 127.0.0.1 yldfkfb.cn
 127.0.0.1 ylgvlvbc.xyz
+127.0.0.1 ylkdbbvy.xyz
 127.0.0.1 ylrjnhxi.xyz
 127.0.0.1 ylypzbzs.xyz
 127.0.0.1 ymmiyun.com
@@ -5410,6 +5423,7 @@
 127.0.0.1 wap1.laogu.wang
 127.0.0.1 wenhua.jiaoshou.com
 127.0.0.1 wenxue.weimeifan.net
+127.0.0.1 wenxue.youzhicn.com
 127.0.0.1 whfpbc.99.com.cn
 127.0.0.1 wj.jiancai365.cn
 127.0.0.1 wm.mipcdn.com
