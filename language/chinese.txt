@@ -341,6 +341,7 @@
 127.0.0.1 ctcxflak.xyz
 127.0.0.1 cthbini.xyz
 127.0.0.1 ctvrtrya.xyz
+127.0.0.1 ctydsy.xyz
 127.0.0.1 cuvtnzv.cn
 127.0.0.1 cvtbdap.xyz
 127.0.0.1 cwrxgb.icu
@@ -379,6 +380,7 @@
 127.0.0.1 dmdnlr.xyz
 127.0.0.1 dnfnpff.xyz
 127.0.0.1 dnn1300.top
+127.0.0.1 docfj.cyou
 127.0.0.1 dotuij.top
 127.0.0.1 dpe5t.space
 127.0.0.1 dpj0uvy.icu
@@ -527,6 +529,8 @@
 127.0.0.1 gghhct36.shop
 127.0.0.1 ggrfab.icu
 127.0.0.1 ggsnyc.xyz
+127.0.0.1 ggttbe961.shop
+127.0.0.1 ggttmu853.shop
 127.0.0.1 ghbdsbfd.com
 127.0.0.1 ghreha.top
 127.0.0.1 gixgav.icu
@@ -622,6 +626,7 @@
 127.0.0.1 hixutb.xyz
 127.0.0.1 hjdha.cn
 127.0.0.1 hjdkvt.xyz
+127.0.0.1 hjjshv.xyz
 127.0.0.1 hjnjjcw.xyz
 127.0.0.1 hkaiedb.icu
 127.0.0.1 hkljed.xyz
@@ -643,6 +648,7 @@
 127.0.0.1 hshmbx.xyz
 127.0.0.1 hsi2i.fun
 127.0.0.1 htubzpb.cn
+127.0.0.1 huatmp.icu
 127.0.0.1 huhwllvk.xyz
 127.0.0.1 hulichuang.mobi
 127.0.0.1 hunklm.com
@@ -721,6 +727,7 @@
 127.0.0.1 jgygtv.cn
 127.0.0.1 jhl1993.cn
 127.0.0.1 jhpbtp.xyz
+127.0.0.1 jhpxlyd.cn
 127.0.0.1 jiangjinmoa.cn
 127.0.0.1 jiangyahuid.top
 127.0.0.1 jiangyahuir.top
@@ -892,6 +899,7 @@
 127.0.0.1 lovespenhas.com
 127.0.0.1 lppgjf.xyz
 127.0.0.1 lrbvxx.xyz
+127.0.0.1 lrxdnyq.cn
 127.0.0.1 lryqef.xyz
 127.0.0.1 lsce.top
 127.0.0.1 lthmfx.xyz
@@ -1026,6 +1034,7 @@
 127.0.0.1 newpgqnfapkamg.xyz
 127.0.0.1 nfldgbt.xyz
 127.0.0.1 nhcdn.cn
+127.0.0.1 nhvgrb.xyz
 127.0.0.1 niticl.icu
 127.0.0.1 nixqvd.xyz
 127.0.0.1 njppuaj.cn
@@ -1302,6 +1311,7 @@
 127.0.0.1 szbpf.cn
 127.0.0.1 szbxm.cn
 127.0.0.1 szbxw.cn
+127.0.0.1 szbzp.cn
 127.0.0.1 szmdp.cn
 127.0.0.1 szmkr.cn
 127.0.0.1 szmmb.cn
@@ -1621,6 +1631,7 @@
 127.0.0.1 xlnvvbk.xyz
 127.0.0.1 xlrjnhxi.xyz
 127.0.0.1 xltmjevd.xyz
+127.0.0.1 xlwrdnrw.xyz
 127.0.0.1 xlypzbzs.xyz
 127.0.0.1 xmvmir.icu
 127.0.0.1 xn--1qwynp09f.net
@@ -1676,6 +1687,7 @@
 127.0.0.1 y341i.xyz
 127.0.0.1 yasma.top
 127.0.0.1 ybedus.xyz
+127.0.0.1 ybf1o.online
 127.0.0.1 ybrbdft.xyz
 127.0.0.1 ycgkol.icu
 127.0.0.1 ycmgeb.icu
@@ -1690,6 +1702,7 @@
 127.0.0.1 ygfgzmzo.xyz
 127.0.0.1 yhbheroq.xyz
 127.0.0.1 yhgpuxim.xyz
+127.0.0.1 yhlpshi.xyz
 127.0.0.1 yhlzadr.xyz
 127.0.0.1 yhnvgdkw.xyz
 127.0.0.1 yhsdwjes.xyz
@@ -1707,6 +1720,7 @@
 127.0.0.1 ylgvlvbc.xyz
 127.0.0.1 ylkdbbvy.xyz
 127.0.0.1 ylrjnhxi.xyz
+127.0.0.1 ylwrdnrw.xyz
 127.0.0.1 ylypzbzs.xyz
 127.0.0.1 ymmiyun.com
 127.0.0.1 ymniqh.icu
@@ -1792,11 +1806,6 @@
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
 127.0.0.1 zzyy19.top
-127.0.0.1 nhvgrb.xyz
-127.0.0.1 lrxdnyq.cn
-127.0.0.1 ctydsy.xyz
-127.0.0.1 yhlpshi.xyz
-127.0.0.1 ylwrdnrw.xyz
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
 127.0.0.1 01v62.xyz
