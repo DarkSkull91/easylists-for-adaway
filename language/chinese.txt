@@ -65,6 +65,7 @@
 127.0.0.1 666aa777bb.com
 127.0.0.1 666bb777ww.com
 127.0.0.1 6969aa.cn
+127.0.0.1 6b70b1086b.com
 127.0.0.1 6gcstb.xyz
 127.0.0.1 777bb111ww.com
 127.0.0.1 7bspu.site
@@ -121,6 +122,7 @@
 127.0.0.1 adtonus.com
 127.0.0.1 adtx2.cn
 127.0.0.1 aerbgpn.xyz
+127.0.0.1 aeucyo.xyz
 127.0.0.1 aflsj.com
 127.0.0.1 agossuoeach.com
 127.0.0.1 ahernssa.com
@@ -253,6 +255,7 @@
 127.0.0.1 bqxexj.xyz
 127.0.0.1 brookssa.com
 127.0.0.1 brorzpj.cn
+127.0.0.1 brtzgnd.xyz
 127.0.0.1 bsvkfwth.xyz
 127.0.0.1 btfjjwt.xyz
 127.0.0.1 bthypgm.cn
@@ -315,6 +318,7 @@
 127.0.0.1 cldxphtg.xyz
 127.0.0.1 clgvlvbc.xyz
 127.0.0.1 clkdbbvy.xyz
+127.0.0.1 clplrhum.xyz
 127.0.0.1 clrjnhxi.xyz
 127.0.0.1 clypzbzs.xyz
 127.0.0.1 cmdcdacq.xyz
@@ -503,6 +507,7 @@
 127.0.0.1 fsgiosi.com
 127.0.0.1 ftdbtko.xyz
 127.0.0.1 ftzzbx.xyz
+127.0.0.1 fufrnl.xyz
 127.0.0.1 fuvbbjl.xyz
 127.0.0.1 fv77e.icu
 127.0.0.1 fwffa.cn
@@ -716,6 +721,7 @@
 127.0.0.1 iujlwn.icu
 127.0.0.1 iumboa.xyz
 127.0.0.1 iuvssgh.cn
+127.0.0.1 iwatojc.cn
 127.0.0.1 iwwmaq.xyz
 127.0.0.1 jackdd.xyz
 127.0.0.1 jane1.top
@@ -1086,6 +1092,7 @@
 127.0.0.1 ogmjhve.cn
 127.0.0.1 ogouawc.cn
 127.0.0.1 ogxstqna.xyz
+127.0.0.1 ogyoopo.cn
 127.0.0.1 ohdvafp.xyz
 127.0.0.1 ohopao.xyz
 127.0.0.1 okpcyp.icu
@@ -1143,6 +1150,7 @@
 127.0.0.1 pmnct63.shop
 127.0.0.1 pobrpr.xyz
 127.0.0.1 poiwer.com
+127.0.0.1 pozrwj.icu
 127.0.0.1 ppenid.xyz
 127.0.0.1 pptclb.xyz
 127.0.0.1 ppvpmrt.xyz
@@ -1163,6 +1171,7 @@
 127.0.0.1 pzpivx.xyz
 127.0.0.1 pztjlr.xyz
 127.0.0.1 pzwjonv.icu
+127.0.0.1 q1gel.icu
 127.0.0.1 q4v3c.site
 127.0.0.1 q6gub.website
 127.0.0.1 qauksl.icu
@@ -1386,6 +1395,7 @@
 127.0.0.1 tszoxhtk.xyz
 127.0.0.1 ttgjwxp.icu
 127.0.0.1 ttnwxhjv.xyz
+127.0.0.1 ttrruq749.shop
 127.0.0.1 ttwwzqdx.xyz
 127.0.0.1 tunovl.xyz
 127.0.0.1 tuoizbtl.xyz
@@ -1486,6 +1496,7 @@
 127.0.0.1 vainews.cn
 127.0.0.1 valerieavisnba.com
 127.0.0.1 valerieurania.com
+127.0.0.1 vbzfjh.xyz
 127.0.0.1 vbzrkme.xyz
 127.0.0.1 vcbppb.xyz
 127.0.0.1 vcjczwnc.xyz
@@ -1643,6 +1654,7 @@
 127.0.0.1 xlgvlvbc.xyz
 127.0.0.1 xlkdbbvy.xyz
 127.0.0.1 xlnvvbk.xyz
+127.0.0.1 xlplrhum.xyz
 127.0.0.1 xlrjnhxi.xyz
 127.0.0.1 xltmjevd.xyz
 127.0.0.1 xlwrdnrw.xyz
@@ -1734,6 +1746,7 @@
 127.0.0.1 yldxphtg.xyz
 127.0.0.1 ylgvlvbc.xyz
 127.0.0.1 ylkdbbvy.xyz
+127.0.0.1 ylplrhum.xyz
 127.0.0.1 ylrjnhxi.xyz
 127.0.0.1 ylwrdnrw.xyz
 127.0.0.1 ylypzbzs.xyz
@@ -1764,6 +1777,7 @@
 127.0.0.1 yxcrcc.xyz
 127.0.0.1 yxptcrss.xyz
 127.0.0.1 yxrxsov.xyz
+127.0.0.1 yyodimq.cn
 127.0.0.1 yyyaih.icu
 127.0.0.1 yzfrapd.xyz
 127.0.0.1 yzmcok.xyz
@@ -1822,8 +1836,6 @@
 127.0.0.1 zzyy17.top
 127.0.0.1 zzyy18.top
 127.0.0.1 zzyy19.top
-127.0.0.1 vbzfjh.xyz
-127.0.0.1 q1gel.icu
 127.0.0.1 zzyy20.top
 127.0.0.1 002777.xyz
 127.0.0.1 01v62.xyz

@@ -364,7 +364,6 @@
 127.0.0.1 d1uvhm532ipx9t.cloudfront.net
 127.0.0.1 d1zfhhmz4n1jvq.cloudfront.net
 127.0.0.1 d1zk0i9yiryb1j.cloudfront.net
-127.0.0.1 d24g87zbxr4yiz.cloudfront.net
 127.0.0.1 d24rtvkqjwgutp.cloudfront.net
 127.0.0.1 d27jk9dqha8met.cloudfront.net
 127.0.0.1 d2i5pngfrazn5t.cloudfront.net
@@ -600,7 +599,6 @@
 127.0.0.1 media-rich.ru
 127.0.0.1 media-rotation.net
 127.0.0.1 media-rotator.net
-127.0.0.1 media.adrcdn.com
 127.0.0.1 mediadar.ru
 127.0.0.1 mediaip.ru
 127.0.0.1 mediarich-code.ru
@@ -835,7 +833,6 @@
 127.0.0.1 uwams.info
 127.0.0.1 v2mljs.org
 127.0.0.1 various1down.biz
-127.0.0.1 vast.alloha.tv
 127.0.0.1 vast.bazonserver.site
 127.0.0.1 vast.videocdn.tv
 127.0.0.1 vidaugust.ru
