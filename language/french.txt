@@ -547,6 +547,7 @@
 127.0.0.1 aircraftreign.com
 127.0.0.1 aircraftsplendid.com
 127.0.0.1 airsnowking.live
+127.0.0.1 aitraykui.xyz
 127.0.0.1 aj2142.online
 127.0.0.1 aj2178.online
 127.0.0.1 ajaiguhubeh.com
@@ -605,6 +606,7 @@
 127.0.0.1 amazementpink.com
 127.0.0.1 amazinglygarden.com
 127.0.0.1 ambientrockutilities.com
+127.0.0.1 ambiguitypalm.com
 127.0.0.1 amenbeansrepay.com
 127.0.0.1 amendsgeneralize.com
 127.0.0.1 amentsmodder.com
@@ -2431,6 +2433,7 @@
 127.0.0.1 ip43.ip-146-59-188.eu
 127.0.0.1 ip44.ip-146-59-188.eu
 127.0.0.1 ipnyx.com
+127.0.0.1 ipurseeh.xyz
 127.0.0.1 iqcxhe04fnic.com
 127.0.0.1 iqoption.com
 127.0.0.1 iqxtlnva.xyz
@@ -2824,6 +2827,7 @@
 127.0.0.1 messyfuck.com
 127.0.0.1 metminekit.live
 127.0.0.1 metopedauncy.com
+127.0.0.1 mgxxuqp.com
 127.0.0.1 mhadst.com
 127.0.0.1 mhvonkgrgjyu.com
 127.0.0.1 mi-de-ner-nis3.info
@@ -2878,6 +2882,7 @@
 127.0.0.1 mobutrafsrcms.com
 127.0.0.1 modato.ru
 127.0.0.1 modsacline.live
+127.0.0.1 mofettecalmed.com
 127.0.0.1 moffys.com
 127.0.0.1 molgeemits.com
 127.0.0.1 mollecouteau.guru
@@ -2903,6 +2908,7 @@
 127.0.0.1 mothyapp.com
 127.0.0.1 motivesbreastchopped.com
 127.0.0.1 motmanjack.com
+127.0.0.1 moulinominate.top
 127.0.0.1 mousheen.net
 127.0.0.1 moviessidlers.com
 127.0.0.1 mozime.com
@@ -2989,6 +2995,7 @@
 127.0.0.1 nestleareae.tech
 127.0.0.1 netcpms.com
 127.0.0.1 netdna-ssl.com
+127.0.0.1 netmentaxicab.com
 127.0.0.1 neuraleisfahan.com
 127.0.0.1 newfollow.info
 127.0.0.1 news-bit.com
@@ -3480,6 +3487,7 @@
 127.0.0.1 remotepwn.com
 127.0.0.1 renailgourmet.space
 127.0.0.1 renaissanto.com
+127.0.0.1 requotebatman.com
 127.0.0.1 rerunglor.life
 127.0.0.1 resentervice.com
 127.0.0.1 resentproduces.com
@@ -3930,6 +3938,7 @@
 127.0.0.1 tabuepigram.guru
 127.0.0.1 tabun.net
 127.0.0.1 tacomaequiv.com
+127.0.0.1 tacticwane.com
 127.0.0.1 taddrugso.live
 127.0.0.1 tadupjug.live
 127.0.0.1 taelssoftly.com
@@ -4500,6 +4509,7 @@
 127.0.0.1 zermafemora.top
 127.0.0.1 zevaimsu.net
 127.0.0.1 zinganosesqui.store
+127.0.0.1 zsfbumz.com
 127.0.0.1 ashgrrwt.click
 127.0.0.1 besstahete.info
 127.0.0.1 cdn1.pebx.pl
