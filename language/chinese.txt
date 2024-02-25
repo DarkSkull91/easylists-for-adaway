@@ -8,6 +8,7 @@
 127.0.0.1 aaoisp.com
 127.0.0.1 agmed.cyou
 127.0.0.1 anjdwmq.xyz
+127.0.0.1 arqvm.cn
 127.0.0.1 awuvcq.xyz
 127.0.0.1 bba9603w.com
 127.0.0.1 bdtdat652.shop
@@ -53,8 +54,10 @@
 127.0.0.1 js131.cn
 127.0.0.1 kbomku.xyz
 127.0.0.1 kksjsa.top
+127.0.0.1 ktoioo.xyz
 127.0.0.1 l5kt1.icu
 127.0.0.1 lfffzv.xyz
+127.0.0.1 luofk.xyz
 127.0.0.1 lvdedf.xyz
 127.0.0.1 misjgy.xyz
 127.0.0.1 nddld.cn
@@ -70,6 +73,7 @@
 127.0.0.1 p0v2ni.cn
 127.0.0.1 p45m0.icu
 127.0.0.1 phvfevk.xyz
+127.0.0.1 pjzxdl.xyz
 127.0.0.1 przbzr.xyz
 127.0.0.1 qlbbowx.xyz
 127.0.0.1 qzalsk.xyz
@@ -79,8 +83,10 @@
 127.0.0.1 ruqwgb.icu
 127.0.0.1 rydyvv.xyz
 127.0.0.1 shuocyw.cn
+127.0.0.1 sjaaquj.cn
 127.0.0.1 soffersk.com
 127.0.0.1 spsfupq.cn
+127.0.0.1 srzpsbf.xyz
 127.0.0.1 szbhb.cn
 127.0.0.1 szpnz.cn
 127.0.0.1 szptp.cn
@@ -95,6 +101,7 @@
 127.0.0.1 uxrdg.cn
 127.0.0.1 veaiyl.icu
 127.0.0.1 vxfdepn.cn
+127.0.0.1 wbvfj.xyz
 127.0.0.1 wkywrc.cn
 127.0.0.1 wnmaoc.xyz
 127.0.0.1 wqcfg.cn
@@ -104,11 +111,13 @@
 127.0.0.1 xdrvkdni.xyz
 127.0.0.1 xdybwjpa.xyz
 127.0.0.1 xliffnsc.xyz
+127.0.0.1 xn--wgvp78a61swpe6zdozj.cn
 127.0.0.1 xszw0.icu
 127.0.0.1 xvbjctqs.xyz
 127.0.0.1 xvgrszkg.xyz
 127.0.0.1 xvudqzoa.xyz
 127.0.0.1 ycqbgm.xyz
+127.0.0.1 yddjmpjo.xyz
 127.0.0.1 ydfhidrk.xyz
 127.0.0.1 ydrvkdni.xyz
 127.0.0.1 ydybwjpa.xyz
@@ -122,9 +131,6 @@
 127.0.0.1 zopuqv.icu
 127.0.0.1 ztxjutz.xyz
 127.0.0.1 zuvbzl.xyz
-127.0.0.1 arqvm.cn
-127.0.0.1 yddjmpjo.xyz
-127.0.0.1 ktoioo.xyz
 127.0.0.1 002777.xyz
 127.0.0.1 01v62.xyz
 127.0.0.1 052db.website
