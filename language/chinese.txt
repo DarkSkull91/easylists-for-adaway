@@ -10,12 +10,14 @@
 127.0.0.1 anjdwmq.xyz
 127.0.0.1 arqvm.cn
 127.0.0.1 awuvcq.xyz
+127.0.0.1 b37r5.cyou
 127.0.0.1 bba9603w.com
 127.0.0.1 bdtdat652.shop
 127.0.0.1 bdxpdz.xyz
 127.0.0.1 benpsbp.com
 127.0.0.1 bjswhpy.cn
 127.0.0.1 bmnbyn.icu
+127.0.0.1 bvxiht.xyz
 127.0.0.1 bwlcpr.xyz
 127.0.0.1 bzzxyyh.xyz
 127.0.0.1 caomeixz7.xyz
@@ -37,7 +39,10 @@
 127.0.0.1 dsbqvj.xyz
 127.0.0.1 dxrnksm.xyz
 127.0.0.1 dyegif.icu
+127.0.0.1 dzuht.cn
 127.0.0.1 ebgwdon.cn
+127.0.0.1 efmtsw.xyz
+127.0.0.1 ejdhmed.xyz
 127.0.0.1 fmfnrf.xyz
 127.0.0.1 fwcnex.icu
 127.0.0.1 ghgasdb365.shop
@@ -46,6 +51,7 @@
 127.0.0.1 gvbta.icu
 127.0.0.1 hbjolp.xyz
 127.0.0.1 heapz.cyou
+127.0.0.1 hexcvb.xyz
 127.0.0.1 hhffks967.shop
 127.0.0.1 hhffnu135.shop
 127.0.0.1 hmrwkcx.cn
@@ -67,6 +73,7 @@
 127.0.0.1 nyt5j.cyou
 127.0.0.1 ogznfgl.cn
 127.0.0.1 okwkaa.xyz
+127.0.0.1 oojjsa.com
 127.0.0.1 ostjpig.cn
 127.0.0.1 ovjlccs.xyz
 127.0.0.1 p04qzl.cn
@@ -88,6 +95,7 @@
 127.0.0.1 spsfupq.cn
 127.0.0.1 srzpsbf.xyz
 127.0.0.1 szbhb.cn
+127.0.0.1 szmnf.cn
 127.0.0.1 szpnz.cn
 127.0.0.1 szptp.cn
 127.0.0.1 szpwh.cn
@@ -131,6 +139,9 @@
 127.0.0.1 zopuqv.icu
 127.0.0.1 ztxjutz.xyz
 127.0.0.1 zuvbzl.xyz
+127.0.0.1 qrttfmo.cn
+127.0.0.1 qbhzghb.xyz
+127.0.0.1 hozatr.xyz
 127.0.0.1 002777.xyz
 127.0.0.1 01v62.xyz
 127.0.0.1 052db.website
