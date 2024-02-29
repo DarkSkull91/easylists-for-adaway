@@ -53,6 +53,7 @@
 127.0.0.1 ghgasdt963.shop
 127.0.0.1 gicjtss.cn
 127.0.0.1 gvbta.icu
+127.0.0.1 halct.cn
 127.0.0.1 hbjolp.xyz
 127.0.0.1 heapz.cyou
 127.0.0.1 hexcvb.xyz
@@ -80,7 +81,9 @@
 127.0.0.1 nkbkor.icu
 127.0.0.1 nplahh.xyz
 127.0.0.1 nyt5j.cyou
+127.0.0.1 ocggec.xyz
 127.0.0.1 ogznfgl.cn
+127.0.0.1 ok8867s.com
 127.0.0.1 okwkaa.xyz
 127.0.0.1 oojjsa.com
 127.0.0.1 ostjpig.cn
@@ -89,9 +92,11 @@
 127.0.0.1 p0v2ni.cn
 127.0.0.1 p45m0.icu
 127.0.0.1 phvfevk.xyz
+127.0.0.1 pidzlp.xyz
 127.0.0.1 pjzxdl.xyz
 127.0.0.1 przbzr.xyz
 127.0.0.1 qbhzghb.xyz
+127.0.0.1 qhocciks.com
 127.0.0.1 qlbbowx.xyz
 127.0.0.1 qqkkpos.com
 127.0.0.1 qrkhwe.xyz
@@ -100,6 +105,7 @@
 127.0.0.1 rarcff.xyz
 127.0.0.1 rfnvqpo.xyz
 127.0.0.1 rktddv.xyz
+127.0.0.1 rnkzhsi.cn
 127.0.0.1 ruqwgb.icu
 127.0.0.1 rydyvv.xyz
 127.0.0.1 rzfdbsn.cn
@@ -117,8 +123,10 @@
 127.0.0.1 szpwh.cn
 127.0.0.1 tahznx.xyz
 127.0.0.1 tchdxl.xyz
+127.0.0.1 tdljuuw.xyz
 127.0.0.1 tgccct.icu
 127.0.0.1 tmjetb.xyz
+127.0.0.1 tsrvrr.xyz
 127.0.0.1 tu2024020388.com
 127.0.0.1 tyodot.icu
 127.0.0.1 uctutu3789.xyz
@@ -129,6 +137,7 @@
 127.0.0.1 vhvwlb.xyz
 127.0.0.1 vxfdepn.cn
 127.0.0.1 wbvfj.xyz
+127.0.0.1 wisealty.com
 127.0.0.1 wkywrc.cn
 127.0.0.1 wnmaoc.xyz
 127.0.0.1 wqcfg.cn
@@ -138,6 +147,7 @@
 127.0.0.1 xdrvkdni.xyz
 127.0.0.1 xdybwjpa.xyz
 127.0.0.1 xklofoz.cn
+127.0.0.1 xkrnud.icu
 127.0.0.1 xliffnsc.xyz
 127.0.0.1 xn--wgvp78a61swpe6zdozj.cn
 127.0.0.1 xszw0.icu
@@ -154,10 +164,8 @@
 127.0.0.1 yvbjctqs.xyz
 127.0.0.1 yvnxetmq.xyz
 127.0.0.1 yvudqzoa.xyz
-127.0.0.1 halct.cn
-127.0.0.1 pidzlp.xyz
-127.0.0.1 ocggec.xyz
-127.0.0.1 tdljuuw.xyz
+127.0.0.1 zsjpi.cn
+127.0.0.1 bugzmn.icu
 127.0.0.1 yyddkm526.shop
 127.0.0.1 zagyjnn.cn
 127.0.0.1 zopuqv.icu
