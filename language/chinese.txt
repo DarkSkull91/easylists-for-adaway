@@ -4,11 +4,13 @@
 127.0.0.1 3bxe2.cyou
 127.0.0.1 51hir.cyou
 127.0.0.1 88lm05.com
+127.0.0.1 88lm06.com
 127.0.0.1 8xtm6i.cn
 127.0.0.1 999xx999kk.com
 127.0.0.1 aaoisp.com
 127.0.0.1 agmed.cyou
 127.0.0.1 anjdwmq.xyz
+127.0.0.1 aourgk.xyz
 127.0.0.1 arqvm.cn
 127.0.0.1 awuvcq.xyz
 127.0.0.1 b37r5.cyou
@@ -18,6 +20,7 @@
 127.0.0.1 benpsbp.com
 127.0.0.1 bjswhpy.cn
 127.0.0.1 bmnbyn.icu
+127.0.0.1 bugzmn.icu
 127.0.0.1 bvxiht.xyz
 127.0.0.1 bwlcpr.xyz
 127.0.0.1 bzzxyyh.xyz
@@ -46,8 +49,11 @@
 127.0.0.1 ebgwdon.cn
 127.0.0.1 efmtsw.xyz
 127.0.0.1 ejdhmed.xyz
+127.0.0.1 execuri.com
+127.0.0.1 fefgvh.xyz
 127.0.0.1 ferriesendless.com
 127.0.0.1 fmfnrf.xyz
+127.0.0.1 fvpboxu.xyz
 127.0.0.1 fwcnex.icu
 127.0.0.1 ghgasdb365.shop
 127.0.0.1 ghgasdt963.shop
@@ -64,6 +70,7 @@
 127.0.0.1 hozatr.xyz
 127.0.0.1 ijvla.cn
 127.0.0.1 jgmywh.icu
+127.0.0.1 jioed.cyou
 127.0.0.1 jqpejp.xyz
 127.0.0.1 js131.cn
 127.0.0.1 kbomku.xyz
@@ -74,6 +81,7 @@
 127.0.0.1 luofk.xyz
 127.0.0.1 lvdedf.xyz
 127.0.0.1 misjgy.xyz
+127.0.0.1 mlhtr.cn
 127.0.0.1 nddld.cn
 127.0.0.1 ndthdte125.shop
 127.0.0.1 ndthdtr586.shop
@@ -109,6 +117,8 @@
 127.0.0.1 ruqwgb.icu
 127.0.0.1 rydyvv.xyz
 127.0.0.1 rzfdbsn.cn
+127.0.0.1 sdjkbcjksbdsvv.com
+127.0.0.1 shanvezhu.com
 127.0.0.1 shuocyw.cn
 127.0.0.1 sjaaquj.cn
 127.0.0.1 soffersk.com
@@ -118,12 +128,14 @@
 127.0.0.1 szbhb.cn
 127.0.0.1 szmnd.cn
 127.0.0.1 szmnf.cn
+127.0.0.1 szmnl.cn
 127.0.0.1 szpnz.cn
 127.0.0.1 szptp.cn
 127.0.0.1 szpwh.cn
 127.0.0.1 tahznx.xyz
 127.0.0.1 tchdxl.xyz
 127.0.0.1 tdljuuw.xyz
+127.0.0.1 tduenkq839.shop
 127.0.0.1 tgccct.icu
 127.0.0.1 tmjetb.xyz
 127.0.0.1 tsrvrr.xyz
@@ -132,6 +144,7 @@
 127.0.0.1 uctutu3789.xyz
 127.0.0.1 usltmus.cn
 127.0.0.1 uu22662.com
+127.0.0.1 uxlvk.cn
 127.0.0.1 uxrdg.cn
 127.0.0.1 veaiyl.icu
 127.0.0.1 vhvwlb.xyz
@@ -150,6 +163,7 @@
 127.0.0.1 xkrnud.icu
 127.0.0.1 xliffnsc.xyz
 127.0.0.1 xn--wgvp78a61swpe6zdozj.cn
+127.0.0.1 xsfajf.xyz
 127.0.0.1 xszw0.icu
 127.0.0.1 xvbjctqs.xyz
 127.0.0.1 xvgrszkg.xyz
@@ -164,11 +178,16 @@
 127.0.0.1 yvbjctqs.xyz
 127.0.0.1 yvnxetmq.xyz
 127.0.0.1 yvudqzoa.xyz
-127.0.0.1 zsjpi.cn
-127.0.0.1 bugzmn.icu
 127.0.0.1 yyddkm526.shop
 127.0.0.1 zagyjnn.cn
+127.0.0.1 xhfxtqt.xyz
+127.0.0.1 zojyob.icu
+127.0.0.1 bmret.cn
+127.0.0.1 dkjwbv.xyz
+127.0.0.1 ahyyqq.xyz
+127.0.0.1 zhaweifeng.com
 127.0.0.1 zopuqv.icu
+127.0.0.1 zsjpi.cn
 127.0.0.1 ztxjutz.xyz
 127.0.0.1 zuvbzl.xyz
 127.0.0.1 002777.xyz
@@ -5488,6 +5507,7 @@
 127.0.0.1 zsjxwj.com
 127.0.0.1 zuowen.hydcd.com
 127.0.0.1 zx.docin.com
+127.0.0.1 d2un76zvb5mgzx.cloudfront.net
 127.0.0.1 d3iih5w7xp5hdg.cloudfront.net
 127.0.0.1 jpg1.oss-cn-beijing.aliyuncs.com
 127.0.0.1 jun01.oss-cn-beijing.aliyuncs.com
