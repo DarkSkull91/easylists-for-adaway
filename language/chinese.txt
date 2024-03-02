@@ -9,6 +9,7 @@
 127.0.0.1 999xx999kk.com
 127.0.0.1 aaoisp.com
 127.0.0.1 agmed.cyou
+127.0.0.1 ahyyqq.xyz
 127.0.0.1 anjdwmq.xyz
 127.0.0.1 aourgk.xyz
 127.0.0.1 arqvm.cn
@@ -20,6 +21,7 @@
 127.0.0.1 benpsbp.com
 127.0.0.1 bjswhpy.cn
 127.0.0.1 bmnbyn.icu
+127.0.0.1 bmret.cn
 127.0.0.1 bugzmn.icu
 127.0.0.1 bvxiht.xyz
 127.0.0.1 bwlcpr.xyz
@@ -35,6 +37,7 @@
 127.0.0.1 cliffnsc.xyz
 127.0.0.1 clywws.xyz
 127.0.0.1 cqisam.xyz
+127.0.0.1 crjeymh.cn
 127.0.0.1 ctlrarz.xyz
 127.0.0.1 cvbjctqs.xyz
 127.0.0.1 cvgrszkg.xyz
@@ -42,6 +45,7 @@
 127.0.0.1 cvudqzoa.xyz
 127.0.0.1 cwssfg632.shop
 127.0.0.1 ddielv.cn
+127.0.0.1 dkjwbv.xyz
 127.0.0.1 dsbqvj.xyz
 127.0.0.1 dxrnksm.xyz
 127.0.0.1 dyegif.icu
@@ -55,6 +59,7 @@
 127.0.0.1 fmfnrf.xyz
 127.0.0.1 fvpboxu.xyz
 127.0.0.1 fwcnex.icu
+127.0.0.1 fxjnfn.xyz
 127.0.0.1 ghgasdb365.shop
 127.0.0.1 ghgasdt963.shop
 127.0.0.1 gicjtss.cn
@@ -128,6 +133,7 @@
 127.0.0.1 szbhb.cn
 127.0.0.1 szmnd.cn
 127.0.0.1 szmnf.cn
+127.0.0.1 szmnk.cn
 127.0.0.1 szmnl.cn
 127.0.0.1 szpnz.cn
 127.0.0.1 szptp.cn
@@ -142,6 +148,7 @@
 127.0.0.1 tu2024020388.com
 127.0.0.1 tyodot.icu
 127.0.0.1 uctutu3789.xyz
+127.0.0.1 uiqcf.cn
 127.0.0.1 usltmus.cn
 127.0.0.1 uu22662.com
 127.0.0.1 uxlvk.cn
@@ -159,6 +166,7 @@
 127.0.0.1 xdmnlxtu.xyz
 127.0.0.1 xdrvkdni.xyz
 127.0.0.1 xdybwjpa.xyz
+127.0.0.1 xhfxtqt.xyz
 127.0.0.1 xklofoz.cn
 127.0.0.1 xkrnud.icu
 127.0.0.1 xliffnsc.xyz
@@ -180,12 +188,12 @@
 127.0.0.1 yvudqzoa.xyz
 127.0.0.1 yyddkm526.shop
 127.0.0.1 zagyjnn.cn
-127.0.0.1 xhfxtqt.xyz
-127.0.0.1 zojyob.icu
-127.0.0.1 bmret.cn
-127.0.0.1 dkjwbv.xyz
-127.0.0.1 ahyyqq.xyz
 127.0.0.1 zhaweifeng.com
+127.0.0.1 lulxzl.xyz
+127.0.0.1 dytkgl.icu
+127.0.0.1 mdhv3.icu
+127.0.0.1 jzjpntr.xyz
+127.0.0.1 zojyob.icu
 127.0.0.1 zopuqv.icu
 127.0.0.1 zsjpi.cn
 127.0.0.1 ztxjutz.xyz
