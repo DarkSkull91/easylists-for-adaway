@@ -38,6 +38,7 @@
 127.0.0.1 cdrvkdni.xyz
 127.0.0.1 cdybwjpa.xyz
 127.0.0.1 chayassa.com
+127.0.0.1 cijianggun.com
 127.0.0.1 cliffnsc.xyz
 127.0.0.1 clywws.xyz
 127.0.0.1 cnvmhzt.cn
@@ -84,6 +85,7 @@
 127.0.0.1 hgthpj.xyz
 127.0.0.1 hhffks967.shop
 127.0.0.1 hhffnu135.shop
+127.0.0.1 hjshal.com
 127.0.0.1 hmrwkcx.cn
 127.0.0.1 hozatr.xyz
 127.0.0.1 ijvla.cn
@@ -101,6 +103,7 @@
 127.0.0.1 l5kt1.icu
 127.0.0.1 lenvvb.xyz
 127.0.0.1 lfffzv.xyz
+127.0.0.1 lmxiqf.icu
 127.0.0.1 lulxzl.xyz
 127.0.0.1 luofk.xyz
 127.0.0.1 lvdedf.xyz
@@ -147,6 +150,7 @@
 127.0.0.1 rydyvv.xyz
 127.0.0.1 rzfdbsn.cn
 127.0.0.1 sdjkbcjksbdsvv.com
+127.0.0.1 seslco.xyz
 127.0.0.1 shanvezhu.com
 127.0.0.1 shuocyw.cn
 127.0.0.1 sjaaquj.cn
@@ -160,14 +164,17 @@
 127.0.0.1 szmnf.cn
 127.0.0.1 szmnk.cn
 127.0.0.1 szmnl.cn
+127.0.0.1 szmnm.cn
 127.0.0.1 szpnz.cn
 127.0.0.1 szptp.cn
 127.0.0.1 szpwh.cn
 127.0.0.1 tahznx.xyz
+127.0.0.1 tbpwrj.xyz
 127.0.0.1 tchdxl.xyz
 127.0.0.1 tdljuuw.xyz
 127.0.0.1 tduenkq839.shop
 127.0.0.1 tgccct.icu
+127.0.0.1 tlfvj.cyou
 127.0.0.1 tmjetb.xyz
 127.0.0.1 tsrvrr.xyz
 127.0.0.1 tu2024020388.com
@@ -186,6 +193,7 @@
 127.0.0.1 wkywrc.cn
 127.0.0.1 wnmaoc.xyz
 127.0.0.1 wqcfg.cn
+127.0.0.1 wwjtdjj.cn
 127.0.0.1 xcypgd.icu
 127.0.0.1 xdfhidrk.xyz
 127.0.0.1 xdmnlxtu.xyz
@@ -198,6 +206,7 @@
 127.0.0.1 xn--wgvp78a61swpe6zdozj.cn
 127.0.0.1 xsfajf.xyz
 127.0.0.1 xszw0.icu
+127.0.0.1 xudarl.xyz
 127.0.0.1 xvbjctqs.xyz
 127.0.0.1 xvgrszkg.xyz
 127.0.0.1 xvudqzoa.xyz
@@ -215,11 +224,13 @@
 127.0.0.1 yyddkm526.shop
 127.0.0.1 zagyjnn.cn
 127.0.0.1 zhaweifeng.com
-127.0.0.1 tbpwrj.xyz
-127.0.0.1 lmxiqf.icu
-127.0.0.1 wwjtdjj.cn
-127.0.0.1 tlfvj.cyou
-127.0.0.1 seslco.xyz
+127.0.0.1 mondigo.cn
+127.0.0.1 eqqwgw.xyz
+127.0.0.1 pwhtip.icu
+127.0.0.1 blrupz.xyz
+127.0.0.1 ybrrvck.xyz
+127.0.0.1 rlw86.cyou
+127.0.0.1 jgblvt.xyz
 127.0.0.1 zojyob.icu
 127.0.0.1 zopuqv.icu
 127.0.0.1 zsjpi.cn
@@ -5300,6 +5311,7 @@
 127.0.0.1 jquery.envi-met.com.cn
 127.0.0.1 js.263y.com
 127.0.0.1 js.92aliyun.com
+127.0.0.1 js.entm.top
 127.0.0.1 js.kt250.com
 127.0.0.1 js.oh100.com
 127.0.0.1 js.ruiwen.com
