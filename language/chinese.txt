@@ -1,5 +1,6 @@
 127.0.0.1 0940088.com
 127.0.0.1 0j775d.cn
+127.0.0.1 0uyt5b.cn
 127.0.0.1 1ny3r.icu
 127.0.0.1 2jse6.icu
 127.0.0.1 3bxe2.cyou
@@ -27,6 +28,7 @@
 127.0.0.1 bijiangqing.com
 127.0.0.1 bjswhpy.cn
 127.0.0.1 blrupz.xyz
+127.0.0.1 blzbjpg.xyz
 127.0.0.1 bmnbyn.icu
 127.0.0.1 bmret.cn
 127.0.0.1 bugzmn.icu
@@ -35,6 +37,7 @@
 127.0.0.1 bwlcpr.xyz
 127.0.0.1 bzzxyyh.xyz
 127.0.0.1 caomeixz7.xyz
+127.0.0.1 cbcvou.xyz
 127.0.0.1 ccsshn137.shop
 127.0.0.1 cdfhidrk.xyz
 127.0.0.1 cdftizu.xyz
@@ -45,6 +48,7 @@
 127.0.0.1 cijianggun.com
 127.0.0.1 cliffnsc.xyz
 127.0.0.1 clywws.xyz
+127.0.0.1 cnifdlaf.top
 127.0.0.1 cnvmhzt.cn
 127.0.0.1 costarg.com
 127.0.0.1 cqisam.xyz
@@ -83,6 +87,7 @@
 127.0.0.1 gicjtss.cn
 127.0.0.1 gsuxyg.xyz
 127.0.0.1 gvbta.icu
+127.0.0.1 ha723.icu
 127.0.0.1 halct.cn
 127.0.0.1 hbjolp.xyz
 127.0.0.1 hciwyv.icu
@@ -95,10 +100,12 @@
 127.0.0.1 hjshal.com
 127.0.0.1 hmrwkcx.cn
 127.0.0.1 hozatr.xyz
+127.0.0.1 hrnkdr.xyz
 127.0.0.1 hyusnisu.top
 127.0.0.1 ijvla.cn
 127.0.0.1 imevzbn.cn
 127.0.0.1 ivbgpax.cn
+127.0.0.1 jflwhf.xyz
 127.0.0.1 jgblvt.xyz
 127.0.0.1 jgmywh.icu
 127.0.0.1 jioed.cyou
@@ -160,6 +167,7 @@
 127.0.0.1 rktddv.xyz
 127.0.0.1 rlw86.cyou
 127.0.0.1 rnkzhsi.cn
+127.0.0.1 rouqiuqq.cn
 127.0.0.1 ruqwgb.icu
 127.0.0.1 rydyvv.xyz
 127.0.0.1 rzfdbsn.cn
@@ -208,6 +216,7 @@
 127.0.0.1 vhvwlb.xyz
 127.0.0.1 vszzzj.xyz
 127.0.0.1 vxfdepn.cn
+127.0.0.1 wbubgob.cn
 127.0.0.1 wbvfj.xyz
 127.0.0.1 wisealty.com
 127.0.0.1 wkywrc.cn
@@ -221,6 +230,7 @@
 127.0.0.1 xdybwjpa.xyz
 127.0.0.1 xhfxtqt.xyz
 127.0.0.1 xklofoz.cn
+127.0.0.1 xklrsj.icu
 127.0.0.1 xkrnud.icu
 127.0.0.1 xliffnsc.xyz
 127.0.0.1 xn--wgvp78a61swpe6zdozj.cn
@@ -246,12 +256,13 @@
 127.0.0.1 yyddkm526.shop
 127.0.0.1 zagyjnn.cn
 127.0.0.1 zhaweifeng.com
-127.0.0.1 jflwhf.xyz
-127.0.0.1 xklrsj.icu
-127.0.0.1 0uyt5b.cn
-127.0.0.1 blzbjpg.xyz
-127.0.0.1 hrnkdr.xyz
-127.0.0.1 cbcvou.xyz
+127.0.0.1 zhihucloud.xyz
+127.0.0.1 brixel.cn
+127.0.0.1 tdlyfz.xyz
+127.0.0.1 rpnufv.xyz
+127.0.0.1 buvdkt.icu
+127.0.0.1 onagsc.xyz
+127.0.0.1 nvdtdsd.xyz
 127.0.0.1 zojyob.icu
 127.0.0.1 zopuqv.icu
 127.0.0.1 zsjpi.cn
