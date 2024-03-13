@@ -80,7 +80,6 @@
 127.0.0.1 sourcepoint.dexerto.com
 127.0.0.1 sourcepoint.gizmodo.com
 127.0.0.1 sourcepoint.jalopnik.com
-127.0.0.1 sourcepoint.lifehacker.com
 127.0.0.1 sourcepoint.theonion.com
 127.0.0.1 sourcepoint.theroot.com
 127.0.0.1 sourcepoint.thetakeout.com

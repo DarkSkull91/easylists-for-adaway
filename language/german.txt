@@ -44,6 +44,7 @@
 127.0.0.1 ad.games.ch
 127.0.0.1 as.chartsurfer.de
 127.0.0.1 banner.click-tt.de
+127.0.0.1 code.alpin.de
 127.0.0.1 code.bergsteigen.com
 127.0.0.1 hybrid-prd.ad-prd.s.joyn.de
 127.0.0.1 lad.sumikai.com
@@ -54,6 +55,7 @@
 127.0.0.1 pear.focus.de
 127.0.0.1 plus.tourispo.com
 127.0.0.1 saas.valuetech.de
+127.0.0.1 w.alpin.de
 127.0.0.1 wbbanner.mrn-news.de
 127.0.0.1 werbemanager.w24.at
 127.0.0.1 x.sumikai.com

@@ -1,5 +1,6 @@
 127.0.0.1 0940088.com
 127.0.0.1 0j775d.cn
+127.0.0.1 0tq6ub.cn
 127.0.0.1 0uvt8b.cn
 127.0.0.1 0uyt5b.cn
 127.0.0.1 0v1syj.cn
@@ -68,9 +69,11 @@
 127.0.0.1 cvnxetmq.xyz
 127.0.0.1 cvudqzoa.xyz
 127.0.0.1 cwssfg632.shop
+127.0.0.1 cxlvlbx.xyz
 127.0.0.1 dawdlealmonry.com
 127.0.0.1 ddielv.cn
 127.0.0.1 delhirs.com
+127.0.0.1 diccsbhij.com
 127.0.0.1 difmnd.xyz
 127.0.0.1 dkjwbv.xyz
 127.0.0.1 dqhxmbx.cn
@@ -101,6 +104,7 @@
 127.0.0.1 ghgasdb365.shop
 127.0.0.1 ghgasdt963.shop
 127.0.0.1 gicjtss.cn
+127.0.0.1 gkutca.xyz
 127.0.0.1 gsuxyg.xyz
 127.0.0.1 gvbta.icu
 127.0.0.1 ha723.icu
@@ -108,6 +112,7 @@
 127.0.0.1 hbjolp.xyz
 127.0.0.1 hciwyv.icu
 127.0.0.1 hdtedar126.shop
+127.0.0.1 hdvsrz.xyz
 127.0.0.1 heapz.cyou
 127.0.0.1 hexcvb.xyz
 127.0.0.1 hgthpj.xyz
@@ -124,6 +129,7 @@
 127.0.0.1 inifdlao.top
 127.0.0.1 inworket.com
 127.0.0.1 ivbgpax.cn
+127.0.0.1 jbmfldt.cn
 127.0.0.1 jflwhf.xyz
 127.0.0.1 jgblvt.xyz
 127.0.0.1 jgmywh.icu
@@ -132,13 +138,16 @@
 127.0.0.1 jozbun.icu
 127.0.0.1 jqpejp.xyz
 127.0.0.1 js131.cn
+127.0.0.1 justapp.top
 127.0.0.1 jzjpntr.xyz
 127.0.0.1 kbomku.xyz
 127.0.0.1 kfdrc.cyou
 127.0.0.1 kksjsa.top
+127.0.0.1 knifdlad.top
 127.0.0.1 ktoioo.xyz
 127.0.0.1 ktvjpmi.xyz
 127.0.0.1 l5kt1.icu
+127.0.0.1 lafirx.xyz
 127.0.0.1 lardmoni.com
 127.0.0.1 lenvvb.xyz
 127.0.0.1 lewiooz.cn
@@ -159,9 +168,11 @@
 127.0.0.1 ndthdte125.shop
 127.0.0.1 ndthdtr586.shop
 127.0.0.1 ngnxyub.cn
+127.0.0.1 njhvalu.cn
 127.0.0.1 nkbkor.icu
 127.0.0.1 nowhern.com
 127.0.0.1 nplahh.xyz
+127.0.0.1 nsjnmx.icu
 127.0.0.1 nvdtdsd.xyz
 127.0.0.1 nyt5j.cyou
 127.0.0.1 obturex.com
@@ -171,6 +182,8 @@
 127.0.0.1 okwkaa.xyz
 127.0.0.1 onagsc.xyz
 127.0.0.1 oojjsa.com
+127.0.0.1 oppnfev.xyz
+127.0.0.1 osisk.com
 127.0.0.1 ostjpig.cn
 127.0.0.1 ovjlccs.xyz
 127.0.0.1 p04qzl.cn
@@ -188,9 +201,11 @@
 127.0.0.1 qqkkpos.com
 127.0.0.1 qrkhwe.xyz
 127.0.0.1 qrttfmo.cn
+127.0.0.1 qw9cu.cyou
 127.0.0.1 qzalsk.xyz
 127.0.0.1 rarcff.xyz
 127.0.0.1 rbhunp.xyz
+127.0.0.1 rcyzsh.icu
 127.0.0.1 rfnvqpo.xyz
 127.0.0.1 riscil.com
 127.0.0.1 rjhbjv.xyz
@@ -212,10 +227,12 @@
 127.0.0.1 sjaaquj.cn
 127.0.0.1 skfda5.com
 127.0.0.1 smallfo.com
+127.0.0.1 snifdlab.top
 127.0.0.1 soffersk.com
 127.0.0.1 spsfupq.cn
 127.0.0.1 srzpsbf.xyz
 127.0.0.1 svncowt.cn
+127.0.0.1 swsegi.xyz
 127.0.0.1 szbhb.cn
 127.0.0.1 szmnd.cn
 127.0.0.1 szmnf.cn
@@ -248,6 +265,7 @@
 127.0.0.1 uu22662.com
 127.0.0.1 uxlvk.cn
 127.0.0.1 uxrdg.cn
+127.0.0.1 vdvcjlp.cn
 127.0.0.1 veaiyl.icu
 127.0.0.1 vhvwlb.xyz
 127.0.0.1 vszzzj.xyz
@@ -257,6 +275,7 @@
 127.0.0.1 wisealty.com
 127.0.0.1 wkywrc.cn
 127.0.0.1 wnmaoc.xyz
+127.0.0.1 wopvmmy.cn
 127.0.0.1 wqcfg.cn
 127.0.0.1 wwjtdjj.cn
 127.0.0.1 xcypgd.icu
@@ -296,9 +315,16 @@
 127.0.0.1 zhihucloud.xyz
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
+127.0.0.1 0r3tyg.cn
+127.0.0.1 ahtfzhs.xyz
+127.0.0.1 pnxtnp.xyz
+127.0.0.1 vmnlkr.icu
+127.0.0.1 enifdlaw.top
+127.0.0.1 eiqsky.xyz
 127.0.0.1 zojyob.icu
 127.0.0.1 zopuqv.icu
 127.0.0.1 zsjpi.cn
+127.0.0.1 zttuvj.xyz
 127.0.0.1 ztxjutz.xyz
 127.0.0.1 zuvbzl.xyz
 127.0.0.1 002777.xyz
@@ -5174,6 +5200,7 @@
 127.0.0.1 c1.china.cn
 127.0.0.1 c1.czcol.cn
 127.0.0.1 c6.friok.com
+127.0.0.1 c81.ipanocloud.com
 127.0.0.1 ca.yangshengtv.com
 127.0.0.1 car.qcmrjx.com
 127.0.0.1 cbdm.weathercn.com
@@ -5255,7 +5282,6 @@
 127.0.0.1 dm.zjut.cc
 127.0.0.1 dm.zuowenku.net
 127.0.0.1 dm1.ddwk8.cn
-127.0.0.1 dm1.guanwawa.com
 127.0.0.1 dm1.zjydt.com
 127.0.0.1 dmm.aizhan.com
 127.0.0.1 dmr.cnhoney.com
