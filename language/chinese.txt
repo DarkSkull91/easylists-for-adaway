@@ -1,5 +1,6 @@
 127.0.0.1 0940088.com
 127.0.0.1 0j775d.cn
+127.0.0.1 0r3tyg.cn
 127.0.0.1 0tq6ub.cn
 127.0.0.1 0uvt8b.cn
 127.0.0.1 0uyt5b.cn
@@ -19,6 +20,7 @@
 127.0.0.1 999xx999kk.com
 127.0.0.1 aaoisp.com
 127.0.0.1 agmed.cyou
+127.0.0.1 ahtfzhs.xyz
 127.0.0.1 ahyyqq.xyz
 127.0.0.1 anjdwmq.xyz
 127.0.0.1 aourgk.xyz
@@ -38,6 +40,8 @@
 127.0.0.1 bmnbyn.icu
 127.0.0.1 bmret.cn
 127.0.0.1 brixel.cn
+127.0.0.1 btyhnbmn289.shop
+127.0.0.1 btyhnraw653.shop
 127.0.0.1 bugzmn.icu
 127.0.0.1 buvdkt.icu
 127.0.0.1 bvtvlp.xyz
@@ -86,8 +90,10 @@
 127.0.0.1 efmtsw.xyz
 127.0.0.1 egywbps748.shop
 127.0.0.1 egywbpu286.shop
+127.0.0.1 eiqsky.xyz
 127.0.0.1 ejdhmed.xyz
 127.0.0.1 endolift.cn
+127.0.0.1 enifdlaw.top
 127.0.0.1 eqqwgw.xyz
 127.0.0.1 execuri.com
 127.0.0.1 fefgvh.xyz
@@ -192,6 +198,7 @@
 127.0.0.1 phvfevk.xyz
 127.0.0.1 pidzlp.xyz
 127.0.0.1 pjzxdl.xyz
+127.0.0.1 pnxtnp.xyz
 127.0.0.1 przbzr.xyz
 127.0.0.1 pwhtip.icu
 127.0.0.1 qbhzghb.xyz
@@ -268,11 +275,13 @@
 127.0.0.1 vdvcjlp.cn
 127.0.0.1 veaiyl.icu
 127.0.0.1 vhvwlb.xyz
+127.0.0.1 vmnlkr.icu
 127.0.0.1 vszzzj.xyz
 127.0.0.1 vxfdepn.cn
 127.0.0.1 wbubgob.cn
 127.0.0.1 wbvfj.xyz
 127.0.0.1 wisealty.com
+127.0.0.1 wjwod.cyou
 127.0.0.1 wkywrc.cn
 127.0.0.1 wnmaoc.xyz
 127.0.0.1 wopvmmy.cn
@@ -302,6 +311,7 @@
 127.0.0.1 yddjmpjo.xyz
 127.0.0.1 ydfhidrk.xyz
 127.0.0.1 ydrvkdni.xyz
+127.0.0.1 ydwkrbg.cn
 127.0.0.1 ydybwjpa.xyz
 127.0.0.1 yhqukg.xyz
 127.0.0.1 ykkhihg.cn
@@ -315,12 +325,12 @@
 127.0.0.1 zhihucloud.xyz
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
-127.0.0.1 0r3tyg.cn
-127.0.0.1 ahtfzhs.xyz
-127.0.0.1 pnxtnp.xyz
-127.0.0.1 vmnlkr.icu
-127.0.0.1 enifdlaw.top
-127.0.0.1 eiqsky.xyz
+127.0.0.1 qhodog.xyz
+127.0.0.1 uuvzmba.cn
+127.0.0.1 zwxxcb.icu
+127.0.0.1 mrtxtrq.xyz
+127.0.0.1 wnifdlae.top
+127.0.0.1 pxzrlf.xyz
 127.0.0.1 zojyob.icu
 127.0.0.1 zopuqv.icu
 127.0.0.1 zsjpi.cn
