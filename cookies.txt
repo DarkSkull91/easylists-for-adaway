@@ -83,6 +83,7 @@
 127.0.0.1 sourcepoint.theonion.com
 127.0.0.1 sourcepoint.theroot.com
 127.0.0.1 sourcepoint.thetakeout.com
+127.0.0.1 transcendcdn.eventbrite.com
 127.0.0.1 vg247-p2.vg247.com
 127.0.0.1 vg247-uk.vg247.com
 127.0.0.1 9jdq2a.poco.de
