@@ -295,7 +295,6 @@
 127.0.0.1 api.smartadv.ru
 127.0.0.1 arigami.ru
 127.0.0.1 az708531.vo.msecnd.net
-127.0.0.1 azartplay.casino
 127.0.0.1 b.digital-tv.com.ua
 127.0.0.1 bachmedia.ru
 127.0.0.1 barpe.ru
@@ -961,7 +960,6 @@
 127.0.0.1 blogs-stars.org
 127.0.0.1 blogshop.org
 127.0.0.1 blogss-stars.org
-127.0.0.1 browserextensions.net
 127.0.0.1 buyfordreams.ru
 127.0.0.1 cifaceg.gos-arhiv.ru
 127.0.0.1 cobrax.ru
@@ -984,6 +982,7 @@
 127.0.0.1 filebase.me
 127.0.0.1 films.ws
 127.0.0.1 fin-vector.ru
+127.0.0.1 find-it.pro
 127.0.0.1 flebolab.ru
 127.0.0.1 fly-shops.ru
 127.0.0.1 fsb-russia.dtdns.net
@@ -1058,7 +1057,6 @@
 127.0.0.1 portal-info.org
 127.0.0.1 propolis-shungit.biz
 127.0.0.1 rcforme.biz
-127.0.0.1 readtoday.ru
 127.0.0.1 readvesti.ru
 127.0.0.1 real-blog.name
 127.0.0.1 realblog.biz
@@ -1069,7 +1067,6 @@
 127.0.0.1 reallblog.net
 127.0.0.1 reals-story.ru
 127.0.0.1 rightroundark.ru
-127.0.0.1 runews-time.xyz
 127.0.0.1 rus-news.biz
 127.0.0.1 rus-news.club
 127.0.0.1 rusnews.biz
@@ -1129,7 +1126,6 @@
 127.0.0.1 zodiac-game.info
 127.0.0.1 zpppstop.ru
 127.0.0.1 zqwjpxow7boc.ru
-127.0.0.1 a.meteonova.ru
 127.0.0.1 a.multik-online.net
 127.0.0.1 a.velvet.by
 127.0.0.1 abs.firstvds.ru
