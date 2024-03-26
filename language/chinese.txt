@@ -32,6 +32,7 @@
 127.0.0.1 agmed.cyou
 127.0.0.1 ahtfzhs.xyz
 127.0.0.1 ahyyqq.xyz
+127.0.0.1 ajijcy.xyz
 127.0.0.1 anjdwmq.xyz
 127.0.0.1 aourgk.xyz
 127.0.0.1 ariqye.xyz
@@ -111,9 +112,11 @@
 127.0.0.1 dryden.cn
 127.0.0.1 dsbqvj.xyz
 127.0.0.1 dsjkbcjsjkbvs.com
+127.0.0.1 dvotlhs.cn
 127.0.0.1 dxrnksm.xyz
 127.0.0.1 dyegif.icu
 127.0.0.1 dytkgl.icu
+127.0.0.1 dzdnffs.xyz
 127.0.0.1 dzfzak.cn
 127.0.0.1 dzuht.cn
 127.0.0.1 eaqlos.xyz
@@ -145,6 +148,7 @@
 127.0.0.1 fvpboxu.xyz
 127.0.0.1 fwcnex.icu
 127.0.0.1 fxjnfn.xyz
+127.0.0.1 fztyrv.xyz
 127.0.0.1 gcumgu.xyz
 127.0.0.1 ghgasdb365.shop
 127.0.0.1 ghgasdt963.shop
@@ -168,6 +172,7 @@
 127.0.0.1 hgthpj.xyz
 127.0.0.1 hhffks967.shop
 127.0.0.1 hhffnu135.shop
+127.0.0.1 higyoe.cn
 127.0.0.1 hitchun.com
 127.0.0.1 hjshal.com
 127.0.0.1 hkbumv.icu
@@ -204,6 +209,7 @@
 127.0.0.1 kssolo.com
 127.0.0.1 ktoioo.xyz
 127.0.0.1 ktvjpmi.xyz
+127.0.0.1 ktyusid.top
 127.0.0.1 l5kt1.icu
 127.0.0.1 lafirx.xyz
 127.0.0.1 lardmoni.com
@@ -353,6 +359,7 @@
 127.0.0.1 tmjetb.xyz
 127.0.0.1 tnifdlai.top
 127.0.0.1 tnvnnn.xyz
+127.0.0.1 tqvnzj.xyz
 127.0.0.1 tsrvrr.xyz
 127.0.0.1 tu2024020388.com
 127.0.0.1 tyodot.icu
@@ -432,9 +439,13 @@
 127.0.0.1 yvnxetmq.xyz
 127.0.0.1 yvudqzoa.xyz
 127.0.0.1 yyddkm526.shop
-127.0.0.1 tqvnzj.xyz
-127.0.0.1 ktyusid.top
-127.0.0.1 ajijcy.xyz
+127.0.0.1 ryrmvd.xyz
+127.0.0.1 uigxgg.xyz
+127.0.0.1 prhfziq.xyz
+127.0.0.1 taxoxz.xyz
+127.0.0.1 ivnrrkx.cn
+127.0.0.1 styusib.top
+127.0.0.1 elisium.cn
 127.0.0.1 yyttmyy.cn
 127.0.0.1 zagyjnn.cn
 127.0.0.1 zailgrae.com
