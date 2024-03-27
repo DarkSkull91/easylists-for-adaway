@@ -159,6 +159,7 @@
 127.0.0.1 423991b7ca.com
 127.0.0.1 423ed275a7.com
 127.0.0.1 424e7f7ce6.com
+127.0.0.1 42dbd09587.com
 127.0.0.1 43f138e903.com
 127.0.0.1 440t1jcs6utnip.xyz
 127.0.0.1 443f6269ce.com
@@ -2093,6 +2094,7 @@
 127.0.0.1 dxayhotdj.xyz
 127.0.0.1 dyarchyrente.guru
 127.0.0.1 e0d8634bdb.com
+127.0.0.1 e0e5bc8f81.com
 127.0.0.1 e218cdc27d.com
 127.0.0.1 e23f9d993d.com
 127.0.0.1 e2572292c5.com
@@ -4416,6 +4418,7 @@
 127.0.0.1 serenocomb.digital
 127.0.0.1 serestelian.com
 127.0.0.1 serietrk.com
+127.0.0.1 serpentinejob.pro
 127.0.0.1 serratepellaea.com
 127.0.0.1 serrularockier.com
 127.0.0.1 sersh.com

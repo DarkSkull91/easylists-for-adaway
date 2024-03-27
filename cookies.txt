@@ -4,7 +4,6 @@
 127.0.0.1 ccpa.sp-prod.net
 127.0.0.1 cmp.gemius.com
 127.0.0.1 cmp.setupcmp.com
-127.0.0.1 cmp.sibbo.net
 127.0.0.1 consent.dadoslegais.com
 127.0.0.1 consent.digiapi.com
 127.0.0.1 consent.prointernet.com
