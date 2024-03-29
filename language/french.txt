@@ -5494,6 +5494,7 @@
 127.0.0.1 cmp.vidcoin.com
 127.0.0.1 coachingminceur.go2cloud.org
 127.0.0.1 csm-e.cds1.yospace.com
+127.0.0.1 ctb.intersport.fr
 127.0.0.1 damoh.schneevonmorgen.com
 127.0.0.1 deals-du-web.com
 127.0.0.1 devisprox-media.s3-website-eu-west-1.amazonaws.com
@@ -5502,6 +5503,7 @@
 127.0.0.1 ea.numericable.fr
 127.0.0.1 exchange.pbem.fr
 127.0.0.1 flux.effiliation.com
+127.0.0.1 fsx.i-run.fr
 127.0.0.1 geek-nerd-server.firebaseapp.com
 127.0.0.1 go.pancafepro.com
 127.0.0.1 gu7socdn.txxx.com
@@ -5547,6 +5549,7 @@
 127.0.0.1 s.beop.io
 127.0.0.1 s.beopinion.com
 127.0.0.1 sle.pagesjaunes.fr
+127.0.0.1 ssa.direct-running.fr
 127.0.0.1 static.mntzm.com
 127.0.0.1 statstools.porn.fr
 127.0.0.1 surfeurdor.free.fr

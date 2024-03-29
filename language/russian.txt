@@ -972,7 +972,6 @@
 127.0.0.1 drp.su
 127.0.0.1 dugtor-deer.pw
 127.0.0.1 dw1-msetup.org
-127.0.0.1 endocri.ru
 127.0.0.1 erobestvideo.ru
 127.0.0.1 etarg.network
 127.0.0.1 etonews.ru
@@ -1019,11 +1018,8 @@
 127.0.0.1 marketgid.ru
 127.0.0.1 mchostings.ru
 127.0.0.1 medblog.online
-127.0.0.1 mediapress.xyz
 127.0.0.1 medicineteaser.org
 127.0.0.1 medinses.ru
-127.0.0.1 mega-game.org
-127.0.0.1 mega-pics-money.ru
 127.0.0.1 money4leads.biz
 127.0.0.1 mosblog24.ru
 127.0.0.1 msetup.pro
@@ -1036,7 +1032,6 @@
 127.0.0.1 newmed24.ru
 127.0.0.1 news-bc.ru
 127.0.0.1 newseer.net
-127.0.0.1 newsles.ru
 127.0.0.1 newsma.ru
 127.0.0.1 nnm-club.eu
 127.0.0.1 oblivki-news.ru

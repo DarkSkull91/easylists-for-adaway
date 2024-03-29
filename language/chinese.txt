@@ -475,6 +475,12 @@
 127.0.0.1 wtyusie.top
 127.0.0.1 difhil.icu
 127.0.0.1 stlpnom.xyz
+127.0.0.1 ly55442.com
+127.0.0.1 wsdwbfs.cn
+127.0.0.1 jedlnn.xyz
+127.0.0.1 xwvnhe.cn
+127.0.0.1 elphhrj.xyz
+127.0.0.1 esqhsm.xyz
 127.0.0.1 zailgrae.com
 127.0.0.1 zeqvqb.icu
 127.0.0.1 zfzys.top
