@@ -112,6 +112,7 @@
 127.0.0.1 ddielv.cn
 127.0.0.1 delhirs.com
 127.0.0.1 destinyssa.com
+127.0.0.1 dianassb.com
 127.0.0.1 diccsbhij.com
 127.0.0.1 difhil.icu
 127.0.0.1 difmnd.xyz
@@ -166,6 +167,7 @@
 127.0.0.1 fmssoj.icu
 127.0.0.1 fpjjjh.xyz
 127.0.0.1 fpvdrzx.xyz
+127.0.0.1 fqbjzj.xyz
 127.0.0.1 frtnqps358.shop
 127.0.0.1 frtnqpw837.shop
 127.0.0.1 fvpboxu.xyz
@@ -229,6 +231,7 @@
 127.0.0.1 jgblvt.xyz
 127.0.0.1 jgmywh.icu
 127.0.0.1 jioed.cyou
+127.0.0.1 jnalzla.top
 127.0.0.1 jnifdlaa.top
 127.0.0.1 jozbun.icu
 127.0.0.1 jqbddp.xyz
@@ -253,6 +256,7 @@
 127.0.0.1 ktoioo.xyz
 127.0.0.1 ktvjpmi.xyz
 127.0.0.1 ktyusid.top
+127.0.0.1 kwqnki.xyz
 127.0.0.1 kzepp.com
 127.0.0.1 l5kt1.icu
 127.0.0.1 lafirx.xyz
@@ -265,6 +269,7 @@
 127.0.0.1 lfffzv.xyz
 127.0.0.1 lfhdryz.xyz
 127.0.0.1 lgtpdt.xyz
+127.0.0.1 liebaovip.com
 127.0.0.1 lkpxzt.xyz
 127.0.0.1 llksja.com
 127.0.0.1 lmxiqf.icu
@@ -290,6 +295,7 @@
 127.0.0.1 mthhhuq.cn
 127.0.0.1 mtwmuy.xyz
 127.0.0.1 mxeq.cn
+127.0.0.1 nawpyd.icu
 127.0.0.1 nddld.cn
 127.0.0.1 ndthdte125.shop
 127.0.0.1 ndthdtr586.shop
@@ -367,6 +373,7 @@
 127.0.0.1 qzozsa.xyz
 127.0.0.1 rarcff.xyz
 127.0.0.1 rarmkce.cn
+127.0.0.1 rawmtft.cn
 127.0.0.1 rbhunp.xyz
 127.0.0.1 rcyzsh.icu
 127.0.0.1 rfnvqpo.xyz
@@ -409,6 +416,7 @@
 127.0.0.1 svncowt.cn
 127.0.0.1 swsegi.xyz
 127.0.0.1 szbhb.cn
+127.0.0.1 szmhk.cn
 127.0.0.1 szmnd.cn
 127.0.0.1 szmnf.cn
 127.0.0.1 szmnk.cn
@@ -532,14 +540,11 @@
 127.0.0.1 zfzys.top
 127.0.0.1 zhaweifeng.com
 127.0.0.1 zhihucloud.xyz
+127.0.0.1 zhnnaxe.xyz
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
 127.0.0.1 zojyob.icu
 127.0.0.1 zopuqv.icu
-127.0.0.1 jnalzla.top
-127.0.0.1 kwqnki.xyz
-127.0.0.1 rawmtft.cn
-127.0.0.1 nawpyd.icu
 127.0.0.1 zsjpi.cn
 127.0.0.1 zttuvj.xyz
 127.0.0.1 ztxjutz.xyz
