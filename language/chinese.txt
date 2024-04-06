@@ -12,6 +12,7 @@
 127.0.0.1 0v1syj.cn
 127.0.0.1 1ny3r.icu
 127.0.0.1 2jse6.icu
+127.0.0.1 2qy9zm.cn
 127.0.0.1 3bxe2.cyou
 127.0.0.1 3q1lsj.cn
 127.0.0.1 4wu3gf.cn
@@ -128,6 +129,7 @@
 127.0.0.1 drummers.cn
 127.0.0.1 dryden.cn
 127.0.0.1 dsbqvj.xyz
+127.0.0.1 dsjhcgvhjsvc.com
 127.0.0.1 dsjkbcjsjkbvs.com
 127.0.0.1 dvotlhs.cn
 127.0.0.1 dwbfqmz.cn
@@ -152,6 +154,7 @@
 127.0.0.1 ellingsen.cn
 127.0.0.1 elphhrj.xyz
 127.0.0.1 eluocs.xyz
+127.0.0.1 emizkno.cn
 127.0.0.1 endolift.cn
 127.0.0.1 enifdlaw.top
 127.0.0.1 eqqwgw.xyz
@@ -180,6 +183,7 @@
 127.0.0.1 fztyrv.xyz
 127.0.0.1 gblxtlo.xyz
 127.0.0.1 gcumgu.xyz
+127.0.0.1 gfjn5.xyz
 127.0.0.1 ghgasdb365.shop
 127.0.0.1 ghgasdt963.shop
 127.0.0.1 gicjtss.cn
@@ -210,6 +214,7 @@
 127.0.0.1 hkbumv.icu
 127.0.0.1 hmrwkcx.cn
 127.0.0.1 hnalzlu.top
+127.0.0.1 hnartcqab847.live
 127.0.0.1 hnifdlau.top
 127.0.0.1 hozatr.xyz
 127.0.0.1 hptyp.icu
@@ -226,9 +231,11 @@
 127.0.0.1 inworket.com
 127.0.0.1 irayedo.cn
 127.0.0.1 ityusio.top
+127.0.0.1 iummqg.xyz
 127.0.0.1 ivbgpax.cn
 127.0.0.1 ivnrrkx.cn
 127.0.0.1 iykig.cn
+127.0.0.1 izalflh.cn
 127.0.0.1 jbmfldt.cn
 127.0.0.1 jedlnn.xyz
 127.0.0.1 jflwhf.xyz
@@ -310,6 +317,7 @@
 127.0.0.1 njenlz.cn
 127.0.0.1 njhvalu.cn
 127.0.0.1 nkbkor.icu
+127.0.0.1 nkfith.xyz
 127.0.0.1 nlhpxj.xyz
 127.0.0.1 nljrvdh.xyz
 127.0.0.1 nmntgd.cn
@@ -416,6 +424,7 @@
 127.0.0.1 skdncksklsv.com
 127.0.0.1 skfda5.com
 127.0.0.1 smallfo.com
+127.0.0.1 snalzlb.top
 127.0.0.1 snifdlab.top
 127.0.0.1 soffersk.com
 127.0.0.1 sosakk.xyz
@@ -425,6 +434,7 @@
 127.0.0.1 styusib.top
 127.0.0.1 svncowt.cn
 127.0.0.1 swsegi.xyz
+127.0.0.1 syiwgwsqwngrdw.xyz
 127.0.0.1 szbhb.cn
 127.0.0.1 szmhk.cn
 127.0.0.1 szmnd.cn
@@ -438,6 +448,7 @@
 127.0.0.1 szptp.cn
 127.0.0.1 szpwg.cn
 127.0.0.1 szpwh.cn
+127.0.0.1 szpzm.cn
 127.0.0.1 tahznx.xyz
 127.0.0.1 taxoxz.xyz
 127.0.0.1 tbpwrj.xyz
@@ -488,6 +499,7 @@
 127.0.0.1 vmnlkr.icu
 127.0.0.1 vpzohx.xyz
 127.0.0.1 vszzzj.xyz
+127.0.0.1 vuvnix.icu
 127.0.0.1 vxfdepn.cn
 127.0.0.1 wbubgob.cn
 127.0.0.1 wbvfj.xyz
@@ -522,6 +534,7 @@
 127.0.0.1 xn--wgvp78a61swpe6zdozj.cn
 127.0.0.1 xnpuw.cn
 127.0.0.1 xrdqdd.xyz
+127.0.0.1 xrrxodz.xyz
 127.0.0.1 xsfajf.xyz
 127.0.0.1 xszw0.icu
 127.0.0.1 xudarl.xyz
@@ -541,6 +554,7 @@
 127.0.0.1 yhqukg.xyz
 127.0.0.1 ykkhihg.cn
 127.0.0.1 yliffnsc.xyz
+127.0.0.1 yqlxkzs.cn
 127.0.0.1 yvbjctqs.xyz
 127.0.0.1 yvnxetmq.xyz
 127.0.0.1 yvudqzoa.xyz
