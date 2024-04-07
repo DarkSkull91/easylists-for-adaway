@@ -17,6 +17,7 @@
 127.0.0.1 3q1lsj.cn
 127.0.0.1 4wu3gf.cn
 127.0.0.1 51hir.cyou
+127.0.0.1 555bbb333bbb.com
 127.0.0.1 5z0d3.cyou
 127.0.0.1 666bbb333bbb.com
 127.0.0.1 6slb0.cyou
@@ -35,6 +36,7 @@
 127.0.0.1 999xx999kk.com
 127.0.0.1 aaoisp.com
 127.0.0.1 actitat.com
+127.0.0.1 adzdgr-wadd2-f1d.com
 127.0.0.1 agmed.cyou
 127.0.0.1 ahtfzhs.xyz
 127.0.0.1 ahyyqq.xyz
@@ -155,6 +157,7 @@
 127.0.0.1 elphhrj.xyz
 127.0.0.1 eluocs.xyz
 127.0.0.1 emizkno.cn
+127.0.0.1 enalzlw.top
 127.0.0.1 endolift.cn
 127.0.0.1 enifdlaw.top
 127.0.0.1 eqqwgw.xyz
@@ -226,6 +229,8 @@
 127.0.0.1 hyusnisu.top
 127.0.0.1 ijvla.cn
 127.0.0.1 imevzbn.cn
+127.0.0.1 img8e51zy4bg.com
+127.0.0.1 img8e94zy4bg.com
 127.0.0.1 inalzlo.top
 127.0.0.1 inifdlao.top
 127.0.0.1 inworket.com
@@ -294,6 +299,7 @@
 127.0.0.1 lwrohd.xyz
 127.0.0.1 ly55442.com
 127.0.0.1 lznfuab.xyz
+127.0.0.1 m1170.top
 127.0.0.1 m6690.top
 127.0.0.1 mdhv3.icu
 127.0.0.1 mdzwjra.cn
@@ -308,6 +314,7 @@
 127.0.0.1 mthhhuq.cn
 127.0.0.1 mtwmuy.xyz
 127.0.0.1 mxeq.cn
+127.0.0.1 naihyvz.cn
 127.0.0.1 nawpyd.icu
 127.0.0.1 nddld.cn
 127.0.0.1 ndthdte125.shop
@@ -325,6 +332,7 @@
 127.0.0.1 npjvgug.xyz
 127.0.0.1 nplahh.xyz
 127.0.0.1 nsjnmx.icu
+127.0.0.1 nuhgpx.xyz
 127.0.0.1 nvdtdsd.xyz
 127.0.0.1 nvjqtz.xyz
 127.0.0.1 nyt5j.cyou
@@ -333,6 +341,7 @@
 127.0.0.1 ocggec.xyz
 127.0.0.1 ofkcww.xyz
 127.0.0.1 ogznfgl.cn
+127.0.0.1 ojvpigx.xyz
 127.0.0.1 ok8867s.com
 127.0.0.1 okwkaa.xyz
 127.0.0.1 onagsc.xyz
@@ -367,6 +376,7 @@
 127.0.0.1 pwhkfd.xyz
 127.0.0.1 pwhtip.icu
 127.0.0.1 pxzrlf.xyz
+127.0.0.1 q02orc.cn
 127.0.0.1 qbhzghb.xyz
 127.0.0.1 qcohkm.xyz
 127.0.0.1 qdtzbbh.xyz
@@ -482,6 +492,7 @@
 127.0.0.1 uqwbcm.xyz
 127.0.0.1 urqwzbu.cn
 127.0.0.1 usltmus.cn
+127.0.0.1 utkauo.xyz
 127.0.0.1 utxmb.cn
 127.0.0.1 uu22662.com
 127.0.0.1 uuvzmba.cn
@@ -563,6 +574,7 @@
 127.0.0.1 yyttmyy.cn
 127.0.0.1 zagyjnn.cn
 127.0.0.1 zailgrae.com
+127.0.0.1 zekzoh.icu
 127.0.0.1 zeqvqb.icu
 127.0.0.1 zfzys.top
 127.0.0.1 zhaweifeng.com
