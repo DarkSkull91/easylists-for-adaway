@@ -1,3 +1,4 @@
+127.0.0.1 0322cfmtl.cc
 127.0.0.1 0940088.com
 127.0.0.1 0j775d.cn
 127.0.0.1 0k7wod.cn
@@ -47,11 +48,13 @@
 127.0.0.1 ariqye.xyz
 127.0.0.1 arnhhwo.xyz
 127.0.0.1 arqvm.cn
+127.0.0.1 atzhcjv.xyz
 127.0.0.1 awuvcq.xyz
 127.0.0.1 azyuuk.xyz
 127.0.0.1 b37r5.cyou
 127.0.0.1 batijian.com
 127.0.0.1 bba9603w.com
+127.0.0.1 bdjfea.cn
 127.0.0.1 bdtdat652.shop
 127.0.0.1 bdxpdz.xyz
 127.0.0.1 benpsbp.com
@@ -187,6 +190,7 @@
 127.0.0.1 gblxtlo.xyz
 127.0.0.1 gcumgu.xyz
 127.0.0.1 gfjn5.xyz
+127.0.0.1 gfylyw.xyz
 127.0.0.1 ghgasdb365.shop
 127.0.0.1 ghgasdt963.shop
 127.0.0.1 gicjtss.cn
@@ -301,6 +305,7 @@
 127.0.0.1 lznfuab.xyz
 127.0.0.1 m1170.top
 127.0.0.1 m6690.top
+127.0.0.1 m6j37.xyz
 127.0.0.1 mdhv3.icu
 127.0.0.1 mdzwjra.cn
 127.0.0.1 misjgy.xyz
@@ -337,6 +342,7 @@
 127.0.0.1 nvjqtz.xyz
 127.0.0.1 nyt5j.cyou
 127.0.0.1 o1b04.cyou
+127.0.0.1 obgekjz.icu
 127.0.0.1 obturex.com
 127.0.0.1 ocggec.xyz
 127.0.0.1 ofkcww.xyz
@@ -504,9 +510,11 @@
 127.0.0.1 vcnpnf.xyz
 127.0.0.1 vdvcjlp.cn
 127.0.0.1 veaiyl.icu
+127.0.0.1 vejhln.xyz
 127.0.0.1 vfchm.cyou
 127.0.0.1 vflorp.xyz
 127.0.0.1 vhvwlb.xyz
+127.0.0.1 vioyugo.cn
 127.0.0.1 vmnlkr.icu
 127.0.0.1 vpzohx.xyz
 127.0.0.1 vszzzj.xyz
@@ -520,6 +528,7 @@
 127.0.0.1 wisealty.com
 127.0.0.1 wjwod.cyou
 127.0.0.1 wkywrc.cn
+127.0.0.1 wnalzle.top
 127.0.0.1 wnifdlae.top
 127.0.0.1 wnmaoc.xyz
 127.0.0.1 wopvmmy.cn
