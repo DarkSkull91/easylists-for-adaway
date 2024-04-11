@@ -21,6 +21,7 @@
 127.0.0.1 51hir.cyou
 127.0.0.1 555bbb333bbb.com
 127.0.0.1 5z0d3.cyou
+127.0.0.1 666bbb222www.com
 127.0.0.1 666bbb333bbb.com
 127.0.0.1 6slb0.cyou
 127.0.0.1 6zfem.icu
@@ -104,6 +105,7 @@
 127.0.0.1 cnvmhzt.cn
 127.0.0.1 computel.cn
 127.0.0.1 costarg.com
+127.0.0.1 cowm199.com
 127.0.0.1 cqisam.xyz
 127.0.0.1 crjeymh.cn
 127.0.0.1 ctlrarz.xyz
@@ -237,6 +239,7 @@
 127.0.0.1 hubgets.cn
 127.0.0.1 hvxrvef.xyz
 127.0.0.1 hyusnisu.top
+127.0.0.1 idffhq.cn
 127.0.0.1 ievvo.xyz
 127.0.0.1 ijvla.cn
 127.0.0.1 imevzbn.cn
@@ -308,6 +311,7 @@
 127.0.0.1 lulxzl.xyz
 127.0.0.1 luofk.xyz
 127.0.0.1 lvdedf.xyz
+127.0.0.1 lvphbj.xyz
 127.0.0.1 lwrohd.xyz
 127.0.0.1 ly55442.com
 127.0.0.1 lznfuab.xyz
@@ -367,6 +371,7 @@
 127.0.0.1 osisk.com
 127.0.0.1 ostjpig.cn
 127.0.0.1 osusjsga.com
+127.0.0.1 otmebdr.cn
 127.0.0.1 ovjlccs.xyz
 127.0.0.1 oxkyaq.xyz
 127.0.0.1 oxvlxwz.xyz
@@ -391,12 +396,14 @@
 127.0.0.1 prhfziq.xyz
 127.0.0.1 przbzr.xyz
 127.0.0.1 pseudonym.cn
+127.0.0.1 pvhjkzo.xyz
 127.0.0.1 pwhkfd.xyz
 127.0.0.1 pwhtip.icu
 127.0.0.1 pxzrlf.xyz
 127.0.0.1 q02orc.cn
 127.0.0.1 qbhzghb.xyz
 127.0.0.1 qcohkm.xyz
+127.0.0.1 qcsvku.xyz
 127.0.0.1 qdtzbbh.xyz
 127.0.0.1 qetskupch581.shop
 127.0.0.1 qetskupyka61.shop
@@ -453,6 +460,7 @@
 127.0.0.1 sjaaquj.cn
 127.0.0.1 skdncksklsv.com
 127.0.0.1 skfda5.com
+127.0.0.1 slcmvgr.icu
 127.0.0.1 smallfo.com
 127.0.0.1 snalzlb.top
 127.0.0.1 snifdlab.top
@@ -477,6 +485,7 @@
 127.0.0.1 szmyl.cn
 127.0.0.1 szpnz.cn
 127.0.0.1 szptp.cn
+127.0.0.1 szpwf.cn
 127.0.0.1 szpwg.cn
 127.0.0.1 szpwh.cn
 127.0.0.1 szpzm.cn
@@ -508,6 +517,7 @@
 127.0.0.1 uiqcf.cn
 127.0.0.1 uljoifw.cn
 127.0.0.1 ulwfys.xyz
+127.0.0.1 unalzlt.top
 127.0.0.1 unifdlat.top
 127.0.0.1 upytsgo.cn
 127.0.0.1 uqrcuxp.cn
@@ -611,7 +621,14 @@
 127.0.0.1 znhlxvb.xyz
 127.0.0.1 zojyob.icu
 127.0.0.1 zopuqv.icu
+127.0.0.1 ujovcb.cn
 127.0.0.1 zsjpi.cn
+127.0.0.1 lesasfp.icu
+127.0.0.1 koqjok.xyz
+127.0.0.1 idffhq.cn
+127.0.0.1 bnlbecm.xyz
+127.0.0.1 lfrfzr.xyz
+127.0.0.1 osafsr.xyz
 127.0.0.1 zttuvj.xyz
 127.0.0.1 ztxjutz.xyz
 127.0.0.1 zuvbzl.xyz

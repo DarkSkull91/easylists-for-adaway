@@ -1158,7 +1158,6 @@
 127.0.0.1 str.eshzdorovo.ru
 127.0.0.1 submitred.freezpic.ru
 127.0.0.1 v.tranzistor-harakteristiki.ru
-127.0.0.1 xf.xyu.tv
 127.0.0.1 zen-test.yandex.ru
 127.0.0.1 trafffgen.rambler.ru
 127.0.0.1 be.vtomske.ru
