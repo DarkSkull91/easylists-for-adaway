@@ -630,6 +630,8 @@
 127.0.0.1 tptgvh.xyz
 127.0.0.1 lnalzll.top
 127.0.0.1 waouss.xyz
+127.0.0.1 xamssp.icu
+127.0.0.1 szmwr.cn
 127.0.0.1 zhihucloud.xyz
 127.0.0.1 zhnnaxe.xyz
 127.0.0.1 zjrtxt.xyz
