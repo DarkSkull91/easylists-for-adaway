@@ -64,6 +64,7 @@
 127.0.0.1 beyers.cn
 127.0.0.1 bijiangqing.com
 127.0.0.1 bjswhpy.cn
+127.0.0.1 bjxfnn.xyz
 127.0.0.1 bkzmtp.xyz
 127.0.0.1 blrupz.xyz
 127.0.0.1 blzbjpg.xyz
@@ -200,6 +201,7 @@
 127.0.0.1 fxjnfn.xyz
 127.0.0.1 fztyrv.xyz
 127.0.0.1 gblxtlo.xyz
+127.0.0.1 gccnntq.cn
 127.0.0.1 gcumgu.xyz
 127.0.0.1 gfjn5.xyz
 127.0.0.1 gfylyw.xyz
@@ -211,6 +213,7 @@
 127.0.0.1 gridline.cn
 127.0.0.1 grtarpcf963.top
 127.0.0.1 gsuxyg.xyz
+127.0.0.1 gtxkze.cn
 127.0.0.1 gueikw.xyz
 127.0.0.1 guwohvw.icu
 127.0.0.1 gvbta.icu
@@ -244,6 +247,7 @@
 127.0.0.1 hubgets.cn
 127.0.0.1 hvxrvef.xyz
 127.0.0.1 hyusnisu.top
+127.0.0.1 hyuwkbu.top
 127.0.0.1 idffhq.cn
 127.0.0.1 ievvo.xyz
 127.0.0.1 ijvla.cn
@@ -424,6 +428,7 @@
 127.0.0.1 qhemphox.com
 127.0.0.1 qhocciks.com
 127.0.0.1 qhodog.xyz
+127.0.0.1 qhtdmlf.xyz
 127.0.0.1 qkscga.xyz
 127.0.0.1 qlbbowx.xyz
 127.0.0.1 qnalzly.top
@@ -432,6 +437,7 @@
 127.0.0.1 qrkhwe.xyz
 127.0.0.1 qrovwu.xyz
 127.0.0.1 qrttfmo.cn
+127.0.0.1 qtoidch.icu
 127.0.0.1 qtyusiy.top
 127.0.0.1 qvnbjjd.xyz
 127.0.0.1 qw9cu.cyou
@@ -503,6 +509,7 @@
 127.0.0.1 szpwf.cn
 127.0.0.1 szpwg.cn
 127.0.0.1 szpwh.cn
+127.0.0.1 szpzk.cn
 127.0.0.1 szpzm.cn
 127.0.0.1 tahznx.xyz
 127.0.0.1 taxoxz.xyz
@@ -534,6 +541,7 @@
 127.0.0.1 uiqcf.cn
 127.0.0.1 ujovcb.cn
 127.0.0.1 uljoifw.cn
+127.0.0.1 ulktyi.xyz
 127.0.0.1 ulwfys.xyz
 127.0.0.1 unalzlt.top
 127.0.0.1 unifdlat.top
@@ -639,6 +647,12 @@
 127.0.0.1 zfzys.top
 127.0.0.1 zhaweifeng.com
 127.0.0.1 zhihucloud.xyz
+127.0.0.1 fqghykp.cn
+127.0.0.1 iyuwkbo.top
+127.0.0.1 gxihcq.xyz
+127.0.0.1 czxvgod.xyz
+127.0.0.1 jtzdld.xyz
+127.0.0.1 crbbhp.xyz
 127.0.0.1 zhnnaxe.xyz
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
