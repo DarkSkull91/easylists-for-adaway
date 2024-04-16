@@ -26,8 +26,10 @@
 127.0.0.1 6slb0.cyou
 127.0.0.1 6zfem.icu
 127.0.0.1 777bbb222bbb.com
+127.0.0.1 777bbb777www.com
 127.0.0.1 7vviw.cyou
 127.0.0.1 888bb555ww.com
+127.0.0.1 888bbb555www.com
 127.0.0.1 88lm05.com
 127.0.0.1 88lm06.com
 127.0.0.1 88lm07.com
@@ -111,6 +113,7 @@
 127.0.0.1 costarg.com
 127.0.0.1 cowm199.com
 127.0.0.1 cqisam.xyz
+127.0.0.1 crbbhp.xyz
 127.0.0.1 crjeymh.cn
 127.0.0.1 ctlrarz.xyz
 127.0.0.1 ctmrso.xyz
@@ -122,6 +125,7 @@
 127.0.0.1 cwssfg632.shop
 127.0.0.1 cxlvlbx.xyz
 127.0.0.1 cyuwkbf.top
+127.0.0.1 czxvgod.xyz
 127.0.0.1 d3g4a.cyou
 127.0.0.1 damiul.icu
 127.0.0.1 dataryon.com
@@ -194,6 +198,7 @@
 127.0.0.1 fpjjjh.xyz
 127.0.0.1 fpvdrzx.xyz
 127.0.0.1 fqbjzj.xyz
+127.0.0.1 fqghykp.cn
 127.0.0.1 frtnqps358.shop
 127.0.0.1 frtnqpw837.shop
 127.0.0.1 fvpboxu.xyz
@@ -217,6 +222,7 @@
 127.0.0.1 gueikw.xyz
 127.0.0.1 guwohvw.icu
 127.0.0.1 gvbta.icu
+127.0.0.1 gxihcq.xyz
 127.0.0.1 ha723.icu
 127.0.0.1 halct.cn
 127.0.0.1 hbjolp.xyz
@@ -263,6 +269,7 @@
 127.0.0.1 ivbgpax.cn
 127.0.0.1 ivnrrkx.cn
 127.0.0.1 iykig.cn
+127.0.0.1 iyuwkbo.top
 127.0.0.1 izalflh.cn
 127.0.0.1 izmiua.xyz
 127.0.0.1 jbmfldt.cn
@@ -271,6 +278,7 @@
 127.0.0.1 jgblvt.xyz
 127.0.0.1 jgmywh.icu
 127.0.0.1 jioed.cyou
+127.0.0.1 jmesxbe.icu
 127.0.0.1 jnalzla.top
 127.0.0.1 jnifdlaa.top
 127.0.0.1 jozbun.icu
@@ -278,6 +286,7 @@
 127.0.0.1 jqpejp.xyz
 127.0.0.1 js131.cn
 127.0.0.1 jtyusia.top
+127.0.0.1 jtzdld.xyz
 127.0.0.1 jubnpx.xyz
 127.0.0.1 justapp.top
 127.0.0.1 jvkqkzu.cn
@@ -533,6 +542,7 @@
 127.0.0.1 tqvnzj.xyz
 127.0.0.1 tsrvrr.xyz
 127.0.0.1 tu2024020388.com
+127.0.0.1 tuky889900.com
 127.0.0.1 tyodot.icu
 127.0.0.1 tyzfoej.cn
 127.0.0.1 uctutu3789.xyz
@@ -647,12 +657,10 @@
 127.0.0.1 zfzys.top
 127.0.0.1 zhaweifeng.com
 127.0.0.1 zhihucloud.xyz
-127.0.0.1 fqghykp.cn
-127.0.0.1 iyuwkbo.top
-127.0.0.1 gxihcq.xyz
-127.0.0.1 czxvgod.xyz
-127.0.0.1 jtzdld.xyz
-127.0.0.1 crbbhp.xyz
+127.0.0.1 hspdiom.cn
+127.0.0.1 sjgsgy.xyz
+127.0.0.1 cfugrnc.icu
+127.0.0.1 jdbeht.xyz
 127.0.0.1 zhnnaxe.xyz
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
