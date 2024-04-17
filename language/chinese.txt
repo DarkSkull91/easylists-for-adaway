@@ -58,6 +58,7 @@
 127.0.0.1 azyuuk.xyz
 127.0.0.1 b37r5.cyou
 127.0.0.1 batijian.com
+127.0.0.1 baucraell.com
 127.0.0.1 bba9603w.com
 127.0.0.1 bdjfea.cn
 127.0.0.1 bdtdat652.shop
@@ -101,6 +102,7 @@
 127.0.0.1 cdrvkdni.xyz
 127.0.0.1 cdybwjpa.xyz
 127.0.0.1 cfrtdmb.xyz
+127.0.0.1 cfugrnc.icu
 127.0.0.1 chayassa.com
 127.0.0.1 cherylssb.com
 127.0.0.1 cijianggun.com
@@ -248,6 +250,7 @@
 127.0.0.1 hozatr.xyz
 127.0.0.1 hptyp.icu
 127.0.0.1 hrnkdr.xyz
+127.0.0.1 hspdiom.cn
 127.0.0.1 hsutav.icu
 127.0.0.1 htyusiu.top
 127.0.0.1 hubgets.cn
@@ -273,6 +276,7 @@
 127.0.0.1 izalflh.cn
 127.0.0.1 izmiua.xyz
 127.0.0.1 jbmfldt.cn
+127.0.0.1 jdbeht.xyz
 127.0.0.1 jedlnn.xyz
 127.0.0.1 jflwhf.xyz
 127.0.0.1 jgblvt.xyz
@@ -393,6 +397,7 @@
 127.0.0.1 onifdlak.top
 127.0.0.1 oojjsa.com
 127.0.0.1 oppnfev.xyz
+127.0.0.1 orbnarb.xyz
 127.0.0.1 osafsr.xyz
 127.0.0.1 osisk.com
 127.0.0.1 ostjpig.cn
@@ -487,6 +492,7 @@
 127.0.0.1 shnpetdn185.shop
 127.0.0.1 shuocyw.cn
 127.0.0.1 sjaaquj.cn
+127.0.0.1 sjgsgy.xyz
 127.0.0.1 skdncksklsv.com
 127.0.0.1 skfda5.com
 127.0.0.1 slcmvgr.icu
@@ -513,6 +519,7 @@
 127.0.0.1 szmpy.cn
 127.0.0.1 szmwr.cn
 127.0.0.1 szmyl.cn
+127.0.0.1 szpbh.cn
 127.0.0.1 szpnz.cn
 127.0.0.1 szptp.cn
 127.0.0.1 szpwf.cn
@@ -632,6 +639,7 @@
 127.0.0.1 xwvnhe.cn
 127.0.0.1 xxle.cn
 127.0.0.1 xylhwdu.com
+127.0.0.1 xzrhvv.xyz
 127.0.0.1 ybrrvck.xyz
 127.0.0.1 ycqbgm.xyz
 127.0.0.1 yddjmpjo.xyz
@@ -657,10 +665,6 @@
 127.0.0.1 zfzys.top
 127.0.0.1 zhaweifeng.com
 127.0.0.1 zhihucloud.xyz
-127.0.0.1 hspdiom.cn
-127.0.0.1 sjgsgy.xyz
-127.0.0.1 cfugrnc.icu
-127.0.0.1 jdbeht.xyz
 127.0.0.1 zhnnaxe.xyz
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
