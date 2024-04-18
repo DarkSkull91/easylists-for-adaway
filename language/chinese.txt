@@ -665,6 +665,15 @@
 127.0.0.1 zfzys.top
 127.0.0.1 zhaweifeng.com
 127.0.0.1 zhihucloud.xyz
+127.0.0.1 rndcdb.xyz
+127.0.0.1 pwddhc.xyz
+127.0.0.1 jhfcll.cn
+127.0.0.1 kyuwkbd.top
+127.0.0.1 eiegkg.xyz
+127.0.0.1 vdoqomz.icu
+127.0.0.1 jypvzd.xyz
+127.0.0.1 ajffubz.xyz
+127.0.0.1 grulphaens.com
 127.0.0.1 zhnnaxe.xyz
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
