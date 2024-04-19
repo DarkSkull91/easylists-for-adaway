@@ -674,6 +674,18 @@
 127.0.0.1 jypvzd.xyz
 127.0.0.1 ajffubz.xyz
 127.0.0.1 grulphaens.com
+127.0.0.1 zxfdbr.xyz
+127.0.0.1 qusrow.xyz
+127.0.0.1 syuwkbb.top
+127.0.0.1 tudxhzj.cn
+127.0.0.1 oweeiyw.icu
+127.0.0.1 vkdgdt.xyz
+127.0.0.1 rbfxoex.xyz
+127.0.0.1 gcomwx.icu
+127.0.0.1 szftg.cn
+127.0.0.1 bdpretc.cn
+127.0.0.1 vipgogo123.site
+127.0.0.1 kgdyoh.icu
 127.0.0.1 zhnnaxe.xyz
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
@@ -4980,6 +4992,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 bm.h576.com
 127.0.0.1 003store.com
 127.0.0.1 0941.org
 127.0.0.1 1.07swz.com
