@@ -89,6 +89,7 @@
 127.0.0.1 btyhnraw653.shop
 127.0.0.1 bugzmn.icu
 127.0.0.1 buvdkt.icu
+127.0.0.1 bvrzwnq.xyz
 127.0.0.1 bvtvlp.xyz
 127.0.0.1 bvxiht.xyz
 127.0.0.1 bweriov.top
@@ -239,6 +240,7 @@
 127.0.0.1 ha723.icu
 127.0.0.1 halct.cn
 127.0.0.1 hbjolp.xyz
+127.0.0.1 hblarn.xyz
 127.0.0.1 hbxzlf.xyz
 127.0.0.1 hciwyv.icu
 127.0.0.1 hdtedar126.shop
@@ -282,6 +284,7 @@
 127.0.0.1 inifdlao.top
 127.0.0.1 inworket.com
 127.0.0.1 irayedo.cn
+127.0.0.1 irmbyu.xyz
 127.0.0.1 ityusio.top
 127.0.0.1 iummqg.xyz
 127.0.0.1 ivbgpax.cn
@@ -332,6 +335,7 @@
 127.0.0.1 ktoioo.xyz
 127.0.0.1 ktvjpmi.xyz
 127.0.0.1 ktyusid.top
+127.0.0.1 kvyyyde.cn
 127.0.0.1 kwqnki.xyz
 127.0.0.1 kyuwkbd.top
 127.0.0.1 kzepp.com
@@ -482,6 +486,7 @@
 127.0.0.1 qusrow.xyz
 127.0.0.1 qvnbjjd.xyz
 127.0.0.1 qw9cu.cyou
+127.0.0.1 qyuwkby.top
 127.0.0.1 qzalsk.xyz
 127.0.0.1 qzozsa.xyz
 127.0.0.1 rarcff.xyz
@@ -511,6 +516,7 @@
 127.0.0.1 ryrmvd.xyz
 127.0.0.1 rzfdbsn.cn
 127.0.0.1 rzpvbl.xyz
+127.0.0.1 sacvmb.icu
 127.0.0.1 savionl.com
 127.0.0.1 sdfsad562.xyz
 127.0.0.1 sdjkbcjksbdsvv.com
@@ -567,6 +573,7 @@
 127.0.0.1 tdljuuw.xyz
 127.0.0.1 tdlyfz.xyz
 127.0.0.1 tduenkq839.shop
+127.0.0.1 tgamtip.icu
 127.0.0.1 tgccct.icu
 127.0.0.1 tgwfaz.icu
 127.0.0.1 threrlak.com
@@ -644,6 +651,7 @@
 127.0.0.1 wsdwbfs.cn
 127.0.0.1 wsoqwm.xyz
 127.0.0.1 wtyusie.top
+127.0.0.1 wubizigeng.com
 127.0.0.1 wvwqywz.cn
 127.0.0.1 wwjtdjj.cn
 127.0.0.1 wxfdmri.xyz
