@@ -17,6 +17,7 @@
 127.0.0.1 2qy9zm.cn
 127.0.0.1 3bxe2.cyou
 127.0.0.1 3q1lsj.cn
+127.0.0.1 4p68.com
 127.0.0.1 4wu3gf.cn
 127.0.0.1 51hir.cyou
 127.0.0.1 555bbb333bbb.com
@@ -196,6 +197,7 @@
 127.0.0.1 ersjnpwf837.shop
 127.0.0.1 esqhsm.xyz
 127.0.0.1 etyusiw.top
+127.0.0.1 ewxufqs.cn
 127.0.0.1 execuri.com
 127.0.0.1 f7fe0.cyou
 127.0.0.1 fadhvz.xyz
@@ -293,6 +295,7 @@
 127.0.0.1 iyuwkbo.top
 127.0.0.1 izalflh.cn
 127.0.0.1 izmiua.xyz
+127.0.0.1 izqogb.cn
 127.0.0.1 jaychu.top
 127.0.0.1 jbmfldt.cn
 127.0.0.1 jdbeht.xyz
@@ -372,6 +375,7 @@
 127.0.0.1 m6j37.xyz
 127.0.0.1 mdhv3.icu
 127.0.0.1 mdzwjra.cn
+127.0.0.1 meqanhm.icu
 127.0.0.1 misjgy.xyz
 127.0.0.1 mldzwmt.xyz
 127.0.0.1 mlhtr.cn
@@ -447,6 +451,7 @@
 127.0.0.1 pimg2023.com
 127.0.0.1 pjzxdl.xyz
 127.0.0.1 pkyjuc.cn
+127.0.0.1 plnbnd.xyz
 127.0.0.1 pmiskc.cn
 127.0.0.1 pmtrkp.icu
 127.0.0.1 pnxtnp.xyz
@@ -488,6 +493,7 @@
 127.0.0.1 qw9cu.cyou
 127.0.0.1 qyuwkby.top
 127.0.0.1 qzalsk.xyz
+127.0.0.1 qziuwzn.cn
 127.0.0.1 qzozsa.xyz
 127.0.0.1 rarcff.xyz
 127.0.0.1 rarmkce.cn
@@ -507,6 +513,7 @@
 127.0.0.1 rlxhbff.cn
 127.0.0.1 rndcdb.xyz
 127.0.0.1 rnkzhsi.cn
+127.0.0.1 rnpkxgfp.xyz
 127.0.0.1 rofmjd.xyz
 127.0.0.1 rouqiuqq.cn
 127.0.0.1 rpnufv.xyz
@@ -548,6 +555,7 @@
 127.0.0.1 szbhb.cn
 127.0.0.1 szfmr.cn
 127.0.0.1 szftg.cn
+127.0.0.1 szmgr.cn
 127.0.0.1 szmhk.cn
 127.0.0.1 szmnd.cn
 127.0.0.1 szmnf.cn
@@ -584,6 +592,7 @@
 127.0.0.1 tnifdlai.top
 127.0.0.1 tnmpd.xyz
 127.0.0.1 tnvnnn.xyz
+127.0.0.1 toutanymm.asia
 127.0.0.1 tptgvh.xyz
 127.0.0.1 tqvnzj.xyz
 127.0.0.1 tsrvrr.xyz
@@ -591,8 +600,10 @@
 127.0.0.1 tudxhzj.cn
 127.0.0.1 tuky889900.com
 127.0.0.1 tyodot.icu
+127.0.0.1 tyuwkbi.top
 127.0.0.1 tyzfoej.cn
 127.0.0.1 uctutu3789.xyz
+127.0.0.1 udkpcc.xyz
 127.0.0.1 udykkl.cn
 127.0.0.1 uigxgg.xyz
 127.0.0.1 uiqcf.cn
@@ -642,6 +653,7 @@
 127.0.0.1 wioboy.xyz
 127.0.0.1 wisealty.com
 127.0.0.1 wjwod.cyou
+127.0.0.1 wkrhel.icu
 127.0.0.1 wkywrc.cn
 127.0.0.1 wnalzle.top
 127.0.0.1 wnifdlae.top
@@ -713,6 +725,10 @@
 127.0.0.1 zhaweifeng.com
 127.0.0.1 zhihucloud.xyz
 127.0.0.1 zhnnaxe.xyz
+127.0.0.1 lhmebwq.cn
+127.0.0.1 gpiagk.xyz
+127.0.0.1 aobtwv.icu
+127.0.0.1 fxgkktj.icu
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
 127.0.0.1 zojyob.icu
