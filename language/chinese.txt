@@ -55,6 +55,7 @@
 127.0.0.1 anjdwmq.xyz
 127.0.0.1 ankczwr.icu
 127.0.0.1 aoakss.com
+127.0.0.1 aobtwv.icu
 127.0.0.1 aourgk.xyz
 127.0.0.1 ariqye.xyz
 127.0.0.1 arnhhwo.xyz
@@ -217,6 +218,7 @@
 127.0.0.1 frtnqpw837.shop
 127.0.0.1 fvpboxu.xyz
 127.0.0.1 fwcnex.icu
+127.0.0.1 fxgkktj.icu
 127.0.0.1 fxjnfn.xyz
 127.0.0.1 fztyrv.xyz
 127.0.0.1 gblxtlo.xyz
@@ -230,6 +232,7 @@
 127.0.0.1 gicjtss.cn
 127.0.0.1 gkutca.xyz
 127.0.0.1 golilog.com
+127.0.0.1 gpiagk.xyz
 127.0.0.1 gridline.cn
 127.0.0.1 grtarpcf963.top
 127.0.0.1 grulphaens.com
@@ -354,7 +357,9 @@
 127.0.0.1 lfffzv.xyz
 127.0.0.1 lfhdryz.xyz
 127.0.0.1 lfrfzr.xyz
+127.0.0.1 lftpvh.xyz
 127.0.0.1 lgtpdt.xyz
+127.0.0.1 lhmebwq.cn
 127.0.0.1 liebaovip.com
 127.0.0.1 lkpxzt.xyz
 127.0.0.1 llksja.com
@@ -548,6 +553,7 @@
 127.0.0.1 srzpsbf.xyz
 127.0.0.1 stlpnom.xyz
 127.0.0.1 styusib.top
+127.0.0.1 superjj.online
 127.0.0.1 svncowt.cn
 127.0.0.1 swsegi.xyz
 127.0.0.1 syiwgwsqwngrdw.xyz
@@ -626,6 +632,7 @@
 127.0.0.1 uxlvk.cn
 127.0.0.1 uxrdg.cn
 127.0.0.1 uxzvjoj.cn
+127.0.0.1 uyuwkbt.top
 127.0.0.1 vabzndw.cn
 127.0.0.1 vaekkfv.cn
 127.0.0.1 vcnpnf.xyz
@@ -693,6 +700,7 @@
 127.0.0.1 xudarl.xyz
 127.0.0.1 xvbjctqs.xyz
 127.0.0.1 xvgrszkg.xyz
+127.0.0.1 xvpcjl.xyz
 127.0.0.1 xvudqzoa.xyz
 127.0.0.1 xvyugqj.icu
 127.0.0.1 xwvnhe.cn
@@ -725,10 +733,6 @@
 127.0.0.1 zhaweifeng.com
 127.0.0.1 zhihucloud.xyz
 127.0.0.1 zhnnaxe.xyz
-127.0.0.1 lhmebwq.cn
-127.0.0.1 gpiagk.xyz
-127.0.0.1 aobtwv.icu
-127.0.0.1 fxgkktj.icu
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
 127.0.0.1 zojyob.icu
