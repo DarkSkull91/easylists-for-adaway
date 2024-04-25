@@ -38,6 +38,8 @@
 127.0.0.1 88lm09.com
 127.0.0.1 88lm10.com
 127.0.0.1 88lm11.com
+127.0.0.1 88lm12.com
+127.0.0.1 88lm13.com
 127.0.0.1 8t9he.cyou
 127.0.0.1 8xtm6i.cn
 127.0.0.1 999bb222ww.com
@@ -381,6 +383,7 @@
 127.0.0.1 mdhv3.icu
 127.0.0.1 mdzwjra.cn
 127.0.0.1 meqanhm.icu
+127.0.0.1 miningzhizhong.top
 127.0.0.1 misjgy.xyz
 127.0.0.1 mldzwmt.xyz
 127.0.0.1 mlhtr.cn
@@ -442,6 +445,7 @@
 127.0.0.1 oweeiyw.icu
 127.0.0.1 oxkyaq.xyz
 127.0.0.1 oxvlxwz.xyz
+127.0.0.1 oyuwkbk.top
 127.0.0.1 ozhmig.cn
 127.0.0.1 p04qzl.cn
 127.0.0.1 p0v2ni.cn
@@ -495,6 +499,7 @@
 127.0.0.1 qtyusiy.top
 127.0.0.1 qusrow.xyz
 127.0.0.1 qvnbjjd.xyz
+127.0.0.1 qvonje.cn
 127.0.0.1 qw9cu.cyou
 127.0.0.1 qyuwkby.top
 127.0.0.1 qzalsk.xyz
@@ -547,6 +552,7 @@
 127.0.0.1 snalzlb.top
 127.0.0.1 snifdlab.top
 127.0.0.1 soffersk.com
+127.0.0.1 sogoks.xyz
 127.0.0.1 sosakk.xyz
 127.0.0.1 spsfupq.cn
 127.0.0.1 srwwce.xyz
@@ -577,6 +583,7 @@
 127.0.0.1 szpwf.cn
 127.0.0.1 szpwg.cn
 127.0.0.1 szpwh.cn
+127.0.0.1 szpxp.cn
 127.0.0.1 szpzk.cn
 127.0.0.1 szpzm.cn
 127.0.0.1 tahznx.xyz
@@ -682,6 +689,7 @@
 127.0.0.1 xdrvkdni.xyz
 127.0.0.1 xdybwjpa.xyz
 127.0.0.1 xedpzh.xyz
+127.0.0.1 xfrahb.xyz
 127.0.0.1 xgjidt.xyz
 127.0.0.1 xhbshv.xyz
 127.0.0.1 xhfxtqt.xyz
@@ -715,6 +723,8 @@
 127.0.0.1 ydrvkdni.xyz
 127.0.0.1 ydwkrbg.cn
 127.0.0.1 ydybwjpa.xyz
+127.0.0.1 yhdemu368.shop
+127.0.0.1 yhderd69.shop
 127.0.0.1 yhqukg.xyz
 127.0.0.1 ykkhihg.cn
 127.0.0.1 yliffnsc.xyz
@@ -722,6 +732,7 @@
 127.0.0.1 yvbjctqs.xyz
 127.0.0.1 yvnxetmq.xyz
 127.0.0.1 yvudqzoa.xyz
+127.0.0.1 yvwuesh.icu
 127.0.0.1 ywhws.cn
 127.0.0.1 yyddkm526.shop
 127.0.0.1 yyttmyy.cn
@@ -733,6 +744,11 @@
 127.0.0.1 zhaweifeng.com
 127.0.0.1 zhihucloud.xyz
 127.0.0.1 zhnnaxe.xyz
+127.0.0.1 fptbdr.xyz
+127.0.0.1 uunfybw.cn
+127.0.0.1 eaezoi.xyz
+127.0.0.1 lyuwkbl.top
+127.0.0.1 romiyee.icu
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
 127.0.0.1 zojyob.icu
