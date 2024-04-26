@@ -102,6 +102,7 @@
 127.0.0.1 bzverx.xyz
 127.0.0.1 bzzxyyh.xyz
 127.0.0.1 c11011.com
+127.0.0.1 caomaotongji.com
 127.0.0.1 caomeixz7.xyz
 127.0.0.1 captickc.com
 127.0.0.1 cbcvou.xyz
@@ -174,6 +175,7 @@
 127.0.0.1 dzdnffs.xyz
 127.0.0.1 dzfzak.cn
 127.0.0.1 dzuht.cn
+127.0.0.1 eaezoi.xyz
 127.0.0.1 eaqlos.xyz
 127.0.0.1 ebgwdon.cn
 127.0.0.1 ebwonro.cn
@@ -207,12 +209,14 @@
 127.0.0.1 fbfrbt.xyz
 127.0.0.1 fefgvh.xyz
 127.0.0.1 fekpcd.icu
+127.0.0.1 fendeyrziz.top
 127.0.0.1 ferriesendless.com
 127.0.0.1 fhtfnb.xyz
 127.0.0.1 fidelius.cn
 127.0.0.1 fmfnrf.xyz
 127.0.0.1 fmssoj.icu
 127.0.0.1 fpjjjh.xyz
+127.0.0.1 fptbdr.xyz
 127.0.0.1 fpvdrzx.xyz
 127.0.0.1 fqbjzj.xyz
 127.0.0.1 fqghykp.cn
@@ -376,6 +380,7 @@
 127.0.0.1 lvphbj.xyz
 127.0.0.1 lwrohd.xyz
 127.0.0.1 ly55442.com
+127.0.0.1 lyuwkbl.top
 127.0.0.1 lznfuab.xyz
 127.0.0.1 m1170.top
 127.0.0.1 m6690.top
@@ -525,6 +530,7 @@
 127.0.0.1 rnkzhsi.cn
 127.0.0.1 rnpkxgfp.xyz
 127.0.0.1 rofmjd.xyz
+127.0.0.1 romiyee.icu
 127.0.0.1 rouqiuqq.cn
 127.0.0.1 rpnufv.xyz
 127.0.0.1 ruqwgb.icu
@@ -635,11 +641,13 @@
 127.0.0.1 utkauo.xyz
 127.0.0.1 utxmb.cn
 127.0.0.1 uu22662.com
+127.0.0.1 uunfybw.cn
 127.0.0.1 uuvzmba.cn
 127.0.0.1 uxlvk.cn
 127.0.0.1 uxrdg.cn
 127.0.0.1 uxzvjoj.cn
 127.0.0.1 uyuwkbt.top
+127.0.0.1 uywoynr.cn
 127.0.0.1 vabzndw.cn
 127.0.0.1 vaekkfv.cn
 127.0.0.1 vcnpnf.xyz
@@ -659,6 +667,7 @@
 127.0.0.1 vuvnix.icu
 127.0.0.1 vwyycnq.cn
 127.0.0.1 vxfdepn.cn
+127.0.0.1 vyrpoe.cn
 127.0.0.1 waouss.xyz
 127.0.0.1 wbubgob.cn
 127.0.0.1 wbvfj.xyz
@@ -744,11 +753,6 @@
 127.0.0.1 zhaweifeng.com
 127.0.0.1 zhihucloud.xyz
 127.0.0.1 zhnnaxe.xyz
-127.0.0.1 fptbdr.xyz
-127.0.0.1 uunfybw.cn
-127.0.0.1 eaezoi.xyz
-127.0.0.1 lyuwkbl.top
-127.0.0.1 romiyee.icu
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
 127.0.0.1 zojyob.icu
@@ -5227,6 +5231,7 @@
 127.0.0.1 js.oh100.com
 127.0.0.1 js.ruiwen.com
 127.0.0.1 js.shangxueba.com
+127.0.0.1 js.shunqi.com
 127.0.0.1 js.spreton.com
 127.0.0.1 js.ubaike.cn
 127.0.0.1 js.yanyue.cn
