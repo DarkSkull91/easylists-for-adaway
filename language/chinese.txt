@@ -305,6 +305,7 @@
 127.0.0.1 iummqg.xyz
 127.0.0.1 ivbgpax.cn
 127.0.0.1 ivnrrkx.cn
+127.0.0.1 iwerioo.top
 127.0.0.1 ixstng.cn
 127.0.0.1 iykig.cn
 127.0.0.1 iyuwkbo.top
@@ -336,6 +337,7 @@
 127.0.0.1 jypvzd.xyz
 127.0.0.1 jyuwkba.top
 127.0.0.1 jzjpntr.xyz
+127.0.0.1 kalmukrattail.com
 127.0.0.1 kaosts.com
 127.0.0.1 kbomku.xyz
 127.0.0.1 kdeh.cn
@@ -530,6 +532,7 @@
 127.0.0.1 rbhunp.xyz
 127.0.0.1 rcyzsh.icu
 127.0.0.1 rdiono.cn
+127.0.0.1 regwiuv.cn
 127.0.0.1 retinaesprent.com
 127.0.0.1 rfnvqpo.xyz
 127.0.0.1 rghqrj.xyz
@@ -640,6 +643,7 @@
 127.0.0.1 uctutu3789.xyz
 127.0.0.1 udkpcc.xyz
 127.0.0.1 udykkl.cn
+127.0.0.1 ugtbit.icu
 127.0.0.1 uigxgg.xyz
 127.0.0.1 uiqcf.cn
 127.0.0.1 ujovcb.cn
@@ -668,12 +672,14 @@
 127.0.0.1 vaekkfv.cn
 127.0.0.1 vbutycp.cn
 127.0.0.1 vcnpnf.xyz
+127.0.0.1 vcugbgu.cn
 127.0.0.1 vdoqomz.icu
 127.0.0.1 vdvcjlp.cn
 127.0.0.1 veaiyl.icu
 127.0.0.1 vejhln.xyz
 127.0.0.1 vfchm.cyou
 127.0.0.1 vflorp.xyz
+127.0.0.1 vgzytn.xyz
 127.0.0.1 vhvwlb.xyz
 127.0.0.1 vioyugo.cn
 127.0.0.1 vipgogo123.site
@@ -707,6 +713,8 @@
 127.0.0.1 wvwqywz.cn
 127.0.0.1 wwjtdjj.cn
 127.0.0.1 wxfdmri.xyz
+127.0.0.1 wxymag.xyz
+127.0.0.1 wymqjow.icu
 127.0.0.1 wyuwkbe.top
 127.0.0.1 xamssp.icu
 127.0.0.1 xcypgd.icu
@@ -771,10 +779,6 @@
 127.0.0.1 zhaweifeng.com
 127.0.0.1 zhihucloud.xyz
 127.0.0.1 zhnnaxe.xyz
-127.0.0.1 vcugbgu.cn
-127.0.0.1 ugtbit.icu
-127.0.0.1 vgzytn.xyz
-127.0.0.1 kalmukrattail.com
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
 127.0.0.1 zojyob.icu
