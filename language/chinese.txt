@@ -144,6 +144,7 @@
 127.0.0.1 cyuwkbf.top
 127.0.0.1 czxvgod.xyz
 127.0.0.1 d3g4a.cyou
+127.0.0.1 dadxnl.xyz
 127.0.0.1 damiul.icu
 127.0.0.1 dataryon.com
 127.0.0.1 dawdlealmonry.com
@@ -178,6 +179,7 @@
 127.0.0.1 dzdnffs.xyz
 127.0.0.1 dzfzak.cn
 127.0.0.1 dzuht.cn
+127.0.0.1 eabvmue.cn
 127.0.0.1 eaezoi.xyz
 127.0.0.1 eaqlos.xyz
 127.0.0.1 ebgwdon.cn
@@ -301,6 +303,7 @@
 127.0.0.1 inalzlo.top
 127.0.0.1 inifdlao.top
 127.0.0.1 inworket.com
+127.0.0.1 ipsoazr.icu
 127.0.0.1 irayedo.cn
 127.0.0.1 irmbyu.xyz
 127.0.0.1 ityusio.top
@@ -362,6 +365,7 @@
 127.0.0.1 ktvjpmi.xyz
 127.0.0.1 ktyusid.top
 127.0.0.1 kvyyyde.cn
+127.0.0.1 kweriod.top
 127.0.0.1 kwqnki.xyz
 127.0.0.1 kyaywy.xyz
 127.0.0.1 kyuwkbd.top
@@ -572,6 +576,7 @@
 127.0.0.1 shnpetdb638.shop
 127.0.0.1 shnpetdn185.shop
 127.0.0.1 shuocyw.cn
+127.0.0.1 sifuwei.com
 127.0.0.1 sjaaquj.cn
 127.0.0.1 sjgsgy.xyz
 127.0.0.1 skdncksklsv.com
@@ -652,12 +657,14 @@
 127.0.0.1 uigxgg.xyz
 127.0.0.1 uiqcf.cn
 127.0.0.1 ujovcb.cn
+127.0.0.1 ukgfniu.cn
 127.0.0.1 uljoifw.cn
 127.0.0.1 ulktyi.xyz
 127.0.0.1 ulwfys.xyz
 127.0.0.1 unalzlt.top
 127.0.0.1 unifdlat.top
 127.0.0.1 uohvxrvd.xyz
+127.0.0.1 uosxdmk.cn
 127.0.0.1 upytsgo.cn
 127.0.0.1 uqrcuxp.cn
 127.0.0.1 uqwbcm.xyz
@@ -668,6 +675,7 @@
 127.0.0.1 uu22662.com
 127.0.0.1 uunfybw.cn
 127.0.0.1 uuvzmba.cn
+127.0.0.1 uvklgw.xyz
 127.0.0.1 uxlvk.cn
 127.0.0.1 uxrdg.cn
 127.0.0.1 uxzvjoj.cn
@@ -753,6 +761,7 @@
 127.0.0.1 xvyugqj.icu
 127.0.0.1 xwvnhe.cn
 127.0.0.1 xxle.cn
+127.0.0.1 xxsmad1.com
 127.0.0.1 xylhwdu.com
 127.0.0.1 xzrhvv.xyz
 127.0.0.1 ybrrvck.xyz
@@ -786,11 +795,6 @@
 127.0.0.1 zhaweifeng.com
 127.0.0.1 zhihucloud.xyz
 127.0.0.1 zhnnaxe.xyz
-127.0.0.1 eabvmue.cn
-127.0.0.1 ipsoazr.icu
-127.0.0.1 xxsmad1.com
-127.0.0.1 dadxnl.xyz
-127.0.0.1 uvklgw.xyz
 127.0.0.1 zjrtxt.xyz
 127.0.0.1 znhlxvb.xyz
 127.0.0.1 zojyob.icu
