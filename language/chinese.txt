@@ -64,6 +64,7 @@
 127.0.0.1 arqvm.cn
 127.0.0.1 atzhcjv.xyz
 127.0.0.1 awuvcq.xyz
+127.0.0.1 azkrya.xyz
 127.0.0.1 azyuuk.xyz
 127.0.0.1 b37r5.cyou
 127.0.0.1 batijian.com
@@ -213,6 +214,7 @@
 127.0.0.1 ewjhic.cn
 127.0.0.1 ewxufqs.cn
 127.0.0.1 execuri.com
+127.0.0.1 eyuwkbw.top
 127.0.0.1 f7fe0.cyou
 127.0.0.1 fadhvz.xyz
 127.0.0.1 fbfrbt.xyz
@@ -281,6 +283,7 @@
 127.0.0.1 hitchun.com
 127.0.0.1 hjshal.com
 127.0.0.1 hkbumv.icu
+127.0.0.1 hlegsdh.icu
 127.0.0.1 hmrwkcx.cn
 127.0.0.1 hnalzlu.top
 127.0.0.1 hnartcqab847.live
@@ -418,6 +421,7 @@
 127.0.0.1 mdhv3.icu
 127.0.0.1 mdzwjra.cn
 127.0.0.1 meqanhm.icu
+127.0.0.1 mercor.cn
 127.0.0.1 miningzhizhong.top
 127.0.0.1 misjgy.xyz
 127.0.0.1 mldzwmt.xyz
@@ -543,6 +547,7 @@
 127.0.0.1 qvnbjjd.xyz
 127.0.0.1 qvonje.cn
 127.0.0.1 qw9cu.cyou
+127.0.0.1 qwerioy.top
 127.0.0.1 qyuwkby.top
 127.0.0.1 qzalsk.xyz
 127.0.0.1 qziuwzn.cn
@@ -567,6 +572,7 @@
 127.0.0.1 rktddv.xyz
 127.0.0.1 rlw86.cyou
 127.0.0.1 rlxhbff.cn
+127.0.0.1 rmbvzh.xyz
 127.0.0.1 rndcdb.xyz
 127.0.0.1 rnkzhsi.cn
 127.0.0.1 rnpkxgfp.xyz
@@ -575,6 +581,7 @@
 127.0.0.1 romiyee.icu
 127.0.0.1 rouqiuqq.cn
 127.0.0.1 rpnufv.xyz
+127.0.0.1 rupmlh.cn
 127.0.0.1 ruqwgb.icu
 127.0.0.1 rxfygd.cn
 127.0.0.1 rydyvv.xyz
