@@ -21,6 +21,7 @@
 127.0.0.1 4wu3gf.cn
 127.0.0.1 51hir.cyou
 127.0.0.1 555bbb333bbb.com
+127.0.0.1 555bbb555www.com
 127.0.0.1 5z0d3.cyou
 127.0.0.1 666bbb222www.com
 127.0.0.1 666bbb333bbb.com
@@ -76,6 +77,7 @@
 127.0.0.1 bdxpdz.xyz
 127.0.0.1 benpsbp.com
 127.0.0.1 beyers.cn
+127.0.0.1 bgidskiv.top
 127.0.0.1 bijiangqing.com
 127.0.0.1 bjswhpy.cn
 127.0.0.1 bjxfnn.xyz
@@ -128,6 +130,7 @@
 127.0.0.1 cnifdlaf.top
 127.0.0.1 cnvmhzt.cn
 127.0.0.1 computel.cn
+127.0.0.1 cooann.top
 127.0.0.1 costarg.com
 127.0.0.1 cowm199.com
 127.0.0.1 cqisam.xyz
@@ -155,6 +158,7 @@
 127.0.0.1 ddielv.cn
 127.0.0.1 delhirs.com
 127.0.0.1 destinyssa.com
+127.0.0.1 dflkndkzf.com
 127.0.0.1 dfsgppz.icu
 127.0.0.1 dianassb.com
 127.0.0.1 diccsbhij.com
@@ -276,6 +280,7 @@
 127.0.0.1 hendehy.com
 127.0.0.1 hexcvb.xyz
 127.0.0.1 hfbfbvmjdmxc.com
+127.0.0.1 hgfutf.xyz
 127.0.0.1 hgthpj.xyz
 127.0.0.1 hhffks967.shop
 127.0.0.1 hhffnu135.shop
@@ -290,11 +295,14 @@
 127.0.0.1 hnifdlau.top
 127.0.0.1 hozatr.xyz
 127.0.0.1 hptyp.icu
+127.0.0.1 hpy9w.cn
+127.0.0.1 hqhspv.xyz
 127.0.0.1 hrjctx.xyz
 127.0.0.1 hrnkdr.xyz
 127.0.0.1 hspdiom.cn
 127.0.0.1 hsutav.icu
 127.0.0.1 hsvchnsvncvvd.com
+127.0.0.1 hty9m.cn
 127.0.0.1 htyusiu.top
 127.0.0.1 hubgets.cn
 127.0.0.1 huuocxu.icu
@@ -367,6 +375,8 @@
 127.0.0.1 kgqcse.xyz
 127.0.0.1 khcsvdc.icu
 127.0.0.1 khzyojb.cn
+127.0.0.1 kjubky.xyz
+127.0.0.1 kkjhgfds.top
 127.0.0.1 kksjsa.top
 127.0.0.1 knalzld.top
 127.0.0.1 knifdlad.top
@@ -410,6 +420,7 @@
 127.0.0.1 lulxzl.xyz
 127.0.0.1 luofk.xyz
 127.0.0.1 lvdedf.xyz
+127.0.0.1 lveodaz.icu
 127.0.0.1 lvphbj.xyz
 127.0.0.1 lwrohd.xyz
 127.0.0.1 ly55442.com
@@ -420,12 +431,14 @@
 127.0.0.1 m6j37.xyz
 127.0.0.1 mdhv3.icu
 127.0.0.1 mdzwjra.cn
+127.0.0.1 mepupr486.top
 127.0.0.1 meqanhm.icu
 127.0.0.1 mercor.cn
 127.0.0.1 miningzhizhong.top
 127.0.0.1 misjgy.xyz
 127.0.0.1 mldzwmt.xyz
 127.0.0.1 mlhtr.cn
+127.0.0.1 mlicci.xyz
 127.0.0.1 mmo2350.top
 127.0.0.1 mnifdlax.top
 127.0.0.1 moberg.cn
@@ -435,6 +448,7 @@
 127.0.0.1 mtddqjk.cn
 127.0.0.1 mthhhuq.cn
 127.0.0.1 mtwmuy.xyz
+127.0.0.1 muntfd62.shop
 127.0.0.1 mxeq.cn
 127.0.0.1 naihyvz.cn
 127.0.0.1 nawpyd.icu
@@ -484,6 +498,7 @@
 127.0.0.1 otmebdr.cn
 127.0.0.1 ovjlccs.xyz
 127.0.0.1 oweeiyw.icu
+127.0.0.1 oweriok.top
 127.0.0.1 oxkyaq.xyz
 127.0.0.1 oxvlxwz.xyz
 127.0.0.1 oyuwkbk.top
@@ -520,6 +535,7 @@
 127.0.0.1 pwhkfd.xyz
 127.0.0.1 pwhtip.icu
 127.0.0.1 pxzrlf.xyz
+127.0.0.1 pzfqzv.xyz
 127.0.0.1 q02orc.cn
 127.0.0.1 qbhzghb.xyz
 127.0.0.1 qcepqj.icu
@@ -622,6 +638,7 @@
 127.0.0.1 svncowt.cn
 127.0.0.1 sweriob.top
 127.0.0.1 swsegi.xyz
+127.0.0.1 sxoejoc.icu
 127.0.0.1 syiwgwsqwngrdw.xyz
 127.0.0.1 syuwkbb.top
 127.0.0.1 szbhb.cn
@@ -673,6 +690,7 @@
 127.0.0.1 tu2024020388.com
 127.0.0.1 tudxhzj.cn
 127.0.0.1 tuky889900.com
+127.0.0.1 twerioi.top
 127.0.0.1 tyodot.icu
 127.0.0.1 tyuwkbi.top
 127.0.0.1 tyzfoej.cn
@@ -705,6 +723,7 @@
 127.0.0.1 uunfybw.cn
 127.0.0.1 uuvzmba.cn
 127.0.0.1 uvklgw.xyz
+127.0.0.1 uweriot.top
 127.0.0.1 uxlvk.cn
 127.0.0.1 uxrdg.cn
 127.0.0.1 uxzvjoj.cn
@@ -719,6 +738,7 @@
 127.0.0.1 vdvcjlp.cn
 127.0.0.1 veaiyl.icu
 127.0.0.1 vejhln.xyz
+127.0.0.1 verstug.cn
 127.0.0.1 vfchm.cyou
 127.0.0.1 vflorp.xyz
 127.0.0.1 vgzytn.xyz
@@ -817,12 +837,14 @@
 127.0.0.1 yvudqzoa.xyz
 127.0.0.1 yvwuesh.icu
 127.0.0.1 ywhws.cn
+127.0.0.1 yxgqgq.xyz
 127.0.0.1 yyddkm526.shop
 127.0.0.1 yyttmyy.cn
 127.0.0.1 zagyjnn.cn
 127.0.0.1 zailgrae.com
 127.0.0.1 zekzoh.icu
 127.0.0.1 zeqvqb.icu
+127.0.0.1 zeuqmpe.icu
 127.0.0.1 zfzys.top
 127.0.0.1 zhaweifeng.com
 127.0.0.1 zhihucloud.xyz
@@ -836,8 +858,10 @@
 127.0.0.1 zttuvj.xyz
 127.0.0.1 ztxjutz.xyz
 127.0.0.1 zuvbzl.xyz
+127.0.0.1 zwdtvx.xyz
 127.0.0.1 zwxxcb.icu
 127.0.0.1 zxfdbr.xyz
+127.0.0.1 zxqiwe.cn
 127.0.0.1 002777.xyz
 127.0.0.1 01v62.xyz
 127.0.0.1 052db.website
