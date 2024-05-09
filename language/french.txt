@@ -7053,6 +7053,7 @@
 127.0.0.1 dokzl8xhmt1x7.cloudfront.net
 127.0.0.1 doo6pwib3qngu.cloudfront.net
 127.0.0.1 dpb3g4kqr8xz.cloudfront.net
+127.0.0.1 dre81lzpy0s7q.cloudfront.net
 127.0.0.1 dsh1ct2zrfakt.cloudfront.net
 127.0.0.1 dtyrqq5w0qdc8.cloudfront.net
 127.0.0.1 dv0uonokej56p.cloudfront.net
