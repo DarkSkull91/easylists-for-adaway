@@ -521,7 +521,6 @@
 127.0.0.1 pmtrkp.icu
 127.0.0.1 pnxtnp.xyz
 127.0.0.1 polepole.cn
-127.0.0.1 polyfill.io
 127.0.0.1 pp1hl.xyz
 127.0.0.1 pqzjki.cn
 127.0.0.1 pressit.cn
@@ -871,6 +870,9 @@
 127.0.0.1 nkbpft.xyz
 127.0.0.1 xmkmryu.icu
 127.0.0.1 iuqasw.xyz
+127.0.0.1 cgidskif.top
+127.0.0.1 54gtlb.cn
+127.0.0.1 areyoutherenow.com
 127.0.0.1 zuvbzl.xyz
 127.0.0.1 zwdtvx.xyz
 127.0.0.1 zwxxcb.icu
