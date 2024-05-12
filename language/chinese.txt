@@ -886,6 +886,15 @@
 127.0.0.1 88lm15.com
 127.0.0.1 iaosua.com
 127.0.0.1 djxzk.top
+127.0.0.1 osmzym.xyz
+127.0.0.1 jyqkijp.icu
+127.0.0.1 qweqd.cn
+127.0.0.1 lixonj.xyz
+127.0.0.1 feptbh.xyz
+127.0.0.1 igidskio.top
+127.0.0.1 adlhxwb.xyz
+127.0.0.1 6b856ee58e.com
+127.0.0.1 zrdga.cn
 127.0.0.1 zuvbzl.xyz
 127.0.0.1 zwdtvx.xyz
 127.0.0.1 zwxxcb.icu
