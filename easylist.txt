@@ -1837,6 +1837,7 @@
 127.0.0.1 adxchg.com
 127.0.0.1 adxfire.in
 127.0.0.1 adxfire.net
+127.0.0.1 adxhand.name
 127.0.0.1 adxion.com
 127.0.0.1 adxite.com
 127.0.0.1 adxnexus.com
@@ -2624,6 +2625,7 @@
 127.0.0.1 amnoctowlan.club
 127.0.0.1 amnruvbmeoqp.com
 127.0.0.1 amntx1.net
+127.0.0.1 amnwpircuomd.com
 127.0.0.1 amoddishor.com
 127.0.0.1 amofqosgs.com
 127.0.0.1 amonar.com
@@ -5650,6 +5652,7 @@
 127.0.0.1 bromisescapose.com
 127.0.0.1 bromoilnapalms.com
 127.0.0.1 bromusic.site
+127.0.0.1 bromusic3s.site
 127.0.0.1 bronchichogset.com
 127.0.0.1 broncogainer.top
 127.0.0.1 bronzeinside.com
@@ -15805,6 +15808,7 @@
 127.0.0.1 hjqdwmekhur.com
 127.0.0.1 hjrvsw.info
 127.0.0.1 hjrwwwlqcovom.com
+127.0.0.1 hjuswoulvp.xyz
 127.0.0.1 hjxajf.com
 127.0.0.1 hjyovlwtevwdjy.com
 127.0.0.1 hkeibmpspxn.com
@@ -17606,6 +17610,7 @@
 127.0.0.1 ivycarryingpillar.com
 127.0.0.1 iwantuonly.com
 127.0.0.1 iwantusingle.com
+127.0.0.1 iwaxurhebkn.com
 127.0.0.1 iwdapjojrylh.xyz
 127.0.0.1 iwevxujxzdpb.com
 127.0.0.1 iwfxgkixsoma.com
@@ -21544,6 +21549,7 @@
 127.0.0.1 milljeanne.com
 127.0.0.1 millsurfaces.com
 127.0.0.1 millustry.top
+127.0.0.1 milteept.xyz
 127.0.0.1 miltlametta.com
 127.0.0.1 miluwo.com
 127.0.0.1 mimicbeeralb.com
@@ -21813,6 +21819,10 @@
 127.0.0.1 mobifoth.com
 127.0.0.1 mobile5shop.com
 127.0.0.1 mobiledevel.com
+127.0.0.1 mobileoffers-7-j-download.com
+127.0.0.1 mobileoffers-ac-download.com
+127.0.0.1 mobileoffers-dld-download.com
+127.0.0.1 mobileoffers-downloadapp-a.com
 127.0.0.1 mobileoffers-ep-download.com
 127.0.0.1 mobilepreviouswicked.com
 127.0.0.1 mobiletracking.ru
@@ -21958,6 +21968,7 @@
 127.0.0.1 moonheappyr.com
 127.0.0.1 moonicorn.network
 127.0.0.1 moonjahaphodal.com
+127.0.0.1 moonjscdn.info
 127.0.0.1 moonoafy.net
 127.0.0.1 moonovernegril.com
 127.0.0.1 moonrocketaffiliates.com
@@ -22497,6 +22508,7 @@
 127.0.0.1 naipatouz.com
 127.0.0.1 naipsouz.net
 127.0.0.1 nairapp.com
+127.0.0.1 naisepsaige.com
 127.0.0.1 naiskosungueal.top
 127.0.0.1 naisoops.net
 127.0.0.1 naive-skin.pro
@@ -27834,6 +27846,7 @@
 127.0.0.1 qnkqurpyntrs.xyz
 127.0.0.1 qnlranvabaqk.top
 127.0.0.1 qnlranvabrnq.top
+127.0.0.1 qnp16tstw.com
 127.0.0.1 qnqzbfgg.com
 127.0.0.1 qnrscbotmsj.com
 127.0.0.1 qnsr.com
@@ -28325,6 +28338,7 @@
 127.0.0.1 rcvlinks.com
 127.0.0.1 rcvsmbawwqodqt.com
 127.0.0.1 rcwuzudjcsjmr.com
+127.0.0.1 rd-cdnp.name
 127.0.0.1 rddywd.com
 127.0.0.1 rderstartirrelea.info
 127.0.0.1 rdgdjmgll.com
@@ -31942,6 +31956,7 @@
 127.0.0.1 stacckain.com
 127.0.0.1 stackadapt.com
 127.0.0.1 stackattacka.com
+127.0.0.1 stackmultiple.com
 127.0.0.1 stackprotectnational.com
 127.0.0.1 staerlcmplks.xyz
 127.0.0.1 staffdollar.com
@@ -32534,6 +32549,7 @@
 127.0.0.1 sunkenhexapla.top
 127.0.0.1 sunkwarriors.com
 127.0.0.1 sunlightirrationalhearty.com
+127.0.0.1 sunmediaads.com
 127.0.0.1 sunnycategoryopening.com
 127.0.0.1 sunnyscanner.com
 127.0.0.1 sunnyseries.com
@@ -37356,6 +37372,7 @@
 127.0.0.1 wmaoviagmphst.com
 127.0.0.1 wmaoxrk.com
 127.0.0.1 wmbbsat.com
+127.0.0.1 wmcdpt.com
 127.0.0.1 wmdymnqzhbo.com
 127.0.0.1 wmdzefk.com
 127.0.0.1 wmeqobozarqyj.top
@@ -40324,6 +40341,7 @@
 127.0.0.1 affiliate.dtiserv.com
 127.0.0.1 affiliates.cupidplc.com
 127.0.0.1 affiliates.thrixxx.com
+127.0.0.1 ag.palmtube.net
 127.0.0.1 asg.aphex.me
 127.0.0.1 asg.bhabhiporn.pro
 127.0.0.1 asg.irontube.net
@@ -40378,6 +40396,7 @@
 127.0.0.1 geobanner.hornywife.com
 127.0.0.1 go.clicknplay.to
 127.0.0.1 javguru.gggsss.site
+127.0.0.1 jeewoo.xctd.me
 127.0.0.1 makumva.all-usanomination.com
 127.0.0.1 partner.loveplanet.ru
 127.0.0.1 pcash.imlive.com
@@ -40572,6 +40591,7 @@
 127.0.0.1 rst.pornyhd.com
 127.0.0.1 rtb-1.jizzberry.com
 127.0.0.1 rtb-1.mylust.com
+127.0.0.1 rtb-1.xcafe.com
 127.0.0.1 rtb-3.xgroovy.com
 127.0.0.1 slview.psne.jp
 127.0.0.1 support.streamjav.top
