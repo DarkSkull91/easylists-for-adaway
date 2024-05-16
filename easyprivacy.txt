@@ -1731,6 +1731,7 @@
 127.0.0.1 trecker.aklamio.com
 127.0.0.1 vtrtl.de
 127.0.0.1 webcounter.goweb.de
+127.0.0.1 wranalytics.wildrocket.io
 127.0.0.1 x.bloggurat.net
 127.0.0.1 zs.dhl.de
 127.0.0.1 abs.proxistore.com
@@ -37398,6 +37399,7 @@
 127.0.0.1 sy.amebame.com
 127.0.0.1 sy.ameblo.jp
 127.0.0.1 t.syosetu.org
+127.0.0.1 temp.twicomi.com
 127.0.0.1 track.buyma.com
 127.0.0.1 track.prod.smash.pet
 127.0.0.1 tracking.ai.rakuten.co.jp

@@ -928,6 +928,12 @@
 127.0.0.1 kbexos.xyz
 127.0.0.1 vfxrpl.xyz
 127.0.0.1 hgcgnfe.icu
+127.0.0.1 07dy.cc
+127.0.0.1 nuxwlc.cn
+127.0.0.1 ta20k.xyz
+127.0.0.1 awunkse72.shop
+127.0.0.1 cergbtb36.shop
+127.0.0.1 bpxbzps.xyz
 127.0.0.1 zuvbzl.xyz
 127.0.0.1 zwdtvx.xyz
 127.0.0.1 zwxxcb.icu

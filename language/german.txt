@@ -4,6 +4,7 @@
 127.0.0.1 bd742.com
 127.0.0.1 cdu-offline.de
 127.0.0.1 dierussensindschuld.de
+127.0.0.1 fantecio.com
 127.0.0.1 gayads.biz
 127.0.0.1 gema-online.de
 127.0.0.1 holyjesus.de
@@ -11,11 +12,11 @@
 127.0.0.1 swissadserver.ch
 127.0.0.1 wirverkaufennichts.de
 127.0.0.1 wixnm.com
+127.0.0.1 zazufi.com
 127.0.0.1 delmovip.com
 127.0.0.1 netwayer.de
 127.0.0.1 securecnd.com
 127.0.0.1 servote.de
-127.0.0.1 zazufi.com
 127.0.0.1 ad.71i.de
 127.0.0.1 ad.bwise.ch
 127.0.0.1 ad.jaumo.com
