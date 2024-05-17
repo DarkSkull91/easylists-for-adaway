@@ -898,6 +898,7 @@
 127.0.0.1 icu.getstorybox.com
 127.0.0.1 iddu1vvb7sk8-a.akamaihd.net
 127.0.0.1 identification.hotmart.com
+127.0.0.1 ihi.flowplayer.com
 127.0.0.1 imp.pvnsolutions.com
 127.0.0.1 impress.vcita.com
 127.0.0.1 impression.clickinc.com
@@ -1352,6 +1353,7 @@
 127.0.0.1 track.uc.cn
 127.0.0.1 track.untd.com
 127.0.0.1 track.uppromote.com
+127.0.0.1 track.us.org
 127.0.0.1 track.venatusmedia.com
 127.0.0.1 track.vscash.com
 127.0.0.1 track.yfret.com
@@ -1870,6 +1872,7 @@
 127.0.0.1 trkr.shoppingminds.net
 127.0.0.1 dnt-userreport.com
 127.0.0.1 tags.op-palvelut.fi
+127.0.0.1 analytics.palitra.ge
 127.0.0.1 links.boom.ge
 127.0.0.1 stats-real-clients.zentech.gr
 127.0.0.1 heartbeat.pmd.444.hu
@@ -37516,6 +37519,7 @@
 127.0.0.1 top-staging.mail.ru
 127.0.0.1 xray.mail.ru
 127.0.0.1 yast.rutube.ru
+127.0.0.1 harvester.cms.markiza.sk
 127.0.0.1 go-usertrack-importer.pub.24ur.si
 127.0.0.1 tracker.azet.sk
 127.0.0.1 analytics.bolavip.com
