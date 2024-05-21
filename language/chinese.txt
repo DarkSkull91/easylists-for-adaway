@@ -977,6 +977,9 @@
 127.0.0.1 kzpizjp.cn
 127.0.0.1 ogidskik.top
 127.0.0.1 yhimpnr.icu
+127.0.0.1 tdhnxf.xyz
+127.0.0.1 axa123.com
+127.0.0.1 lozmtk.cn
 127.0.0.1 zuvbzl.xyz
 127.0.0.1 zwdtvx.xyz
 127.0.0.1 zwxxcb.icu
