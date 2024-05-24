@@ -1,5 +1,6 @@
 127.0.0.1 crnsgngrpj.nl
 127.0.0.1 dntblckmpls.nl
+127.0.0.1 mt67.net
 127.0.0.1 nojazz.eu
 127.0.0.1 viadata.store
 127.0.0.1 ads.nextday.media
