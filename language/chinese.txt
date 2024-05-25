@@ -1,3 +1,4 @@
+127.0.0.1 wqzmed.cn
 127.0.0.1 0322cfmtl.cc
 127.0.0.1 07dy.cc
 127.0.0.1 0940088.com
@@ -1007,7 +1008,16 @@
 127.0.0.1 zeuqmpe.icu
 127.0.0.1 zfzys.top
 127.0.0.1 zhaweifeng.com
+127.0.0.1 jrpolj.xyz
+127.0.0.1 wpuiuwh.icu
+127.0.0.1 ygh5.cn
+127.0.0.1 wscewc.xyz
+127.0.0.1 jsyliea.top
+127.0.0.1 usmgoxe.cn
+127.0.0.1 369bgrec.top
+127.0.0.1 l7u3kf.cn
 127.0.0.1 zhengzhou12.top
+127.0.0.1 fklgndklbngg.com
 127.0.0.1 zhihucloud.xyz
 127.0.0.1 zhnnaxe.xyz
 127.0.0.1 zjrtxt.xyz
