@@ -29,5 +29,7 @@
 127.0.0.1 mporli.info
 127.0.0.1 pinukim.net
 127.0.0.1 saphiretelavivisrael.com
+127.0.0.1 sdarot-il.org
+127.0.0.1 sdarot.cc
 127.0.0.1 sdarotil.top
 127.0.0.1 seret.live
