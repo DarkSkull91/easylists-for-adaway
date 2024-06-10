@@ -4213,6 +4213,7 @@
 127.0.0.1 jultscax.xyz
 127.0.0.1 julyhadchose.com
 127.0.0.1 jumpers.mobi
+127.0.0.1 jumpsbais.top
 127.0.0.1 junebudcincher.com
 127.0.0.1 justpush.biz
 127.0.0.1 jvobcajoi.com
@@ -5822,6 +5823,7 @@
 127.0.0.1 shahszaman.digital
 127.0.0.1 shaiksuk.net
 127.0.0.1 shakeegi.com
+127.0.0.1 shakoknock.com
 127.0.0.1 shakotheclan.com
 127.0.0.1 shallowinsect.com
 127.0.0.1 shalseey.com
