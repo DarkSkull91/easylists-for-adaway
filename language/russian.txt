@@ -1160,6 +1160,7 @@
 127.0.0.1 v.tranzistor-harakteristiki.ru
 127.0.0.1 zen-test.yandex.ru
 127.0.0.1 trafffgen.rambler.ru
+127.0.0.1 winline.rambler.ru
 127.0.0.1 be.vtomske.ru
 127.0.0.1 212121.ru
 127.0.0.1 21dengi.ru
