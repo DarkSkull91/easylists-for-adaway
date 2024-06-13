@@ -32,7 +32,6 @@
 127.0.0.1 widgets.openli.com
 127.0.0.1 banner.cookiescan.com
 127.0.0.1 cb-mms.carbuyer.co.uk
-127.0.0.1 cdn259.talksport.com
 127.0.0.1 cmp-static.nature.com
 127.0.0.1 cmp.cdn.thesun.co.uk
 127.0.0.1 cmp.cdn.thesun.ie
@@ -92,6 +91,8 @@
 127.0.0.1 ccm1.dlr.de
 127.0.0.1 cmp.pcwelt.de
 127.0.0.1 cmp.tvspielfilm.de
+127.0.0.1 cmp.wetteronline.de
+127.0.0.1 consens.conlabz.de
 127.0.0.1 consent-wrapper.jameda.de
 127.0.0.1 consent.berliner-kurier.de
 127.0.0.1 consent.gutefrage.net
