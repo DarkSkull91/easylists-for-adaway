@@ -1,3 +1,9 @@
+127.0.0.1 dvgjx.cn
+127.0.0.1 ytqeavc.icu
+127.0.0.1 adzo.cn
+127.0.0.1 aeyyck.xyz
+127.0.0.1 poxdpj.xyz
+127.0.0.1 lnlkmr.xyz
 127.0.0.1 0322cfmtl.cc
 127.0.0.1 07dy.cc
 127.0.0.1 0940088.com
@@ -12,7 +18,6 @@
 127.0.0.1 tjuspyk.icu
 127.0.0.1 zkrdzn.xyz
 127.0.0.1 zmbmoxij.icu
-127.0.0.1 d1zoi2q7y0e4d.cloudfront.net
 127.0.0.1 xx3691b.com
 127.0.0.1 1028images.com
 127.0.0.1 537images1.com
@@ -39,6 +44,17 @@
 127.0.0.1 liuhui111.top
 127.0.0.1 hwnojj.xyz
 127.0.0.1 daslkdlqk.top
+127.0.0.1 sowx.cn
+127.0.0.1 hevctt.xyz
+127.0.0.1 osanyc.xyz
+127.0.0.1 ofjslik.top
+127.0.0.1 faaqgje.icu
+127.0.0.1 pwxlbsie.icu
+127.0.0.1 bbqoa.top
+127.0.0.1 fogolakda.top
+127.0.0.1 szdpk.cn
+127.0.0.1 9216tp1.com
+127.0.0.1 xianliao.voto
 127.0.0.1 0op8kh.cn
 127.0.0.1 0oqt9i.cn
 127.0.0.1 0q5joc.cn
@@ -4879,6 +4895,7 @@
 127.0.0.1 ads-6686.top
 127.0.0.1 aixuntupian.oss-cn-hongkong.aliyuncs.com
 127.0.0.1 alimama.alicdn.com
+127.0.0.1 d1zoi2q7y0e4d.cloudfront.net
 127.0.0.1 alime-pic.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 baiducom.bj.bcebos.com
 127.0.0.1 cb.baidu.com
