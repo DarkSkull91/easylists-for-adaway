@@ -1159,6 +1159,10 @@
 127.0.0.1 submitred.freezpic.ru
 127.0.0.1 v.tranzistor-harakteristiki.ru
 127.0.0.1 zen-test.yandex.ru
+127.0.0.1 1l-hit.mail.ru
+127.0.0.1 media-stat.mail.ru
+127.0.0.1 radar.imgsmail.ru
+127.0.0.1 xray.mail.ru
 127.0.0.1 trafffgen.rambler.ru
 127.0.0.1 winline.rambler.ru
 127.0.0.1 be.vtomske.ru

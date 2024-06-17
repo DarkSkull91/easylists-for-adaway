@@ -3,6 +3,12 @@
 127.0.0.1 adzo.cn
 127.0.0.1 aeyyck.xyz
 127.0.0.1 poxdpj.xyz
+127.0.0.1 fujnrh.xyz
+127.0.0.1 etjui.cn
+127.0.0.1 mqwmgs.xyz
+127.0.0.1 plzblz.xyz
+127.0.0.1 rrkouuz.icu
+127.0.0.1 cdoshbf.top
 127.0.0.1 lnlkmr.xyz
 127.0.0.1 0322cfmtl.cc
 127.0.0.1 07dy.cc
@@ -5227,6 +5233,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 ds.ruanwengfa.com
 127.0.0.1 003store.com
 127.0.0.1 0941.org
 127.0.0.1 1.07swz.com
