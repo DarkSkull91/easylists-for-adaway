@@ -30,6 +30,14 @@
 127.0.0.1 xxsmad2.com
 127.0.0.1 ffdafx.xyz
 127.0.0.1 idoshbo.top
+127.0.0.1 szdxw.cn
+127.0.0.1 prtadf.xyz
+127.0.0.1 adbu.cn
+127.0.0.1 jdoshba.top
+127.0.0.1 wbgafrr.icu
+127.0.0.1 fpfbbn.xyz
+127.0.0.1 engwsq.xyz
+127.0.0.1 jdrlfn.xyz
 127.0.0.1 lnlkmr.xyz
 127.0.0.1 0322cfmtl.cc
 127.0.0.1 07dy.cc
@@ -5254,6 +5262,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 ssp.moeli.net
 127.0.0.1 ds.ruanwengfa.com
 127.0.0.1 003store.com
 127.0.0.1 0941.org
