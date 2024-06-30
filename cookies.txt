@@ -26,6 +26,8 @@
 127.0.0.1 privacy.digimedia.com
 127.0.0.1 ressource.gdpr-banner.awsmpsa.com
 127.0.0.1 smarteucookiebanner.upsell-apps.com
+127.0.0.1 sync-transcend-cdn.com
+127.0.0.1 transcend-cdn.com
 127.0.0.1 truyoproductionuscdn.truyo.com
 127.0.0.1 webcache-eu.datareporter.eu
 127.0.0.1 webcache.datareporter.eu

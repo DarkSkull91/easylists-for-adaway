@@ -4635,6 +4635,7 @@
 127.0.0.1 meetaffiliate.com
 127.0.0.1 meetamate.online
 127.0.0.1 meetmagsuit.live
+127.0.0.1 megacot.com
 127.0.0.1 megafiles.xyz
 127.0.0.1 megartb.com
 127.0.0.1 melagrapouty.com
@@ -6064,6 +6065,7 @@
 127.0.0.1 spruegibbles.com
 127.0.0.1 sprybarse.com
 127.0.0.1 spulyiecooboo.website
+127.0.0.1 spxhu.com
 127.0.0.1 spyismhuzzaed.com
 127.0.0.1 spysamesent.live
 127.0.0.1 sqmjysext.com
