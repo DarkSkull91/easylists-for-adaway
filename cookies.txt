@@ -112,6 +112,8 @@
 127.0.0.1 consentement.ouest-france.fr
 127.0.0.1 cookies.leadplace.fr
 127.0.0.1 privacy.footmercato.net
+127.0.0.1 privacy.heidi.news
+127.0.0.1 privacy.letemps.ch
 127.0.0.1 cmp.vizus.cz
 127.0.0.1 consent.t-mobile.cz
 127.0.0.1 kbyqzt.xxxlutz.cz
