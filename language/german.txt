@@ -39,6 +39,8 @@
 127.0.0.1 webinstaller.gartenplanze.de
 127.0.0.1 widget.marktjagd.de
 127.0.0.1 wm-space.youero.com
+127.0.0.1 1t2.alpin.de
+127.0.0.1 1t2.kicker.de
 127.0.0.1 a.zdg.de
 127.0.0.1 a3.zdg.de
 127.0.0.1 ad.dl.dewezet.de
