@@ -1,3 +1,8 @@
+127.0.0.1 wnootzc.icu
+127.0.0.1 eiuoom.xyz
+127.0.0.1 bavotr.xyz
+127.0.0.1 eiuoom.xyz
+127.0.0.1 jyfdbj.xyz
 127.0.0.1 gkypgw.xyz
 127.0.0.1 lyislol.top
 127.0.0.1 tgrpzl.xyz
@@ -5527,6 +5532,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 udd1i5.zhihu.com
 127.0.0.1 hl.dyq.cn
 127.0.0.1 003store.com
 127.0.0.1 0941.org
