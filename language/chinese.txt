@@ -14,6 +14,7 @@
 127.0.0.1 chaoyumiao.com
 127.0.0.1 rodmfv.xyz
 127.0.0.1 fhnbrx.xyz
+127.0.0.1 doujs010.xyz
 127.0.0.1 wnootzc.icu
 127.0.0.1 eiuoom.xyz
 127.0.0.1 bavotr.xyz
