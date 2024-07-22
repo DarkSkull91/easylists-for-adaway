@@ -142,5 +142,4 @@
 127.0.0.1 zgody.infor.pl
 127.0.0.1 cookies.teraz.sk
 127.0.0.1 cookies.unidadeditorial.es
-127.0.0.1 privacy.schibsted.com
 127.0.0.1 consent.themeteocompany.com
