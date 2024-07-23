@@ -7183,6 +7183,7 @@
 127.0.0.1 pub.vacanceo.com
 127.0.0.1 pub2.webmanagercenter.com
 127.0.0.1 regietrk.jetm-tech.net
+127.0.0.1 rza.pmu.fr
 127.0.0.1 s.beop.io
 127.0.0.1 s.beopinion.com
 127.0.0.1 sle.pagesjaunes.fr
