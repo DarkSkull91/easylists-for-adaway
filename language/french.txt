@@ -1665,6 +1665,7 @@
 127.0.0.1 azclip.co.ua
 127.0.0.1 azidesgriece.top
 127.0.0.1 aznbbeco.com
+127.0.0.1 azotatehooven.top
 127.0.0.1 azoteamot.com
 127.0.0.1 azotizeloofas.com
 127.0.0.1 azpyrjlatroyag.com
@@ -6016,6 +6017,7 @@
 127.0.0.1 shoalauxa.com
 127.0.0.1 shoassel.com
 127.0.0.1 shochetplosion.top
+127.0.0.1 shoepacbecky.top
 127.0.0.1 shoohinoab.com
 127.0.0.1 shooltuca.net
 127.0.0.1 shopwashtwo.live
@@ -6737,6 +6739,7 @@
 127.0.0.1 uraimeandc.top
 127.0.0.1 urbanodecalle.com
 127.0.0.1 urbanproxy.eu
+127.0.0.1 ureagrume.com
 127.0.0.1 ureckeeds.com
 127.0.0.1 urediarechaw.com
 127.0.0.1 urgingsnags.com
@@ -7149,6 +7152,7 @@
 127.0.0.1 zinganosesqui.store
 127.0.0.1 zlotychhoggery.com
 127.0.0.1 zofassou.com
+127.0.0.1 zombyfairfax.com
 127.0.0.1 zoningnignye.com
 127.0.0.1 zonulargoloe.life
 127.0.0.1 zoogloal.com
