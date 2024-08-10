@@ -1,3 +1,10 @@
+127.0.0.1 utewyc.xyz
+127.0.0.1 rpeutxu.icu
+127.0.0.1 shbxugs.cn
+127.0.0.1 clkwnl.xyz
+127.0.0.1 zjplnz.xyz
+127.0.0.1 crutvncf.top
+127.0.0.1 vinsgcs.com
 127.0.0.1 nxrajr.xyz
 127.0.0.1 hhausq.top
 127.0.0.1 baijs05.shop
@@ -4477,7 +4484,6 @@
 127.0.0.1 b1.c1km4.com
 127.0.0.1 b1.engdvd.com
 127.0.0.1 b1.xiao84.com
-127.0.0.1 b17.8794.cn
 127.0.0.1 b7sw62.pingshu8.xyz
 127.0.0.1 baidu1.cardbaobao.com
 127.0.0.1 baidu1.codejie.net
@@ -4757,7 +4763,6 @@
 127.0.0.1 jibn12.jintang114.org
 127.0.0.1 jinhonghao.cn
 127.0.0.1 jintonghua.com
-127.0.0.1 jiyan.net
 127.0.0.1 jke1.jianke.com
 127.0.0.1 jquery.envi-met.com.cn
 127.0.0.1 js.263y.com
