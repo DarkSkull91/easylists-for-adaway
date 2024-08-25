@@ -51,7 +51,6 @@
 127.0.0.1 b2bvideo.ru
 127.0.0.1 b81x63nc.ws.md
 127.0.0.1 banner-storage.fo.ru
-127.0.0.1 banner.ua
 127.0.0.1 bannerhost.ru
 127.0.0.1 bans.name
 127.0.0.1 bantex.ru

@@ -27,7 +27,6 @@
 127.0.0.1 ressource.gdpr-banner.awsmpsa.com
 127.0.0.1 smarteucookiebanner.upsell-apps.com
 127.0.0.1 sync-transcend-cdn.com
-127.0.0.1 transcend-cdn.com
 127.0.0.1 truyoproductionuscdn.truyo.com
 127.0.0.1 webcache-eu.datareporter.eu
 127.0.0.1 webcache.datareporter.eu
@@ -50,7 +49,8 @@
 127.0.0.1 cmp.nouvelobs.com
 127.0.0.1 cmp.parkers.co.uk
 127.0.0.1 cmp.playpilot.com
-127.0.0.1 cmp.tech426.com
+127.0.0.1 cmp.springer.com
+127.0.0.1 cmp.springernature.com
 127.0.0.1 cmp.tek.no
 127.0.0.1 cmp.telerama.fr
 127.0.0.1 cmp.uniconsent.com
@@ -65,10 +65,14 @@
 127.0.0.1 consent.thecountrysmallholder.com
 127.0.0.1 consent.thegreatoutdoorsmag.com
 127.0.0.1 cookie-consent.festo.com
+127.0.0.1 cookies.giphy.com
 127.0.0.1 cookies.lmt.lv
 127.0.0.1 fuse.forbes.com
 127.0.0.1 gdpr-api.sharethis.com
 127.0.0.1 gdpr.internetbrands.com
+127.0.0.1 guce.engadget.com
+127.0.0.1 guce.rivals.com
+127.0.0.1 guce.techcrunch.com
 127.0.0.1 mms.cmpsky.com
 127.0.0.1 privacy.claytonhomes.com
 127.0.0.1 privacypolicy.trgr.be

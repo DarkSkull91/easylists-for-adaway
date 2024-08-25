@@ -39,8 +39,6 @@
 127.0.0.1 webinstaller.gartenplanze.de
 127.0.0.1 widget.marktjagd.de
 127.0.0.1 wm-space.youero.com
-127.0.0.1 2t3.alpin.de
-127.0.0.1 2t3.kicker.de
 127.0.0.1 a.zdg.de
 127.0.0.1 a3.zdg.de
 127.0.0.1 ad.dl.dewezet.de
@@ -48,8 +46,9 @@
 127.0.0.1 ad.games.ch
 127.0.0.1 as.chartsurfer.de
 127.0.0.1 banner.click-tt.de
-127.0.0.1 code.alpin.de
 127.0.0.1 code.bergsteigen.com
+127.0.0.1 es.alpin.de
+127.0.0.1 es.kicker.de
 127.0.0.1 hybrid-prd.ad-prd.s.joyn.de
 127.0.0.1 lad.sumikai.com
 127.0.0.1 network.gofeminin.de
