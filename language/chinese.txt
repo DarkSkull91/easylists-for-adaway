@@ -1,3 +1,8 @@
+127.0.0.1 weacdf411.cn
+127.0.0.1 xevzdl.xyz
+127.0.0.1 dairzih.com
+127.0.0.1 guifudi.com
+127.0.0.1 sqszcg.top
 127.0.0.1 gg3a.cc
 127.0.0.1 ztzdvv.xyz
 127.0.0.1 udolgy.xyz
@@ -5,6 +10,12 @@
 127.0.0.1 bylwtf.xyz
 127.0.0.1 eewrutw.top
 127.0.0.1 afewe611.cn
+127.0.0.1 jinxpn.xyz
+127.0.0.1 lfxozd.xyz
+127.0.0.1 qacdf511.cn
+127.0.0.1 gpmzkg.xyz
+127.0.0.1 arewcdf116.cn
+127.0.0.1 wewrute.top
 127.0.0.1 bvdenx.xyz
 127.0.0.1 tehxzz.xyz
 127.0.0.1 wfsmya.xyz
@@ -4399,6 +4410,7 @@
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
 127.0.0.1 gg.7976.top
+127.0.0.1 abody.39.net
 127.0.0.1 003store.com
 127.0.0.1 0941.org
 127.0.0.1 1.07swz.com
