@@ -39239,8 +39239,10 @@
 127.0.0.1 hit.cnbce.com
 127.0.0.1 hstats.hepsiburada.com
 127.0.0.1 hstatstest.hepsiburada.com
+127.0.0.1 plausible.elbisebul.com
 127.0.0.1 stats.birgun.net
 127.0.0.1 tracker.blutv.com
+127.0.0.1 tracker.grupanya.com
 127.0.0.1 analytics.cosmonova.net
 127.0.0.1 counter.nv.ua
 127.0.0.1 counter.ukr.net
