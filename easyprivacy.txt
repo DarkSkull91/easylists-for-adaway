@@ -1392,7 +1392,6 @@
 127.0.0.1 tracker.nitropay.com
 127.0.0.1 tracker.nocodelytics.com
 127.0.0.1 tracker.novage.com.ua
-127.0.0.1 tracker.openwebtorrent.com
 127.0.0.1 tracker.services.vaix.ai
 127.0.0.1 tracker.smartframe.io
 127.0.0.1 tracker.softcube.com
