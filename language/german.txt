@@ -1,17 +1,8 @@
-127.0.0.1 achmetsdoenerladen.de
-127.0.0.1 alleswegenmicha.de
-127.0.0.1 aluhutmafia.de
 127.0.0.1 bd742.com
-127.0.0.1 cdu-offline.de
-127.0.0.1 dierussensindschuld.de
 127.0.0.1 fantecio.com
 127.0.0.1 gayads.biz
-127.0.0.1 gema-online.de
-127.0.0.1 holyjesus.de
-127.0.0.1 spd-spenden.de
 127.0.0.1 swissadserver.ch
 127.0.0.1 windows-pro.net
-127.0.0.1 wirverkaufennichts.de
 127.0.0.1 wixnm.com
 127.0.0.1 zazufi.com
 127.0.0.1 delmovip.com
@@ -36,7 +27,6 @@
 127.0.0.1 start.amateurcommunity.com
 127.0.0.1 start.sexpartnercommunity.com
 127.0.0.1 trafico.prensaiberica.es
-127.0.0.1 webinstaller.gartenplanze.de
 127.0.0.1 widget.marktjagd.de
 127.0.0.1 wm-space.youero.com
 127.0.0.1 a.zdg.de
