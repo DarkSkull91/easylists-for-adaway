@@ -1,3 +1,4 @@
+127.0.0.1 adnx.de
 127.0.0.1 bd742.com
 127.0.0.1 fantecio.com
 127.0.0.1 gayads.biz
