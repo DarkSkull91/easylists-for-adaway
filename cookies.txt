@@ -100,7 +100,6 @@
 127.0.0.1 consent-wrapper.jameda.de
 127.0.0.1 consent.berliner-kurier.de
 127.0.0.1 consent.gutefrage.net
-127.0.0.1 consent.perry-rhodan.net
 127.0.0.1 consent.werner-mertz.de
 127.0.0.1 consent2.rheinische-anzeigenblaetter.de
 127.0.0.1 consenttool.haendlerbund.de
