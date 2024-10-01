@@ -7,6 +7,7 @@
 127.0.0.1 go2.go2cloud.org
 127.0.0.1 kjdsfjisdfjr23.azurewebsites.net
 127.0.0.1 nextdaymedia-ads.s3.amazonaws.com
+127.0.0.1 tags.refinery89.com
 127.0.0.1 traffic.12flirt.com
 127.0.0.1 aa.tweakers.nl
 127.0.0.1 content1.pcmweb.nl
