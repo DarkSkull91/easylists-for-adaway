@@ -38868,6 +38868,7 @@
 127.0.0.1 analytics-gw.games.wanmei.com
 127.0.0.1 analytics.163.com
 127.0.0.1 analytics.cnblogs.com
+127.0.0.1 analytics.ifanrusercontent.com
 127.0.0.1 analytics.oceanengine.com
 127.0.0.1 analytics.shop.hisense.com
 127.0.0.1 analytics.yicai.com
@@ -38876,6 +38877,7 @@
 127.0.0.1 applog.yiche.com
 127.0.0.1 banana.le.com
 127.0.0.1 bc.qunar.com
+127.0.0.1 beacon.cdn.qq.com
 127.0.0.1 beacon.qq.com
 127.0.0.1 channel-analysis-js.gmw.cn
 127.0.0.1 cherry.le.com
@@ -38916,6 +38918,7 @@
 127.0.0.1 log.bitauto.com
 127.0.0.1 log.flight.qunar.com
 127.0.0.1 log.m.sm.cn
+127.0.0.1 log.mgtv.com
 127.0.0.1 log.mix.sina.com.cn
 127.0.0.1 log.sina.cn
 127.0.0.1 log.zongheng.com
