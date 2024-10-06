@@ -160,6 +160,7 @@
 127.0.0.1 gcprivacy.com
 127.0.0.1 geoedge.be
 127.0.0.1 getdeviceinf.com
+127.0.0.1 getjan.io
 127.0.0.1 glamipixel.com
 127.0.0.1 glimr.io
 127.0.0.1 go-mpulse.net
@@ -2884,6 +2885,7 @@
 127.0.0.1 drfdisvc.walmart.com
 127.0.0.1 event.evtm.53.com
 127.0.0.1 idstatus.sky.com
+127.0.0.1 img2021.navyfederal.org
 127.0.0.1 imgs.signifyd.com
 127.0.0.1 qfp.intuit.com
 127.0.0.1 rba-screen.healthsafe-id.com
