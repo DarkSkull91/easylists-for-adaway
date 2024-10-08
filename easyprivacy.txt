@@ -2263,7 +2263,6 @@
 127.0.0.1 analytics-zone-1.api.leadfamly.com
 127.0.0.1 analytics.3c5.com
 127.0.0.1 analytics.academy.com
-127.0.0.1 analytics.adfreetime.com
 127.0.0.1 analytics.archive.org
 127.0.0.1 analytics.brave.com
 127.0.0.1 analytics.chase.com
@@ -2304,7 +2303,6 @@
 127.0.0.1 api-hotmart-tracking-manager.hotmart.com
 127.0.0.1 api-js.mixpanel.com
 127.0.0.1 appanalysis.banggood.com
-127.0.0.1 atrack.allposters.com
 127.0.0.1 ats.alot.com
 127.0.0.1 aurum.tirto.id
 127.0.0.1 b629.electronicdesign.com
@@ -2500,7 +2498,6 @@
 127.0.0.1 htrace.wetvinfo.com
 127.0.0.1 i.pokernews.com
 127.0.0.1 iam-rum-intake.datadoghq.com
-127.0.0.1 iedc.fitbit.com
 127.0.0.1 iguazu.doordash.com
 127.0.0.1 ih.newegg.com
 127.0.0.1 impressions.svc.abillion.com
@@ -2618,7 +2615,6 @@
 127.0.0.1 pixel.clutter.com
 127.0.0.1 pixel.convertize.io
 127.0.0.1 pixel.facebook.com
-127.0.0.1 pixel.honestjohn.co.uk
 127.0.0.1 pixel.ionos.com
 127.0.0.1 pixel.nine.com.au
 127.0.0.1 pixel.tuko.co.ke
@@ -2779,7 +2775,6 @@
 127.0.0.1 targeting.washpost.nile.works
 127.0.0.1 tc.geniusmonkey.com
 127.0.0.1 td.airdroid.com
-127.0.0.1 ted.dailymail.co.uk
 127.0.0.1 telegraph.prd.api.max.com
 127.0.0.1 telem.sre.gopuff.com
 127.0.0.1 telemetry.adobe.io
