@@ -1,6 +1,13 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 wuiqiq.xyz
+127.0.0.1 jingjs.top
+127.0.0.1 0pdsa.icu
+127.0.0.1 leagsmk.icu
 127.0.0.1 irulws.xyz
+127.0.0.1 cowcuo.xyz
+127.0.0.1 ajybgc.xyz
+127.0.0.1 ffbdbx.xyz
 127.0.0.1 sdfewed.com
 127.0.0.1 whgh1.icu
 127.0.0.1 wswxsk.xyz
@@ -4289,6 +4296,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 efg.zle.com
 127.0.0.1 003store.com
 127.0.0.1 0941.org
 127.0.0.1 1.07swz.com
