@@ -1073,6 +1073,7 @@
 127.0.0.1 pixel.byspotify.com
 127.0.0.1 pixel.condenastdigital.com
 127.0.0.1 pixel.driveniq.com
+127.0.0.1 pixel.embed.su
 127.0.0.1 pixel.fohr.co
 127.0.0.1 pixel.lilystyle.ai
 127.0.0.1 pixel.locker2.com
@@ -1724,6 +1725,7 @@
 127.0.0.1 mastertag.q-sis.de
 127.0.0.1 met.vgwort.de
 127.0.0.1 nexxtv-events.servicebus.windows.net
+127.0.0.1 nlytcs.idfnet.net
 127.0.0.1 orbidder.otto.de
 127.0.0.1 owen.prolitteris.ch
 127.0.0.1 pixel.poptok.com
