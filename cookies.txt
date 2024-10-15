@@ -58,6 +58,7 @@
 127.0.0.1 consent.23g.io
 127.0.0.1 consent.amateurphotographer.co.uk
 127.0.0.1 consent.canalboat.co.uk
+127.0.0.1 consent.lifetouch.com
 127.0.0.1 consent.nationalworld.com
 127.0.0.1 consent.pdf24.org
 127.0.0.1 consent.pilotweb.aero
