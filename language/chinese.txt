@@ -1,5 +1,7 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 erqtga.xyz
+127.0.0.1 qtroytj33.fun
 127.0.0.1 evkzqs.xyz
 127.0.0.1 hwymoyv.icu
 127.0.0.1 kyyfsw.xyz
@@ -8,6 +10,10 @@
 127.0.0.1 qebgcdcjr000.fun
 127.0.0.1 lnnahh.xyz
 127.0.0.1 wcsmvmf.icu
+127.0.0.1 huresdu.top
+127.0.0.1 2rbda.icu
+127.0.0.1 iuresdo.top
+127.0.0.1 dktad.com
 127.0.0.1 sjmlmk.xyz
 127.0.0.1 ymauoo.xyz
 127.0.0.1 jpwsuix.icu
