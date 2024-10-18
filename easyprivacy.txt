@@ -645,7 +645,6 @@
 127.0.0.1 bmrg.reflected.net
 127.0.0.1 bonfire.spklw.com
 127.0.0.1 botdetection.hbrsd.com
-127.0.0.1 browser.covatic.io
 127.0.0.1 browser.pipe.aria.microsoft.com
 127.0.0.1 bs.yandex.ru
 127.0.0.1 c.amazinglybrilliant.com.au
@@ -1263,6 +1262,7 @@
 127.0.0.1 streams.cablecar.sph.com.sg
 127.0.0.1 sts.eccmp.com
 127.0.0.1 sunlightmetrics.b-cdn.net
+127.0.0.1 surfshark.events
 127.0.0.1 survey.interquest.com
 127.0.0.1 svibeacon.onezapp.com
 127.0.0.1 sync.adap.tv
