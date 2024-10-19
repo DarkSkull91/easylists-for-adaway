@@ -680,6 +680,7 @@
 127.0.0.1 client-analytics.braintreegateway.com
 127.0.0.1 client-logger.beta.salemove.com
 127.0.0.1 client-logger.salemove.com
+127.0.0.1 client.perimeterx.net
 127.0.0.1 clouderrorreporting.googleapis.com
 127.0.0.1 cloudfront-labs.amazonaws.com
 127.0.0.1 cloudmetrics.xenforo.com
@@ -38825,6 +38826,7 @@
 127.0.0.1 ymprove.web.de
 127.0.0.1 gtm.mandesager.dk
 127.0.0.1 ia.ekstrabladet.dk
+127.0.0.1 nrpukcsgboqr0gz2o8.www.bolighub.dk
 127.0.0.1 analytics.allovoisins.com
 127.0.0.1 analytics.clubic.com
 127.0.0.1 bmly.impots.gouv.fr
