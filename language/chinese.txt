@@ -1,6 +1,17 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 gpowow.xyz
 127.0.0.1 lalabaos1020.top
+127.0.0.1 mdqikg.xyz
+127.0.0.1 sv2fo.icu
+127.0.0.1 jyxzrb.xyz
+127.0.0.1 ndysxhs.icu
+127.0.0.1 iairuo.xyz
+127.0.0.1 syshwc.xyz
+127.0.0.1 ouresdk.top
+127.0.0.1 atorks.xyz
+127.0.0.1 99jinpin.com
+127.0.0.1 luresdl.top
 127.0.0.1 033ajy.xyz
 127.0.0.1 0er7pc8.xyz
 127.0.0.1 0h3uds.com
