@@ -1,8 +1,17 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 rdxqbp.xyz
+127.0.0.1 sksbgm.xyz
 127.0.0.1 gyunce.xyz
 127.0.0.1 mlgowell.com
 127.0.0.1 rqroytj33.fun
+127.0.0.1 couvxlif.top
+127.0.0.1 tarvrf.xyz
+127.0.0.1 sbmhqe.xyz
+127.0.0.1 dayujs.top
+127.0.0.1 fanjs.top
+127.0.0.1 qjoges.xyz
+127.0.0.1 houvxliu.top
 127.0.0.1 gpowow.xyz
 127.0.0.1 jizxnr.xyz
 127.0.0.1 msmcoa.xyz
@@ -4427,6 +4436,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 cnbd1.appmobile.cn
 127.0.0.1 003store.com
 127.0.0.1 0941.org
 127.0.0.1 1.07swz.com
