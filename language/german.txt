@@ -37,6 +37,7 @@
 127.0.0.1 ad.games.ch
 127.0.0.1 as.chartsurfer.de
 127.0.0.1 banner.click-tt.de
+127.0.0.1 code.alpin.de
 127.0.0.1 code.bergsteigen.com
 127.0.0.1 hybrid-prd.ad-prd.s.joyn.de
 127.0.0.1 lad.sumikai.com
