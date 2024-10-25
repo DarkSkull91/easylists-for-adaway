@@ -1,6 +1,12 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
 127.0.0.1 moqdy.icu
+127.0.0.1 ohkfmi.xyz
+127.0.0.1 lgkocdi.icu
+127.0.0.1 gjnbf.com
+127.0.0.1 qdjsiyt.icu
+127.0.0.1 huoxun.wang
+127.0.0.1 macos.space
 127.0.0.1 rdxqbp.xyz
 127.0.0.1 sksbgm.xyz
 127.0.0.1 enkvum.xyz
