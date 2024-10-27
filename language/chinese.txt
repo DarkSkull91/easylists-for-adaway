@@ -1,5 +1,21 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 itjcqlp.icu
+127.0.0.1 xxqmtod.icu
+127.0.0.1 qouvxliy.top
+127.0.0.1 ov8ct.icu
+127.0.0.1 fca6f.icu
+127.0.0.1 touvxlii.top
+127.0.0.1 sgozmks.icu
+127.0.0.1 omheth.com
+127.0.0.1 allkmbr.icu
+127.0.0.1 eouvxliw.top
+127.0.0.1 dsikpuv.icu
+127.0.0.1 eeaczcf.icu
+127.0.0.1 lalabaos1025.top
+127.0.0.1 ycq.cab
+127.0.0.1 wouvxlie.top
+127.0.0.1 xhm.pub
 127.0.0.1 moqdy.icu
 127.0.0.1 ohkfmi.xyz
 127.0.0.1 lgkocdi.icu
@@ -4496,7 +4512,6 @@
 127.0.0.1 1.weiheshidai.com
 127.0.0.1 1.xilu.com
 127.0.0.1 1.xuexi.la
-127.0.0.1 1.xuexili.com
 127.0.0.1 1.yac8.net
 127.0.0.1 1.yuexw.com
 127.0.0.1 1.yxzw.com.cn
@@ -4576,7 +4591,6 @@
 127.0.0.1 a.lz13.cn
 127.0.0.1 a.mfcad.net
 127.0.0.1 a.miyudaquan.top
-127.0.0.1 a.nanhuwang.com
 127.0.0.1 a.oh100.com
 127.0.0.1 a.qinghua5.com
 127.0.0.1 a.qncye.net
@@ -4628,7 +4642,6 @@
 127.0.0.1 ab.rejushe.com
 127.0.0.1 abc.colayun.cn
 127.0.0.1 abc.douguo.com
-127.0.0.1 abc.rwpt.top
 127.0.0.1 abc.yebaike.com
 127.0.0.1 abcd.5lu.com
 127.0.0.1 abcd.cnhuoche.com
@@ -4648,7 +4661,6 @@
 127.0.0.1 adzp.cn
 127.0.0.1 ag1.zuszw.com
 127.0.0.1 ahm.135320.com
-127.0.0.1 aijiamao.top
 127.0.0.1 aiwen.cc
 127.0.0.1 al.newxue.com
 127.0.0.1 anews7.nvwu.com
@@ -4822,7 +4834,6 @@
 127.0.0.1 dm.lianzhixiu.com
 127.0.0.1 dm.pw0.cn
 127.0.0.1 dm.sanwen.net
-127.0.0.1 dm.taobaojuhuasuan.cn
 127.0.0.1 dm.wenshenxiu.com
 127.0.0.1 dm.zjut.cc
 127.0.0.1 dm.zuowenku.net
@@ -4834,7 +4845,6 @@
 127.0.0.1 dms.xuexxing.com
 127.0.0.1 dmym.aixyy.com
 127.0.0.1 domain1.chahaoba.cn
-127.0.0.1 domcwlxin.360doc.cn
 127.0.0.1 ds.ruanwengfa.com
 127.0.0.1 du1.bbdj.com
 127.0.0.1 edu.jiukang.org
@@ -4867,7 +4877,6 @@
 127.0.0.1 fpb1.apple886.com
 127.0.0.1 fpb1.jsq886.com
 127.0.0.1 fpb1.kedabai.com
-127.0.0.1 fpb1.tabuzhe.com
 127.0.0.1 fpbone.ihowguide.com
 127.0.0.1 fxjs.2541.com
 127.0.0.1 g.3lian.com
@@ -4926,7 +4935,6 @@
 127.0.0.1 img16.diyifanwen.com
 127.0.0.1 img50.pingguolv.com
 127.0.0.1 inone517.com
-127.0.0.1 ios.426g.com
 127.0.0.1 ipad.pc899.cn
 127.0.0.1 ipssss.com
 127.0.0.1 iuou.myadobe.cn
@@ -4944,7 +4952,6 @@
 127.0.0.1 jiaoben.jucanw.com
 127.0.0.1 jiaopei.com
 127.0.0.1 jibn12.jintang114.org
-127.0.0.1 jinhonghao.cn
 127.0.0.1 jintonghua.com
 127.0.0.1 jke1.jianke.com
 127.0.0.1 jquery.envi-met.com.cn
@@ -4972,10 +4979,7 @@
 127.0.0.1 k1.dancihu.com
 127.0.0.1 k1.wanwenwan.cn
 127.0.0.1 k1.wendahu.com
-127.0.0.1 ka5188.com
-127.0.0.1 kc.gouchezj.com
 127.0.0.1 khrtac.xiangha.com
-127.0.0.1 km1.muhoujiemi.com
 127.0.0.1 kpshx.douguo.com
 127.0.0.1 leabd.douguo.com
 127.0.0.1 lianmen1.joyyang.com
@@ -4986,7 +4990,6 @@
 127.0.0.1 love.furenkeji.com
 127.0.0.1 lv.myapks.com
 127.0.0.1 lyz.radio366.com
-127.0.0.1 m1.100how.com
 127.0.0.1 m1.27com.com
 127.0.0.1 m1.51kaowang.com
 127.0.0.1 m1.81312.com
@@ -4999,13 +5002,10 @@
 127.0.0.1 m5.66077.cn
 127.0.0.1 ma1.meishij.net
 127.0.0.1 main.jiukang.org
-127.0.0.1 materiel.baizhan.net
-127.0.0.1 materiel.junshidao.com
 127.0.0.1 matwbp.iask.sina.com.cn
 127.0.0.1 mb.gulongbbs.com
 127.0.0.1 mc.weather.com.cn
 127.0.0.1 md.tvzhe.com
-127.0.0.1 meng.360zuowen.com
 127.0.0.1 mg.32r.com
 127.0.0.1 mg.glwxw.net
 127.0.0.1 milk.yesky.com.cn
@@ -5019,7 +5019,6 @@
 127.0.0.1 mpb1.iteye.com
 127.0.0.1 mps.wenkuzu.com
 127.0.0.1 ms.cnbanbao.com
-127.0.0.1 mt.64foot.com
 127.0.0.1 mwzbp.iask.com.cn
 127.0.0.1 myunion1.qm120.com
 127.0.0.1 myunion1.tupians.com
@@ -5097,7 +5096,6 @@
 127.0.0.1 t1.612.com
 127.0.0.1 t1.xuefen.com.cn
 127.0.0.1 t6.china-xian.com
-127.0.0.1 taobc.com
 127.0.0.1 tech.jiukang.org
 127.0.0.1 thetestpage.39.net
 127.0.0.1 tonghuaji.com
@@ -5105,7 +5103,6 @@
 127.0.0.1 top2099.com
 127.0.0.1 ts166.net
 127.0.0.1 tt123.eastday.com
-127.0.0.1 tu.zx110.org
 127.0.0.1 twlcyc.cn
 127.0.0.1 u.qxen.com
 127.0.0.1 u1.2048sj.com
@@ -5130,7 +5127,6 @@
 127.0.0.1 vjvj.vj24co.com
 127.0.0.1 vv1.pyhfxdm.cn
 127.0.0.1 vvv.ieduw.com
-127.0.0.1 w.anmeihe.cn
 127.0.0.1 w.xiaopiaoyou.com
 127.0.0.1 w11.zhongkaohelp.com
 127.0.0.1 w18.9939.com
@@ -5151,18 +5147,15 @@
 127.0.0.1 ws.wenshenxiu.com
 127.0.0.1 wuliao.chzsport.cn
 127.0.0.1 wuliao.juqingba.cn
-127.0.0.1 www1.wxnmh.com
 127.0.0.1 wyzq.rehuwang.com
 127.0.0.1 x.yaohuo.me
 127.0.0.1 x1.52aoteman.com
 127.0.0.1 x1.kantu.com
 127.0.0.1 xbtw.com
-127.0.0.1 xc.gouchezj.com
 127.0.0.1 xcf-bd-js.chuimg.com
 127.0.0.1 xiaopinwo.com
 127.0.0.1 xinju.cc
 127.0.0.1 xitongku.cc
-127.0.0.1 xne1ocient87zxz.360doc.cn
 127.0.0.1 xue.zbyw.cn
 127.0.0.1 xuexi.hydcd.com
 127.0.0.1 y.photoint.net
@@ -5176,7 +5169,6 @@
 127.0.0.1 ynzhby.com
 127.0.0.1 yong.chazidian.com
 127.0.0.1 yptqys.tianqistatic.com
-127.0.0.1 ys.muhoujiemi.com
 127.0.0.1 ywg.jobui.com
 127.0.0.1 yx1.managershare.com
 127.0.0.1 yy17173.dtime.com
