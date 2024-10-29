@@ -27,9 +27,12 @@
 127.0.0.1 rev.lapippa.com
 127.0.0.1 start.amateurcommunity.com
 127.0.0.1 start.sexpartnercommunity.com
+127.0.0.1 tags.refinery89.com
 127.0.0.1 trafico.prensaiberica.es
 127.0.0.1 widget.marktjagd.de
 127.0.0.1 wm-space.youero.com
+127.0.0.1 2t3.alpin.de
+127.0.0.1 2t3.kicker.de
 127.0.0.1 a.zdg.de
 127.0.0.1 a3.zdg.de
 127.0.0.1 ad.dl.dewezet.de
@@ -49,8 +52,6 @@
 127.0.0.1 plus.tourispo.com
 127.0.0.1 res.ki.de
 127.0.0.1 saas.valuetech.de
-127.0.0.1 w.alpin.de
-127.0.0.1 w.kicker.de
 127.0.0.1 wbbanner.mrn-news.de
 127.0.0.1 werbemanager.w24.at
 127.0.0.1 x.sumikai.com
