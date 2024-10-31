@@ -1,7 +1,14 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 qkgllif.icu
+127.0.0.1 extopae.icu
+127.0.0.1 yj2nf.icu
+127.0.0.1 ioublio.top
 127.0.0.1 whrwlxg.icu
 127.0.0.1 bdawrsi.icu
+127.0.0.1 houbliu.top
+127.0.0.1 6ft8a.icu
+127.0.0.1 aikkits.com
 127.0.0.1 mzpecui.icu
 127.0.0.1 chmueyv.icu
 127.0.0.1 kemmars.com
