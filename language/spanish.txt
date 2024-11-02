@@ -12,6 +12,8 @@
 127.0.0.1 trafico.prensaiberica.es
 127.0.0.1 triggy-banners.web.app
 127.0.0.1 minube.click
+127.0.0.1 ssp.emol.com
+127.0.0.1 sspnm.emol.com
 127.0.0.1 bannersweb.s3.amazonaws.com
 127.0.0.1 do67etikr7pwz.cloudfront.net
 127.0.0.1 plx.pornes.xxx
