@@ -1,11 +1,17 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 imniel.com
+127.0.0.1 kiolpia.icu
+127.0.0.1 qoubliy.top
 127.0.0.1 vuirssd.icu
 127.0.0.1 kjnsgqe.icu
 127.0.0.1 rbift.icu
 127.0.0.1 heiviek.com
 127.0.0.1 wmcbld.top
 127.0.0.1 ifmccdn.icu
+127.0.0.1 vrelai.com
+127.0.0.1 woublie.top
+127.0.0.1 ti4la.icu
 127.0.0.1 graesol.com
 127.0.0.1 ctlacnh.icu
 127.0.0.1 xggcyef.icu

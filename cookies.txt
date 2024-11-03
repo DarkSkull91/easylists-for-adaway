@@ -23,7 +23,6 @@
 127.0.0.1 optanon.blob.core.windows.net
 127.0.0.1 plugin.management
 127.0.0.1 privacy-cdn.sixfifty.com
-127.0.0.1 privacy.digimedia.com
 127.0.0.1 ressource.gdpr-banner.awsmpsa.com
 127.0.0.1 smarteucookiebanner.upsell-apps.com
 127.0.0.1 sync-transcend-cdn.com
@@ -57,7 +56,6 @@
 127.0.0.1 cmp.uniconsent.com
 127.0.0.1 cmpv2.pcworld.com
 127.0.0.1 consent.23g.io
-127.0.0.1 consent.amateurphotographer.co.uk
 127.0.0.1 consent.canalboat.co.uk
 127.0.0.1 consent.lifetouch.com
 127.0.0.1 consent.nationalworld.com
@@ -82,14 +80,10 @@
 127.0.0.1 sourcepoint-mms.mylifetime.com
 127.0.0.1 sourcepoint.avclub.com
 127.0.0.1 sourcepoint.deadspin.com
-127.0.0.1 sourcepoint.dexerto.com
-127.0.0.1 sourcepoint.gizmodo.com
 127.0.0.1 sourcepoint.jalopnik.com
 127.0.0.1 sourcepoint.theonion.com
 127.0.0.1 sourcepoint.theroot.com
-127.0.0.1 sourcepoint.thetakeout.com
 127.0.0.1 transcendcdn.eventbrite.com
-127.0.0.1 vg247-p2.vg247.com
 127.0.0.1 vg247-uk.vg247.com
 127.0.0.1 9jdq2a.poco.de
 127.0.0.1 cc.diewebsitemacherei.de
@@ -102,7 +96,6 @@
 127.0.0.1 consens.conlabz.de
 127.0.0.1 consent-wrapper.jameda.de
 127.0.0.1 consent.berliner-kurier.de
-127.0.0.1 consent.gutefrage.net
 127.0.0.1 consent.werner-mertz.de
 127.0.0.1 consent2.rheinische-anzeigenblaetter.de
 127.0.0.1 consenttool.haendlerbund.de
