@@ -50,6 +50,7 @@
 127.0.0.1 partner.schalke04.de
 127.0.0.1 pear.focus.de
 127.0.0.1 plus.tourispo.com
+127.0.0.1 pr.t-online.de
 127.0.0.1 res.ki.de
 127.0.0.1 saas.valuetech.de
 127.0.0.1 wbbanner.mrn-news.de
