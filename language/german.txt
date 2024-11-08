@@ -1,5 +1,6 @@
 127.0.0.1 adnx.de
 127.0.0.1 bd742.com
+127.0.0.1 f11-ads.com
 127.0.0.1 fantecio.com
 127.0.0.1 gayads.biz
 127.0.0.1 swissadserver.ch
@@ -28,6 +29,7 @@
 127.0.0.1 start.amateurcommunity.com
 127.0.0.1 start.sexpartnercommunity.com
 127.0.0.1 trafico.prensaiberica.es
+127.0.0.1 web-ads.10sq.net
 127.0.0.1 widget.marktjagd.de
 127.0.0.1 wm-space.youero.com
 127.0.0.1 2t3.alpin.de
