@@ -1,5 +1,8 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 kdzgrvn.icu
+127.0.0.1 shestieh.com
+127.0.0.1 jwhjqjfl.icu
 127.0.0.1 avxonsp.icu
 127.0.0.1 58shuz.com
 127.0.0.1 trimmoits.com
@@ -8,6 +11,10 @@
 127.0.0.1 xn--swt207gl1hzc.net
 127.0.0.1 68yscw.com
 127.0.0.1 tqanmatx.icu
+127.0.0.1 kxygsjv.icu
+127.0.0.1 41grk.icu
+127.0.0.1 eddcc.icu
+127.0.0.1 feittoill.com
 127.0.0.1 dhukul.com
 127.0.0.1 reisyxy.icu
 127.0.0.1 yrarhzuq.xyz
@@ -4581,6 +4588,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 lcd.aivote.com
 127.0.0.1 cnbd1.appmobile.cn
 127.0.0.1 003store.com
 127.0.0.1 0941.org
