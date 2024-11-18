@@ -805,7 +805,6 @@
 127.0.0.1 ecommstats.s3.amazonaws.com
 127.0.0.1 edge.adobedc.net
 127.0.0.1 eel.transistor.fm
-127.0.0.1 ele26126.jscrambler.com
 127.0.0.1 eq.userneeds.com
 127.0.0.1 era.easyvoyage.com
 127.0.0.1 errors.snackly.co
@@ -1119,6 +1118,7 @@
 127.0.0.1 processor.asccommunications.com
 127.0.0.1 prod.ew.srp.navigacloud.com
 127.0.0.1 prod.fennec.atp.fox
+127.0.0.1 prodregistryv2.org
 127.0.0.1 proxy.dzeio.com
 127.0.0.1 proxy.trysavvy.com
 127.0.0.1 pt.crossmediaservices.com
@@ -2462,6 +2462,7 @@
 127.0.0.1 events-tracker.deliveroo.net
 127.0.0.1 events.api.godaddy.com
 127.0.0.1 events.baselime.io
+127.0.0.1 events.character.ai
 127.0.0.1 events.clips4sale.com
 127.0.0.1 events.framer.com
 127.0.0.1 events.mercadolibre.com

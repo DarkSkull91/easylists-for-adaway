@@ -27585,7 +27585,6 @@
 127.0.0.1 xlviiirdr.com
 127.0.0.1 xlviirdr.com
 127.0.0.1 xlvirdr.com
-127.0.0.1 xlvul.ajscdn.com
 127.0.0.1 xmas-xmas-wow.com
 127.0.0.1 xmaswrite.com
 127.0.0.1 xmediaserve.com
@@ -29804,6 +29803,8 @@
 127.0.0.1 rtb-1.mylust.com
 127.0.0.1 rtb-1.xcafe.com
 127.0.0.1 rtb-3.xgroovy.com
+127.0.0.1 s.bussyhunter.com
+127.0.0.1 s.everydayporn.co
 127.0.0.1 sli.crazyporn.xxx
 127.0.0.1 slit.lewd.rip
 127.0.0.1 slview.psne.jp
