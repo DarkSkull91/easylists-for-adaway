@@ -1,7 +1,16 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 gritoils.com
+127.0.0.1 thacreks.com
+127.0.0.1 snnmgdt.icu
+127.0.0.1 yrccils0spqnkc3.xyz
+127.0.0.1 z9uvpwarkk1mnpf.xyz
 127.0.0.1 wsgnihbh.icu
 127.0.0.1 iflucav.icu
+127.0.0.1 ao1118kas.top
+127.0.0.1 mhwy6.icu
+127.0.0.1 uweisit.top
+127.0.0.1 oweisik.top
 127.0.0.1 mlgowell.org
 127.0.0.1 ge189.com
 127.0.0.1 usgowell.com
