@@ -1,5 +1,11 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 lipheak.com
+127.0.0.1 xcwdcynb.icu
+127.0.0.1 xevaix.com
+127.0.0.1 sweizab.top
+127.0.0.1 eweizaw.top
+127.0.0.1 dt0j.icu
 127.0.0.1 oqipegjz.icu
 127.0.0.1 izuts.com
 127.0.0.1 jweizaa.top
@@ -12,6 +18,7 @@
 127.0.0.1 zmrmbc.xyz
 127.0.0.1 ao1123kas.top
 127.0.0.1 cukuix.com
+127.0.0.1 wi1f.icu
 127.0.0.1 aoao11211iis.top
 127.0.0.1 luunels.com
 127.0.0.1 qcixkb1.xyz
