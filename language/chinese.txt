@@ -1,6 +1,15 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 khastreol.com
+127.0.0.1 gokrafxr.icu
 127.0.0.1 uldaens.com
+127.0.0.1 qidzwhfp.icu
+127.0.0.1 aizhantj.com
+127.0.0.1 g41i.icu
+127.0.0.1 tweizai.top
+127.0.0.1 wcwkcus.top
+127.0.0.1 brulpha.com
+127.0.0.1 uweizat.top
 127.0.0.1 lipheak.com
 127.0.0.1 xcwdcynb.icu
 127.0.0.1 wweizae.top
