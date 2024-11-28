@@ -1,5 +1,9 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 0dwm.icu
+127.0.0.1 satfyxbt.icu
+127.0.0.1 zodoth.com
+127.0.0.1 tqeferty33.fun
 127.0.0.1 khastreol.com
 127.0.0.1 gokrafxr.icu
 127.0.0.1 9xxy.icu
@@ -9,6 +13,8 @@
 127.0.0.1 zumneojf.icu
 127.0.0.1 dheirzeh.com
 127.0.0.1 uxieks.com
+127.0.0.1 egg0.icu
+127.0.0.1 sirrors.com
 127.0.0.1 uldaens.com
 127.0.0.1 qidzwhfp.icu
 127.0.0.1 aizhantj.com
@@ -5069,8 +5075,6 @@
 127.0.0.1 daima.aixiaola.com
 127.0.0.1 daima.diaoben.net
 127.0.0.1 daima.ijq.tv
-127.0.0.1 daima.ssata.cn
-127.0.0.1 daima.wenkuwenku.com
 127.0.0.1 daima.ysdui.com
 127.0.0.1 daima.yuzhulin.com
 127.0.0.1 daiwofei2019.top
