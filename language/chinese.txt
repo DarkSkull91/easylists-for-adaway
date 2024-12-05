@@ -1,5 +1,7 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 eatnontf.icu
+127.0.0.1 khesuts.com
 127.0.0.1 vokzqgjp.icu
 127.0.0.1 sokars.com
 127.0.0.1 grerzieds.com
@@ -11,6 +13,16 @@
 127.0.0.1 odamcsk.top
 127.0.0.1 lumvkebr.icu
 127.0.0.1 scroscoi.com
+127.0.0.1 ldamcsl.top
+127.0.0.1 d5r.icu
+127.0.0.1 fo0.icu
+127.0.0.1 nuvaioqds.com
+127.0.0.1 olqead.com
+127.0.0.1 1yj.icu
+127.0.0.1 burniecrepes.com
+127.0.0.1 infantilecombination.com
+127.0.0.1 yrhxttwa.xyz
+127.0.0.1 bdamcsv.top
 127.0.0.1 sconat.com
 127.0.0.1 cidhmxxb.icu
 127.0.0.1 ig69.vip
