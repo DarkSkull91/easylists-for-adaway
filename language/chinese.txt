@@ -2,6 +2,14 @@
 127.0.0.1 cnzz.trafficmanager.net
 127.0.0.1 nmhbmfxh.icu
 127.0.0.1 bhukkeks.com
+127.0.0.1 f7j.icu
+127.0.0.1 jjimtya.top
+127.0.0.1 4sq.icu
+127.0.0.1 shaorgs.cn
+127.0.0.1 krinkred.com
+127.0.0.1 zikeke7.com
+127.0.0.1 vh8.icu
+127.0.0.1 kjimtyd.top
 127.0.0.1 khengrull.com
 127.0.0.1 ugajiwft.icu
 127.0.0.1 hjimtyu.top
