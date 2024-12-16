@@ -1,5 +1,6 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 qonbibff.icu
 127.0.0.1 wlouqsz.xyz
 127.0.0.1 hcznaubp.icu
 127.0.0.1 truxedku.com
@@ -8,6 +9,15 @@
 127.0.0.1 vegaingi.com
 127.0.0.1 3lo.icu
 127.0.0.1 jtimiya.top
+127.0.0.1 aigfednd.icu
+127.0.0.1 chonaesor.com
+127.0.0.1 warped-bus.com
+127.0.0.1 ktimiyd.top
+127.0.0.1 a5t.icu
+127.0.0.1 xpicj0.icu
+127.0.0.1 siconoi.com
+127.0.0.1 z8t.icu
+127.0.0.1 stimiyb.top
 127.0.0.1 owsrgljb.icu
 127.0.0.1 ziqniduy.com
 127.0.0.1 dddstew6cw8.fun
