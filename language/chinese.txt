@@ -1,6 +1,14 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 vriesziy.com
+127.0.0.1 rwdjrn.icu
 127.0.0.1 beenedsl.com
+127.0.0.1 tghrfv.icu
+127.0.0.1 wwilmie.top
+127.0.0.1 k9u.icu
+127.0.0.1 shuucerz.com
+127.0.0.1 qwilmiy.top
+127.0.0.1 m51.icu
 127.0.0.1 rusnuiyu.com
 127.0.0.1 ndlwtl.icu
 127.0.0.1 swilmib.top
