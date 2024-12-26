@@ -1,7 +1,14 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 pzzedx.icu
 127.0.0.1 vriesziy.com
 127.0.0.1 rwdjrn.icu
+127.0.0.1 twilmii.top
+127.0.0.1 r4u.icu
+127.0.0.1 bpxxgkoj.icu
+127.0.0.1 gmso12251oka.top
+127.0.0.1 6cs.icu
+127.0.0.1 uwilmit.top
 127.0.0.1 beenedsl.com
 127.0.0.1 tghrfv.icu
 127.0.0.1 wwilmie.top
@@ -3917,6 +3924,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 jbdch1.appmobile.cn
 127.0.0.1 lcd.aivote.com
 127.0.0.1 cnbd1.appmobile.cn
 127.0.0.1 003store.com
