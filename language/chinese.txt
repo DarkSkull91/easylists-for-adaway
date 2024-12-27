@@ -1,6 +1,17 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 ncvwnp.icu
+127.0.0.1 sachaits.com
 127.0.0.1 pzzedx.icu
+127.0.0.1 owilmik.top
+127.0.0.1 jy7.icu
+127.0.0.1 gmso12261oka.top
+127.0.0.1 dhnnbfok.icu
+127.0.0.1 zaeqrath.com
+127.0.0.1 qovunx.com
+127.0.0.1 lurefq.com
+127.0.0.1 5ik.icu
+127.0.0.1 lwilmil.top
 127.0.0.1 vriesziy.com
 127.0.0.1 rwdjrn.icu
 127.0.0.1 twilmii.top
@@ -255,7 +266,6 @@
 127.0.0.1 sirrors.com
 127.0.0.1 uldaens.com
 127.0.0.1 qidzwhfp.icu
-127.0.0.1 aizhantj.com
 127.0.0.1 g41i.icu
 127.0.0.1 tweizai.top
 127.0.0.1 wcwkcus.top
@@ -3924,6 +3934,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 a1.cyyangqiguan.com
 127.0.0.1 jbdch1.appmobile.cn
 127.0.0.1 lcd.aivote.com
 127.0.0.1 cnbd1.appmobile.cn
@@ -4055,7 +4066,6 @@
 127.0.0.1 a.qinghua5.com
 127.0.0.1 a.qncye.net
 127.0.0.1 a.qsjiajiao.com
-127.0.0.1 a.quangushi.com
 127.0.0.1 a.qunzou.com
 127.0.0.1 a.rensheng5.com
 127.0.0.1 a.shenchuang.com
