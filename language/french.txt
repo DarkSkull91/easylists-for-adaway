@@ -3933,7 +3933,6 @@
 127.0.0.1 securite.01net.com
 127.0.0.1 shoppingbox.liberation.fr
 127.0.0.1 sp.nasdaq.com
-127.0.0.1 tag.yourupload.com
 127.0.0.1 test.sexeanonyme.com
 127.0.0.1 trou-fion.com
 127.0.0.1 webftp.ki-oon.com
