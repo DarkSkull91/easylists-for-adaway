@@ -1786,6 +1786,7 @@
 127.0.0.1 foxforlog.live
 127.0.0.1 fpdhinscvjwgsw.xyz
 127.0.0.1 fractionfridgejudiciary.com
+127.0.0.1 fragrantanger.com
 127.0.0.1 frayedpause.com
 127.0.0.1 freckedlieut.top
 127.0.0.1 freedomyapa.com
@@ -2466,6 +2467,7 @@
 127.0.0.1 nearaworry.shop
 127.0.0.1 nedassiumw.xyz
 127.0.0.1 neepseph.com
+127.0.0.1 negative-speed.pro
 127.0.0.1 nergaukibe.com
 127.0.0.1 neriphine.com
 127.0.0.1 nerojimsee.xyz
