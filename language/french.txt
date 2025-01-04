@@ -1899,6 +1899,7 @@
 127.0.0.1 gliceebe.xyz
 127.0.0.1 gloghipusto.xyz
 127.0.0.1 glooghalty.net
+127.0.0.1 glougloowhoumt.net
 127.0.0.1 gloupa.com
 127.0.0.1 gloxoussoogy.net
 127.0.0.1 glungairg.com
@@ -1942,6 +1943,7 @@
 127.0.0.1 grtyb.com
 127.0.0.1 grtyi.com
 127.0.0.1 gruffwhitsun.com
+127.0.0.1 gruhodiksaipt.net
 127.0.0.1 grujeeroowie.com
 127.0.0.1 grurducuze.com
 127.0.0.1 grytjbjdyqcahmy.xyz
@@ -2166,6 +2168,7 @@
 127.0.0.1 jambosaettled.click
 127.0.0.1 janetsh.com
 127.0.0.1 jarsfulerenow.com
+127.0.0.1 jasminpurple.shop
 127.0.0.1 jauhedeps.net
 127.0.0.1 jaunithuw.com
 127.0.0.1 jaytampay.live
@@ -2177,6 +2180,7 @@
 127.0.0.1 jeehainout.com
 127.0.0.1 jeepsaut.com
 127.0.0.1 jehudf.com
+127.0.0.1 jekotyay.com
 127.0.0.1 jerboasjourney.com
 127.0.0.1 jetm-tech.net
 127.0.0.1 jhoolpalmy.click
@@ -2731,6 +2735,7 @@
 127.0.0.1 phumtoub.net
 127.0.0.1 physicallysuddenassail.com
 127.0.0.1 picmedia.biz
+127.0.0.1 pictunoctette.com
 127.0.0.1 pieclayton.com
 127.0.0.1 pifilineph.com
 127.0.0.1 pinteblibe.top
@@ -2820,6 +2825,7 @@
 127.0.0.1 propositionpower.com
 127.0.0.1 prosinggumdrop.com
 127.0.0.1 proteapygmy.click
+127.0.0.1 proteincalculate.com
 127.0.0.1 prpreladzer.com
 127.0.0.1 prudentperform.com
 127.0.0.1 psaiceex.net
@@ -3236,6 +3242,7 @@
 127.0.0.1 sundhopen.site
 127.0.0.1 sundoweak.live
 127.0.0.1 sunlampassumes.com
+127.0.0.1 superbportal.life
 127.0.0.1 supportxmr.com
 127.0.0.1 suppressedbottlesenjoyable.com
 127.0.0.1 surestisis.com
@@ -3423,6 +3430,7 @@
 127.0.0.1 udeghaipekr.com
 127.0.0.1 udncoeln.com
 127.0.0.1 uhiksolsaums.com
+127.0.0.1 ulnhz.site
 127.0.0.1 uluuahefgtdogy.com
 127.0.0.1 unampharostor.com
 127.0.0.1 unarceusan.com
@@ -3475,6 +3483,7 @@
 127.0.0.1 vaticmons.digital
 127.0.0.1 vclouds.com
 127.0.0.1 vdbfojybfpjt.xyz
+127.0.0.1 velloxfire.pro
 127.0.0.1 ver-pelis.me
 127.0.0.1 veritrol.com
 127.0.0.1 vermisrequite.click
@@ -3686,8 +3695,13 @@
 127.0.0.1 evilsbedont.de
 127.0.0.1 xmr.2miners.com
 127.0.0.1 1873083787.rsc.cdn77.org
+127.0.0.1 1f2e7.v.fwmrm.net
 127.0.0.1 380.bu2z.com
 127.0.0.1 380.hotpix.fr
+127.0.0.1 7b9de.v.fwmrm.net
+127.0.0.1 7bd92.v.fwmrm.net
+127.0.0.1 7cbf2.v.fwmrm.net
+127.0.0.1 7cd77.v.fwmrm.net
 127.0.0.1 a75-10-so.ssl.cdn13.com
 127.0.0.1 ad.genybet.fr
 127.0.0.1 ad.graciamediaweb.com
@@ -3712,6 +3726,7 @@
 127.0.0.1 ba.hugolescargot.com
 127.0.0.1 ba.jeux-gratuits.com
 127.0.0.1 ba.journaldesfemmes.com
+127.0.0.1 be-rtl.videoplaza.tv
 127.0.0.1 cdn.hqwa.xyz
 127.0.0.1 cdn1.lp.saboom.com
 127.0.0.1 cdn15.acloudimages.com
@@ -3757,6 +3772,7 @@
 127.0.0.1 promo.meexy.com
 127.0.0.1 promo.porc.com
 127.0.0.1 promo.teenthais.com
+127.0.0.1 proxy.ads.canalplus-bo.net
 127.0.0.1 proxy.vidazoo.com
 127.0.0.1 pub-algeriatenders.s3.eu-central-1.amazonaws.com
 127.0.0.1 pub.cuisineaz.com
@@ -3981,6 +3997,8 @@
 127.0.0.1 adn.porndig.com
 127.0.0.1 adn.tukif.com
 127.0.0.1 adproxy.tf1.fr
+127.0.0.1 adserve.lasentinelle.mu
+127.0.0.1 adserver.icimedias.ca
 127.0.0.1 amazon.wii-info.fr
 127.0.0.1 annonce.lequipement.fr
 127.0.0.1 apipub.oumma.com
