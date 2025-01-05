@@ -1,5 +1,11 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 lirretsn.com
+127.0.0.1 nmzbrd.icu
+127.0.0.1 airakgyl.com
+127.0.0.1 scjtfh.xyz
+127.0.0.1 cdyurlif.top
+127.0.0.1 6w7.icu
 127.0.0.1 y4l.icu
 127.0.0.1 drandoxo.com
 127.0.0.1 h5r.icu
@@ -7,6 +13,10 @@
 127.0.0.1 katoleiy.com
 127.0.0.1 okpp01040.xyz
 127.0.0.1 hjdjfl.icu
+127.0.0.1 omxwt.cn
+127.0.0.1 tztmqvga.icu
+127.0.0.1 mclimix.top
+127.0.0.1 cv7.icu
 127.0.0.1 ibyrwvi.cn
 127.0.0.1 lclimil.top
 127.0.0.1 okpp01031.xyz
