@@ -1,7 +1,17 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 jjplaqyo.icu
+127.0.0.1 tixoilll.com
+127.0.0.1 hitalsli.com
+127.0.0.1 lcvwdn.icu
 127.0.0.1 lirretsn.com
 127.0.0.1 nmzbrd.icu
+127.0.0.1 hrjciqyu.icu
+127.0.0.1 hdyurliu.top
+127.0.0.1 en6.icu
+127.0.0.1 cachusrw.com
+127.0.0.1 u57.icu
+127.0.0.1 idyurlio.top
 127.0.0.1 airakgyl.com
 127.0.0.1 scjtfh.xyz
 127.0.0.1 cdyurlif.top
@@ -3376,7 +3386,6 @@
 127.0.0.1 a.baomihua.com
 127.0.0.1 a.nowscore.com
 127.0.0.1 a.xywy.com
-127.0.0.1 a2.b310.com
 127.0.0.1 a2.xinhuanet.com
 127.0.0.1 a2put.chinaz.com
 127.0.0.1 abc.hkepc.com
@@ -3595,6 +3604,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 hcirentgh.360doc.cn
 127.0.0.1 a1.cyyangqiguan.com
 127.0.0.1 jbdch1.appmobile.cn
 127.0.0.1 lcd.aivote.com
