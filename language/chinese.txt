@@ -2,6 +2,14 @@
 127.0.0.1 cnzz.trafficmanager.net
 127.0.0.1 pinjzp.icu
 127.0.0.1 aos01080ss.xyz
+127.0.0.1 ztlkngyj.icu
+127.0.0.1 xxaks01080sspao.xyz
+127.0.0.1 xxaks01081sspao.xyz
+127.0.0.1 tu6.icu
+127.0.0.1 xukanvyl.com
+127.0.0.1 nyjelh.icu
+127.0.0.1 blbtibqk.icu
+127.0.0.1 wf7.icu
 127.0.0.1 jfrrnf.icu
 127.0.0.1 e50.icu
 127.0.0.1 aos01070ss.xyz
