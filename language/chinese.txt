@@ -1,8 +1,18 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 riscats.com
+127.0.0.1 hdjthzg.cn
+127.0.0.1 pxhuiben.com
 127.0.0.1 oliver.pub
 127.0.0.1 lbfwxr.icu
 127.0.0.1 eitilbyr.com
+127.0.0.1 3uo.fun
+127.0.0.1 ddhjabqe.icu
+127.0.0.1 majile.vip
+127.0.0.1 nyhdv.com
+127.0.0.1 osdxx.com
+127.0.0.1 bhegilut.com
+127.0.0.1 s83.fun
 127.0.0.1 pinjzp.icu
 127.0.0.1 aos01080ss.xyz
 127.0.0.1 ztlkngyj.icu
@@ -3637,6 +3647,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 abc.ruodian360.com
 127.0.0.1 hcirentgh.360doc.cn
 127.0.0.1 a1.cyyangqiguan.com
 127.0.0.1 jbdch1.appmobile.cn
