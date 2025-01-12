@@ -1,6 +1,12 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 tndbnriz.icu
 127.0.0.1 riscats.com
+127.0.0.1 jebrhb.icu
+127.0.0.1 bc4.fun
+127.0.0.1 rvxsvwqf.icu
+127.0.0.1 vdhf042.fun
+127.0.0.1 tridroin.com
 127.0.0.1 hdjthzg.cn
 127.0.0.1 pxhuiben.com
 127.0.0.1 oliver.pub
