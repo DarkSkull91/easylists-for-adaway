@@ -1,6 +1,13 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 nxdefd.icu
+127.0.0.1 thonkoirs.com
 127.0.0.1 tndbnriz.icu
+127.0.0.1 eisnaisv.com
+127.0.0.1 puhmtt.icu
+127.0.0.1 cdomsif.top
+127.0.0.1 ok5.fun
+127.0.0.1 drauvea.com
 127.0.0.1 riscats.com
 127.0.0.1 jebrhb.icu
 127.0.0.1 bc4.fun
