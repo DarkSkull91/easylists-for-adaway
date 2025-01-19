@@ -1,11 +1,16 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 hp7.fun
 127.0.0.1 lagzoids.com
 127.0.0.1 njnhzh.icu
 127.0.0.1 8u0.fun
 127.0.0.1 pheetuth.com
 127.0.0.1 4ve.fun
 127.0.0.1 tmjzlr.icu
+127.0.0.1 orkreats.com
+127.0.0.1 2hl.fun
+127.0.0.1 oqidsgkq.com
+127.0.0.1 uewzjy.xyz
 127.0.0.1 ztgha.xyz
 127.0.0.1 djsxm.xyz
 127.0.0.1 0vc.fun
