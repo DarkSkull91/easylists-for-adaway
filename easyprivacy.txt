@@ -1040,6 +1040,7 @@
 127.0.0.1 nwr.static.mmcdn.com
 127.0.0.1 observe-nexus.pointandplace.com
 127.0.0.1 observer.ip-label.net
+127.0.0.1 obseu.netgreencolumn.com
 127.0.0.1 oda.markitondemand.com
 127.0.0.1 olytics.omeda.com
 127.0.0.1 onespot-tracking.herokuapp.com

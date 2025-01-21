@@ -1324,6 +1324,7 @@
 127.0.0.1 choochauk.net
 127.0.0.1 chordeehepcats.shop
 127.0.0.1 choruscompanion.com
+127.0.0.1 chottsunmarry.com
 127.0.0.1 chougail.net
 127.0.0.1 choutikie.net
 127.0.0.1 chudaids.com
@@ -1889,6 +1890,7 @@
 127.0.0.1 germanytambur.top
 127.0.0.1 gestyy.com
 127.0.0.1 geswarpkansan.com
+127.0.0.1 getoffers24.online
 127.0.0.1 getsurv2you.com
 127.0.0.1 getsurv2youu.com
 127.0.0.1 gettripiron.live
@@ -1901,6 +1903,7 @@
 127.0.0.1 ghaytebanc.store
 127.0.0.1 ghxadv.com
 127.0.0.1 gigboost.me
+127.0.0.1 giirl4uhere.com
 127.0.0.1 gimoguvi.ru
 127.0.0.1 ginnywea.xyz
 127.0.0.1 giosany.com
@@ -2001,6 +2004,7 @@
 127.0.0.1 handymag.net
 127.0.0.1 hantsailsyte.com
 127.0.0.1 happydatte.net
+127.0.0.1 hapydates.net
 127.0.0.1 hashcoin.co
 127.0.0.1 hashforcash.us
 127.0.0.1 hashnest.com
@@ -2116,6 +2120,7 @@
 127.0.0.1 imfrk12.com
 127.0.0.1 imftrk1.com
 127.0.0.1 imglov.com
+127.0.0.1 imiitrk22.com
 127.0.0.1 imirkin6.com
 127.0.0.1 imitrk16.com
 127.0.0.1 imitrk23.com
