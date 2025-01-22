@@ -2055,6 +2055,7 @@
 127.0.0.1 assets.datarize.ai
 127.0.0.1 cm-exchange.toast.com
 127.0.0.1 dadispapi.gmarket.co.kr
+127.0.0.1 dco.coupang.com
 127.0.0.1 dtr-onsite-feed.datarize.ai
 127.0.0.1 event.hackle.io
 127.0.0.1 log.adplex.co.kr
