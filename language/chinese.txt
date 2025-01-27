@@ -1,5 +1,8 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 xxsmad5.com
+127.0.0.1 hostolhg.com
+127.0.0.1 4zn.fun
 127.0.0.1 qaemphaels.com
 127.0.0.1 vhrhnh.icu
 127.0.0.1 7mk.fun
@@ -9,6 +12,9 @@
 127.0.0.1 irkrellw.com
 127.0.0.1 txnczz.icu
 127.0.0.1 dklnxtcj.icu
+127.0.0.1 h3d.fun
+127.0.0.1 naettarq.com
+127.0.0.1 8sh.fun
 127.0.0.1 01240sop.xyz
 127.0.0.1 01231sop.xyz
 127.0.0.1 kruraits.com
