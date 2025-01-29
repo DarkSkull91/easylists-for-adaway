@@ -1,5 +1,9 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 v4p.fun
+127.0.0.1 addalzq.com
+127.0.0.1 6qo.fun
+127.0.0.1 hdinmiu.top
 127.0.0.1 xxsmad5.com
 127.0.0.1 hostolhg.com
 127.0.0.1 4zn.fun
@@ -7,6 +11,7 @@
 127.0.0.1 tuhmkjce.icu
 127.0.0.1 as01280kkp.xyz
 127.0.0.1 as01271kkp.xyz
+127.0.0.1 as01281kkp.xyz
 127.0.0.1 veilengh.com
 127.0.0.1 fcbdpock.icu
 127.0.0.1 t2s.fun
@@ -3779,6 +3784,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 reke.at.sohu.com
 127.0.0.1 abc.ruodian360.com
 127.0.0.1 hcirentgh.360doc.cn
 127.0.0.1 a1.cyyangqiguan.com
