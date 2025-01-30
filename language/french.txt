@@ -157,6 +157,7 @@
 127.0.0.1 79383a549a.com
 127.0.0.1 7a2cb45927.com
 127.0.0.1 7a8490057c.com
+127.0.0.1 7b5f77dbb5.com
 127.0.0.1 7d03443cb7.com
 127.0.0.1 7dfbef87b6.com
 127.0.0.1 7f3adt.com
@@ -181,8 +182,11 @@
 127.0.0.1 8e403e6714.com
 127.0.0.1 8ea2468d09.com
 127.0.0.1 8f70f539ce.com
+127.0.0.1 917c626609.com
 127.0.0.1 91a8a068d5.com
 127.0.0.1 92c04d81dd.com
+127.0.0.1 932dbf2491.com
+127.0.0.1 938b97e5ba.com
 127.0.0.1 947a482789.com
 127.0.0.1 94870bbbc9.com
 127.0.0.1 970824fa47.com
@@ -842,6 +846,7 @@
 127.0.0.1 assistimplemented.com
 127.0.0.1 assumeditch.com
 127.0.0.1 assurancedangerous.com
+127.0.0.1 astonishing-service.com
 127.0.0.1 astylararsines.com
 127.0.0.1 atchshipsmotor.com
 127.0.0.1 atdhobsb.com
@@ -896,9 +901,12 @@
 127.0.0.1 avwjyvzeyeov.top
 127.0.0.1 avzwkkmzkawyr.top
 127.0.0.1 awaitingdate.com
+127.0.0.1 awaitinggirl.net
+127.0.0.1 awaitinggirls.com
 127.0.0.1 awarenesstack.com
 127.0.0.1 awavjblaaebqv.top
 127.0.0.1 awavjblaaezbb.top
+127.0.0.1 awdeliverynet.com
 127.0.0.1 awexjtozogod.com
 127.0.0.1 aweyqalylqqr.top
 127.0.0.1 awgbrojzdpesxx.com
@@ -1723,9 +1731,11 @@
 127.0.0.1 fae2ea855a.com
 127.0.0.1 faeotkeyoj.xyz
 127.0.0.1 fainsflavory.shop
+127.0.0.1 faint-personality.com
 127.0.0.1 faipeeji.com
 127.0.0.1 fairfeeling.com
 127.0.0.1 fairlyleadingenquiry.com
+127.0.0.1 fairyllove.net
 127.0.0.1 faishoar.com
 127.0.0.1 faistouy.net
 127.0.0.1 faksofta.net
@@ -1741,6 +1751,7 @@
 127.0.0.1 fasder12.store
 127.0.0.1 fastgnmx.com
 127.0.0.1 fastlycdn.com
+127.0.0.1 fat-flex.ru
 127.0.0.1 fatemedflat.live
 127.0.0.1 fattyeccentric.com
 127.0.0.1 faufainive.com
@@ -1756,6 +1767,7 @@
 127.0.0.1 fdc02736b4.com
 127.0.0.1 fdqdwujnyoavj.xyz
 127.0.0.1 fdsur.com
+127.0.0.1 fe433129dc.com
 127.0.0.1 fe70a4ad4b.com
 127.0.0.1 feasteddemeans.shop
 127.0.0.1 februaryinjectionproudly.com
@@ -2356,6 +2368,7 @@
 127.0.0.1 loovufaiboo.net
 127.0.0.1 lopije.ru
 127.0.0.1 losital.ru
+127.0.0.1 losobo.xyz
 127.0.0.1 lostdidest.com
 127.0.0.1 lotebsansiz.net
 127.0.0.1 lousoozi.net
@@ -3526,6 +3539,7 @@
 127.0.0.1 trustedpubs.com
 127.0.0.1 trusteverything.de
 127.0.0.1 trustiseverything.de
+127.0.0.1 tryonline.bid
 127.0.0.1 ttsycqxjvgrya.xyz
 127.0.0.1 tubadthy.live
 127.0.0.1 tubebrand.com
@@ -3545,6 +3559,7 @@
 127.0.0.1 tubetob.com
 127.0.0.1 tubevideos.biz
 127.0.0.1 tubfurryhen.com
+127.0.0.1 tuesdaysale.bid
 127.0.0.1 tunnedlehua.com
 127.0.0.1 turbo-cdn.net
 127.0.0.1 turkstench.com
@@ -3554,6 +3569,7 @@
 127.0.0.1 twk20rw5v1.com
 127.0.0.1 twrences.xyz
 127.0.0.1 txkenpbuvmxgjg.xyz
+127.0.0.1 typhondeck.com
 127.0.0.1 tyranhorrid.com
 127.0.0.1 tyrfd.ovh
 127.0.0.1 tzimmescantara.com
@@ -3575,6 +3591,7 @@
 127.0.0.1 unfamiiiiardate.com
 127.0.0.1 unfamiiiiardate.net
 127.0.0.1 unfamiiiiardates.net
+127.0.0.1 unfamiiilardate.com
 127.0.0.1 unfamiiilardates.com
 127.0.0.1 unfamiiilardates.net
 127.0.0.1 unfamiillardate.com
@@ -3585,11 +3602,16 @@
 127.0.0.1 unfamiliiardates.com
 127.0.0.1 unfamiliiardates.net
 127.0.0.1 unfamilliardates.com
+127.0.0.1 unfamilllardate.com
 127.0.0.1 unfamilllardates.net
+127.0.0.1 unfamliliardate.com
 127.0.0.1 unfamliliardate.net
 127.0.0.1 unfamliliardates.com
+127.0.0.1 unfamlliiardate.com
 127.0.0.1 unfamlliiardates.com
 127.0.0.1 unfamlliiardates.net
+127.0.0.1 unfamllliardate.net
+127.0.0.1 unfamllliardates.com
 127.0.0.1 unhoaryawonder.com
 127.0.0.1 unimportant-pleasure.com
 127.0.0.1 unlockads.com
@@ -3802,6 +3824,7 @@
 127.0.0.1 xfmlp.com
 127.0.0.1 xfuck.com
 127.0.0.1 xhydh39.xyz
+127.0.0.1 xihubo.click
 127.0.0.1 xjwgsirruyfwli.xyz
 127.0.0.1 xoilcsfvgjiw.xyz
 127.0.0.1 xu2.com
