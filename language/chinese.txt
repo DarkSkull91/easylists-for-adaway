@@ -1,6 +1,11 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
 127.0.0.1 bodhalqg.com
+127.0.0.1 xedlxeuz.icu
+127.0.0.1 twxftd.icu
+127.0.0.1 k42.fun
+127.0.0.1 am0.fun
+127.0.0.1 strilqoill.com
 127.0.0.1 v4p.fun
 127.0.0.1 addalzq.com
 127.0.0.1 6qo.fun
