@@ -1,7 +1,10 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 feronyv.com
 127.0.0.1 tbbfdr.icu
 127.0.0.1 oveakmqk.com
+127.0.0.1 lsxvnzif.icu
+127.0.0.1 iedullkg.com
 127.0.0.1 begoihuh.com
 127.0.0.1 rmtxdn.icu
 127.0.0.1 pw2.fun
@@ -31,6 +34,7 @@
 127.0.0.1 4zn.fun
 127.0.0.1 rajxjj.icu
 127.0.0.1 tuhmkjce.icu
+127.0.0.1 as02010kkp.xyz
 127.0.0.1 as01280kkp.xyz
 127.0.0.1 as01271kkp.xyz
 127.0.0.1 as01281kkp.xyz
