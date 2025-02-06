@@ -1,9 +1,16 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 fagrirtn.com
+127.0.0.1 rqhajf.icu
+127.0.0.1 trellq.com
+127.0.0.1 tjvcffap.icu
 127.0.0.1 rrptnkao.icu
 127.0.0.1 is02050qqp.xyz
 127.0.0.1 is02041qqp.xyz
 127.0.0.1 qhaccid.com
+127.0.0.1 tnlixn.icu
+127.0.0.1 u7y.pw
+127.0.0.1 ommatht.com
 127.0.0.1 hdinmau.top
 127.0.0.1 shaenphiks.com
 127.0.0.1 feronyv.com
@@ -3828,6 +3835,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 code.wenbanzhu.com
 127.0.0.1 reke.at.sohu.com
 127.0.0.1 abc.ruodian360.com
 127.0.0.1 hcirentgh.360doc.cn
@@ -4146,7 +4154,6 @@
 127.0.0.1 cn.bidushe.com
 127.0.0.1 cn6x.com
 127.0.0.1 cod.southmoney.com
-127.0.0.1 code.bizdirlib.com
 127.0.0.1 code.ditiezu.net
 127.0.0.1 cp.7y7.com
 127.0.0.1 cp.jfcdns.com
