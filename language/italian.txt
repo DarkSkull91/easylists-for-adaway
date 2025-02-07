@@ -7,10 +7,8 @@
 127.0.0.1 d1yhzddoi8ev99.cloudfront.net
 127.0.0.1 d2moz0h55szev9.cloudfront.net
 127.0.0.1 d3f4nuq5dskrej.cloudfront.net
-127.0.0.1 limone.iltrovatore.it
 127.0.0.1 digitaladv.despar.it
-127.0.0.1 free.netsons.com
-127.0.0.1 iads.iltrovatore.it
+127.0.0.1 limone.iltrovatore.it
 127.0.0.1 middycdn-a.akamaihd.net
 127.0.0.1 mmvid.s3.amazonaws.com
 127.0.0.1 netrefer-a.akamaihd.net
