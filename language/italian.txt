@@ -10,12 +10,6 @@
 127.0.0.1 digitaladv.despar.it
 127.0.0.1 limone.iltrovatore.it
 127.0.0.1 middycdn-a.akamaihd.net
-127.0.0.1 mmvid.s3.amazonaws.com
-127.0.0.1 netrefer-a.akamaihd.net
-127.0.0.1 pop.virgilio.us
-127.0.0.1 popspace.virgilio.us
-127.0.0.1 promo.easy-dating.org
-127.0.0.1 promo.ezstatic.com
 127.0.0.1 roi.ediscom.it
 127.0.0.1 sda.quinews.net
 127.0.0.1 unifiedads.magellanotech.it
