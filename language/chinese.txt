@@ -1,5 +1,13 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 tmvirr.icu
+127.0.0.1 udinmat.top
+127.0.0.1 vjzqfh.icu
+127.0.0.1 8ff0.cn
+127.0.0.1 tdinmai.top
+127.0.0.1 ddc888.com
+127.0.0.1 draktash.com
+127.0.0.1 bildrat.com
 127.0.0.1 xtdvvp.icu
 127.0.0.1 vbllxaaj.icu
 127.0.0.1 apk02070oo.xyz
