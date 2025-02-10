@@ -2,6 +2,11 @@
 127.0.0.1 cnzz.trafficmanager.net
 127.0.0.1 tmvirr.icu
 127.0.0.1 udinmat.top
+127.0.0.1 odinmak.top
+127.0.0.1 ldinmal.top
+127.0.0.1 brornaeq.com
+127.0.0.1 strakuty.com
+127.0.0.1 zcrddj.icu
 127.0.0.1 vjzqfh.icu
 127.0.0.1 8ff0.cn
 127.0.0.1 tdinmai.top
@@ -121,7 +126,6 @@
 127.0.0.1 lqxzx.com
 127.0.0.1 r0j.fun
 127.0.0.1 y0o.fun
-127.0.0.1 icokamio.top
 127.0.0.1 thrumulr.com
 127.0.0.1 01210sop.xyz
 127.0.0.1 icokamio.top
@@ -454,7 +458,6 @@
 127.0.0.1 jtimiya.top
 127.0.0.1 aigfednd.icu
 127.0.0.1 chonaesor.com
-127.0.0.1 warped-bus.com
 127.0.0.1 ktimiyd.top
 127.0.0.1 a5t.icu
 127.0.0.1 xpicj0.icu
@@ -819,7 +822,6 @@
 127.0.0.1 g4y7uuk.com
 127.0.0.1 pmwofrq.icu
 127.0.0.1 soublib.top
-127.0.0.1 1dki0.icu
 127.0.0.1 bhakte.com
 127.0.0.1 lalabaos1101.top
 127.0.0.1 1dki0.icu
@@ -1035,7 +1037,6 @@
 127.0.0.1 bytmfj.xyz
 127.0.0.1 caicme.xyz
 127.0.0.1 caqreg.xyz
-127.0.0.1 cb61190372.com
 127.0.0.1 cdcs34.fun
 127.0.0.1 cdickef.top
 127.0.0.1 cdmyeg.xyz
@@ -1082,7 +1083,6 @@
 127.0.0.1 dgkship.icu
 127.0.0.1 dgrgr34.fun
 127.0.0.1 diendh.xyz
-127.0.0.1 diskaa.com
 127.0.0.1 djecgyk.icu
 127.0.0.1 dkasdeerw.xyz
 127.0.0.1 dkhffh.xyz
@@ -1801,7 +1801,6 @@
 127.0.0.1 165tchuang.com
 127.0.0.1 17123.net
 127.0.0.1 1cecn.icu
-127.0.0.1 1f84e33459.com
 127.0.0.1 1l1.cc
 127.0.0.1 1ny3r.icu
 127.0.0.1 2024114t.shop
@@ -1840,8 +1839,6 @@
 127.0.0.1 666bbb888www.com
 127.0.0.1 666ppp222ppp.com
 127.0.0.1 666ppp888ppp.com
-127.0.0.1 6b70b1086b.com
-127.0.0.1 6b856ee58e.com
 127.0.0.1 6pznpz.com
 127.0.0.1 6slb0.cyou
 127.0.0.1 6zfem.icu
@@ -2074,7 +2071,6 @@
 127.0.0.1 chbheroq.xyz
 127.0.0.1 cherylssb.com
 127.0.0.1 chgpuxim.xyz
-127.0.0.1 chinaslauras.com
 127.0.0.1 chnvgdkw.xyz
 127.0.0.1 chsdwjes.xyz
 127.0.0.1 chubsxmg.xyz
@@ -2207,7 +2203,6 @@
 127.0.0.1 dskjbvzvs.com
 127.0.0.1 dssdfsf.cn
 127.0.0.1 dtjpihv.xyz
-127.0.0.1 dugapiece.com
 127.0.0.1 duluoweiyu.com
 127.0.0.1 duyewnf.icu
 127.0.0.1 dv4ku.icu
@@ -2250,7 +2245,6 @@
 127.0.0.1 enalzlw.top
 127.0.0.1 engwsq.xyz
 127.0.0.1 enifdlaw.top
-127.0.0.1 enviousinevitable.com
 127.0.0.1 eoucxzw.icu
 127.0.0.1 epxfjcb.xyz
 127.0.0.1 eqkvks.xyz
@@ -2953,14 +2947,12 @@
 127.0.0.1 rdsgick.icu
 127.0.0.1 rebojf.xyz
 127.0.0.1 retinaesprent.com
-127.0.0.1 retintsmillion.com
 127.0.0.1 retrefsf.cn
 127.0.0.1 rfnvqpo.xyz
 127.0.0.1 rgdcrt.xyz
 127.0.0.1 rghbvp.xyz
 127.0.0.1 rghqrj.xyz
 127.0.0.1 rhzvlcu.xyz
-127.0.0.1 ringingneo.com
 127.0.0.1 riscil.com
 127.0.0.1 rjhbjv.xyz
 127.0.0.1 rkgbqn.icu
@@ -3034,7 +3026,6 @@
 127.0.0.1 sosakk.xyz
 127.0.0.1 sotunet.com
 127.0.0.1 sowsuwm.icu
-127.0.0.1 sprewcereous.com
 127.0.0.1 srtlisb.top
 127.0.0.1 srwwce.xyz
 127.0.0.1 srzpsbf.xyz
@@ -3054,7 +3045,6 @@
 127.0.0.1 sxoejoc.icu
 127.0.0.1 sxtnpzd.xyz
 127.0.0.1 syislob.top
-127.0.0.1 syiwgwsqwngrdw.xyz
 127.0.0.1 synergyat.work
 127.0.0.1 syuwkbb.top
 127.0.0.1 szbxw.cn
@@ -3063,7 +3053,6 @@
 127.0.0.1 tahznx.xyz
 127.0.0.1 tajdad.cn
 127.0.0.1 talyrt.xyz
-127.0.0.1 taproximo.com
 127.0.0.1 taxoxz.xyz
 127.0.0.1 tc911.vip
 127.0.0.1 tcfgtd.xyz
