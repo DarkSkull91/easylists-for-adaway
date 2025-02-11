@@ -517,6 +517,7 @@
 127.0.0.1 cxmolk.com
 127.0.0.1 cyhtr.com
 127.0.0.1 d.igra-prestoloff.cx
+127.0.0.1 d0.mradx.net
 127.0.0.1 d19lkhros9wke.cloudfront.net
 127.0.0.1 d1af165twk0zgn.cloudfront.net
 127.0.0.1 d1f5rbi95y1icu.cloudfront.net
@@ -1159,6 +1160,7 @@
 127.0.0.1 qrstes.com
 127.0.0.1 r0.mail.ru
 127.0.0.1 r0.mradx.net
+127.0.0.1 r0.mradx.ru
 127.0.0.1 ravishstroke.in
 127.0.0.1 rb-net.com
 127.0.0.1 rb.infox.sg
