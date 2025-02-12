@@ -1,7 +1,14 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 traukvan.com
+127.0.0.1 20wx.com
+127.0.0.1 vitqzd.icu
 127.0.0.1 fuuksew.com
 127.0.0.1 xfxvpt.icu
+127.0.0.1 s31u.com
+127.0.0.1 ccinmaf.top
+127.0.0.1 inzoiwe.com
+127.0.0.1 hcinmau.top
 127.0.0.1 tmvirr.icu
 127.0.0.1 udinmat.top
 127.0.0.1 odinmak.top
