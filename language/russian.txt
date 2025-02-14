@@ -175,7 +175,6 @@
 127.0.0.1 loveadvert.ru
 127.0.0.1 lux-bn.com.ua
 127.0.0.1 luxcash.ru
-127.0.0.1 luxcdn.com
 127.0.0.1 luxurycash.net
 127.0.0.1 managermest.ru
 127.0.0.1 mbn.kr.ua
