@@ -355,6 +355,8 @@
 127.0.0.1 amuseer.com
 127.0.0.1 an.media-active.ru
 127.0.0.1 analytic.press
+127.0.0.1 anidublink.ru
+127.0.0.1 animesvost.ru
 127.0.0.1 annienne.com
 127.0.0.1 api-keks.com
 127.0.0.1 api-marketolog.mts.ru
@@ -1510,6 +1512,7 @@
 127.0.0.1 youhave.mobi
 127.0.0.1 ytsmoda3jcne.ru
 127.0.0.1 yulinata.ru
+127.0.0.1 yummyanimez.ru
 127.0.0.1 yyredir.com
 127.0.0.1 zarabotki.ru
 127.0.0.1 zc9l27wq.ru
