@@ -1,8 +1,13 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 vudqth.icu
+127.0.0.1 grarnuns.com
 127.0.0.1 sholxorw.com
 127.0.0.1 xehyjx.icu
 127.0.0.1 jgxirv.icu
+127.0.0.1 6u2h.cn
+127.0.0.1 efxh.cn
+127.0.0.1 rakkuxw.com
 127.0.0.1 saddarue.com
 127.0.0.1 scinmab.top
 127.0.0.1 stroveiks.com

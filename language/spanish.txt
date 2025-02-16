@@ -1,6 +1,5 @@
 127.0.0.1 0-02.net
 127.0.0.1 adzonestatic.com
-127.0.0.1 pahtfi.tech
 127.0.0.1 palibzh.tech
 127.0.0.1 positive-ads.com
 127.0.0.1 revenuemakerdata.com
