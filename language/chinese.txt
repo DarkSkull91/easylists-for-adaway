@@ -1,7 +1,15 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 dhannaq.com
+127.0.0.1 xqrydt.icu
 127.0.0.1 zavgrj.icu
 127.0.0.1 stogmos.com
+127.0.0.1 lclqbh.icu
+127.0.0.1 qnhi.cn
+127.0.0.1 phazaeth.com
+127.0.0.1 uewotga.top
+127.0.0.1 ccinvdf.top
+127.0.0.1 uvoisbg.xyz
 127.0.0.1 aegzoils.com
 127.0.0.1 bxzlfr.icu
 127.0.0.1 shudi8.com
@@ -3537,6 +3545,7 @@
 127.0.0.1 z.nowscore.com
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
+127.0.0.1 bun1.dayi.org.cn
 127.0.0.1 code.wenbanzhu.com
 127.0.0.1 reke.at.sohu.com
 127.0.0.1 abc.ruodian360.com
