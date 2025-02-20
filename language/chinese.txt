@@ -1,7 +1,16 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 stildell.com
+127.0.0.1 dtntnl.icu
+127.0.0.1 hvddxj.icu
 127.0.0.1 dhannaq.com
 127.0.0.1 xqrydt.icu
+127.0.0.1 rsohvot.xyz
+127.0.0.1 o4q.fun
+127.0.0.1 jshilr.icu
+127.0.0.1 hcinvdu.top
+127.0.0.1 fesnaed.com
+127.0.0.1 icinvdo.top
 127.0.0.1 zavgrj.icu
 127.0.0.1 stogmos.com
 127.0.0.1 lclqbh.icu
@@ -4139,7 +4148,6 @@
 127.0.0.1 rabc1.iteye.com
 127.0.0.1 rc.ie13.com
 127.0.0.1 rdbd.xsread.com
-127.0.0.1 res.pinpai8.cn
 127.0.0.1 retrieval-bd.duote.com
 127.0.0.1 richh.cn
 127.0.0.1 rxys.cn
