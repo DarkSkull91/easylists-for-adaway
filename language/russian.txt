@@ -356,8 +356,11 @@
 127.0.0.1 an.media-active.ru
 127.0.0.1 analytic.press
 127.0.0.1 anidublink.ru
+127.0.0.1 anilibriaz.ru
+127.0.0.1 animegofan.ru
 127.0.0.1 animesvost.ru
 127.0.0.1 annienne.com
+127.0.0.1 antiblockseries.ru
 127.0.0.1 api-keks.com
 127.0.0.1 api-marketolog.mts.ru
 127.0.0.1 api.smartadv.ru
@@ -1227,6 +1230,7 @@
 127.0.0.1 seed.by
 127.0.0.1 seligers.ru
 127.0.0.1 senkevich-vk.net
+127.0.0.1 senpaianime.ru
 127.0.0.1 sergh34ds.com
 127.0.0.1 serveac.com
 127.0.0.1 server2034.ru
