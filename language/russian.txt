@@ -357,6 +357,7 @@
 127.0.0.1 analytic.press
 127.0.0.1 anidublink.ru
 127.0.0.1 anilibriaz.ru
+127.0.0.1 animebest.zone
 127.0.0.1 animegofan.ru
 127.0.0.1 animesvost.ru
 127.0.0.1 annienne.com
