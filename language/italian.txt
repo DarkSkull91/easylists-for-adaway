@@ -12,6 +12,7 @@
 127.0.0.1 middycdn-a.akamaihd.net
 127.0.0.1 roi.ediscom.it
 127.0.0.1 unifiedads.magellanotech.it
+127.0.0.1 widgets.shop.moda.it
 127.0.0.1 adserver.ilgazzettinovesuviano.com
 127.0.0.1 adv-img.edilportale.com
 127.0.0.1 banner.moscarossa.biz
