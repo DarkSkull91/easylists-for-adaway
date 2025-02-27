@@ -1,7 +1,14 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 shatielsu.com
+127.0.0.1 rdllzz.icu
+127.0.0.1 fbvbrb.icu
 127.0.0.1 zlzgfj.icu
 127.0.0.1 lnptph.icu
+127.0.0.1 pisb.cn
+127.0.0.1 dyyygyg.top
+127.0.0.1 dhulzehgk.com
+127.0.0.1 diav.cn
 127.0.0.1 druqodrly.com
 127.0.0.1 bidotz.icu
 127.0.0.1 nktydx.icu
@@ -10,6 +17,7 @@
 127.0.0.1 znlvhnej.icu
 127.0.0.1 okwjmii.top
 127.0.0.1 onjncgq.top
+127.0.0.1 o02260aokk.com
 127.0.0.1 o02251aokk.com
 127.0.0.1 pheidheat.com
 127.0.0.1 thampheth.com
