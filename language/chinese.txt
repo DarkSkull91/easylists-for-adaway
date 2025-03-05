@@ -3,6 +3,9 @@
 127.0.0.1 nhur.cn
 127.0.0.1 bybrrn.icu
 127.0.0.1 hmjmjz.icu
+127.0.0.1 uojx.cn
+127.0.0.1 toazdkl.top
+127.0.0.1 ujmz.cn
 127.0.0.1 pkvjrb.icu
 127.0.0.1 oqea.cn
 127.0.0.1 vaykjwn.top
