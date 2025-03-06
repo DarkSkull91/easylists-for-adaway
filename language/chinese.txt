@@ -1,5 +1,10 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 hbxmdf.icu
+127.0.0.1 ojmv.cn
+127.0.0.1 rvgtaai.top
+127.0.0.1 vwvj.cn
+127.0.0.1 fpfhtr.icu
 127.0.0.1 nhur.cn
 127.0.0.1 bybrrn.icu
 127.0.0.1 hmjmjz.icu
@@ -3437,7 +3442,7 @@
 127.0.0.1 123456.asia
 127.0.0.1 17.huanqiu.com
 127.0.0.1 177o.com
-127.0.0.1 192.luyouwang.com
+127.0.0.1 lu2.luyouwang.com
 127.0.0.1 1999019.com
 127.0.0.1 1buu1.penyouw.com
 127.0.0.1 2.haoxue360.com
