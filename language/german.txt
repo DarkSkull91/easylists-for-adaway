@@ -25,6 +25,7 @@
 127.0.0.1 partner.maxxim.de
 127.0.0.1 partner.simplytel.de
 127.0.0.1 promotionmaterial.betacash.com
+127.0.0.1 qvid2.b-cdn.net
 127.0.0.1 rev.lapippa.com
 127.0.0.1 start.amateurcommunity.com
 127.0.0.1 start.sexpartnercommunity.com
