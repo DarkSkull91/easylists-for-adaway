@@ -85,7 +85,6 @@
 127.0.0.1 39489ef6ae.com
 127.0.0.1 39561c75b3.com
 127.0.0.1 3d43d43f68.com
-127.0.0.1 3d7df2557f.com
 127.0.0.1 3r1kwxcd.top
 127.0.0.1 40194e19e6.com
 127.0.0.1 4097ffb08f.com
@@ -184,7 +183,6 @@
 127.0.0.1 8a40179356.com
 127.0.0.1 8c4b010d44.com
 127.0.0.1 8e403e6714.com
-127.0.0.1 8f70f539ce.com
 127.0.0.1 9013e61823.com
 127.0.0.1 908df012d9bb72e6d26b41054588d758.com
 127.0.0.1 90e2545579.com
@@ -267,6 +265,7 @@
 127.0.0.1 abominableexhibition.com
 127.0.0.1 abonnementdisconnect.com
 127.0.0.1 aboriginaldisturbthirty.com
+127.0.0.1 aboveaveragefinallycast.com
 127.0.0.1 aboveaverageguidancecarter.com
 127.0.0.1 aboveaverageheavenly.com
 127.0.0.1 aboveboardcomplicate.com
@@ -298,8 +297,10 @@
 127.0.0.1 acaciaarraydebate.com
 127.0.0.1 academicencircle.com
 127.0.0.1 accedesgravel.click
+127.0.0.1 acceptabledancemixed.com
 127.0.0.1 acceptablefabric.com
 127.0.0.1 acceptablejitterdisgrace.com
+127.0.0.1 acceptanceathwartwant.com
 127.0.0.1 acceptguide.com
 127.0.0.1 acceptimpatient.com
 127.0.0.1 accessorydairy.com
@@ -321,6 +322,7 @@
 127.0.0.1 accompanyingparameters.com
 127.0.0.1 accomplicemiracle.com
 127.0.0.1 accomplishedpersuadedprinter.com
+127.0.0.1 accordancecaskmilk.com
 127.0.0.1 accountantflowerrespiration.com
 127.0.0.1 accountfluid.com
 127.0.0.1 accountshierarchyprice.com
@@ -413,8 +415,10 @@
 127.0.0.1 adoptbeggarly.com
 127.0.0.1 adoptcraneinexhaustible.com
 127.0.0.1 adoptedablative.com
+127.0.0.1 adoptedlaxstrenuous.com
 127.0.0.1 adoptionconcerned.com
 127.0.0.1 adoriinggirl.com
+127.0.0.1 adorndiscussionhoarfrost.com
 127.0.0.1 adornexampleauthority.com
 127.0.0.1 adornmenttaunt.com
 127.0.0.1 adpointbreakrtb.com
@@ -434,6 +438,7 @@
 127.0.0.1 adtrk20.com
 127.0.0.1 adulateearring.com
 127.0.0.1 adulateprofessnorth.com
+127.0.0.1 adulatoryproceedingslookout.com
 127.0.0.1 advancementalong.com
 127.0.0.1 advancementcircuscaptured.com
 127.0.0.1 advancementgreeted.com
@@ -483,6 +488,7 @@
 127.0.0.1 agalinoonetor.com
 127.0.0.1 agapikachua.com
 127.0.0.1 agatorkoaltor.com
+127.0.0.1 agedmigrationpepper.com
 127.0.0.1 agedpagefat.live
 127.0.0.1 agencyrearrangepasture.com
 127.0.0.1 agencytroops.com
@@ -601,6 +607,8 @@
 127.0.0.1 allownotifications.com
 127.0.0.1 allowpush.com
 127.0.0.1 allowssnagaffinity.com
+127.0.0.1 allowsstripesdejection.com
+127.0.0.1 alloybreathlesshomes.com
 127.0.0.1 allrightpaint.com
 127.0.0.1 allsprang.com
 127.0.0.1 alludedeagle.com
@@ -641,6 +649,7 @@
 127.0.0.1 ambassadorvaultvisited.com
 127.0.0.1 ambeartictor.com
 127.0.0.1 ambiguityhalfmoon.com
+127.0.0.1 ambiguityhelperapathy.com
 127.0.0.1 ambiguityornamenttell.com
 127.0.0.1 amendexasperatematter.com
 127.0.0.1 amendmentbutterfly.com
@@ -923,7 +932,6 @@
 127.0.0.1 awkbkkqmeeoaj.top
 127.0.0.1 awokeembarkquicker.com
 127.0.0.1 awpgnhnewonyq.xyz
-127.0.0.1 ax.dekingcossack.top
 127.0.0.1 axonesvare.shop
 127.0.0.1 ayarkkyjrmjjj.top
 127.0.0.1 ayensexilic.com
@@ -950,6 +958,7 @@
 127.0.0.1 b984ec416b.com
 127.0.0.1 baarspo.ru
 127.0.0.1 babblelessenairline.com
+127.0.0.1 babyismwestlin.click
 127.0.0.1 backforward.bid
 127.0.0.1 badayscase.live
 127.0.0.1 badgerjeff.com
@@ -970,10 +979,12 @@
 127.0.0.1 balmyrind.com
 127.0.0.1 bamboss.ru
 127.0.0.1 banalbjar.com
+127.0.0.1 bandorunold.shop
 127.0.0.1 bankedbaisakh.com
 127.0.0.1 bankersend.com
 127.0.0.1 bannermorninginterference.com
 127.0.0.1 banselaunswear.casa
+127.0.0.1 bansheecabful.shop
 127.0.0.1 baptismdesired.com
 127.0.0.1 baptismfortune.com
 127.0.0.1 bardilyshouted.com
@@ -982,6 +993,7 @@
 127.0.0.1 barelydonkeysteed.com
 127.0.0.1 barking-heads.ru
 127.0.0.1 barnsalodial.top
+127.0.0.1 baroconobby.top
 127.0.0.1 barwalstoops.click
 127.0.0.1 baseearsh.com
 127.0.0.1 basereflect.com
@@ -1191,6 +1203,7 @@
 127.0.0.1 brieaafrhhjpe.com
 127.0.0.1 brief-secret.com
 127.0.0.1 briefcasebotany.com
+127.0.0.1 brigueeumenid.top
 127.0.0.1 briiiiantsdates.com
 127.0.0.1 briiilantsdates.com
 127.0.0.1 brililantsdates.net
@@ -1280,6 +1293,7 @@
 127.0.0.1 cableharshlyilliterate.com
 127.0.0.1 cablepaddle.com
 127.0.0.1 caesarporch.com
+127.0.0.1 cagewervel.top
 127.0.0.1 caicaipoop.com
 127.0.0.1 caicaulaip.com
 127.0.0.1 caihswlb.xyz
@@ -1300,6 +1314,7 @@
 127.0.0.1 cannonkit.com
 127.0.0.1 cannotmoreover.com
 127.0.0.1 canoeeverywhereannihilate.com
+127.0.0.1 canroyastrol.click
 127.0.0.1 capabilityhonorary.com
 127.0.0.1 capawhile.com
 127.0.0.1 cappuccinoeliza.com
@@ -1375,6 +1390,7 @@
 127.0.0.1 chappalanatum.com
 127.0.0.1 charityflopchristening.com
 127.0.0.1 charmobedience.com
+127.0.0.1 chartactiveuncertain.com
 127.0.0.1 chatboneby.live
 127.0.0.1 chatigabe.com
 127.0.0.1 chawhecmud.net
@@ -1401,6 +1417,7 @@
 127.0.0.1 cholmeshed.click
 127.0.0.1 chondredragnet.com
 127.0.0.1 choochauk.net
+127.0.0.1 choppersnaps.click
 127.0.0.1 chordeehepcats.shop
 127.0.0.1 choruscompanion.com
 127.0.0.1 chottsunmarry.com
@@ -1461,6 +1478,7 @@
 127.0.0.1 commissionepochknuckle.com
 127.0.0.1 compolegimmer.com
 127.0.0.1 conatusrosied.click
+127.0.0.1 condogquick.shop
 127.0.0.1 condorceycles.shop
 127.0.0.1 confitreggie.top
 127.0.0.1 congodensest.top
@@ -1550,7 +1568,6 @@
 127.0.0.1 d6f8c08166.com
 127.0.0.1 d8bb72d31d.com
 127.0.0.1 d952c14257.com
-127.0.0.1 da5ac5f203.com
 127.0.0.1 dad524dd40.com
 127.0.0.1 dahkexes.com
 127.0.0.1 daicutha.net
@@ -1592,6 +1609,7 @@
 127.0.0.1 de2da13f46.com
 127.0.0.1 deafeningdock.com
 127.0.0.1 deafeningphone.com
+127.0.0.1 dearesthydrogen.com
 127.0.0.1 debonairdust.com
 127.0.0.1 debonairtree.com
 127.0.0.1 deburrfleshes.com
@@ -1612,6 +1630,7 @@
 127.0.0.1 deezusty.net
 127.0.0.1 deicticwidgie.shop
 127.0.0.1 deismpaho.com
+127.0.0.1 dekingcossack.top
 127.0.0.1 delascalles.com
 127.0.0.1 delayedlocust.com
 127.0.0.1 delictimids.com
@@ -1653,6 +1672,7 @@
 127.0.0.1 diacidlanugos.click
 127.0.0.1 diagramcolunar.com
 127.0.0.1 dialedheuch.top
+127.0.0.1 diapaseentasis.click
 127.0.0.1 diaperdollrelevant.com
 127.0.0.1 diazoestmark.guru
 127.0.0.1 dictseconal.com
@@ -1714,6 +1734,7 @@
 127.0.0.1 dorpetor.com
 127.0.0.1 dosselsmachair.click
 127.0.0.1 dostunkyan.com
+127.0.0.1 dothavesta.click
 127.0.0.1 dottilyjerky.com
 127.0.0.1 doublycharacteristic.com
 127.0.0.1 downloadmobile.info
@@ -1845,6 +1866,7 @@
 127.0.0.1 eraidaigoumt.net
 127.0.0.1 erearmored.top
 127.0.0.1 eriavended.click
+127.0.0.1 escarsbasins.click
 127.0.0.1 escuagefoggish.click
 127.0.0.1 eshii.ru
 127.0.0.1 etchantmegger.click
@@ -1879,7 +1901,6 @@
 127.0.0.1 f19893fb1c.com
 127.0.0.1 f2a2ddbb84.com
 127.0.0.1 f2f4b08b25.com
-127.0.0.1 f4042bb57f.com
 127.0.0.1 f7050945a4.com
 127.0.0.1 f983cf2155.com
 127.0.0.1 f9f62da9a0.com
@@ -1887,7 +1908,6 @@
 127.0.0.1 fad1ef26a9.com
 127.0.0.1 fadedsnow.com
 127.0.0.1 fae2ea855a.com
-127.0.0.1 faeotkeyoj.xyz
 127.0.0.1 fagloafexeele.com
 127.0.0.1 faidafouque.net
 127.0.0.1 faiirylove.net
@@ -1938,7 +1958,6 @@
 127.0.0.1 feminine-combine.com
 127.0.0.1 feodzebecks.click
 127.0.0.1 feriassaimiri.com
-127.0.0.1 fermistychism.shop
 127.0.0.1 ferrisoisin.com
 127.0.0.1 fesibsou.net
 127.0.0.1 festinofirn.click
@@ -1993,10 +2012,12 @@
 127.0.0.1 forstarlyor.com
 127.0.0.1 fortiesgaudy.top
 127.0.0.1 foundtr.com
+127.0.0.1 fouterwicket.shop
 127.0.0.1 foxfixhall.live
 127.0.0.1 foxforlog.live
 127.0.0.1 foxshipshaka.click
 127.0.0.1 fpdhinscvjwgsw.xyz
+127.0.0.1 fraghanmotel.top
 127.0.0.1 fragrantanger.com
 127.0.0.1 frayedpause.com
 127.0.0.1 freedomyapa.com
@@ -2053,6 +2074,7 @@
 127.0.0.1 gentlledream.net
 127.0.0.1 gerbilshew.com
 127.0.0.1 gestantdabitis.click
+127.0.0.1 gestapostanza.shop
 127.0.0.1 gestyy.com
 127.0.0.1 geswarpkansan.com
 127.0.0.1 getoffers24.online
@@ -2133,6 +2155,7 @@
 127.0.0.1 gralrekr.net
 127.0.0.1 granddadgigwarehouse.com
 127.0.0.1 grauptogaimp.net
+127.0.0.1 grayflythought.click
 127.0.0.1 greavesyeta.shop
 127.0.0.1 greeckoamseebo.net
 127.0.0.1 greelsadrir.net
@@ -2274,6 +2297,7 @@
 127.0.0.1 hotboys.biz
 127.0.0.1 hotodoar.net
 127.0.0.1 houbaushashe.xyz
+127.0.0.1 housalscapha.top
 127.0.0.1 houseofpubs.com
 127.0.0.1 howledmintier.com
 127.0.0.1 howtosimplified.com
@@ -2433,6 +2457,7 @@
 127.0.0.1 jemtaucmowhu.top
 127.0.0.1 jerboasjourney.com
 127.0.0.1 jetm-tech.net
+127.0.0.1 jewisostiate.top
 127.0.0.1 jhoolpalmy.click
 127.0.0.1 jidfdaxi.com
 127.0.0.1 jiglikeshilla.com
@@ -2476,6 +2501,7 @@
 127.0.0.1 kafwmyknby.com
 127.0.0.1 kaifaiwoofabash.net
 127.0.0.1 kaijoareharoa.net
+127.0.0.1 kamsinhokerly.click
 127.0.0.1 karissavip.com
 127.0.0.1 kartelwildish.click
 127.0.0.1 kasych.net
@@ -2565,6 +2591,7 @@
 127.0.0.1 ldspoky.shop
 127.0.0.1 leafingcoitus.website
 127.0.0.1 lebagruque.com
+127.0.0.1 ledidaeconand.click
 127.0.0.1 leechpremium.link
 127.0.0.1 leetmenllew.com
 127.0.0.1 leezunikoohauh.net
@@ -2608,6 +2635,7 @@
 127.0.0.1 localsnapsext.com
 127.0.0.1 lochusarrowy.com
 127.0.0.1 locklistmax.live
+127.0.0.1 loftmanovicyst.shop
 127.0.0.1 lohockdock.com
 127.0.0.1 lookslikenews.com
 127.0.0.1 looksmartppc.com
@@ -2636,6 +2664,7 @@
 127.0.0.1 luckswyou.com
 127.0.0.1 luckwyou.net
 127.0.0.1 lucky-bet.site
+127.0.0.1 luddismquirked.shop
 127.0.0.1 lukizeiasn.xyz
 127.0.0.1 luloffer.com
 127.0.0.1 luminoustry.com
@@ -2673,12 +2702,14 @@
 127.0.0.1 malatiswirled.com
 127.0.0.1 maleeprn.click
 127.0.0.1 malopebarcas.click
+127.0.0.1 mamboedschlep.shop
 127.0.0.1 mamluksburion.com
 127.0.0.1 manomincasaque.com
 127.0.0.1 mansostowce.com
 127.0.0.1 manteelclanned.com
 127.0.0.1 marasgumpus.com
 127.0.0.1 marciaarmata.com
+127.0.0.1 maremmewived.shop
 127.0.0.1 marriage40.cfd
 127.0.0.1 marybskitchen.com
 127.0.0.1 masouckomirtu.net
@@ -2727,6 +2758,7 @@
 127.0.0.1 meticulousdate.net
 127.0.0.1 metminekit.live
 127.0.0.1 meyoudate.com
+127.0.0.1 mhosbouge.shop
 127.0.0.1 mhxpwknw.xyz
 127.0.0.1 mi-de-ner-nis3.info
 127.0.0.1 middaysbedaff.com
@@ -2881,6 +2913,7 @@
 127.0.0.1 newup.bid
 127.0.0.1 nfwebminer.com
 127.0.0.1 niatapray.com
+127.0.0.1 nicherblit.top
 127.0.0.1 nicholasparcel.com
 127.0.0.1 nicsorts-accarade.com
 127.0.0.1 nifracomtra.com
@@ -2931,7 +2964,6 @@
 127.0.0.1 nvjqm.com
 127.0.0.1 nwmum.com
 127.0.0.1 nwwkstynowv.xyz
-127.0.0.1 nxbchpotxr.xyz
 127.0.0.1 nymssslyish.website
 127.0.0.1 nzurlmq.com
 127.0.0.1 o000oo.com
@@ -3026,8 +3058,10 @@
 127.0.0.1 operarymishear.store
 127.0.0.1 ophitebandeau.click
 127.0.0.1 opskln.com
+127.0.0.1 opsktp.com
 127.0.0.1 optimuum.com
 127.0.0.1 optionsdisk.com
+127.0.0.1 ordealstow.shop
 127.0.0.1 oremantolsey.com
 127.0.0.1 originaldate.net
 127.0.0.1 origlnaldate.com
@@ -3078,6 +3112,7 @@
 127.0.0.1 panamalaggin.shop
 127.0.0.1 panaxive.com
 127.0.0.1 pandurecompute.click
+127.0.0.1 pantoumcausers.click
 127.0.0.1 panwakeave.live
 127.0.0.1 papizedromon.life
 127.0.0.1 papoto.com
@@ -3094,6 +3129,7 @@
 127.0.0.1 pchistory.net
 127.0.0.1 pcyk.ru
 127.0.0.1 pdyroxdtly.com
+127.0.0.1 peagenohow.click
 127.0.0.1 peanutrefusesplit.com
 127.0.0.1 pebafisk.com
 127.0.0.1 peekouty.xyz
@@ -3138,6 +3174,7 @@
 127.0.0.1 pifilineph.com
 127.0.0.1 pikeletprevize.top
 127.0.0.1 pilchnepal.shop
+127.0.0.1 pimentoutas.click
 127.0.0.1 pinkenylipins.shop
 127.0.0.1 pinteblibe.top
 127.0.0.1 pipolafaiz.com
@@ -3982,7 +4019,6 @@
 127.0.0.1 uretalzonated.com
 127.0.0.1 urlcash.com
 127.0.0.1 ursorsee.pro
-127.0.0.1 usa.cc
 127.0.0.1 usbmodmenu.com
 127.0.0.1 usearchamor.com
 127.0.0.1 userresewn.com
