@@ -1,9 +1,17 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 straldrier.com
+127.0.0.1 fajkhr.icu
+127.0.0.1 hmbprf.icu
 127.0.0.1 hxnpxh.icu
 127.0.0.1 ecatqefal.com
 127.0.0.1 jjfufv.icu
 127.0.0.1 scesqoikq.com
+127.0.0.1 oajv.cn
+127.0.0.1 cigoqcq.top
+127.0.0.1 sbqg7jylmzsym.top
+127.0.0.1 istraxuhh.com
+127.0.0.1 orup.cn
 127.0.0.1 dtjcvd.icu
 127.0.0.1 vragridsn.com
 127.0.0.1 tpkv.cn
