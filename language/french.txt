@@ -4522,6 +4522,7 @@
 127.0.0.1 adn.porndig.com
 127.0.0.1 adn.tukif.com
 127.0.0.1 adproxy.tf1.fr
+127.0.0.1 ads.ennaharonline.com
 127.0.0.1 adserve.lasentinelle.mu
 127.0.0.1 adserver.icimedias.ca
 127.0.0.1 amazon.wii-info.fr
