@@ -3,6 +3,7 @@
 127.0.0.1 f11-ads.com
 127.0.0.1 fantecio.com
 127.0.0.1 gayads.biz
+127.0.0.1 kctag.net
 127.0.0.1 swissadserver.ch
 127.0.0.1 windows-pro.net
 127.0.0.1 wixnm.com

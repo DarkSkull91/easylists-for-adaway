@@ -116,6 +116,7 @@
 127.0.0.1 kbyqzt.xxxlutz.cz
 127.0.0.1 me9ddf.moebelix.cz
 127.0.0.1 cmp.deondernemer.nl
+127.0.0.1 consent.marktplaats.nl
 127.0.0.1 cookie.vrt.be
 127.0.0.1 cookie.wieni.be
 127.0.0.1 cookies.jeugdjournaal.nl
