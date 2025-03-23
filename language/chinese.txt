@@ -1,7 +1,13 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 gerqragpl.com
+127.0.0.1 nghv.cn
 127.0.0.1 stemedntm.com
 127.0.0.1 r5twojylmzsym.top
+127.0.0.1 avkd.cn
+127.0.0.1 yxqmryq.top
+127.0.0.1 eldaridpr.com
+127.0.0.1 oelj.cn
 127.0.0.1 feernhuhe.com
 127.0.0.1 vhje.cn
 127.0.0.1 bptnzp.top
