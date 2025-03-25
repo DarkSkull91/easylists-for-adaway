@@ -629,6 +629,7 @@
 127.0.0.1 aloofdissemble.com
 127.0.0.1 aloofpunish.com
 127.0.0.1 aloofsunstrokecircular.com
+127.0.0.1 aloysiaixias.shop
 127.0.0.1 alphabetmondayfowl.com
 127.0.0.1 alrightkindergarten.com
 127.0.0.1 alsowhirl.com
@@ -1401,6 +1402,7 @@
 127.0.0.1 chatboneby.live
 127.0.0.1 chatigabe.com
 127.0.0.1 chawhecmud.net
+127.0.0.1 chawkislandy.top
 127.0.0.1 cheapererred.click
 127.0.0.1 checkmymedia.biz
 127.0.0.1 cheesedrabat.shop
@@ -1997,6 +1999,7 @@
 127.0.0.1 fishmenkabbala.com
 127.0.0.1 fixitymetabit.website
 127.0.0.1 fixtapedam.live
+127.0.0.1 fizzesbunuelo.shop
 127.0.0.1 fjiorox.com
 127.0.0.1 fkehg.com
 127.0.0.1 fkourazirop.shop
@@ -2066,9 +2069,11 @@
 127.0.0.1 gaitswhew.shop
 127.0.0.1 gaktkshrqhkp.xyz
 127.0.0.1 galas3xy.com
+127.0.0.1 galaxbalilla.click
 127.0.0.1 galhelpfur.live
 127.0.0.1 gameawin.com
 127.0.0.1 gamefocus.mobi
+127.0.0.1 gangwayderbies.click
 127.0.0.1 gaphoadsu.com
 127.0.0.1 gariguemancala.uno
 127.0.0.1 gaseitycreed.com
@@ -3487,6 +3492,7 @@
 127.0.0.1 respecials.com
 127.0.0.1 resr.ru
 127.0.0.1 resultulterior.com
+127.0.0.1 retimesfowl.top
 127.0.0.1 retinaesprent.com
 127.0.0.1 revbigo.com
 127.0.0.1 revealsgrebe.com
@@ -3734,6 +3740,7 @@
 127.0.0.1 sojymnmk.xyz
 127.0.0.1 soknm.com
 127.0.0.1 sokrostream.tv
+127.0.0.1 soldansportify.shop
 127.0.0.1 somethingrealisticzero.com
 127.0.0.1 songsify.com
 127.0.0.1 sonraifishnet.website
@@ -3853,6 +3860,7 @@
 127.0.0.1 sylviapettah.com
 127.0.0.1 sylwenys.pw
 127.0.0.1 sympathetic-frame.com
+127.0.0.1 syndetimmit.shop
 127.0.0.1 syndetstermine.com
 127.0.0.1 t.eroges.com
 127.0.0.1 ta7wiilat.store
@@ -3907,6 +3915,7 @@
 127.0.0.1 theadultcompany.biz
 127.0.0.1 theefiwu.net
 127.0.0.1 theirsneedful.com
+127.0.0.1 theismsmartrix.click
 127.0.0.1 thewhizproducts.com
 127.0.0.1 theyeyilou.top
 127.0.0.1 this-park.com
@@ -4054,10 +4063,12 @@
 127.0.0.1 unfamlliiardates.net
 127.0.0.1 unfamllliardate.net
 127.0.0.1 unfamllliardates.com
+127.0.0.1 unguyedoutgnaw.top
 127.0.0.1 unhoaryawonder.com
 127.0.0.1 unimportant-pleasure.com
 127.0.0.1 unlockads.com
 127.0.0.1 unltdentertainment.co
+127.0.0.1 unminddrugman.shop
 127.0.0.1 unmistdistune.guru
 127.0.0.1 unmutedharls.com
 127.0.0.1 unseamsbosn.com
@@ -4071,6 +4082,7 @@
 127.0.0.1 updatedbut.com
 127.0.0.1 updaterecomended.info
 127.0.0.1 uplitwickr.com
+127.0.0.1 uploadmix.net
 127.0.0.1 uponarticunoer.com
 127.0.0.1 uponnidoranom.net
 127.0.0.1 uponpanpourchan.net
