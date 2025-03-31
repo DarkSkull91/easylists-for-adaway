@@ -597,7 +597,6 @@
 127.0.0.1 alleviatedesignertheir.com
 127.0.0.1 alleycranealoof.com
 127.0.0.1 alleygoat.com
-127.0.0.1 alliancefurs.com
 127.0.0.1 alliedbiopsybroke.com
 127.0.0.1 alliedrebelcreative.com
 127.0.0.1 alllinear.com
@@ -1346,6 +1345,7 @@
 127.0.0.1 casksguest.com
 127.0.0.1 catastasicker.shop
 127.0.0.1 catchymesem.shop
+127.0.0.1 catechuscypphi.shop
 127.0.0.1 cathyimemediate.com
 127.0.0.1 catnapstye.shop
 127.0.0.1 catwoodflewit.click
@@ -1604,6 +1604,7 @@
 127.0.0.1 datlnglife.net
 127.0.0.1 datlngllfes.net
 127.0.0.1 daugrugli.net
+127.0.0.1 dautedtwiny.shop
 127.0.0.1 davielyedith.com
 127.0.0.1 dayboylynches.shop
 127.0.0.1 dazzlingdelay.com
@@ -2006,6 +2007,7 @@
 127.0.0.1 fkpnpucrfrckq.com
 127.0.0.1 flatuslakatoi.shop
 127.0.0.1 flawedrelaxation.com
+127.0.0.1 fleenudged.shop
 127.0.0.1 flenserencloud.click
 127.0.0.1 flickeringchutney.com
 127.0.0.1 flintdepreciate.com
@@ -2196,6 +2198,7 @@
 127.0.0.1 grewguested.top
 127.0.0.1 greysummergo.biz
 127.0.0.1 grifanme.com
+127.0.0.1 grintracks.com
 127.0.0.1 grirtouy.com
 127.0.0.1 groagauss.com
 127.0.0.1 groagneeckaifoo.com
@@ -2241,6 +2244,7 @@
 127.0.0.1 haiseehomouw.net
 127.0.0.1 haisteegee.com
 127.0.0.1 hajilijnemo.com
+127.0.0.1 halchcesser.top
 127.0.0.1 halffullglassnews.com
 127.0.0.1 hameswibble.com
 127.0.0.1 hampotangim.net
@@ -2291,6 +2295,7 @@
 127.0.0.1 hereloveonliine.net
 127.0.0.1 heretopgirll.com
 127.0.0.1 hermaturse.com
+127.0.0.1 hernscrackle.shop
 127.0.0.1 hestiabefouls.top
 127.0.0.1 heukpiroot.com
 127.0.0.1 hgmrydbveueanc.com
@@ -2373,7 +2378,6 @@
 127.0.0.1 ileumoctant.com
 127.0.0.1 iliustriousdate.com
 127.0.0.1 illgumare.live
-127.0.0.1 illinformed-imagination.com
 127.0.0.1 illustrlousdates.net
 127.0.0.1 ilovemobi.com
 127.0.0.1 imaginarylawmaker.com
@@ -2642,6 +2646,7 @@
 127.0.0.1 liefesttzetse.com
 127.0.0.1 liftrollers.ru
 127.0.0.1 lilinstall11x.com
+127.0.0.1 lippenscomate.top
 127.0.0.1 lirotroodles.com
 127.0.0.1 listhugdab.live
 127.0.0.1 lithoidclosky.top
@@ -2671,6 +2676,7 @@
 127.0.0.1 lochusarrowy.com
 127.0.0.1 locklistmax.live
 127.0.0.1 loftmanovicyst.shop
+127.0.0.1 lohanamickle.shop
 127.0.0.1 lohockdock.com
 127.0.0.1 lookslikenews.com
 127.0.0.1 looksmartppc.com
@@ -3083,6 +3089,7 @@
 127.0.0.1 onroggenrolaa.com
 127.0.0.1 onwardclick.com
 127.0.0.1 onxatutor.com
+127.0.0.1 oocyststaker.shop
 127.0.0.1 oofteonaft.work
 127.0.0.1 ooftilra.net
 127.0.0.1 oohirdoadi.com
@@ -3582,6 +3589,7 @@
 127.0.0.1 saneworkbench.com
 127.0.0.1 sarcelgusla.com
 127.0.0.1 sardonic-track.com
+127.0.0.1 sarwanduomo.click
 127.0.0.1 sasoowou.net
 127.0.0.1 satlockspa.live
 127.0.0.1 sauhonaik.com
@@ -3679,7 +3687,6 @@
 127.0.0.1 shownews.tv
 127.0.0.1 showyourevent.com
 127.0.0.1 shriftskats.com
-127.0.0.1 shrill-definition.com
 127.0.0.1 shuffele.com
 127.0.0.1 shungawy.com
 127.0.0.1 shushagri.net
@@ -3777,6 +3784,7 @@
 127.0.0.1 sprucymundic.digital
 127.0.0.1 spruegibbles.com
 127.0.0.1 spulyiecooboo.website
+127.0.0.1 spurnsebulus.click
 127.0.0.1 spysamesent.live
 127.0.0.1 sqoo.co
 127.0.0.1 squashclatter.com
@@ -4182,6 +4190,7 @@
 127.0.0.1 wantmuchmorenews.com
 127.0.0.1 wantsomenews.com
 127.0.0.1 wantyoudate.net
+127.0.0.1 wardersmonkess.shop
 127.0.0.1 wateryinspection.com
 127.0.0.1 watsaira.net
 127.0.0.1 wbmppowvqrcfn.com
@@ -4254,7 +4263,6 @@
 127.0.0.1 wowconversions.com
 127.0.0.1 wpcodes.org
 127.0.0.1 wpfjkxlmo.xyz
-127.0.0.1 wpushsdk.com
 127.0.0.1 writhenwends.com
 127.0.0.1 x.porn.fr
 127.0.0.1 xajibur.ru
@@ -4270,6 +4278,7 @@
 127.0.0.1 xjwgsirruyfwli.xyz
 127.0.0.1 xoilcsfvgjiw.xyz
 127.0.0.1 xu2.com
+127.0.0.1 xuxe3.com
 127.0.0.1 xwgdruggfc.xyz
 127.0.0.1 xwmr.com.cn
 127.0.0.1 xxxtarget.com
@@ -4296,9 +4305,11 @@
 127.0.0.1 yy8fgl2bdv.com
 127.0.0.1 zaful.com
 127.0.0.1 zaishasoopt.com
+127.0.0.1 zarebasdezaley.com
 127.0.0.1 zaujooro.com
 127.0.0.1 zealousplace.com
 127.0.0.1 zesemen.cz
+127.0.0.1 zestfulpate.click
 127.0.0.1 zevaimsu.net
 127.0.0.1 ziggingantlid.com
 127.0.0.1 zilovaro.ru
