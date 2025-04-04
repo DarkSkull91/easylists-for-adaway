@@ -4402,6 +4402,7 @@
 127.0.0.1 ba.hugolescargot.com
 127.0.0.1 ba.jeux-gratuits.com
 127.0.0.1 ba.journaldesfemmes.com
+127.0.0.1 cdn.biff.travel
 127.0.0.1 cdn1.lp.saboom.com
 127.0.0.1 cmp.vidcoin.com
 127.0.0.1 coachingminceur.go2cloud.org

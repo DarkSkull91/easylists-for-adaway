@@ -1,6 +1,15 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 dreiquksz.com
+127.0.0.1 so04030koaq.com
+127.0.0.1 pqnonh.top
+127.0.0.1 zwgqzgo.icu
+127.0.0.1 rinl.cn
 127.0.0.1 dhorzivnn.com
+127.0.0.1 hauqoa.com
+127.0.0.1 ookaso.com
+127.0.0.1 uuaisp.com
+127.0.0.1 phozeksr.com
 127.0.0.1 nrlupu.top
 127.0.0.1 biabfqq.icu
 127.0.0.1 chitshuqh.com
@@ -3569,6 +3578,7 @@
 127.0.0.1 zt2088.com
 127.0.0.1 ztyumn.ifeng.com
 127.0.0.1 adasset.flixfiend.top
+127.0.0.1 ad.parkvv.com
 127.0.0.1 nxet1.360doc.cn
 127.0.0.1 bun1.dayi.org.cn
 127.0.0.1 code.wenbanzhu.com
