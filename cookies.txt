@@ -27,7 +27,6 @@
 127.0.0.1 smarteucookiebanner.upsell-apps.com
 127.0.0.1 sync-transcend-cdn.com
 127.0.0.1 truyoproductionuscdn.truyo.com
-127.0.0.1 webcache-eu.datareporter.eu
 127.0.0.1 webcache.datareporter.eu
 127.0.0.1 widgets.openli.com
 127.0.0.1 banner.cookiescan.com
