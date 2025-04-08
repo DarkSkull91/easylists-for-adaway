@@ -1,5 +1,11 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 ribghr.icu
+127.0.0.1 vhid.cn
+127.0.0.1 mevedyru.com
+127.0.0.1 ifej.cn
+127.0.0.1 ttdgbh.top
+127.0.0.1 einzeaxop.com
 127.0.0.1 stigzeal.com
 127.0.0.1 lfflvh.icu
 127.0.0.1 rubmdu.top
@@ -3038,6 +3044,7 @@
 127.0.0.1 zwzdjb.xyz
 127.0.0.1 zxqiwe.cn
 127.0.0.1 zyfnbl.xyz
+127.0.0.1 deafeningphone.com
 127.0.0.1 7299tu75.cc
 127.0.0.1 uu11881.com
 127.0.0.1 uu22332.com
@@ -3415,6 +3422,7 @@
 127.0.0.1 ztyumn.ifeng.com
 127.0.0.1 adasset.flixfiend.top
 127.0.0.1 ad.parkvv.com
+127.0.0.1 adasset.ethersaga.online
 127.0.0.1 a1.tuke8.com
 127.0.0.1 nxet1.360doc.cn
 127.0.0.1 bun1.dayi.org.cn
