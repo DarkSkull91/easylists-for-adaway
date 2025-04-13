@@ -1,5 +1,15 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 showkkkp.top
+127.0.0.1 pxrbnf.icu
+127.0.0.1 irkp.cn
+127.0.0.1 svcnmtb.top
+127.0.0.1 bhaelkaers.com
+127.0.0.1 zvvsjz.top
+127.0.0.1 evcnmtw.top
+127.0.0.1 okeaxgugq.com
+127.0.0.1 kvqp.cn
+127.0.0.1 mvcnmtx.top
 127.0.0.1 ruvgbv.icu
 127.0.0.1 chugveasoy.com
 127.0.0.1 sfile.top
