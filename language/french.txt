@@ -2159,7 +2159,6 @@
 127.0.0.1 galaxbalilla.click
 127.0.0.1 galhelpfur.live
 127.0.0.1 gameawin.com
-127.0.0.1 gamefocus.mobi
 127.0.0.1 gangwayderbies.click
 127.0.0.1 gaphoadsu.com
 127.0.0.1 garbageshallotsnowiness.com
@@ -2189,6 +2188,7 @@
 127.0.0.1 gestapostanza.shop
 127.0.0.1 gestyy.com
 127.0.0.1 geswarpkansan.com
+127.0.0.1 getmytralala.com
 127.0.0.1 getoffers24.online
 127.0.0.1 getsurv2you.com
 127.0.0.1 getsurv2youu.com
@@ -2294,6 +2294,7 @@
 127.0.0.1 gretalimbas.com
 127.0.0.1 grewguested.top
 127.0.0.1 greysummergo.biz
+127.0.0.1 gribseep.net
 127.0.0.1 grifanme.com
 127.0.0.1 grintracks.com
 127.0.0.1 grirtouy.com
@@ -2703,6 +2704,7 @@
 127.0.0.1 kiloh.ovh
 127.0.0.1 kingbole.com
 127.0.0.1 kinoprofi.org
+127.0.0.1 kirvesip.shop
 127.0.0.1 kissoffering.com
 127.0.0.1 kitchiepreppie.com
 127.0.0.1 kkfdajrsqehl.com
@@ -2978,6 +2980,7 @@
 127.0.0.1 militantwitnessfelon.com
 127.0.0.1 milordearnful.digital
 127.0.0.1 milseycurly.com
+127.0.0.1 mimerkapur.com
 127.0.0.1 min.org.ua
 127.0.0.1 minemytraffic.com
 127.0.0.1 minerad.com
@@ -3011,6 +3014,7 @@
 127.0.0.1 mobile1cdn.com
 127.0.0.1 mobswift.com
 127.0.0.1 mobusi.com
+127.0.0.1 mobybill.com
 127.0.0.1 modato.ru
 127.0.0.1 modsacline.live
 127.0.0.1 mohalimloonier.click
@@ -3025,6 +3029,7 @@
 127.0.0.1 monetizer.co
 127.0.0.1 monetizze.com.br
 127.0.0.1 moohoostoamie.net
+127.0.0.1 moolexspool.com
 127.0.0.1 moonlitturbots.com
 127.0.0.1 moopoachoarail.net
 127.0.0.1 moopsazijop.com
@@ -3316,12 +3321,17 @@
 127.0.0.1 origoclick.com
 127.0.0.1 orkhovdimin.xyz
 127.0.0.1 orlglnaldate.net
+127.0.0.1 osamachoice.com
+127.0.0.1 osamadada.com
 127.0.0.1 osamafusion.com
 127.0.0.1 osamaglow.com
 127.0.0.1 osamahit.com
 127.0.0.1 osamaimpact.com
 127.0.0.1 osamaiscool.com
+127.0.0.1 osamamingle.com
+127.0.0.1 osamanamana.com
 127.0.0.1 osamapk.com
+127.0.0.1 osamara.com
 127.0.0.1 ossreuniclusr.com
 127.0.0.1 othersides.top
 127.0.0.1 otoemkbrfja.com
@@ -4116,6 +4126,7 @@
 127.0.0.1 sunlampassumes.com
 127.0.0.1 super-stomach.com
 127.0.0.1 superbportal.life
+127.0.0.1 superggood.com
 127.0.0.1 supportxmr.com
 127.0.0.1 surestisis.com
 127.0.0.1 surfcountor.com
@@ -4493,7 +4504,9 @@
 127.0.0.1 webytom.com
 127.0.0.1 wedeegut.net
 127.0.0.1 wedpwycjxdjthq.xyz
+127.0.0.1 weeawesome.com
 127.0.0.1 weeecool.com
+127.0.0.1 weeoffer.com
 127.0.0.1 weesenoogli.net
 127.0.0.1 weevah2.top
 127.0.0.1 weewhaik.com
