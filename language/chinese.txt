@@ -1,6 +1,17 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 ewdk.cn
+127.0.0.1 fflbpi.top
+127.0.0.1 hbeafcac.top
+127.0.0.1 stildreans.com
+127.0.0.1 uucnmtt.top
+127.0.0.1 iwcnmto.top
+127.0.0.1 dighavrap.com
+127.0.0.1 chienzul.com
+127.0.0.1 qjuy.cn
+127.0.0.1 oucnmtk.top
 127.0.0.1 vunqrotm.com
+127.0.0.1 lkmgjfkhfh.top
 127.0.0.1 ghrs.cn
 127.0.0.1 pjbbhj.icu
 127.0.0.1 wucnmte.top
