@@ -128,6 +128,7 @@
 127.0.0.1 cmp.soundis.gr
 127.0.0.1 cookie.aerostatonet.it
 127.0.0.1 cookies.gardena.net
+127.0.0.1 cookiescript.cloud.provincia.tn.it
 127.0.0.1 privacyportal.fatergroup.com
 127.0.0.1 cmp.impress.co.jp
 127.0.0.1 gdpr.api.bcdn.jp
