@@ -70,6 +70,7 @@
 127.0.0.1 cookiebot.inkarnate.com
 127.0.0.1 cookies.giphy.com
 127.0.0.1 cookies.lmt.lv
+127.0.0.1 cscript-cdn-irl.abb.com
 127.0.0.1 fuse.forbes.com
 127.0.0.1 gdpr-api.sharethis.com
 127.0.0.1 gdpr.internetbrands.com
@@ -139,6 +140,8 @@
 127.0.0.1 cookies.forbes.pl
 127.0.0.1 rodo.agora.pl
 127.0.0.1 zgody.infor.pl
+127.0.0.1 cookies.doutoresdaweb.com.br
+127.0.0.1 cookies.leavening.com
 127.0.0.1 mfegestaocookies.cloud.itau.com.br
 127.0.0.1 cookies.teraz.sk
 127.0.0.1 cookies.unidadeditorial.es
