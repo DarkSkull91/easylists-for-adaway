@@ -32,6 +32,7 @@
 127.0.0.1 1e89ee9512.com
 127.0.0.1 1ff0de0d52.com
 127.0.0.1 1ttv.net
+127.0.0.1 1xlite-4262965.top
 127.0.0.1 205f21070c.com
 127.0.0.1 218cc08472.com
 127.0.0.1 2382a095f4.com
@@ -712,6 +713,7 @@
 127.0.0.1 astonishing-service.com
 127.0.0.1 astylararsines.com
 127.0.0.1 atadsoalsuget.net
+127.0.0.1 atakokaju.shop
 127.0.0.1 atchshipsmotor.com
 127.0.0.1 atedtrevor.guru
 127.0.0.1 atenpegman.com
@@ -2828,6 +2830,7 @@
 127.0.0.1 offcuboneer.com
 127.0.0.1 offergo.net
 127.0.0.1 offers1019.com
+127.0.0.1 officeclouddriveshared365.com
 127.0.0.1 offinfernaper.com
 127.0.0.1 offraticater.com
 127.0.0.1 ofninjasktor.com
@@ -3653,6 +3656,7 @@
 127.0.0.1 syndetimmit.shop
 127.0.0.1 syndetstermine.com
 127.0.0.1 t.eroges.com
+127.0.0.1 t4ce4ma.shop
 127.0.0.1 ta7wiilat.store
 127.0.0.1 tabun.net
 127.0.0.1 tacanunmuted.top
@@ -3897,6 +3901,7 @@
 127.0.0.1 vdvxlayf.com
 127.0.0.1 vealedincite.com
 127.0.0.1 ver-pelis.me
+127.0.0.1 ver1f3y.com
 127.0.0.1 veritabiedate.com
 127.0.0.1 veritabiedate.net
 127.0.0.1 veritabledate.com
@@ -3939,6 +3944,7 @@
 127.0.0.1 viiucwwa.com
 127.0.0.1 viiwzrlr.com
 127.0.0.1 viixjjgk.com
+127.0.0.1 viiyutty.com
 127.0.0.1 viizone.com
 127.0.0.1 vilreeroucm.net
 127.0.0.1 vimeonk.com
