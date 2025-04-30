@@ -1,5 +1,15 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 bxdupj.icu
+127.0.0.1 cautols.com
+127.0.0.1 exoh.cn
+127.0.0.1 rhdifs.top
+127.0.0.1 enwuamw.top
+127.0.0.1 mwcnmtx.top
+127.0.0.1 wwok04291kl.com
+127.0.0.1 fvitteilse.com
+127.0.0.1 iwhp.cn
+127.0.0.1 wnwuame.top
 127.0.0.1 oldh.cn
 127.0.0.1 vcaqexl.com
 127.0.0.1 hua4207.xyz
@@ -4348,6 +4358,7 @@
 127.0.0.1 jun01.oss-cn-beijing.aliyuncs.com
 127.0.0.1 shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 127.0.0.1 wzjs1.oss-accelerate.aliyuncs.com
+127.0.0.1 mihoutao1868.github.io
 127.0.0.1 hdapp1003-a.akamaihd.net
 127.0.0.1 hdapp1008-a.akamaihd.net
 127.0.0.1 hdsrc-a.akamaihd.net
