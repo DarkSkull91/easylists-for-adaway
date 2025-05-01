@@ -1,5 +1,15 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 qsoc.cn
+127.0.0.1 wwok04300kl.com
+127.0.0.1 oia04300klq.com
+127.0.0.1 tgjxzf.top
+127.0.0.1 oibihevlr.com
+127.0.0.1 qnwuamy.top
+127.0.0.1 okpl04301ai.com
+127.0.0.1 tooreldretpl.com
+127.0.0.1 kowj.cn
+127.0.0.1 tnwuami.top
 127.0.0.1 bxdupj.icu
 127.0.0.1 cautols.com
 127.0.0.1 exoh.cn

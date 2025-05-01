@@ -2,6 +2,7 @@
 127.0.0.1 adzonestatic.com
 127.0.0.1 palibzh.tech
 127.0.0.1 positive-ads.com
+127.0.0.1 publinker.com
 127.0.0.1 revenuemakerdata.com
 127.0.0.1 cdnpublicidad.milenio.com
 127.0.0.1 news.grm.cl
