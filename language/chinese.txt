@@ -1,5 +1,13 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 ebroktean.com
+127.0.0.1 ffxe.cn
+127.0.0.1 okpl05030ai.com
+127.0.0.1 vtqhelleano.com
+127.0.0.1 qqosk05030llo.com
+127.0.0.1 zktats.top
+127.0.0.1 jnwucna.top
+127.0.0.1 qqosk05031llo.com
 127.0.0.1 vldp.cn
 127.0.0.1 ghgietuthz.com
 127.0.0.1 qqosk05020llo.com
