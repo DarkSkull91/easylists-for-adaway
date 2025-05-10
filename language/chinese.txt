@@ -1,6 +1,14 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 jguhqbe.top
+127.0.0.1 fadjqqe.top
+127.0.0.1 bcpxll.icu
+127.0.0.1 uqkcqk.icu
+127.0.0.1 udyi.cn
+127.0.0.1 dlngzx.top
+127.0.0.1 tnwucni.top
+127.0.0.1 sioq.cn
 127.0.0.1 uuso05080qhs.xyz
 127.0.0.1 thimhudlop.com
 127.0.0.1 qiuxl11.cn
