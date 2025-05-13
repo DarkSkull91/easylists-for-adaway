@@ -115,6 +115,7 @@
 127.0.0.1 privacy.footmercato.net
 127.0.0.1 privacy.heidi.news
 127.0.0.1 privacy.letemps.ch
+127.0.0.1 privacy.luxair.lu
 127.0.0.1 cookie-consent.etisalat.ae
 127.0.0.1 cmp.vizus.cz
 127.0.0.1 consent.t-mobile.cz
