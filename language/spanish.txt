@@ -1,5 +1,7 @@
 127.0.0.1 0-02.net
 127.0.0.1 adzonestatic.com
+127.0.0.1 embi-media.com
+127.0.0.1 ic7.co
 127.0.0.1 palibzh.tech
 127.0.0.1 positive-ads.com
 127.0.0.1 publinker.com

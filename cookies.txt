@@ -28,7 +28,6 @@
 127.0.0.1 smarteucookiebanner.upsell-apps.com
 127.0.0.1 sync-transcend-cdn.com
 127.0.0.1 truyoproductionuscdn.truyo.com
-127.0.0.1 webcache.datareporter.eu
 127.0.0.1 widgets.openli.com
 127.0.0.1 banner.cookiescan.com
 127.0.0.1 cb-mms.carbuyer.co.uk
@@ -88,6 +87,9 @@
 127.0.0.1 sourcepoint.theroot.com
 127.0.0.1 transcendcdn.eventbrite.com
 127.0.0.1 vg247-uk.vg247.com
+127.0.0.1 hc.bonprix.hu
+127.0.0.1 hc.bonprix.ro
+127.0.0.1 hc.bonprix.sk
 127.0.0.1 9jdq2a.poco.de
 127.0.0.1 cc.diewebsitemacherei.de
 127.0.0.1 cc.labu24.de
@@ -134,10 +136,15 @@
 127.0.0.1 cmp.tori.fi
 127.0.0.1 cmp.soundis.gr
 127.0.0.1 tp.triple.co.il
+127.0.0.1 ccm19.mindpark.at
+127.0.0.1 consent.gardena.net
 127.0.0.1 cookie.aerostatonet.it
+127.0.0.1 cookies.ae-webdesign.com
+127.0.0.1 cookies.bakehouse.at
 127.0.0.1 cookies.gardena.net
 127.0.0.1 cookiescript.cloud.provincia.tn.it
 127.0.0.1 privacyportal.fatergroup.com
+127.0.0.1 widget.brand-fresh.it
 127.0.0.1 cmp.impress.co.jp
 127.0.0.1 gdpr.api.bcdn.jp
 127.0.0.1 gdpr.laxd.com
