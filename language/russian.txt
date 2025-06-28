@@ -560,7 +560,6 @@
 127.0.0.1 designedy.com
 127.0.0.1 detaires.com
 127.0.0.1 detdove.ru
-127.0.0.1 dev4enki.com
 127.0.0.1 devaxi.org
 127.0.0.1 devilclicks.com
 127.0.0.1 df09rp0cm6rp6.cloudfront.net
