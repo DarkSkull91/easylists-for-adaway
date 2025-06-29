@@ -49,6 +49,7 @@
 127.0.0.1 cmp.nouvelobs.com
 127.0.0.1 cmp.parkers.co.uk
 127.0.0.1 cmp.playpilot.com
+127.0.0.1 cmp.railmagazine.com
 127.0.0.1 cmp.springer.com
 127.0.0.1 cmp.springernature.com
 127.0.0.1 cmp.telerama.fr
