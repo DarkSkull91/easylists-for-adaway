@@ -1,6 +1,16 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 2wq9u06jq.com
+127.0.0.1 rmbsfh.icu
+127.0.0.1 pq9alk18ik.com
+127.0.0.1 mxafaw.icu
+127.0.0.1 d1pc1a0g34.com
+127.0.0.1 tjfavx.icu
+127.0.0.1 bvek.cn
+127.0.0.1 4aqoxkesav.com
+127.0.0.1 jasmined544.com
+127.0.0.1 yhak0o7rtz.com
 127.0.0.1 uub6hz5eu.com
 127.0.0.1 tristaspd.com
 127.0.0.1 ngjfjf.icu
