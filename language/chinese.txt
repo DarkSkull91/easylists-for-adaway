@@ -1,6 +1,17 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 33w8tdyelw.com
+127.0.0.1 tvzapt.icu
+127.0.0.1 mi2zv8wiw0.com
+127.0.0.1 fd2k1fa6oe.com
+127.0.0.1 fiu07060kl.com
+127.0.0.1 mjufus.icu
+127.0.0.1 qijl.cn
+127.0.0.1 petalen88.top
+127.0.0.1 rjxvff.icu
+127.0.0.1 b79e4u3hz7.com
+127.0.0.1 fiu07061kl.com
 127.0.0.1 59xx2yr9i.com
 127.0.0.1 y7pcgacfn.com
 127.0.0.1 u10nte4ba.com
@@ -3455,6 +3466,8 @@
 127.0.0.1 zwlxnj.xyz
 127.0.0.1 zxqiwe.cn
 127.0.0.1 zyfnbl.xyz
+127.0.0.1 gn01.top
+127.0.0.1 holmesmind.com
 127.0.0.1 burniecrepes.com
 127.0.0.1 663008888.com
 127.0.0.1 xxxx68xxxx.com
