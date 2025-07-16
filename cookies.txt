@@ -98,7 +98,6 @@
 127.0.0.1 ccm1.dlr.de
 127.0.0.1 cmp.eick.it
 127.0.0.1 cmp.pcwelt.de
-127.0.0.1 cmp.tvspielfilm.de
 127.0.0.1 cmp.wetteronline.de
 127.0.0.1 consens.conlabz.de
 127.0.0.1 consent-wrapper.jameda.de
