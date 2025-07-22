@@ -1,6 +1,15 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 q3rlg1flo.com
+127.0.0.1 auy07210km.com
+127.0.0.1 jcbj62b2t.com
+127.0.0.1 opwqkq.icu
+127.0.0.1 kitchenfu47.top
+127.0.0.1 oyed.cn
+127.0.0.1 y6oiuyphb.com
+127.0.0.1 auy07211km.com
+127.0.0.1 88ad.top
 127.0.0.1 insidemo75.com
 127.0.0.1 qxdx2x6kn6.com
 127.0.0.1 auy07200km.com
