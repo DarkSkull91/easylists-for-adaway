@@ -1,6 +1,14 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 b0rz2s5ik.com
+127.0.0.1 nug08010lu.com
+127.0.0.1 ivzaq2irg.com
+127.0.0.1 uiqouw.icu
+127.0.0.1 heavly1.com
+127.0.0.1 oycf.cn
+127.0.0.1 nug08011lu.com
+127.0.0.1 csqqgc90u.com
 127.0.0.1 f7ugx6b863.com
 127.0.0.1 q7qhlnyfx.com
 127.0.0.1 sportuay.com
@@ -4099,6 +4107,7 @@
 127.0.0.1 adasset.flixfiend.top
 127.0.0.1 ad.parkvv.com
 127.0.0.1 adasset.ethersaga.online
+127.0.0.1 awtguzoxc.com
 127.0.0.1 static.wjxcdn.com
 127.0.0.1 a1.tuke8.com
 127.0.0.1 nxet1.360doc.cn
