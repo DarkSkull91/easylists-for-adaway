@@ -1,6 +1,16 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 9clasfdc3.com
+127.0.0.1 fjcs5ly6l.com
+127.0.0.1 ylghac.icu
+127.0.0.1 porkpiecosmo.com
+127.0.0.1 vudralqoi.com
+127.0.0.1 achophranb.com
+127.0.0.1 rbze.cn
+127.0.0.1 goose64.top
+127.0.0.1 dopeoutspoken.com
+127.0.0.1 musclesaskewfeeding.com
 127.0.0.1 3vnofjidlv.com
 127.0.0.1 p7jroq6xco.com
 127.0.0.1 aiamok.icu
