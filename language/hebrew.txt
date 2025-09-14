@@ -18,6 +18,7 @@
 127.0.0.1 hasdarot.vip
 127.0.0.1 hasdarot.xyz
 127.0.0.1 isdarot.com
+127.0.0.1 israeljobstoday.com
 127.0.0.1 losittooday.info
 127.0.0.1 pinukim.net
 127.0.0.1 play.milly-style.co.il

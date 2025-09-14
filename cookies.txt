@@ -108,6 +108,7 @@
 127.0.0.1 cookiebanner.gepruefter-webshop.de
 127.0.0.1 cookies.ptj.de
 127.0.0.1 cookies.tanke-guenstig.de
+127.0.0.1 cp.staedte-info.net
 127.0.0.1 fc.vodafone.de
 127.0.0.1 up-cookiemon.wavecdn.net
 127.0.0.1 cmp.histoire-et-civilisations.com
