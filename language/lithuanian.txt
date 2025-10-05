@@ -1,0 +1,9 @@
+127.0.0.1 banners.igloro.info
+127.0.0.1 bms.creativepartner.lt
+127.0.0.1 trackers.adtarget.me
+127.0.0.1 rkl.draugas.lt
+127.0.0.1 r-scale-fb.static.go3.tv
+127.0.0.1 skpiramide.lt
+127.0.0.1 core.dimatter.ai
+127.0.0.1 befirstcdn.com
+127.0.0.1 trafficbass.com
