@@ -360,6 +360,7 @@
 127.0.0.1 sjpf.io
 127.0.0.1 skcrtxr.com
 127.0.0.1 smartmetrics.co.uk
+127.0.0.1 smartytouch.co
 127.0.0.1 snptrk.com
 127.0.0.1 soapfighters.com
 127.0.0.1 solutionshindsight.net
@@ -421,7 +422,6 @@
 127.0.0.1 venusrevival.com
 127.0.0.1 veozn3f.com
 127.0.0.1 vfghe.com
-127.0.0.1 videocdnmetrika.com
 127.0.0.1 videoplayerhub.com
 127.0.0.1 visit-server.inmobi-choice.io
 127.0.0.1 vkanalytics.net
@@ -905,6 +905,7 @@
 127.0.0.1 doppler-beacon.cbsivideo.com
 127.0.0.1 doppler-client-events.cbsivideo.com
 127.0.0.1 doppler-reporting.cbsivideo.com
+127.0.0.1 duplexer.wix.com
 127.0.0.1 dx.mountain.com
 127.0.0.1 dynamic.ziftsolutions.com
 127.0.0.1 e.channelexco.com
@@ -1182,6 +1183,7 @@
 127.0.0.1 nr.static.mmcdn.com
 127.0.0.1 ns.rvmkitt.com
 127.0.0.1 nwr.static.mmcdn.com
+127.0.0.1 o.momently.info
 127.0.0.1 o9tt6h08li.execute-api.eu-west-1.amazonaws.com
 127.0.0.1 obs.esnlocco.com
 127.0.0.1 obs.jollyoutdoorjogger.com
@@ -1883,6 +1885,7 @@
 127.0.0.1 dc8xl0ndzn2cb.cloudfront.net
 127.0.0.1 dcv4p460uqa46.cloudfront.net
 127.0.0.1 dd6zx4ibq538k.cloudfront.net
+127.0.0.1 de5zarwna0j2q.cloudfront.net
 127.0.0.1 dggaenaawxe8z.cloudfront.net
 127.0.0.1 dh0c1bz67fuho.cloudfront.net
 127.0.0.1 di2xwvxz1jrvu.cloudfront.net
@@ -39906,6 +39909,7 @@
 127.0.0.1 collector1.sooplive.co.kr
 127.0.0.1 count.munhwa.com
 127.0.0.1 data-logdelivery.wconcept.co.kr
+127.0.0.1 haystack.wavve.com
 127.0.0.1 hits.zdnet.co.kr
 127.0.0.1 kyson.kakao.com
 127.0.0.1 l.m.naver.com
@@ -39913,7 +39917,6 @@
 127.0.0.1 log.kinolights.com
 127.0.0.1 log.tossinvest.com
 127.0.0.1 log.zdnet.co.kr
-127.0.0.1 nam.veta.naver.com
 127.0.0.1 pds.auction.co.kr
 127.0.0.1 rake.11st.co.kr
 127.0.0.1 sp.naver.com

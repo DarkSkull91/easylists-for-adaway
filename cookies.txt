@@ -47,6 +47,7 @@
 127.0.0.1 cmp.nature.com
 127.0.0.1 cmp.netzwelt.de
 127.0.0.1 cmp.nouvelobs.com
+127.0.0.1 cmp.onepeloton.com
 127.0.0.1 cmp.parkers.co.uk
 127.0.0.1 cmp.playpilot.com
 127.0.0.1 cmp.railmagazine.com
