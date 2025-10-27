@@ -1,6 +1,16 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 medicine4.top
+127.0.0.1 dahrexmj.icu
+127.0.0.1 wnwkt6206g.com
+127.0.0.1 qtqv3cy43w.com
+127.0.0.1 zdh10260lo.com
+127.0.0.1 zhjqtd.icu
+127.0.0.1 graunutbpz.com
+127.0.0.1 ei7buknu82.com
+127.0.0.1 zdh10261lo.com
+127.0.0.1 lwlybwd5zq.com
 127.0.0.1 suppose84.com
 127.0.0.1 9cwcu1574.com
 127.0.0.1 zdh10250lo.com
@@ -22,7 +32,6 @@
 127.0.0.1 40images25.com
 127.0.0.1 20images36.com
 127.0.0.1 csgkj.com
-127.0.0.1 go2yd.com
 127.0.0.1 dbraxb.icu
 127.0.0.1 bzp2fqad7o.com
 127.0.0.1 zdh10241lo.com
