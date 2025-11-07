@@ -1816,7 +1816,6 @@
 127.0.0.1 b.netall.ru
 127.0.0.1 banner.lbs.km.ru
 127.0.0.1 banner.osp-ua.info
-127.0.0.1 blablacar.d3.ru
 127.0.0.1 bn.sarov.info
 127.0.0.1 boo.samara24.ru
 127.0.0.1 br.kcdn.kz
