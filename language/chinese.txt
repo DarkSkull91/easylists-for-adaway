@@ -1,6 +1,11 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 6tdz25urqj.com
+127.0.0.1 qjqdkli0ag.com
+127.0.0.1 wrestle22.top
+127.0.0.1 lls11080ko.com
+127.0.0.1 jjnyzeck.icu
 127.0.0.1 zoologist00.com
 127.0.0.1 6p2g1kk03.com
 127.0.0.1 4yl3e3fmv.com
@@ -8,6 +13,13 @@
 127.0.0.1 hrxphjcj.icu
 127.0.0.1 uzrtgekpw.com
 127.0.0.1 vzorzilmf.com
+127.0.0.1 fagp.cn
+127.0.0.1 nl1d8gzi5.com
+127.0.0.1 598n8mpd6.com
+127.0.0.1 lls11071ko.com
+127.0.0.1 zdh11071lo.com
+127.0.0.1 eitorawrdo.com
+127.0.0.1 qjiz.cn
 127.0.0.1 workshop39.top
 127.0.0.1 svhk4bt874.com
 127.0.0.1 xuwmylm697.com
