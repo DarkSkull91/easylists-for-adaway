@@ -1270,6 +1270,7 @@
 127.0.0.1 spechee.com
 127.0.0.1 spechete.com
 127.0.0.1 specisez.com
+127.0.0.1 ssp.rutube.ru
 127.0.0.1 stableprofit4you.com
 127.0.0.1 standadv.com
 127.0.0.1 startscript.ru
@@ -1791,6 +1792,7 @@
 127.0.0.1 ufiler.pro
 127.0.0.1 ultrabit.ws
 127.0.0.1 upro.me
+127.0.0.1 utorria.ru
 127.0.0.1 vabloggs.biz
 127.0.0.1 vacoou.info
 127.0.0.1 viniki.ru

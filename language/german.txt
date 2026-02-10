@@ -14,7 +14,6 @@
 127.0.0.1 securecnd.com
 127.0.0.1 servote.de
 127.0.0.1 ad.71i.de
-127.0.0.1 ad.bwise.ch
 127.0.0.1 ad.jaumo.com
 127.0.0.1 banner.immowelt.de
 127.0.0.1 bn.gewinn24.de
@@ -22,9 +21,6 @@
 127.0.0.1 inv.lapippa.com
 127.0.0.1 ladbrokes.hs-edge.net
 127.0.0.1 media.alphaload.com
-127.0.0.1 oddsserve-wqps7yvkz.stackpathdns.com
-127.0.0.1 partner.fondsdiscount.de
-127.0.0.1 partner.maxxim.de
 127.0.0.1 partner.simplytel.de
 127.0.0.1 promotionmaterial.betacash.com
 127.0.0.1 qvid2.b-cdn.net

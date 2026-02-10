@@ -20,3 +20,4 @@
 127.0.0.1 content2.pu.nl
 127.0.0.1 content2.wasmachines.nl
 127.0.0.1 content2.zoom.nl
+127.0.0.1 preroll.omroepvenlo.nl

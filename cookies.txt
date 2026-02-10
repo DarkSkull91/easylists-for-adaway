@@ -9,6 +9,7 @@
 127.0.0.1 consent.nitrocnct.com
 127.0.0.1 consent.prointernet.com
 127.0.0.1 consent.standardadmin.org
+127.0.0.1 cookie-bar.conversionbear.com
 127.0.0.1 cookie.consents.app
 127.0.0.1 cookie.pearshealthcyber.com
 127.0.0.1 cookieapi.incomit.dk
@@ -23,6 +24,7 @@
 127.0.0.1 messaging.sourcepoint.com
 127.0.0.1 optanon.blob.core.windows.net
 127.0.0.1 plugin.management
+127.0.0.1 privacy-api-eu1.clym.io
 127.0.0.1 privacy-cdn.sixfifty.com
 127.0.0.1 ressource.gdpr-banner.awsmpsa.com
 127.0.0.1 smarteucookiebanner.upsell-apps.com
@@ -66,6 +68,7 @@
 127.0.0.1 consent.stuff.tv
 127.0.0.1 consent.thecountrysmallholder.com
 127.0.0.1 consent.thegreatoutdoorsmag.com
+127.0.0.1 consent.wegotthiscovered.com
 127.0.0.1 cookie-consent.festo.com
 127.0.0.1 cookie.marsus.digital
 127.0.0.1 cookiebot.inkarnate.com
