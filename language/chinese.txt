@@ -1,6 +1,20 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 aa7hzjsow.com
+127.0.0.1 jh2szzt7n.com
+127.0.0.1 envision75.com
+127.0.0.1 5edf1d2qv.com
+127.0.0.1 46q8oxohlt.com
+127.0.0.1 fuztty4b5g.com
+127.0.0.1 nws5ay4cr2.com
+127.0.0.1 sxzl6x4k9p.com
+127.0.0.1 multiple46.top
+127.0.0.1 l2qdfaq62o.com
+127.0.0.1 dlsybe78o0.com
+127.0.0.1 8rht5welv5.com
+127.0.0.1 rtip4abjv3.com
+127.0.0.1 idavmk1276.com
 127.0.0.1 skirmish33.top
 127.0.0.1 1hhwyb4vl.com
 127.0.0.1 yzhcp6cw1.com
@@ -623,7 +637,6 @@
 127.0.0.1 cgcg01040ht.com
 127.0.0.1 prelude69.com
 127.0.0.1 nstltp.icu
-127.0.0.1 lfamuxkaqobp.com
 127.0.0.1 wpy6xuq4.xyz
 127.0.0.1 qkg7yplpfo.com
 127.0.0.1 9ck9umcyvt.com
@@ -2499,7 +2512,6 @@
 127.0.0.1 achophranb.com
 127.0.0.1 rbze.cn
 127.0.0.1 goose64.top
-127.0.0.1 dopeoutspoken.com
 127.0.0.1 musclesaskewfeeding.com
 127.0.0.1 3vnofjidlv.com
 127.0.0.1 p7jroq6xco.com
