@@ -3,6 +3,12 @@
 127.0.0.1 cnzz.trafficmanager.net
 127.0.0.1 ov3zaa6w0.com
 127.0.0.1 xhr7cqlob.com
+127.0.0.1 p4dc8ve6i.com
+127.0.0.1 d0i5db8gp.com
+127.0.0.1 hkplzozwl.com
+127.0.0.1 dheblxw.com
+127.0.0.1 prndgif.com
+127.0.0.1 et3lc8yoe.com
 127.0.0.1 ucuypyhcns.com
 127.0.0.1 z198vxfuy3.com
 127.0.0.1 benchmark84.top
