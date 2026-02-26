@@ -1,8 +1,18 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 i2fxsez4f0.com
+127.0.0.1 22eo9qlbpt.com
 127.0.0.1 f5nn75ozf.com
 127.0.0.1 z1el6lgol.com
+127.0.0.1 sq5f10q3d.com
+127.0.0.1 unenviable89.com
+127.0.0.1 usc8nll40.com
+127.0.0.1 gohgn02251la.com
+127.0.0.1 ac00qmnjz.com
+127.0.0.1 vidsgs4x4.com
+127.0.0.1 re0rlupcz.com
+127.0.0.1 elviraawa.com
 127.0.0.1 3hfmrv8d45.com
 127.0.0.1 qkr4uac6tx.com
 127.0.0.1 hazardous58.top
@@ -4740,6 +4750,7 @@
 127.0.0.1 adasset.flixfiend.top
 127.0.0.1 ad.parkvv.com
 127.0.0.1 adasset.ethersaga.online
+127.0.0.1 code.geonamebase.com
 127.0.0.1 kdewa111.familydoctor.com.cn
 127.0.0.1 zgzxm.weathercn.com
 127.0.0.1 cientch.360doc.cn
@@ -5129,8 +5140,8 @@
 127.0.0.1 dms.vancss.com
 127.0.0.1 dms.xuexxing.com
 127.0.0.1 dmym.fwol.cn
-127.0.0.1 domain1.chahaoba.cn
 127.0.0.1 ds.ruanwengfa.com
+127.0.0.1 code.geonamebase.com
 127.0.0.1 du1.bbdj.com
 127.0.0.1 edu.jiukang.org
 127.0.0.1 ee.shixunwang.net
