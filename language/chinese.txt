@@ -1,8 +1,17 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 c9pgryrmt4.com
+127.0.0.1 pj4til72yp.com
 127.0.0.1 muxc8wxhv.com
 127.0.0.1 z0vogb8ns.com
+127.0.0.1 jvqo1iiej.com
+127.0.0.1 contemplate23.top
+127.0.0.1 1vd2esrss.com
+127.0.0.1 gu4xxpoe9.com
+127.0.0.1 rltwz2cmo.com
+127.0.0.1 gbiltuj8w.com
+127.0.0.1 fikppvmul.com
 127.0.0.1 i2fxsez4f0.com
 127.0.0.1 22eo9qlbpt.com
 127.0.0.1 pcmxcdjbgo.com
@@ -5153,7 +5162,6 @@
 127.0.0.1 dms.xuexxing.com
 127.0.0.1 dmym.fwol.cn
 127.0.0.1 ds.ruanwengfa.com
-127.0.0.1 code.geonamebase.com
 127.0.0.1 du1.bbdj.com
 127.0.0.1 edu.jiukang.org
 127.0.0.1 ee.shixunwang.net
