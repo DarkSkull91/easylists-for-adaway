@@ -872,6 +872,7 @@
 127.0.0.1 commerce.bing.com
 127.0.0.1 commercial-analytics-collector.news.co.uk
 127.0.0.1 conan.screencast-o-matic.com
+127.0.0.1 conduit.redfast.com
 127.0.0.1 confiant-integrations.global.ssl.fastly.net
 127.0.0.1 connect.idocdn.com
 127.0.0.1 connext-cdn.azureedge.net
@@ -960,6 +961,7 @@
 127.0.0.1 doh.cq0.co
 127.0.0.1 doppler-beacon.cbsivideo.com
 127.0.0.1 doppler-client-events.cbsivideo.com
+127.0.0.1 doppler-config.cbsivideo.com
 127.0.0.1 doppler-reporting.cbsivideo.com
 127.0.0.1 dx.mountain.com
 127.0.0.1 dynamic.ziftsolutions.com
@@ -1099,6 +1101,7 @@
 127.0.0.1 happen.spkt.io
 127.0.0.1 harvest.graindata.com
 127.0.0.1 hb.vhsrv.com
+127.0.0.1 helix.bitformations.ca
 127.0.0.1 hello.staticstuff.net
 127.0.0.1 hi.hellobar.com
 127.0.0.1 highway.cablecar.sph.com.sg
@@ -1348,6 +1351,7 @@
 127.0.0.1 processor.asccommunications.com
 127.0.0.1 prod.ew.srp.navigacloud.com
 127.0.0.1 prod.fennec.atp.fox
+127.0.0.1 prod.tahoe-analytics.publishers.advertising.a2z.com
 127.0.0.1 propsid.b-cdn.net
 127.0.0.1 proxy.dzeio.com
 127.0.0.1 proxy.trysavvy.com
@@ -1647,6 +1651,7 @@
 127.0.0.1 tr.thecontentserver.com
 127.0.0.1 tr.vitals.co
 127.0.0.1 tr.webantenna.info
+127.0.0.1 tr6.snapchat.com
 127.0.0.1 traccoon.intellectsoft.net
 127.0.0.1 trace.swaven.com
 127.0.0.1 track-dark-bz.b-cdn.net
@@ -1831,10 +1836,12 @@
 127.0.0.1 video-intel.pixels.ai
 127.0.0.1 videoevents.outbrain.com
 127.0.0.1 vitals.flyingpress.com
+127.0.0.1 vm.target-video.com
 127.0.0.1 vortex.data.microsoft.com
 127.0.0.1 vplayeranalytics.vidgyor.com
 127.0.0.1 vst.sibnet.ru
 127.0.0.1 vstat.borderlessbd.com
+127.0.0.1 vtrk.dv.tech
 127.0.0.1 w4o7aea80ss3-a.akamaihd.net
 127.0.0.1 watchtower.graindata.com
 127.0.0.1 wco.crownpeak.com
@@ -3012,6 +3019,7 @@
 127.0.0.1 lizard.donald.cat
 127.0.0.1 lms.roblox.com
 127.0.0.1 log-gateway.zoom.us
+127.0.0.1 log.arkansasonline.com
 127.0.0.1 log.china.cn
 127.0.0.1 log.genyt.net
 127.0.0.1 log.hypebeast.com
@@ -3209,6 +3217,7 @@
 127.0.0.1 sp.ecosia.org
 127.0.0.1 sp.justwatch.com
 127.0.0.1 sp.pcoptimum.ca
+127.0.0.1 sp.pluto.tv
 127.0.0.1 sp.welcometothejungle.com
 127.0.0.1 spaning.creavite.co
 127.0.0.1 spectrum.gettyimages.com
@@ -14145,6 +14154,7 @@
 127.0.0.1 somni.suntrust.com
 127.0.0.1 somni.superonline.net
 127.0.0.1 somni.syf.com
+127.0.0.1 somni.syfpayments.com
 127.0.0.1 somni.synchrony.com
 127.0.0.1 somni.synchronybank.com
 127.0.0.1 somni.synchronybusiness.com
@@ -15706,7 +15716,6 @@
 127.0.0.1 ut.upmc.com
 127.0.0.1 value.register.com
 127.0.0.1 vdmwntw1of9t8xgd.edge41.testandtarget.omniture.com
-127.0.0.1 visit.asb.co.nz
 127.0.0.1 visitor.novartisoncology.us
 127.0.0.1 visualscience.external.bbc.co.uk
 127.0.0.1 vs.target.com
@@ -37278,7 +37287,6 @@
 127.0.0.1 join.stuypend.com
 127.0.0.1 join.talker.network
 127.0.0.1 join.thekrishi.com
-127.0.0.1 join.tlon.io
 127.0.0.1 join.travelxp.com
 127.0.0.1 join.vibely.io
 127.0.0.1 join.vtail.co
@@ -39944,6 +39952,7 @@
 127.0.0.1 events.il.fi
 127.0.0.1 insights.mtv.a2d.tv
 127.0.0.1 logger.omio.com
+127.0.0.1 logs.kaya.delfi.ee
 127.0.0.1 rac.ruutu.fi
 127.0.0.1 stat.mtv3.fi
 127.0.0.1 stats.fonecta.fi
