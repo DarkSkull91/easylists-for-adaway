@@ -1838,7 +1838,6 @@
 127.0.0.1 prom.x-lime.net
 127.0.0.1 push.autosaratov.ru
 127.0.0.1 rotabanner.kulichki.com
-127.0.0.1 rustorrents.rustorrents.net
 127.0.0.1 stars.manystars.ru
 127.0.0.1 static2.rutracker.org
 127.0.0.1 str.eshzdorovo.ru

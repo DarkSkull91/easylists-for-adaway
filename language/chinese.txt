@@ -1,6 +1,11 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 dvjxk947e.com
+127.0.0.1 kqg8jh8rk.com
+127.0.0.1 radexh.icu
+127.0.0.1 expediency36.com
+127.0.0.1 gvodieta.com
 127.0.0.1 kvxc7buwv3.com
 127.0.0.1 z9sab7vr0b.com
 127.0.0.1 ynkunarlg.com
@@ -8,6 +13,11 @@
 127.0.0.1 lkhmlx.icu
 127.0.0.1 rypebb.icu
 127.0.0.1 qmeqraen.com
+127.0.0.1 wral.cn
+127.0.0.1 xibvdjz2x2.com
+127.0.0.1 5b0a1c63v9.com
+127.0.0.1 mhukzoikt.com
+127.0.0.1 wj8i1rlp2b.com
 127.0.0.1 b4641y3dw.com
 127.0.0.1 vigyn4gpx.com
 127.0.0.1 nhlrzf.icu
