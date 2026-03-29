@@ -75,6 +75,7 @@
 127.0.0.1 cookiebot.inkarnate.com
 127.0.0.1 cookies.giphy.com
 127.0.0.1 cookies.lmt.lv
+127.0.0.1 cp.insideevs.com
 127.0.0.1 cscript-cdn-irl.abb.com
 127.0.0.1 fuse.forbes.com
 127.0.0.1 gdpr-api.sharethis.com
