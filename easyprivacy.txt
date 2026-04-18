@@ -19,6 +19,7 @@
 127.0.0.1 adcontroll.com
 127.0.0.1 aditude.cloud
 127.0.0.1 admaxium.com
+127.0.0.1 admediasales.com
 127.0.0.1 admetrics.events
 127.0.0.1 adnext.co
 127.0.0.1 adrsbl.io
@@ -28,6 +29,7 @@
 127.0.0.1 adspsp.com
 127.0.0.1 adstk.io
 127.0.0.1 adultium.com
+127.0.0.1 advertease.store
 127.0.0.1 afrdtech.com
 127.0.0.1 aftership-pixel.com
 127.0.0.1 aggle.net
@@ -48,6 +50,7 @@
 127.0.0.1 aseads.com
 127.0.0.1 astarsbuilding.com
 127.0.0.1 atmtd.com
+127.0.0.1 audiencetrk.com
 127.0.0.1 australiarevival.com
 127.0.0.1 avads.net
 127.0.0.1 awmonitor.com
@@ -99,6 +102,7 @@
 127.0.0.1 confiant-integrations.net
 127.0.0.1 convead.io
 127.0.0.1 convertlink.com
+127.0.0.1 coolretargeting.com
 127.0.0.1 counter247.live
 127.0.0.1 cpx.to
 127.0.0.1 cr-relay.com
@@ -126,6 +130,7 @@
 127.0.0.1 dttrk.com
 127.0.0.1 dwin1.com
 127.0.0.1 dwin2.com
+127.0.0.1 e-ads.com
 127.0.0.1 e1e.io
 127.0.0.1 eagle-insight.com
 127.0.0.1 ed-sys.net
@@ -262,6 +267,7 @@
 127.0.0.1 lmepbq.com
 127.0.0.1 log.dance
 127.0.0.1 logicanalytics.io
+127.0.0.1 logstracker.com
 127.0.0.1 logtail.com
 127.0.0.1 loopcybersec.com
 127.0.0.1 lordofthesuperfrogs.com
@@ -271,6 +277,7 @@
 127.0.0.1 maggieeatstheangel.com
 127.0.0.1 mapixl.com
 127.0.0.1 markadver.com
+127.0.0.1 match2one.net
 127.0.0.1 matheranalytics.com
 127.0.0.1 mathilde-ads.com
 127.0.0.1 matomo3.org
@@ -296,7 +303,9 @@
 127.0.0.1 monicaatron.com
 127.0.0.1 mors22.com
 127.0.0.1 motu-teamblue.services
+127.0.0.1 mpstech.space
 127.0.0.1 mrpdata.net
+127.0.0.1 msfunction.online
 127.0.0.1 mt48.net
 127.0.0.1 mxradon.com
 127.0.0.1 myangular.life
@@ -340,8 +349,10 @@
 127.0.0.1 proftrafficcounter.com
 127.0.0.1 progmxs.com
 127.0.0.1 protechts.net
+127.0.0.1 purcartz.com
 127.0.0.1 purple-hit.com
 127.0.0.1 pushvisit.xyz
+127.0.0.1 pxlnow.in
 127.0.0.1 pxlstat.com
 127.0.0.1 pzapi-ij.com
 127.0.0.1 pzapi-kg.com
@@ -359,6 +370,7 @@
 127.0.0.1 rfpx1.com
 127.0.0.1 rkdms.com
 127.0.0.1 robotflowermobile.com
+127.0.0.1 rt-pixel.com
 127.0.0.1 rtactivate.com
 127.0.0.1 rtgvwr.com
 127.0.0.1 rtmscl.com
@@ -376,6 +388,7 @@
 127.0.0.1 sgstats.com
 127.0.0.1 shdid.me
 127.0.0.1 shgcdn3.com
+127.0.0.1 shop-cart.app
 127.0.0.1 site24x7rum.eu
 127.0.0.1 sitecounter.site
 127.0.0.1 sitedataprocessing.com
@@ -396,6 +409,7 @@
 127.0.0.1 srvgl.com
 127.0.0.1 ssevt.com
 127.0.0.1 stack-sonar.com
+127.0.0.1 stalkoda.com
 127.0.0.1 stat.ovh
 127.0.0.1 statisticplatform.com
 127.0.0.1 statisticsplatform.com
@@ -419,6 +433,7 @@
 127.0.0.1 tncid.app
 127.0.0.1 track-selectmedia.com
 127.0.0.1 trackclicks.info
+127.0.0.1 trackier.com
 127.0.0.1 tracking24.net
 127.0.0.1 trakle01.online
 127.0.0.1 transmapp.com
@@ -815,6 +830,7 @@
 127.0.0.1 capture.condenastdigital.com
 127.0.0.1 caspionlog.appspot.com
 127.0.0.1 castify-trk.playitviral.com
+127.0.0.1 cbso.uk.net
 127.0.0.1 cc.swiftype.com
 127.0.0.1 ccexperimentsstatic.oracleoutsourcing.com
 127.0.0.1 cdn-a.raptor.digital
@@ -969,6 +985,7 @@
 127.0.0.1 doppler-client-events.cbsivideo.com
 127.0.0.1 doppler-config.cbsivideo.com
 127.0.0.1 doppler-reporting.cbsivideo.com
+127.0.0.1 doubleclick.uk.net
 127.0.0.1 dx.mountain.com
 127.0.0.1 dynamic.ziftsolutions.com
 127.0.0.1 e.channelexco.com
@@ -1110,6 +1127,7 @@
 127.0.0.1 happen.spkt.io
 127.0.0.1 harvest.graindata.com
 127.0.0.1 hb.vhsrv.com
+127.0.0.1 heartbeat-pearl.vercel.app
 127.0.0.1 helix.bitformations.ca
 127.0.0.1 hello.staticstuff.net
 127.0.0.1 hi.hellobar.com
@@ -1408,6 +1426,7 @@
 127.0.0.1 rest.wildstar-online.com
 127.0.0.1 retargeting.newsmanapp.com
 127.0.0.1 rg-3tn.pages.dev
+127.0.0.1 rp.mustreadnew.com
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 rt.flix360.com
 127.0.0.1 rtb.prod.carbonatixaudio.com
@@ -1870,6 +1889,7 @@
 127.0.0.1 web-tracker.smsbump.com
 127.0.0.1 web-vitals-script.leaderint.workers.dev
 127.0.0.1 web1.51.la
+127.0.0.1 webevents.kayzen.io
 127.0.0.1 websdk.appsflyer.com
 127.0.0.1 websdk.appsflyersdk.com
 127.0.0.1 webservices.websitepros.com
@@ -3229,6 +3249,7 @@
 127.0.0.1 rta2.newzit.com
 127.0.0.1 rtds.progressive.com
 127.0.0.1 rum.api.intuit.com
+127.0.0.1 rum.battle.net
 127.0.0.1 rum.cdnpure.com
 127.0.0.1 rum.condenastdigital.com
 127.0.0.1 rvo-cohesion.healthline.com
