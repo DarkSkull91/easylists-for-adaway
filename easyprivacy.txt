@@ -115,7 +115,6 @@
 127.0.0.1 dadalytics.it
 127.0.0.1 dataofpages.com
 127.0.0.1 datas3ntinel.com
-127.0.0.1 deviceinf.com
 127.0.0.1 digi-ping.com
 127.0.0.1 directavenue.tech
 127.0.0.1 dispatchunique.com
