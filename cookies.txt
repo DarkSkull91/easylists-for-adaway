@@ -69,6 +69,7 @@
 127.0.0.1 consent.thecountrysmallholder.com
 127.0.0.1 consent.thegreatoutdoorsmag.com
 127.0.0.1 consent.wegotthiscovered.com
+127.0.0.1 conso.gransnet.com
 127.0.0.1 cookie-consent.festo.com
 127.0.0.1 cookie.marsus.digital
 127.0.0.1 cookiebot.inkarnate.com
