@@ -3,6 +3,11 @@
 127.0.0.1 cnzz.trafficmanager.net
 127.0.0.1 fummd03je4.com
 127.0.0.1 06hkgn0jl3.com
+127.0.0.1 affection28.top
+127.0.0.1 m11bkuusyb.com
+127.0.0.1 wdtuc.cn
+127.0.0.1 zvhtzl.icu
+127.0.0.1 fjpopxgyfrlxvc.com
 127.0.0.1 pjovytymn.com
 127.0.0.1 vmn05pnuh.com
 127.0.0.1 embbl8sy3.com
@@ -300,6 +305,9 @@
 127.0.0.1 uiqyuydt9t.com
 127.0.0.1 hswxsatk7x.com
 127.0.0.1 phulkuhf.com
+127.0.0.1 eqlhb8m42q.com
+127.0.0.1 m8h5qjmlb3.com
+127.0.0.1 mp1sy1nri8.com
 127.0.0.1 gkryjuqq3.com
 127.0.0.1 biuisz9ss.com
 127.0.0.1 kd5anwumy.com
@@ -308,7 +316,6 @@
 127.0.0.1 pebfvv.icu
 127.0.0.1 solicitor44.com
 127.0.0.1 mbuuceth.com
-127.0.0.1 edgelib.net
 127.0.0.1 8hx7k0211.com
 127.0.0.1 devll8j4n.com
 127.0.0.1 s00hv1jp8.com
