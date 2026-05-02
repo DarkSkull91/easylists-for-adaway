@@ -1,6 +1,17 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 xhtkm35sw.com
+127.0.0.1 tvj8lylgv.com
+127.0.0.1 3hx1ui2vt.com
+127.0.0.1 neurologist19.com
+127.0.0.1 zalwlz.icu
+127.0.0.1 jp532fdo5.com
+127.0.0.1 x4bxnav4g.com
+127.0.0.1 d6er6wrvw.com
+127.0.0.1 devpz.cn
+127.0.0.1 2ytoxb1r7.com
+127.0.0.1 gqcrgyufg.com
 127.0.0.1 fummd03je4.com
 127.0.0.1 06hkgn0jl3.com
 127.0.0.1 affection28.top
