@@ -316,6 +316,7 @@
 127.0.0.1 4smi.ru
 127.0.0.1 7cipgmg8r6.ru
 127.0.0.1 8nr2bisa.ru
+127.0.0.1 a.rutube.ru
 127.0.0.1 abourselfi.com
 127.0.0.1 academand.com
 127.0.0.1 actionrtb.com
