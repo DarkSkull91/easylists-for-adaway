@@ -3248,6 +3248,7 @@
 127.0.0.1 r.apkpure.net
 127.0.0.1 r.bbci.co.uk
 127.0.0.1 rabbit.donald.cat
+127.0.0.1 ralf.curvo.eu
 127.0.0.1 rankhit.china.com
 127.0.0.1 ras.yahoo.com
 127.0.0.1 raw.vidyard.com
