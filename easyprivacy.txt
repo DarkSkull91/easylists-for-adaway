@@ -1349,6 +1349,7 @@
 127.0.0.1 pixel.blivenyc.com
 127.0.0.1 pixel.byspotify.com
 127.0.0.1 pixel.condenastdigital.com
+127.0.0.1 pixel.dashfi.dev
 127.0.0.1 pixel.driveniq.com
 127.0.0.1 pixel.embed.su
 127.0.0.1 pixel.fohr.co
@@ -36192,7 +36193,6 @@
 127.0.0.1 cattell.loanzify.app
 127.0.0.1 cclink.carfax.com
 127.0.0.1 cdanjoyner4374.myre.io
-127.0.0.1 cdl.booksy.com
 127.0.0.1 cdl.lvsafe.io
 127.0.0.1 cdl2.booksy.com
 127.0.0.1 cfaexam.quantresear.ch

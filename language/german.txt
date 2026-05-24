@@ -35,6 +35,7 @@
 127.0.0.1 1t2.kicker.de
 127.0.0.1 a.zdg.de
 127.0.0.1 a3.zdg.de
+127.0.0.1 acdn.literatur-couch.de
 127.0.0.1 ad.dl.dewezet.de
 127.0.0.1 ad.dslr-forum.de
 127.0.0.1 ad.games.ch
