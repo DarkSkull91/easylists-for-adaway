@@ -1030,6 +1030,7 @@
 127.0.0.1 event-service.letslinc.com
 127.0.0.1 event-store.sitebehaviour.com
 127.0.0.1 event-stream.spot.im
+127.0.0.1 event-tracker.inditex.com
 127.0.0.1 event.api.drift.com
 127.0.0.1 event.api.instant.one
 127.0.0.1 event.collector.scopely.io
