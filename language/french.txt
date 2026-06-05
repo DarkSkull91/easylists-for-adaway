@@ -901,6 +901,7 @@
 127.0.0.1 destyy.com
 127.0.0.1 detailedkitten.com
 127.0.0.1 detectdinner.com
+127.0.0.1 developdomicile.com
 127.0.0.1 devonplasome.shop
 127.0.0.1 devourstrilium.com
 127.0.0.1 dfpghxkw.com
@@ -1542,6 +1543,7 @@
 127.0.0.1 lowdurantom.com
 127.0.0.1 lowtirtougaa.com
 127.0.0.1 lqbvjmkoomerm.top
+127.0.0.1 lrqpjl8blkhjpzcy8.rest
 127.0.0.1 luckwyou.net
 127.0.0.1 lucky-bet.site
 127.0.0.1 lukelymedian.com
@@ -1792,6 +1794,7 @@
 127.0.0.1 ofrapidashr.com
 127.0.0.1 oghamsganofs.com
 127.0.0.1 ohognoul.com
+127.0.0.1 ojfjxzvm8bbcgcrgu.cfd
 127.0.0.1 ojhniewdwtiuqd.com
 127.0.0.1 olitoryhunter.com
 127.0.0.1 olmeramarketing.com
@@ -2813,6 +2816,7 @@
 127.0.0.1 pub2.webmanagercenter.com
 127.0.0.1 rza.pmu.fr
 127.0.0.1 s.beop.io
+127.0.0.1 s.vdrk.site
 127.0.0.1 sle.pagesjaunes.fr
 127.0.0.1 ssa.direct-running.fr
 127.0.0.1 static.mntzm.com
