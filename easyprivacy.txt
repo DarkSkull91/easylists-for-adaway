@@ -385,6 +385,7 @@
 127.0.0.1 sc-static.net
 127.0.0.1 script.ac
 127.0.0.1 seadform.net
+127.0.0.1 seaskypro.com
 127.0.0.1 selphiu.com
 127.0.0.1 seoab.io
 127.0.0.1 sf-insights.io
