@@ -3176,6 +3176,7 @@
 127.0.0.1 p.codio.com
 127.0.0.1 p.controld.com
 127.0.0.1 p.hentaiforce.net
+127.0.0.1 p.imgur.gg
 127.0.0.1 p.mdb.tools
 127.0.0.1 p.midbound.click
 127.0.0.1 p.midbound.net

@@ -1,6 +1,9 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 remainder38.com
+127.0.0.1 11rhol0ni.com
+127.0.0.1 fwbdfg5n6.com
 127.0.0.1 5v19ql3xi1.com
 127.0.0.1 qnpy8bumnc.com
 127.0.0.1 phzlhhfidmntxc.com
@@ -8,6 +11,12 @@
 127.0.0.1 gtethuui.com
 127.0.0.1 multiplication29.top
 127.0.0.1 dneimig.com
+127.0.0.1 xt8esrr.com
+127.0.0.1 ei6udchhys.com
+127.0.0.1 7ho8oc3svg.com
+127.0.0.1 ilbceb6d60.com
+127.0.0.1 tslkd9ygnh.com
+127.0.0.1 jozx7iukw8.com
 127.0.0.1 sxq9xn7t3.com
 127.0.0.1 qls7v6jd3.com
 127.0.0.1 1k2uh20wr.com
