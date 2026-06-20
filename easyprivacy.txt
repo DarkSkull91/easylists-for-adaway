@@ -109,6 +109,7 @@
 127.0.0.1 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 127.0.0.1 dadalytics.it
 127.0.0.1 datas3ntinel.com
+127.0.0.1 ddlnk.net
 127.0.0.1 digi-ping.com
 127.0.0.1 directavenue.tech
 127.0.0.1 dispatchunique.com
@@ -578,6 +579,7 @@
 127.0.0.1 analytic-client.blitzmightyparty.com
 127.0.0.1 analytic-client.chickgoddess.com
 127.0.0.1 analytic-client.panowars.com
+127.0.0.1 analytic.divee.ai
 127.0.0.1 analytic.rollout.io
 127.0.0.1 analyticcdn.globalmailer.com
 127.0.0.1 analyticcdn.wlmediahub.com
@@ -40347,6 +40349,7 @@
 127.0.0.1 ta.sanook.com
 127.0.0.1 a.n11.com
 127.0.0.1 analytics.cosmopolitanmag.com.tr
+127.0.0.1 analytics.mgm.gov.tr
 127.0.0.1 athena-event-provider.n11.com
 127.0.0.1 c.gazetevatan.com
 127.0.0.1 d.haberler.com

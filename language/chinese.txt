@@ -1,6 +1,18 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 1cimslrk3.com
+127.0.0.1 gie0izinx.com
+127.0.0.1 quotient75.com
+127.0.0.1 rdntpbeivqbjhi.com
+127.0.0.1 nhwqjyn.icu
+127.0.0.1 lvykdmk.icu
+127.0.0.1 qzgn652dp.com
+127.0.0.1 adiy42o0w.com
+127.0.0.1 qphlllvgt.com
+127.0.0.1 9pbeoey9j.com
+127.0.0.1 0yu3bxtqv.com
+127.0.0.1 rf7wv5iip.com
 127.0.0.1 bjsr03odzu.com
 127.0.0.1 rhaol5omof.com
 127.0.0.1 gklsfigkom.com
@@ -5680,7 +5692,7 @@
 127.0.0.1 daima.diaoben.net
 127.0.0.1 daima.ijq.tv
 127.0.0.1 daima.ysdui.com
-127.0.0.1 daima.yuzhulin.com
+127.0.0.1 daima.yggk.net
 127.0.0.1 daiwofei2019.top
 127.0.0.1 data.waptime.cn
 127.0.0.1 datas.tianqistatic.com
