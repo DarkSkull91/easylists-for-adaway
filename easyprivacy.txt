@@ -1137,6 +1137,7 @@
 127.0.0.1 harvest.graindata.com
 127.0.0.1 hb.vhsrv.com
 127.0.0.1 heartbeat-pearl.vercel.app
+127.0.0.1 heimdall.hearstapps.com
 127.0.0.1 helix.bitformations.ca
 127.0.0.1 hello.staticstuff.net
 127.0.0.1 hi.hellobar.com
@@ -1186,6 +1187,7 @@
 127.0.0.1 k.streamrail.com
 127.0.0.1 kalstats.kaltura.com
 127.0.0.1 kiwi.mdldb.net
+127.0.0.1 l.ffx.io
 127.0.0.1 l.ooyala.com
 127.0.0.1 l.player.ooyala.com
 127.0.0.1 l.sharethis.com
@@ -3499,6 +3501,7 @@
 127.0.0.1 trk.tirto.id
 127.0.0.1 trx3.famousfix.com
 127.0.0.1 ts.delfi.lt
+127.0.0.1 tsa-f.webex.com
 127.0.0.1 tsa.webex.com
 127.0.0.1 two.cm.com
 127.0.0.1 u.strike.bz
