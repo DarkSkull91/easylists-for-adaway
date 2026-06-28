@@ -1,6 +1,17 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 ollsok.icu
+127.0.0.1 ble7orbnz.com
+127.0.0.1 goqix4lm5.com
+127.0.0.1 taiverturena.com
+127.0.0.1 rorwdbuazjbxta.com
+127.0.0.1 equidistant19.com
+127.0.0.1 gtavnhoxf.com
+127.0.0.1 r5n8ic3on.com
+127.0.0.1 1urjtp1t6.com
+127.0.0.1 mg0pfou5o.com
+127.0.0.1 zulphaqaq.in
 127.0.0.1 t7fv5mjt8i.com
 127.0.0.1 6xu7at70ok.com
 127.0.0.1 tlvbtryetgppha.com
@@ -5154,6 +5165,7 @@
 127.0.0.1 ad.parkvv.com
 127.0.0.1 adasset.ethersaga.online
 127.0.0.1 pc-util.gamersky.com
+127.0.0.1 k6d.falang.net
 127.0.0.1 img50.pingguolv.com
 127.0.0.1 code.geonamebase.com
 127.0.0.1 kdewa111.familydoctor.com.cn
@@ -5173,7 +5185,6 @@
 127.0.0.1 lcd.aivote.com
 127.0.0.1 cnbd1.appmobile.cn
 127.0.0.1 003store.com
-127.0.0.1 0941.org
 127.0.0.1 1.07swz.com
 127.0.0.1 1.1010pic.com
 127.0.0.1 1.11130.com.cn
@@ -5239,7 +5250,6 @@
 127.0.0.1 1999019.com
 127.0.0.1 1buu1.penyouw.com
 127.0.0.1 2.haoxue360.com
-127.0.0.1 20091222.com
 127.0.0.1 2021.dxsbb.com
 127.0.0.1 21.cizhibaogao.org
 127.0.0.1 21.fh21static.com
@@ -5742,7 +5752,6 @@
 127.0.0.1 qiyegongqiu1.qiyegongqiu.com
 127.0.0.1 ql.uzuzuz.com
 127.0.0.1 qqhuhu.com
-127.0.0.1 qudajie.com
 127.0.0.1 qujishu.com
 127.0.0.1 r.99waiyu.com
 127.0.0.1 rabc1.iteye.com
@@ -5782,7 +5791,6 @@
 127.0.0.1 static.rongkao.com
 127.0.0.1 t1.612.com
 127.0.0.1 t1.xuefen.com.cn
-127.0.0.1 t6.china-xian.com
 127.0.0.1 tech.jiukang.org
 127.0.0.1 thetestpage.39.net
 127.0.0.1 tongj.xilu.com
