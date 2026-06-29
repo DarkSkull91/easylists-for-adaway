@@ -109,6 +109,7 @@
 127.0.0.1 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 127.0.0.1 dadalytics.it
 127.0.0.1 datas3ntinel.com
+127.0.0.1 dclsrv.com
 127.0.0.1 ddlnk.net
 127.0.0.1 digi-ping.com
 127.0.0.1 directavenue.tech
@@ -411,6 +412,7 @@
 127.0.0.1 summerhamster.com
 127.0.0.1 superpointlesshamsters.com
 127.0.0.1 sy57d8wi.com
+127.0.0.1 syncingbridge.com
 127.0.0.1 t13.io
 127.0.0.1 takingbackjuly.com
 127.0.0.1 targetemsecure.blob.core.windows.net
@@ -492,6 +494,7 @@
 127.0.0.1 rsras.cdn-fileserver.com
 127.0.0.1 sra-px.cdn-fileserver.com
 127.0.0.1 youseasky.com
+127.0.0.1 tracker-shr.ortb.net
 127.0.0.1 adless.io
 127.0.0.1 adminer.com
 127.0.0.1 analytics.blue
@@ -610,6 +613,7 @@
 127.0.0.1 analytics.amakings.com
 127.0.0.1 analytics.api.justeattakeaway.com
 127.0.0.1 analytics.apnewsregistry.com
+127.0.0.1 analytics.atlas5.co
 127.0.0.1 analytics.audioeye.com
 127.0.0.1 analytics.avanser.com.au
 127.0.0.1 analytics.aweber.com
@@ -2260,6 +2264,7 @@
 127.0.0.1 da.netease.com
 127.0.0.1 datacollector-dra.dt.hicloud.com
 127.0.0.1 dcbpm.suning.cn
+127.0.0.1 dsp-track-global.zmaticoo.com
 127.0.0.1 dt.xfyun.cn
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 eclick.baidu.com
