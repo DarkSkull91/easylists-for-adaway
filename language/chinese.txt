@@ -1,6 +1,16 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 oe8mnxdtoi.com
+127.0.0.1 y2ej3xxfve.com
+127.0.0.1 e3eb4eq0v.com
+127.0.0.1 opposite36.top
+127.0.0.1 067oij53m.com
+127.0.0.1 vhjjbdxycpdfrg.com
+127.0.0.1 mxauvrtdm.com
+127.0.0.1 rrsxes4oy.com
+127.0.0.1 2eao5syzj.com
+127.0.0.1 za5ww9yxg.com
 127.0.0.1 rectangular18.com
 127.0.0.1 opev2lhm7h.com
 127.0.0.1 byuh78fy2m.com
@@ -4887,7 +4897,6 @@
 127.0.0.1 n7181.com
 127.0.0.1 penxiangge.com
 127.0.0.1 picnewsss.com
-127.0.0.1 qwe0231141.bj.bcebos.com
 127.0.0.1 re.taotaosou.com
 127.0.0.1 show.kc.taotaosou.com
 127.0.0.1 spcode.baidu.com

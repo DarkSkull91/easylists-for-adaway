@@ -590,6 +590,7 @@
 127.0.0.1 analyticcdn.globalmailer.com
 127.0.0.1 analyticcdn.wlmediahub.com
 127.0.0.1 analytics-1.cavai.com
+127.0.0.1 analytics-api-s.cloudinary.com
 127.0.0.1 analytics-api.gemcommerce.com
 127.0.0.1 analytics-api.klickly.com
 127.0.0.1 analytics-cf.bigcrunch.com
@@ -1318,6 +1319,7 @@
 127.0.0.1 onsitestats.bluecore.com
 127.0.0.1 oply.hearstapps.com
 127.0.0.1 optimeeze.appspot.com
+127.0.0.1 orion.bendingspoons.com
 127.0.0.1 p.cquotient.com
 127.0.0.1 p.jmlp.app
 127.0.0.1 p.metrilo.com
