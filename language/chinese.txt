@@ -3,6 +3,13 @@
 127.0.0.1 cnzz.trafficmanager.net
 127.0.0.1 oe8mnxdtoi.com
 127.0.0.1 y2ej3xxfve.com
+127.0.0.1 tkpenntaispfdm.com
+127.0.0.1 frustum77.top
+127.0.0.1 puk9mpb8dm.com
+127.0.0.1 ufurlokhqd.com
+127.0.0.1 tawjmkk1p6.com
+127.0.0.1 0nyzdw2maq.com
+127.0.0.1 eo2eaqg5no.com
 127.0.0.1 e3eb4eq0v.com
 127.0.0.1 opposite36.top
 127.0.0.1 067oij53m.com
@@ -5182,6 +5189,7 @@
 127.0.0.1 ad.parkvv.com
 127.0.0.1 adasset.ethersaga.online
 127.0.0.1 pc-util.gamersky.com
+127.0.0.1 ab3de9.gamersky.com
 127.0.0.1 k6d.falang.net
 127.0.0.1 img50.pingguolv.com
 127.0.0.1 code.geonamebase.com
