@@ -1,6 +1,14 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 1k1bd77k9.com
+127.0.0.1 tpjhxbwkvjjvtq.com
+127.0.0.1 kgou4s5dz.com
+127.0.0.1 cylinder35.top
+127.0.0.1 u7lb6db41.com
+127.0.0.1 ukgm0qily.com
+127.0.0.1 ueya0wo6m.com
+127.0.0.1 e81j0an3d.com
 127.0.0.1 oe8mnxdtoi.com
 127.0.0.1 y2ej3xxfve.com
 127.0.0.1 tkpenntaispfdm.com
@@ -5430,7 +5438,6 @@
 127.0.0.1 bd.beimap.com
 127.0.0.1 bd.czxuexi.com
 127.0.0.1 bd.dhsz.cn
-127.0.0.1 bd.ershenghuo.com
 127.0.0.1 bd.watu.cn
 127.0.0.1 bd1-china.6789.com
 127.0.0.1 bd1.365qilu.com
