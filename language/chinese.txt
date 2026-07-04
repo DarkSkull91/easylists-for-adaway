@@ -2,6 +2,13 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
 127.0.0.1 trapezium69.top
+127.0.0.1 0l7t5qhb4.com
+127.0.0.1 1r0br5zeq.com
+127.0.0.1 xibuvdzihpjlrq.com
+127.0.0.1 6ovzwbq4o.com
+127.0.0.1 ftqn9wedv.com
+127.0.0.1 t7h2otlhd.com
+127.0.0.1 v700rtlhd.com
 127.0.0.1 cyu6bl939o.com
 127.0.0.1 yahzsa6o2o.com
 127.0.0.1 rsfzjtdmbmxdfq.com
