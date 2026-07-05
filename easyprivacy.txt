@@ -597,6 +597,7 @@
 127.0.0.1 analytics-cms.whitebeard.me
 127.0.0.1 analytics-consent-manager-v2-prod.azureedge.net
 127.0.0.1 analytics-fe.digital-cloud-prem.medallia.com
+127.0.0.1 analytics-fe.digital-cloud-prem.medallia.eu
 127.0.0.1 analytics-fe.digital-cloud.medallia.ca
 127.0.0.1 analytics-fe.digital-cloud.medallia.com
 127.0.0.1 analytics-ipv6.tiktokw.us
