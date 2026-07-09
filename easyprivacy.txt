@@ -40141,6 +40141,7 @@
 127.0.0.1 analytics.cocolog-nifty.com
 127.0.0.1 analytics.ikyu.com
 127.0.0.1 analytics.tver.jp
+127.0.0.1 analytics.vk.asahi.co.jp
 127.0.0.1 analyzer.fc2.com
 127.0.0.1 analyzer2.fc2.com
 127.0.0.1 astat.nikkei.com
