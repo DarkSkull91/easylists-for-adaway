@@ -2,6 +2,9 @@
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
 127.0.0.1 scraper29.top
+127.0.0.1 fqwv7k7ex.com
+127.0.0.1 wbraekvint.com
+127.0.0.1 x3jhw0klp.com
 127.0.0.1 acqxgk1an3.com
 127.0.0.1 zgcuq93h5s.com
 127.0.0.1 vxhpzrqgczxbzi.com
