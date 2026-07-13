@@ -1343,6 +1343,7 @@
 127.0.0.1 perso.aws.arc.pub
 127.0.0.1 pets.channeladvisor.com
 127.0.0.1 pi.ispot.tv
+127.0.0.1 pi.pdfjs.express
 127.0.0.1 ping.dozuki.com
 127.0.0.1 ping.fastsimon.com
 127.0.0.1 pings.conviva.com
@@ -1879,6 +1880,7 @@
 127.0.0.1 trk.storyly.io
 127.0.0.1 trk.techtarget.com
 127.0.0.1 trk2-wtb.swaven.com
+127.0.0.1 trkweb.clinch.co
 127.0.0.1 trx-cdn.zip.co
 127.0.0.1 trx.zip.co
 127.0.0.1 ts.tradetracker.net
@@ -3288,6 +3290,7 @@
 127.0.0.1 rec.banggood.com
 127.0.0.1 relay.fiverr.com
 127.0.0.1 reports.tunein.com
+127.0.0.1 researchlog.dbresearch.com
 127.0.0.1 rfk.biglots.com
 127.0.0.1 ring.staticmoly.me
 127.0.0.1 roas-service.store-services-prod.remarkable.com
