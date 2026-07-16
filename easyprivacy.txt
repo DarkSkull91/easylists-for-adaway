@@ -2456,6 +2456,8 @@
 127.0.0.1 crossees.com
 127.0.0.1 cs.nakanohito.jp
 127.0.0.1 cv-tracker.stanby.com
+127.0.0.1 external-tag.mysquadbeyond.com
+127.0.0.1 heatmap.support-inc.co.jp
 127.0.0.1 ip2c.landscape.co.jp
 127.0.0.1 ipcheck.blogsys.jp
 127.0.0.1 kitchen.juicer.cc
