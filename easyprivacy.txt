@@ -3114,6 +3114,7 @@
 127.0.0.1 kape.dataplane.rudderstack.com
 127.0.0.1 kinesis.us-east-1.analytics.edmentum.com
 127.0.0.1 kqefj.clearstem.com
+127.0.0.1 lc-event.pixiv.net
 127.0.0.1 librato-collector.genius.com
 127.0.0.1 link.kogan.com
 127.0.0.1 lists.ccmbg.com
