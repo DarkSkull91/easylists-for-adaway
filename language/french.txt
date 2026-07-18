@@ -904,7 +904,11 @@
 127.0.0.1 blockedtvs.xyz
 127.0.0.1 blockedvideoss.xyz
 127.0.0.1 blockertv.xyz
+127.0.0.1 blockietv.xyz
 127.0.0.1 blockslurk.com
+127.0.0.1 blockstvs.xyz
+127.0.0.1 blokstvs.xyz
+127.0.0.1 bloktv.xyz
 127.0.0.1 blousekudo.com
 127.0.0.1 blqwbyqnvmzzq.top
 127.0.0.1 blsznpcpmsjmeq.com
@@ -1775,6 +1779,7 @@
 127.0.0.1 greysummergo.biz
 127.0.0.1 gribseep.net
 127.0.0.1 grifanme.com
+127.0.0.1 grights.xyz
 127.0.0.1 grintracks.com
 127.0.0.1 groagneeckaifoo.com
 127.0.0.1 grooltaujengoo.net
@@ -1782,6 +1787,7 @@
 127.0.0.1 grottogamer.com
 127.0.0.1 groulrob.com
 127.0.0.1 growleading.click
+127.0.0.1 grrekey.xyz
 127.0.0.1 grtyb.com
 127.0.0.1 grtyi.com
 127.0.0.1 gruffwhitsun.com
@@ -2160,9 +2166,11 @@
 127.0.0.1 lenzmx.com
 127.0.0.1 lestaigames.com
 127.0.0.1 lexintaria.com
+127.0.0.1 lgbtrights.xyz
 127.0.0.1 lgxdwxzgfxvy.com
 127.0.0.1 liasingmyxopod.com
 127.0.0.1 libardwannish.com
+127.0.0.1 lightrights.xyz
 127.0.0.1 ligninkeftiu.com
 127.0.0.1 lignitehelloed.com
 127.0.0.1 limbecculvers.com
@@ -2171,6 +2179,7 @@
 127.0.0.1 limpsaka.cfd
 127.0.0.1 linemanphasing.top
 127.0.0.1 linierpeltaavys.qpon
+127.0.0.1 liqbtrights.xyz
 127.0.0.1 lirotroodles.com
 127.0.0.1 listelstucanae.com
 127.0.0.1 listerabromous.com
@@ -2216,6 +2225,7 @@
 127.0.0.1 lp9mc1488vu4h677c3479.cyou
 127.0.0.1 lqbvjmkoomerm.top
 127.0.0.1 lrqpjl8blkhjpzcy8.rest
+127.0.0.1 ltbgirights.xyz
 127.0.0.1 luckwyou.net
 127.0.0.1 lucky-bet.site
 127.0.0.1 luffeddonkeys.cyou
@@ -3368,6 +3378,8 @@
 127.0.0.1 tranchealcmene.com
 127.0.0.1 trannysexx.com
 127.0.0.1 transfto.com
+127.0.0.1 transky.xyz
+127.0.0.1 transrights.xyz
 127.0.0.1 travelaudience.com
 127.0.0.1 treaguepfg.com
 127.0.0.1 trekachy.com
@@ -3914,6 +3926,7 @@
 127.0.0.1 d2au4l2o128joe.cloudfront.net
 127.0.0.1 d2b7n13v8adl6f.cloudfront.net
 127.0.0.1 d2fhjyz3dwdx87.cloudfront.net
+127.0.0.1 d2fw3s7rfepszt.cloudfront.net
 127.0.0.1 d2g4rjb98r20op.cloudfront.net
 127.0.0.1 d2ggw6du5pulet.cloudfront.net
 127.0.0.1 d2gt9oovykfp1z.cloudfront.net
@@ -4010,6 +4023,7 @@
 127.0.0.1 dpb3g4kqr8xz.cloudfront.net
 127.0.0.1 dre81lzpy0s7q.cloudfront.net
 127.0.0.1 dsh1ct2zrfakt.cloudfront.net
+127.0.0.1 dty0ycn35t4d2.cloudfront.net
 127.0.0.1 dtyrqq5w0qdc8.cloudfront.net
 127.0.0.1 dv0uonokej56p.cloudfront.net
 127.0.0.1 dvbee3zterhof.cloudfront.net

@@ -2134,6 +2134,7 @@
 127.0.0.1 b.nativendo.de
 127.0.0.1 beagle.prod.tda.link
 127.0.0.1 blacktri-a.akamaihd.net
+127.0.0.1 c.uniten.io
 127.0.0.1 cgicounter.onlinehome.de
 127.0.0.1 click-performance.assets.rndtech.de
 127.0.0.1 com.econa.com
@@ -40241,6 +40242,7 @@
 127.0.0.1 stats.proff.no
 127.0.0.1 stm.komplett.no
 127.0.0.1 telemetry.nav.no
+127.0.0.1 ads.tvp.pl
 127.0.0.1 analytics.gazeta.pl
 127.0.0.1 collect.state.centrum24.pl
 127.0.0.1 cs.bankmillennium.pl
