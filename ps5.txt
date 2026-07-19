@@ -90,3 +90,7 @@ apollo2.dl.playstation.net
 oqesn.np.dl.playstation.net
 nsx.sec.np.dl.playstation.net
 gs2.ww.prod.dl.playstation.net
+(\.|^)update\.playstation\.net$
+(\.|^)updatelist\.playstation\.net$
+(\.|^)dl\.playstation\.net$
+(\.|^)playstation\.sony\.akadns\.net$
