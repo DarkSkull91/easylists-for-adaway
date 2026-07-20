@@ -35,6 +35,7 @@
 127.0.0.1 widgets.openli.com
 127.0.0.1 banner.cookiescan.com
 127.0.0.1 cb-mms.carbuyer.co.uk
+127.0.0.1 cdntranscend.eventbrite.com
 127.0.0.1 cmp-static.nature.com
 127.0.0.1 cmp.cdn.thesun.co.uk
 127.0.0.1 cmp.cdn.thesun.ie
