@@ -44,6 +44,7 @@
 127.0.0.1 code.alpin.de
 127.0.0.1 code.bergsteigen.com
 127.0.0.1 generic.gmx.net
+127.0.0.1 generic.web.de
 127.0.0.1 hybrid-prd.ad-prd.s.joyn.de
 127.0.0.1 lad.sumikai.com
 127.0.0.1 loader.kreuzwortraetsel.de
