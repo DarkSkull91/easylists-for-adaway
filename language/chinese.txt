@@ -1,6 +1,17 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 grinder47.com
+127.0.0.1 lle6t62id.com
+127.0.0.1 zyjfjziavcdpnk.com
+127.0.0.1 56wj96l0x.com
+127.0.0.1 bkbntniwbhlntm.com
+127.0.0.1 uhiwh2tsu.com
+127.0.0.1 hd2o34yu8.com
+127.0.0.1 qyyvoquib.com
+127.0.0.1 nannvshuo.com
+127.0.0.1 tg0val4vb.com
+127.0.0.1 yqfax76xs.com
 127.0.0.1 bvnnxhmypzrpbe.com
 127.0.0.1 crusher38.top
 127.0.0.1 gzhkarwp9n.com
@@ -4985,6 +4996,7 @@
 127.0.0.1 adasset.ethersaga.online
 127.0.0.1 pc-util.gamersky.com
 127.0.0.1 ab3de9.gamersky.com
+127.0.0.1 bd1.zuimeitianqi.com
 127.0.0.1 k6d.falang.net
 127.0.0.1 img50.pingguolv.com
 127.0.0.1 code.geonamebase.com
