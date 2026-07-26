@@ -1,6 +1,17 @@
 127.0.0.1 hash.trafficmanager.net
 127.0.0.1 51tongji.trafficmanager.net
 127.0.0.1 cnzz.trafficmanager.net
+127.0.0.1 bellows83.top
+127.0.0.1 kfbmswmmo.com
+127.0.0.1 g89eyc8a1.com
+127.0.0.1 bwlnnrdsqondjy.com
+127.0.0.1 rk2kpo4ef.com
+127.0.0.1 rxglmys.icu
+127.0.0.1 nbvetzyqt.icu
+127.0.0.1 4mvkxs0o0.com
+127.0.0.1 bzqy2p14z.com
+127.0.0.1 7g6p21pmm.com
+127.0.0.1 gpu2rbzpe.com
 127.0.0.1 trammel74.top
 127.0.0.1 bm1wk259np.com
 127.0.0.1 8p814q01np.com

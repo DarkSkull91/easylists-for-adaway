@@ -393,6 +393,7 @@
 127.0.0.1 smartiwheel.com
 127.0.0.1 smartmetrics.co.uk
 127.0.0.1 smartytouch.co
+127.0.0.1 smrtwheel.com
 127.0.0.1 snptrk.com
 127.0.0.1 soapfighters.com
 127.0.0.1 solutionshindsight.net
