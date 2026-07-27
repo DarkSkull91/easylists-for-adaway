@@ -905,6 +905,8 @@
 127.0.0.1 blockedvideoss.xyz
 127.0.0.1 blockertv.xyz
 127.0.0.1 blockietv.xyz
+127.0.0.1 blockietv1.xyz
+127.0.0.1 blockietv2.xyz
 127.0.0.1 blockslurk.com
 127.0.0.1 blockstvs.xyz
 127.0.0.1 blokstvs.xyz
@@ -940,11 +942,13 @@
 127.0.0.1 bonzeryzephyr.shop
 127.0.0.1 boodiecilice.rest
 127.0.0.1 bookwormtiger.com
+127.0.0.1 borbone.xyz
 127.0.0.1 borghjism.com
 127.0.0.1 borucadowse.cyou
 127.0.0.1 bosscrystudious.com
 127.0.0.1 bothpersonality.com
 127.0.0.1 botkano.info
+127.0.0.1 botnavine.xyz
 127.0.0.1 botryreeject.com
 127.0.0.1 bottlestonightapp.com
 127.0.0.1 bougiesptinus.top
@@ -983,10 +987,12 @@
 127.0.0.1 brlliiantsdates.com
 127.0.0.1 brocardcored.com
 127.0.0.1 brodderapelike.com
+127.0.0.1 bronlago.xyz
 127.0.0.1 bronzecedarleaf.com
 127.0.0.1 broomsunvoted.com
 127.0.0.1 broosnighed.com
 127.0.0.1 broughtcontract.com
+127.0.0.1 brovnie.xyz
 127.0.0.1 brownyduer.com
 127.0.0.1 browsfincandidate.com
 127.0.0.1 brunettemattersrefused.com
@@ -2170,6 +2176,7 @@
 127.0.0.1 lgxdwxzgfxvy.com
 127.0.0.1 liasingmyxopod.com
 127.0.0.1 libardwannish.com
+127.0.0.1 lightbrights.xyz
 127.0.0.1 lightrights.xyz
 127.0.0.1 ligninkeftiu.com
 127.0.0.1 lignitehelloed.com
@@ -2203,6 +2210,7 @@
 127.0.0.1 loading-delivery2.com
 127.0.0.1 loavouduleem.net
 127.0.0.1 localsnapsext.com
+127.0.0.1 lockstream.xyz
 127.0.0.1 loggisholpe.com
 127.0.0.1 lohockdock.com
 127.0.0.1 loketsaucy.com
@@ -2648,6 +2656,7 @@
 127.0.0.1 parlourcujam.com
 127.0.0.1 paroasse.xyz
 127.0.0.1 parotidballed.com
+127.0.0.1 parteonroll.xyz
 127.0.0.1 partiemanacle.qpon
 127.0.0.1 pashmfordeal.com
 127.0.0.1 pavymoieter.com
@@ -2675,6 +2684,8 @@
 127.0.0.1 penticeurushi.com
 127.0.0.1 pepburst.com
 127.0.0.1 pepebalance.com
+127.0.0.1 pepinapig.xyz
+127.0.0.1 peppaping.xyz
 127.0.0.1 perditbastard.com
 127.0.0.1 perriessmeech.com
 127.0.0.1 personalizedtab.com
@@ -2709,6 +2720,7 @@
 127.0.0.1 pimashamitesjahveh.qpon
 127.0.0.1 pimentoscoter.com
 127.0.0.1 pipidroods.com
+127.0.0.1 pipoga.xyz
 127.0.0.1 pipolafaiz.com
 127.0.0.1 pitapatcalloo.com
 127.0.0.1 pitoodsouk.net
@@ -3321,6 +3333,8 @@
 127.0.0.1 thaurgaiboocoah.com
 127.0.0.1 thawedmeddler.com
 127.0.0.1 theadultcompany.biz
+127.0.0.1 thebestbetmakers.xyz
+127.0.0.1 thebestbetmakers1.xyz
 127.0.0.1 theolwelt.com
 127.0.0.1 thepsotsaims.com
 127.0.0.1 thewhizproducts.com
@@ -3726,6 +3740,7 @@
 127.0.0.1 z3xyfry3llozuxhx.rest
 127.0.0.1 z7zbptkuletn3pjmq38wcgph8e27xn.cyou
 127.0.0.1 z8hv3fuozlzg6gjlqt.cyou
+127.0.0.1 zadek.xyz
 127.0.0.1 zaful.com
 127.0.0.1 zaishasoopt.com
 127.0.0.1 zarebasdezaley.com
