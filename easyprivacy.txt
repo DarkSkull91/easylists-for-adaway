@@ -337,6 +337,7 @@
 127.0.0.1 pixmg.com
 127.0.0.1 pixrealm.com
 127.0.0.1 pjstat.com
+127.0.0.1 pocustrack.com
 127.0.0.1 powerrobotflower.com
 127.0.0.1 prfct.co
 127.0.0.1 procroanalytics.com
@@ -1311,6 +1312,7 @@
 127.0.0.1 obs.branderblender.com
 127.0.0.1 obs.du89buildings.com
 127.0.0.1 obs.esnlocco.com
+127.0.0.1 obs.greencolumnblog.com
 127.0.0.1 obs.jollyoutdoorjogger.com
 127.0.0.1 obs.system1onesource.com
 127.0.0.1 observe-nexus.pointandplace.com
@@ -2442,6 +2444,7 @@
 127.0.0.1 ac.prism-world.jp.net
 127.0.0.1 acclog001.shop-pro.jp
 127.0.0.1 acclog002.shop-pro.jp
+127.0.0.1 acv.mira-dsp.com
 127.0.0.1 ad.daum.net
 127.0.0.1 analytics-beacon.p.uliza.jp
 127.0.0.1 analytics-collect.karakuri.ai
@@ -2711,6 +2714,7 @@
 127.0.0.1 track.sunmedia.tv
 127.0.0.1 track.tappx.com
 127.0.0.1 tracker.thinkindot.com
+127.0.0.1 tracking-api.razor.media
 127.0.0.1 tracking.smartmeapp.com
 127.0.0.1 tracking.univtec.com
 127.0.0.1 webpixel.smartmeapp.com
@@ -39916,6 +39920,7 @@
 127.0.0.1 c1hit.zerkalo.io
 127.0.0.1 s1r.zerkalo.io
 127.0.0.1 s3r.zerkalo.io
+127.0.0.1 stats.panet.com
 127.0.0.1 tags.aljazeera.net
 127.0.0.1 insight.olx.ba
 127.0.0.1 4399stat.5054399.com
@@ -40264,6 +40269,7 @@
 127.0.0.1 ss.woodupp.pl
 127.0.0.1 stats.teledyski.info
 127.0.0.1 yctjw54slxrwwlh.trybawaryjny.pl
+127.0.0.1 alloy-rap.reclameaqui.com.br
 127.0.0.1 audience-mostread.r7.com
 127.0.0.1 click.afiliados.uol.com.br
 127.0.0.1 click.uol.com.br
