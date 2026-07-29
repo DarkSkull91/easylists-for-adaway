@@ -1,4 +1,5 @@
 127.0.0.1 ad-hub.it
+127.0.0.1 blendee.com
 127.0.0.1 rtbuzz.net
 127.0.0.1 shoppydoo.com
 127.0.0.1 ad.citynews.it
