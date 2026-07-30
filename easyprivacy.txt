@@ -834,6 +834,7 @@
 127.0.0.1 c.imedia.cz
 127.0.0.1 c.live.com
 127.0.0.1 c.mgid.com
+127.0.0.1 c.trkn.it
 127.0.0.1 c.wen.ru
 127.0.0.1 c3metrics.medifast1.com
 127.0.0.1 cache2.delvenetworks.com
@@ -893,7 +894,6 @@
 127.0.0.1 collect.usefathom.com
 127.0.0.1 collect.verify.lnearn.com
 127.0.0.1 collectfront.nector.io
-127.0.0.1 collection.e-satisfaction.com
 127.0.0.1 collector-1.ex.co
 127.0.0.1 collector-api.99designs.com
 127.0.0.1 collector-api.frspecifics.com
@@ -1018,6 +1018,7 @@
 127.0.0.1 ecommstats.s3.amazonaws.com
 127.0.0.1 eel.transistor.fm
 127.0.0.1 enc-90128738.b-cdn.net
+127.0.0.1 ep.jamx.ai
 127.0.0.1 epsilon.6sense.com
 127.0.0.1 eq.userneeds.com
 127.0.0.1 era.easyvoyage.com
@@ -2386,6 +2387,7 @@
 127.0.0.1 tags.op-palvelut.fi
 127.0.0.1 analytics.palitra.ge
 127.0.0.1 links.boom.ge
+127.0.0.1 analytics.skroutz.gr
 127.0.0.1 event-tracker-library.mediaownerscloud.com
 127.0.0.1 metrics.find.gr
 127.0.0.1 stats-real-clients.zentech.gr
@@ -3223,6 +3225,7 @@
 127.0.0.1 observe.metarouter.io
 127.0.0.1 ocular.hotukdeals.com
 127.0.0.1 ohm-dot-hackster-io.appspot.com
+127.0.0.1 ol-collector.quillbot.com
 127.0.0.1 op.dragonfru.it
 127.0.0.1 ophan.theguardian.com
 127.0.0.1 optimizely.techtarget.com
